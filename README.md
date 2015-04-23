@@ -4,11 +4,11 @@
 
 This repository contains the information Capitaine Train uses to identify stations across the diverse systems of the train operators.
 
-If you want to contribute to this database, please read `CONTRIBUTING.md`.
+If you want to contribute to this database, please read [CONTRIBUTING.md](https://github.com/capitainetrain/stations/blob/master/CONTRIBUTING.md).
 
 ## Licence
 
-The file `stations.csv` is distributed under the ODbL licence (see [LICENCE.txt](https://github.com/capitainetrain/stations/blob/master/LICENCE.txt)). In short, any modification to this data source must be published.
+The file `stations.csv` is distributed under the ODbL licence, see [LICENCE.txt](https://github.com/capitainetrain/stations/blob/master/LICENCE.txt). In short, any modification to this data source must be published.
 
 Data sources include [OpenStreetMap](https://www.openstreetmap.org) and [SNCF OpenData](https://ressources.data.sncf.com/explore/dataset/referentiel-gares-voyageurs/), both released under ODbL or compatible licences; and a lot of blood, sweat, and tears.
 
@@ -19,6 +19,7 @@ The file `stations.csv` contains all our data representing train stations. The f
 ### Columns
 
 Column Name | Notes
+----------- | -----
 `id` | Internal unique identifier.
 `name` | Name of the station as it is locally known; see `info_*` for translations.
 `slug` | Guaranteed to be unique across all the _suggestable_ stations; see `is_suggestable`.
@@ -39,6 +40,7 @@ Column Name | Notes
 Operator specific columns contain identifiers and values specific to the operator. Columns are prefixed with a name unique to the operator.
 
 Column Name | Notes
+----------- | -----
 *`_id` | id of the station as it is known by the carrier.
 *`_is_enabled` | Can a ticket be booked to/from the station through that carrier?
 `sncf_id` |
@@ -61,6 +63,7 @@ Column Name | Notes
 Language specific `info` columns contain translations of the station name. The language used is suffixed as an [ISO 639-1:2002](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code.
 
 Column Name | Notes
+----------- | -----
 `info:`* | Extra information that is useful in the specific language.
 `info:fr` |
 `info:en` |
