@@ -1,6 +1,6 @@
-## Description
-
 [Capitaine Train](https://www.capitainetrain.com) sells tickets for numerous train operators across Europe.
+
+## Stations - A Database of European Train Stations
 
 This repository contains the information Capitaine Train uses to identify stations across the diverse systems of the train operators.
 
@@ -8,7 +8,7 @@ If you want to contribute to this database, please read [CONTRIBUTING.md](https:
 
 ## Licence
 
-The file `stations.csv` is distributed under the ODbL licence, see [LICENCE.txt](https://github.com/capitainetrain/stations/blob/master/LICENCE.txt). In short, any modification to this data source must be published.
+The file `stations.csv` is distributed under the Open Database License (ODbL) licence, see [LICENCE.txt](https://github.com/capitainetrain/stations/blob/master/LICENCE.txt). In short, any modification to this data source must be published.
 
 Data sources include [OpenStreetMap](https://www.openstreetmap.org) and [SNCF OpenData](https://ressources.data.sncf.com/explore/dataset/referentiel-gares-voyageurs/), both released under ODbL or compatible licences; and a lot of blood, sweat, and tears.
 
