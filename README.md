@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/capitainetrain/stations.svg?branch=master)](https://travis-ci.org/capitainetrain/stations)
+
 [Capitaine Train](https://www.capitainetrain.com) sells tickets for numerous train operators across Europe.
 
 ## Stations - A Database of European Train Stations
