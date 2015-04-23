@@ -1,2 +1,2 @@
 language: ruby
-script: "ruby test_data.rb"
+script: "bundle exec ruby test_data.rb"
