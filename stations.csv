@@ -18812,7 +18812,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20352;San Pietro in Casale;san-pietro-in-casale;8305722;;11.40483;44.69798;;;IT;f;Europe/Rome;t;ITSPC;f;;f;8302177;f;;f;;f;8305722;t;;f;;;;;
 20353;Resana;resana;8302508;;11.964246;45.634063;;;IT;f;Europe/Rome;t;;f;;f;8301976;f;;f;;f;8302508;t;;f;;;;;
 20354;Resiutta;resiutta;8303014;;13.212722;46.391844;;;IT;f;Europe/Rome;t;;f;;f;8300624;f;;f;;f;8303014;t;;f;;;;;
-20355;Rho;rho;8301037;;9.043903;45.523963;;;IT;f;Europe/Rome;t;;f;;f;8300065;f;;f;;f;8301037;t;;f;;;;;
+20355;Rho;rho;8301037;;9.043903;45.523963;;;IT;f;Europe/Rome;t;ITAFF;f;;f;8300065;f;;f;;f;8301037;t;;f;;;;;
 20356;Riace;riace;8311845;;16.528438;38.389009;;;IT;f;Europe/Rome;t;;f;;f;8300829;f;;f;;f;8311845;t;;f;;;;;
 20357;Riardo-Pietramelara;riardo-pietramelara;8309204;;14.12493;41.265422;;;IT;f;Europe/Rome;t;;f;;f;8302029;f;;f;;f;8309204;t;;f;;;;;
 20358;Ricadi;ricadi;8311761;;15.839829;38.630756;;;IT;f;Europe/Rome;t;ITRAC;f;;f;8301071;f;;f;;f;8311761;t;;f;;;;;
