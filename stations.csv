@@ -7133,7 +7133,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8547;;;;;;;8542;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;
 8548;;;;;;;8542;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;
 8549;;;;;;;8542;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;
-8550;;;;;;;8553;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;8553
+8550;;;;;;;8553;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;
 8551;;;;;;;8550;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;
 8552;;;;;;;8550;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;
 8553;Rimini;rimini;8305071;;12.574012;44.06424;;t;IT;t;Europe/Rome;t;ITANJ;f;;f;8300221;f;;f;;f;8305071;t;J__;f;;;;;
@@ -16052,7 +16052,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17584;Kraków Glowny;krakow-glowny;5100214;;19.9474230000;50.0671920000;;f;PL;t;Europe/Warsaw;t;PLKRK;f;;f;5100028;t;;f;;f;;f;;f;Cracovie;Krakow;Krakau;Cracovia;
 17585;Kraków Glowny (Bus);krakow-glowny-bus;;;19.9495800000;50.0679020000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104621;t;;f;;f;;f;;f;;;;;
 17587;Praha (Prague);praha-prague;;;14.4514810000;50.0819250000;;t;CZ;f;Europe/Prague;f;CSPRG;f;;f;5496001;t;;f;;f;;f;;f;;;;;
-17588;Praha hl.n.Wilsonova;praha-hl-dot-n-wilsonova;;;14.4346170000;50.0833720000;17587;f;CZ;f;Europe/Prague;f;;f;;f;5471014;t;;f;;f;;f;;f;;;;;17509
+17588;Praha hl.n.Wilsonova;praha-hl-n-wilsonova;;;14.4346170000;50.0833720000;17587;f;CZ;f;Europe/Prague;f;;f;;f;5471014;t;;f;;f;;f;;f;;;;;17509
 17589;München ZOB (Hackerbrücke);munchen-zob-hackerbrucke;;;11.5498620000;48.1422690000;7686;f;DE;f;Europe/Berlin;f;;f;;f;8089317;t;;f;;f;;f;;f;;;;;
 17590;Mannheim Hbf (busbf);mannheim-hbf-busbf;;;8.46891700000;49.4793510000;7478;f;DE;f;Europe/Berlin;f;;f;;f;8070044;t;;f;;f;;f;;f;;;;;
 17591;Leipzig Hbf (tief);leipzig-hbf-tief;;;12.3833330000;51.3465460000;16756;f;DE;f;Europe/Berlin;f;;f;;f;8098205;t;;f;;f;;f;;f;;;;;
@@ -17935,7 +17935,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19473;Pontenure;pontenure;8305005;;9.792156;45.001716;;;IT;f;Europe/Rome;t;;f;;f;8301919;f;;f;;f;8305005;t;;f;;;;;
 19474;Ponte di Piave;ponte-di-piave;8302763;;12.460415;45.719199;;;IT;f;Europe/Rome;t;;f;;f;8300718;f;;f;;f;8302763;t;;f;;;;;
 19475;Ponte d’Adige/Sigmundskron;ponte-dadige-sigmundskron;8302225;;11.297849;46.485647;;;IT;f;Europe/Rome;t;;f;;f;8300128;f;;f;;f;8302225;t;;f;;;;;
-19476;Limone;limone;8300617;;7.577915;44.203627;;;IT;f;Europe/Rome;f;ITAQJ;f;;f;8300381;f;;f;;f;8300617;f;;f;;;;;8477
+19476;Limone;limone;8300617;;7.577915;44.203627;;;IT;f;Europe/Rome;f;ITAQJ;f;;f;8300381;f;;f;;f;8300617;f;;f;;;;;
 19477;Montepaone-Montauro;montepaone-montauro;8311836;;16.541931;38.728765;;;IT;f;Europe/Rome;t;;f;;f;8301733;f;;f;;f;8311836;t;;f;;;;;
 19478;Montepescali;montepescali;8306038;;11.068993;42.869385;;;IT;f;Europe/Rome;t;;f;;f;8300988;f;;f;;f;8306038;t;;f;;;;;
 19479;Monteprandone;monteprandone;8307554;;13.849896;42.894061;;;IT;f;Europe/Rome;t;;f;;f;8301748;f;;f;;f;8307554;t;;f;;;;;
@@ -21036,8 +21036,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22581;Settimo San Pietro;settimo-san-pietro;8342106;;9.17694;39.2894;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8342106;t;;f;;;;;
 22582;Reggio Emilia AV Mediopadana;reggio-emilia-av-mediopadana;8305254;;10.6532;44.7245;;f;IT;f;Europe/Rome;t;ITREI;f;;f;8305254;f;;f;;f;8305254;t;AAV;t;;;;;
 22583;École-Valentin;ecole-valentin;8771073;;5.9944082;47.2748303;;f;FR;f;Europe/Paris;t;FRZKH;t;;f;;f;;f;;f;;f;;f;;;;;
-22584;Paris Nord Eurostar;paris-nord-eurostar;;;2.354598;48.880697;4916;f;FR;f;Europe/Paris;f;;f;;f;8798014;t;;f;;f;;f;;f;;;;;4922
-22585;Marne-la-Vallée Eurostar;marne-la-vallee-eurostar;;;2.782853;48.870737;4819;f;FR;f;Europe/Paris;f;;f;;f;8798948;t;;f;;f;;f;;f;;;;;4757
+22584;Paris-Gare-du-Nord Eurostar;paris-gare-du-nord-eurostar;;;2.354598;48.880697;4916;f;FR;f;Europe/Paris;f;;f;;f;8798014;t;;f;;f;;f;;f;;;;;4922
+22585;Marne-la-Vallée—Chessy Eurostar;marne-la-vallee-chessy-eurostar;;;2.782853;48.870737;4819;f;FR;f;Europe/Paris;f;;f;;f;8798948;t;;f;;f;;f;;f;;;;;4757
 22586;Lille Europe Eurostar;lille-europe-eurostar;;;3.074877;50.639229;4652;f;FR;f;Europe/Paris;f;;f;;f;8798949;t;;f;;f;;f;;f;;;;;4653
 22587;Kołobrzeg;kolobrzeg;5100410;;15.569649;54.182310;;f;PL;f;Europe/Warsaw;t;;f;;f;5100025;t;;f;;f;;f;;f;;;;;
 22598;Montpellier;montpellier;;;3.8961821794509888;43.599448798154995;;t;FR;f;Europe/Paris;t;;f;;f;;f;;f;;f;;f;;f;;;;;
@@ -21102,8 +21102,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22657;Hamburg Hbf;hamburg-hbf;8001020;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7474
 22658;Hamburg Altona;hamburg-altona;8001094;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7625
 22659;Hamburg Altona;hamburg-altona;8001095;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7625
-22660;Bielefeld Hbf;bielfeld-hbf;8013598;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7536
-22661;Bielefeld Hbf;bielfeld-hbf;8013599;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7536
+22660;Bielefeld Hbf;bielefeld-hbf;8013598;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7536
+22661;Bielefeld Hbf;bielefeld-hbf;8013599;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7536
 22662;Essen Hbf;essen-hbf;8010185;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7591
 22663;Essen Hbf;essen-hbf;8010186;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7591
 22664;Hagen Hbf;hagen-hbf;8008074;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7729
@@ -21130,7 +21130,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22685;Singen (Hohentwiel);singen-hohentwiel;8014558;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7292
 22686;Enschede;enschede;8400212;;;;;f;NL;f;Europe/Amsterdam;f;;f;;f;;f;;f;;f;;f;;f;;;;;8651
 22687;Neuenburg (Baden);neuenburg-baden;8030446;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7131
-22688;Celle;cell;8013632;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7562
+22688;Celle;celle;8013632;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7562
 22689;Bremen Hbf;bremen-hbf;8013751;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7548
 22690;Warszawa-Centralna;warszawa-centralna;5103360;;;;;f;PL;f;Europe/Warsaw;f;PLAKX;f;;f;;f;;f;;f;;f;;f;;;;;10493
 22691;Basel Bad Bf;basel-bad-bf;8014431;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7395
@@ -21153,7 +21153,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22708;Worms Hbf;worms-hbf;8019068;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7413
 22709;Leer (Ostfriesl);leer-ostfriesl;8021091;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7053
 22710;Goslar;goslar;8013398;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;6931
-22711;Schweinfurt Hbf;schweinfurt-hbf;8022459;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;6931
+22711;Schweinfurt Hbf;schweinfurt-hbf;8022459;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7285
 22712;Memmingen;memmingen;8002253;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7102
 22713;Schwerte (Ruhr);schwerte-ruhr;8008016;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7287
 22714;Euskirchen;euskirchen;8015427;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;6889
@@ -21208,7 +21208,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22763;Raun;raun;8006728;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;15423
 22764;Bad Brambach;bad-brambach;8006729;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14539
 22765;Barthmühle;barthmuhle;8006744;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14572
-22766;Hamburg;hamburg;8007007;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22740
+22766;Hamburg;hamburg;8007007;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7626
 22767;Hosena;hosena;8007807;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14339
 22768;Erkrath-Nord;erkrath-nord;8008090;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;11643
 22769;Düsseldorf-Reisholz;dusseldorf-reisholz;8008115;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;11515
@@ -21228,8 +21228,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22783;Essen-Altenessen;essen-altenessen;8010159;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;6887
 22784;Emmerich;emmerich;8010288;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;6877
 22785;Duisburg Hbf;duisburg-hbf;8010317;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7576
-22786;Duisburg Hbf;duisburg-hbf;8010324;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22785
-22787;Dortmund Hbf;dortmund-hbf;8010340;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22782
+22786;Duisburg Hbf;duisburg-hbf;8010324;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7576
+22787;Dortmund Hbf;dortmund-hbf;8010340;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7573
 22788;Soest;soest;8010375;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7295
 22789;Bochum-Langendreer;bochum-langendreer;8010432;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7471
 22790;Frankfurt-Höchst;frankfurt-hochst;8011101;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7605
@@ -21252,23 +21252,23 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22807;Bretleben;bretleben;8016628;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14269
 22808;Rentzschmühle;rentzschmuhle;8016725;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;15435
 22809;Lübeck Flughafen;lubeck-flughafen;8016824;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;12597
-22810;Mannheim Hbf;mannheim-hbf;8018239;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22798
+22810;Mannheim Hbf;mannheim-hbf;8018239;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7479
 22811;Hinterweidenthal Ost;hinterweidenthal-ost;8019693;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;16368
 22812;Rosenheim;rosenheim;8020175;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7231
 22813;Waldkraiburg;waldkraiburg;8020193;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;13723
 22814;München-Pasing;munchen-pasing;8020332;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7684
 22815;München Hbf;munchen-hbf;8020349;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7480
-22816;München Hbf;munchen-hbf;8020350;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22815
+22816;München Hbf;munchen-hbf;8020350;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7480
 22817;Ingolstadt Nord;ingolstadt-nord;8020423;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;12243
-22818;München Hbf;munchen-hbf;8020476;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22816
-22819;München Hbf;munchen-hbf;8020581;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22818
+22818;München Hbf;munchen-hbf;8020476;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7480
+22819;München Hbf;munchen-hbf;8020581;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7480
 22820;München Ost;munchen-ost;8020634;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7683
 22821;Reckenfeld;reckenfeld;8021096;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;13171
 22822;Wilhelmshaven Hbf;wilhelmshaven-hbf;8021223;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7397
 22823;Asselheim;asselheim;8021860;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;11009
 22824;Grünstadt Nord;grunstadt-nord;8021862;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;11958
 22825;Würzburg Hbf;wurzburg-hbf;8022535;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7701
-22826;Würzburg Hbf;wurzburg-hbf;8022539;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22825
+22826;Würzburg Hbf;wurzburg-hbf;8022539;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7701
 22827;Coburg;coburg;8022804;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;6845
 22828;Magdeburg-Rothensee;magdeburg-rothensee;8024076;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14283
 22829;Schönebeck-Frohse;schonebeck-frohse;8024130;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;16528
@@ -21278,7 +21278,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22833;Ehr;ehr;8025252;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;11573
 22834;Schirnding;schirnding;8026074;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7709
 22835;Regensburg Hbf;regensburg-hbf;8026295;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7233
-22836;Wittenberge;wittenberge;8027317;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22779
+22836;Wittenberge;wittenberge;8027317;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7758
 22837;Berlin-Stresow;berlin-stresow;8027324;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;16658
 22838;Prenzlau;prenzlau;8028331;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14414
 22839;Sassnitz;sassnitz;8028492;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7751
@@ -21311,7 +21311,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22866;Lenggries;lenggries;8053411;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7449
 22867;Tegernsee;tegernsee;8053419;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7447
 22868;Potsdam-Babelsberg;potsdam-babelsberg;8053653;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;16476
-22869;Cottbus;cottbus;8054607;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22745
+22869;Cottbus;cottbus;8054607;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7557
 22870;Trossingen Stadt;trossingen-stadt;8055801;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14144
 22871;Pirna;pirna;8056630;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14407
 22872;Mulsum-Essel;mulsum-essel;8058575;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7126
@@ -21330,13 +21330,13 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22885;Berlin;berlin;8062648;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7527
 22886;Zierenberg-Rosental;zierenberg-rosental;8062835;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;13919
 22887;Walsrode;walsrode;8063472;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;13735
-22888;Peine;peine;8063487;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22795
+22888;Peine;peine;8063487;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7195
 22889;Singen Industriegeb.;singen-industriegeb;8064514;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;16463
 22890;Ulm-Donautal;ulm-donautal;8064696;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;13635
 22891;Dormagen;dormagen;8065010;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;11455
 22892;Pulheim;pulheim;8065305;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;13131
 22893;Berlin Hbf;berlin-hbf;8065969;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7630
-22894;Greiz;greiz;8066632;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;22877
+22894;Greiz;greiz;8066632;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;14316
 22895;Offenbach-Waldhof;offenbach-waldhof;8069547;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;13027
 22896;Eiswoog;eiswoog;8069669;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;11594
 22897;Altenstadt-Höchst;altenstadt-hochst;8069671;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;12161
@@ -21371,32 +21371,32 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22926;Chatenois;chatenois;8764044;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;1056
 22927;Sentheim;sentheim;8764197;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;746
 22928;Lauw;lauw;8764199;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;747
-22929;Lauw;lauw;8764200;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22928
+22929;Lauw;lauw;8764200;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;747
 22930;Masevaux;masevaux;8764202;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;748
 22931;Sickert;sickert;8764204;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;749
 22932;Niederbruck;niederbruck;8764205;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;750
 22933;Kirchberg;kirchberg;8764206;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;751
-22934;Kirchberg;kirchberg;8764207;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22933
+22934;Kirchberg;kirchberg;8764207;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;751
 22935;Wegscheid;wegscheid;8764211;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;3268
 22936;Oberbruck;oberbruck;8764212;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;752
 22937;Dolleren;dolleren;8764213;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;3266
 22938;Sewen;sewen;8764214;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;753
-22939;Sewen;sewen;8764215;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22938
+22939;Sewen;sewen;8764215;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;753
 22940;Hattmatt;hattmatt;8764216;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;964
 22941;Steinbourg;steinbourg;8764218;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;5217
 22942;Monswiller;monswiller;8764220;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;3267
-22943;Monswiller;monswiller;8764221;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22942
+22943;Monswiller;monswiller;8764221;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;3267
 22944;Saverne;saverne;8764222;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;5216
-22945;Saverne;saverne;8764223;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22944
-22946;Saverne;saverne;8764224;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22945
-22947;Saverne;saverne;8764225;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22946
+22945;Saverne;saverne;8764223;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;5216
+22946;Saverne;saverne;8764224;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;5216
+22947;Saverne;saverne;8764225;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;5216
 22948;Bouxwiller;bouxwiller;8764231;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;975
 22949;Menchhoffen;menchhoffen;8764233;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;999
 22950;Wimmenau;wimmenau;8764234;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;997
 22951;Frohmuhl;frohmuhl;8764238;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;1101
 22952;Lichtenberg;lichtenberg;8765438;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;4703
-22953;Lichtenberg;lichtenberg;8765439;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22952
-22954;Wimmenau;wimmenau;8765446;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22950
+22953;Lichtenberg;lichtenberg;8765439;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;4703
+22954;Wimmenau;wimmenau;8765446;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;997
 22955;Rouffach;rouffach;8765447;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;736
 22956;Illfurth;illfurth;8765455;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;729
 22957;Brumath;brumath;8765467;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;933
@@ -21404,11 +21404,11 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22959;Pfaffenhoffen;pfaffenhoffen;8765884;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;974
 22960;Adamswiller;adamswiller;8765892;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;449
 22961;Gambsheim;gambsheim;8765973;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;948
-22962;Gambsheim;gambsheim;8765974;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22961
+22962;Gambsheim;gambsheim;8765974;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;948
 22963;Hoerdt;hoerdt;8765975;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;995
-22964;Hoerdt;hoerdt;8765976;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22963
+22964;Hoerdt;hoerdt;8765976;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;995
 22965;Kurtzenhouse;kurtzenhouse;8765978;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;993
-22966;Kurtzenhouse;kurtzenhouse;8765979;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;22965
+22966;Kurtzenhouse;kurtzenhouse;8765979;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;993
 22967;Bischwiller;bischwiller;8765981;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;992
 22968;Oderen;oderen;8765988;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;762
 22969;Fellering;fellering;8765989;;;;;f;FR;f;Europe/Paris;f;;f;;f;;f;;f;;f;;f;;f;;;;;761

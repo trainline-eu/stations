@@ -280,4 +280,17 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_same_as_is_valid
+    STATIONS.each do |row|
+      if row["same_as"]
+        assert_equal "f", row["is_suggestable"], "Station #{row["id"]} is an alias, yet it is suggestable"
+
+        actual_station = STATIONS_BY_ID[row["same_as"]]
+        assert row["slug"].start_with?(actual_station["slug"]), "Station #{row["id"]} is an alias of a station with a different name"
+        assert !actual_station.nil?, "Station #{row["id"]} is an alias of a station that does not exist"
+        assert valid_carrier(actual_station), "Station #{row["id"]} is an alias of a station with no active carrier"
+      end
+    end
+  end
+
 end
