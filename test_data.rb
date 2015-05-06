@@ -25,7 +25,7 @@ STATIONS.each do |row|
   end
 end
 
-LOCALES = ["fr", "en", "de", "it"]
+LOCALES = ["fr", "en", "de", "it", "cs", "es", "hu", "ja", "ko", "nl", "pl", "pt", "ru", "tr", "zh"]
 
 def slugify(name)
   name.gsub(/[\/\.]/,"-").to_url
@@ -42,7 +42,7 @@ end
 class StationsTest < Minitest::Test
 
   def test_number_columns
-    nb_columns = 32
+    nb_columns = 43
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Wrong number of columns #{row["size"]} for station #{row["id"]}" }
   end
