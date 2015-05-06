@@ -3949,7 +3949,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5244;St-Sulpice;st-sulpice;8761534;87615344;1.7000000000;43.7833330000;;f;FR;f;Europe/Paris;t;FRSST;t;;f;8704658;f;;f;;f;;f;;f;;;;;
 5245;St-André (Nord);st-andre-nord;8728619;87286195;3.0500000000;50.6666670000;;f;FR;f;Europe/Paris;t;FRSTA;t;;f;8704531;f;;f;;f;;f;;f;;;;;
 5246;Ste-Gemme;ste-gemme;8734444;87344440;-0.2833330000;46.9000000000;;f;FR;f;Europe/Paris;t;FRSTG;t;;f;8704968;f;;f;;f;;f;;f;;;;;
-5247;Bâle St-Jean;bale-st-jean;8718793;87187930;;;5877;f;CH;f;Europe/Paris;f;FRSTJ;t;;f;;f;;f;;f;;f;;f;;;;;
+5247;Bâle St-Jean;bale-st-jean;8718793;87187930;;;5877;f;CH;f;Europe/Paris;f;FRSTJ;t;;f;;f;;f;;f;;f;;f;;Basel St. Johann;Basel St. Johann;;
 5250;St-Satur Place du Marché;st-satur-place-du-marche;8731489;;2.8500000000;47.3333330000;;f;FR;f;Europe/Paris;t;FRSTU;t;;f;8700502;f;;f;;f;;f;;f;;;;;
 5251;Sauveterre-de-Béarn;sauveterre-de-bearn;8767245;87672451;-0.9333330000;43.4000000000;;f;FR;f;Europe/Paris;t;FRSUA;t;;f;8704462;f;;f;;f;;f;;f;;;;;
 5254;Séverac-le-Château;severac-le-chateau;8778336;87783365;3.0570316314697266;44.32464247418238;;f;FR;f;Europe/Paris;t;FRSVC;t;;f;8700420;f;;f;;f;;f;;f;;;;;
@@ -4484,8 +4484,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5874;La Bresse Place Champtel;la-bresse-place-champtel;8740581;87405811;6.8833330000;48.0000000000;;f;FR;f;Europe/Paris;t;FRZBF;t;;f;8705394;f;;f;;f;;f;;f;;;;;
 5875;Remiremont Cora;remiremont-cora;8740591;87405910;6.612616181373596;48.00471475041776;;f;FR;f;Europe/Paris;t;FRZBQ;t;;f;8705403;f;;f;;f;;f;;f;;;;;
 5876;Lexy Providence Usine;lexy-providence-usine;8740668;87406686;5.7333330000;49.5000000000;8749;f;FR;f;Europe/Paris;t;FRZCB;t;;f;8705410;f;;f;;f;;f;;f;;;;;
-5877;Bâle;bale;;;;;;t;FR;f;Europe/Paris;f;FRZDH;t;;f;;f;;f;;f;;f;;f;;;;;
-5878;Basel SBB;basel-sbb;8500010;85000109;7.5891699960;47.5470755094;5877;f;CH;t;Europe/Zurich;t;CHAJP;t;;f;8500010;t;;f;;f;;f;;f;Bâle;;;Basilea;
+5877;Basel;basel;;;7.583;47.567;;t;CH;f;Europe/Paris;t;FRZDH;t;;f;;f;;f;;f;;f;;f;Bâle;;;Basilea;
+5878;Basel SBB;basel-sbb;8500010;85000109;7.5891699960;47.5470755094;5877;f;CH;t;Europe/Zurich;t;CHAJP;t;;f;8500010;t;;f;;f;;f;;f;Bâle CFF;;;Basilea FFS;
 5880;Hommarting Tilleuls;hommarting-tilleuls;8746360;87463604;7.1500000000;48.7333330000;;f;FR;f;Europe/Paris;t;FRZGX;t;;f;8706463;f;;f;;f;;f;;f;;;;;
 5881;Arzviller Fontaines;arzviller-fontaines;8746362;87463620;7.16807;48.718639;;f;FR;f;Europe/Paris;f;FRZGY;t;;f;8706464;f;;f;;f;;f;;f;;;;;
 5882;St-Louis (Moselle) Plan Incliné;st-louis-moselle-plan-incline;8746363;87463638;7.189221;48.716419;;f;FR;f;Europe/Paris;f;FRZGZ;t;;f;8706465;f;;f;;f;;f;;f;;;;;
@@ -5979,7 +5979,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7392;Wetter (Ruhr);wetter-ruhr;8008067;;7.385968;51.386458;;f;DE;f;Europe/Berlin;t;DEBAY;f;;f;8006386;t;;f;;f;;f;;f;;;;;
 7393;Welschingen-Neuhausen;welschingen-neuhausen;8014555;;8.769219;47.834029;;f;DE;f;Europe/Berlin;t;DEBAZ;f;;f;8006321;t;;f;;f;;f;;f;;;;;
 7394;Wiesau (Oberpf);wiesau-oberpf;8026094;;12.191287;49.911013;;f;DE;f;Europe/Berlin;t;DEBBA;f;;f;8006403;t;;f;;f;;f;;f;;;;;
-7395;Basel Bad Bf;basel-bad-bf;8000491;;7.607804;47.567292;;f;DE;f;Europe/Berlin;t;DEBBB;f;;f;8000026;t;;f;;f;;f;;f;;;;;
+7395;Basel Badischer Bahnhof;basel-badischer-bahnhof;8000491;;7.607804;47.567292;5877;f;CH;f;Europe/Berlin;t;DEBBB;f;;f;8000026;t;;f;;f;;f;;f;Gare badoise de Bâle;;;Stazione badese di Basilea;
 7396;Bad Wildbad Bf;bad-wildbad-bf;8029456;;8.551087;48.75572;;f;DE;f;Europe/Berlin;t;DEBBC;f;;f;8006431;t;;f;;f;;f;;f;;;;;
 7397;Wilhelmshaven Hbf;wilhelmshaven-hbf;8021222;;8.115641;53.518717;;f;DE;f;Europe/Berlin;t;DEBBD;f;;f;8006445;t;;f;;f;;f;;f;Gare centrale;Main station;;Stazione centrale;
 7398;Bonn-Beuel;bonn-beuel;8015577;;7.127654;50.738479;;f;DE;f;Europe/Berlin;t;DEBBE;f;;f;8001083;t;;f;;f;;f;;f;;;;;
@@ -21133,7 +21133,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22688;Celle;celle;8013632;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7562
 22689;Bremen Hbf;bremen-hbf;8013751;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7548
 22690;Warszawa-Centralna;warszawa-centralna;5103360;;;;;f;PL;f;Europe/Warsaw;f;PLAKX;f;;f;;f;;f;;f;;f;;f;;;;;10493
-22691;Basel Bad Bf;basel-bad-bf;8014431;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7395
+22691;Basel Badischer Bahnhof;basel-badischer-bahnhof;8014431;;;;;f;CH;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7395
 22692;Göttingen;gottingen;8013051;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7613
 22693;Pforzheim Hbf;pforzheim-hbf;8029501;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;7198
 22694;Ingolstadt Hbf;ingolstadt-hbf;8020422;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;;;;;6989
