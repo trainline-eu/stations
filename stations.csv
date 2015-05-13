@@ -6191,7 +6191,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7605;Frankfurt-Höchst;frankfurt-hochst;8011100;;8.542368;50.102636;7602;f;DE;f;Europe/Berlin;t;DEFRO;f;;f;8000106;t;;f;;f;;f;;f;;Francfort;;;Francoforte;Frankfurt nad Mohanem;Francfort;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;法兰克福
 7606;Freudenstadt;freudenstadt;;;;;;t;DE;f;Europe/Berlin;f;DEFRE;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 7607;Gengenbach;gengenbach;8014497;;8.010188;48.404655;;f;DE;f;Europe/Berlin;t;DEGGB;f;;f;8002235;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
-7608;Gießen;giessen;8011033;;8.661466;50.579056;;f;DE;f;Europe/Berlin;t;DEGIE;f;;f;8000124;t;;f;;f;;f;;f;;Giessen;Giessen;;;;Giessen;;ギーセン;기센;;;;Гиссен;Giessen;吉森
+7608;Gießen;giessen;8011033;;8.661466;50.579056;;f;DE;f;Europe/Berlin;t;DEGIE;f;;f;8000124;t;;f;;f;;f;;f;;;;;;;;;ギーセン;기센;;;;Гиссен;;吉森
 7609;Geilenkirchen;geilenkirchen;8015188;;6.124368;50.961097;;f;DE;f;Europe/Berlin;t;DEGLK;f;;f;8002206;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 7610;Gelnhausen;gelnhausen;8011044;;9.189276;50.19634;;f;DE;f;Europe/Berlin;t;DEGLN;f;;f;8000117;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 7611;Gelsenkirchen Hbf;gelsenkirchen-hbf;8010143;;7.102583;51.505016;;f;DE;f;Europe/Berlin;t;DEGLS;f;;f;8000118;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;ゲルゼンキルヒェン;겔젠키르헨;;;;Гельзенкирхен;;盖尔森基兴
@@ -11873,7 +11873,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 13366;Schlierbach (Schwalm-Eder-Kr.);schlierbach-schwalm-eder-kr;8005378;;9.201448;50.968783;;f;DE;f;Europe/Berlin;t;;f;;f;8005365;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 13367;Heidelberg-Schlierbach/Ziegelhausen;heidelberg-schlierbach-ziegelhausen;8014113;;8.760563;49.415312;;f;DE;f;Europe/Berlin;t;;f;;f;8005366;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 13368;Schliersee;schliersee;8053418;;11.859585;47.735579;;f;DE;f;Europe/Berlin;t;;f;;f;8005367;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
-13369;Schloß Holte;schloss-holte;8021494;;8.610776;51.908632;;f;DE;f;Europe/Berlin;t;;f;;f;8005369;t;;f;;f;;f;;f;;;Schloss Holte;;;;;;;;;;;;;
+13369;Schloß Holte;schloss-holte;8021494;;8.610776;51.908632;;f;DE;f;Europe/Berlin;t;;f;;f;8005369;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 13370;Paderborn-Schloss Neuhaus;paderborn-schloss-neuhaus;8010354;;8.720831;51.749217;;f;DE;f;Europe/Berlin;t;;f;;f;8005370;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 13371;Schmalnau;schmalnau;8005854;;9.788434;50.455876;;f;DE;f;Europe/Berlin;t;;f;;f;8005374;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 13372;Schmidtheim;schmidtheim;8015632;;6.552084;50.413241;;f;DE;f;Europe/Berlin;t;;f;;f;8005378;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
@@ -13689,7 +13689,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 15182;Medewitz (Mark);medewitz-mark;8003413;;12.391827;52.060703;;f;DE;f;Europe/Berlin;t;;f;;f;8012322;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 15183;Meerane;meerane;8006731;;12.457251;50.85097;;f;DE;f;Europe/Berlin;t;;f;;f;8012323;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 15184;Meinersdorf (Erzgeb);meinersdorf-erzgeb;8006587;;12.888625;50.723153;;f;DE;f;Europe/Berlin;t;;f;;f;8012324;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
-15185;Meißen;meissen;8006255;;13.482435;51.162806;;f;DE;f;Europe/Berlin;t;;f;;f;8012326;t;;f;;f;;f;;f;;;Meissen;;Misnia;Míšeň;;Meissen;マイセン;마이센;;Miśnia;;Мейсен;;迈森
+15185;Meißen;meissen;8006255;;13.482435;51.162806;;f;DE;f;Europe/Berlin;t;;f;;f;8012326;t;;f;;f;;f;;f;;;;;Misnia;Míšeň;;;マイセン;마이센;;Miśnia;;Мейсен;;迈森
 15186;Meißen Triebischtal;meissen-triebischtal;8006256;;13.462883;51.152558;;f;DE;f;Europe/Berlin;t;;f;;f;8012327;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 15187;Meitzendorf;meitzendorf;8024043;;11.558968;52.209393;;f;DE;f;Europe/Berlin;t;;f;;f;8012328;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 15188;Melchow;melchow;8028225;;13.694373;52.774869;;f;DE;f;Europe/Berlin;t;;f;;f;8012329;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;
