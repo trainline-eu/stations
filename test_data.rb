@@ -211,7 +211,7 @@ class StationsTest < Minitest::Test
           if !row["info:#{locale}"].nil?
             refute_equal row["name"], row["info:#{locale}"], "Name and “#{locale}” information should be different: '#{row["name"]}'"
 
-            if !["ru", "ko", "zh", "ja"].include?(locale) && !row["name"].include?("ß")
+            if !["ru", "ko", "zh", "ja"].include?(locale)
               refute_equal fold(row["name"]), fold(row["info:#{locale}"]), "Name and “#{locale}” information should be different: '#{row["name"]}'"
             end
           end
