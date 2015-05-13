@@ -25,16 +25,24 @@ STATIONS.each do |row|
   end
 end
 
-LOCALES = ["fr", "en", "de", "it"]
+LOCALES = ["fr", "en", "de", "it", "cs", "es", "hu", "ja", "ko", "nl", "pl", "pt", "ru", "tr", "zh"]
 
 def slugify(name)
   name.gsub(/[\/\.]/,"-").to_url
 end
 
+def fold(name)
+  name.to_ascii
+      .downcase
+      .gsub(/[^a-z]/, " ")
+      .gsub(/\s+/, " ")
+      .strip
+end
+
 class StationsTest < Minitest::Test
 
   def test_number_columns
-    nb_columns = 32
+    nb_columns = 43
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Wrong number of columns #{row["size"]} for station #{row["id"]}" }
   end
@@ -200,7 +208,13 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
         LOCALES.each do |locale|
-          refute_equal row["name"], row["info:#{locale}"], "Name and info station should be different: '#{row["name"]}'"
+          if !row["info:#{locale}"].nil?
+            refute_equal row["name"], row["info:#{locale}"], "Name and “#{locale}” information should be different: '#{row["name"]}'"
+
+            if !["ru", "ko", "zh", "ja"].include?(locale) && !row["name"].include?("ß")
+              refute_equal fold(row["name"]), fold(row["info:#{locale}"]), "Name and “#{locale}” information should be different: '#{row["name"]}'"
+            end
+          end
         end
       end
     end
@@ -240,6 +254,11 @@ class StationsTest < Minitest::Test
         parent = STATIONS_BY_ID[parent_id]
         assert !parent.nil?, "Station #{row["id"]} references a not existing parent station (#{parent_id})"
         assert !parent["name"].nil?, "The station #{parent_id} has no name (parent of station #{row["id"]})"
+        LOCALES.each do |locale|
+          if !parent["info:#{locale}"].nil?
+            assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent (#{parent["name"]}) has."
+          end
+        end
       end
     end
   end

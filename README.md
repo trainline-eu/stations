@@ -12,7 +12,7 @@ If you want to contribute to this database, please read [CONTRIBUTING.md](https:
 
 The file `stations.csv` is distributed under the Open Database License (ODbL) licence, see [LICENCE.txt](https://github.com/capitainetrain/stations/blob/master/LICENCE.txt). In short, any modification to this data source must be published.
 
-Data sources include [OpenStreetMap](https://www.openstreetmap.org) and [SNCF OpenData](https://ressources.data.sncf.com/explore/dataset/referentiel-gares-voyageurs/), both released under ODbL or compatible licences; and a lot of blood, sweat, and tears.
+Data sources include [OpenStreetMap](https://www.openstreetmap.org), [SNCF OpenData](https://ressources.data.sncf.com/explore/dataset/referentiel-gares-voyageurs/), and [GeoNames](http://www.geonames.org/) all released under ODbL or compatible licences; and a lot of blood, sweat, and tears.
 
 ## The Data
 
