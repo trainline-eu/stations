@@ -4016,7 +4016,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5333;Toutry;toutry;8713999;87139998;4.115225;47.503253;;f;FR;f;Europe/Paris;t;FRTRY;t;;f;8705104;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 5334;Troyes Delestraint Belgique;troyes-delestraint-belgique;8713965;87139659;4.07392680644989;48.2883687684885;5342;f;FR;f;Europe/Paris;t;FRTSA;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 5335;Genève;geneve;8585444;;;;;t;CH;f;Europe/Paris;f;FRTTX;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;
-5336;Genève Cornavin;geneve-cornavin;8501008;85010082;6.142428;46.210208;5335;f;CH;t;Europe/Zurich;t;CHGVA;t;;f;8501008;f;XGC;t;;f;;f;;f;;;Geneva Main station;Genf Hauptbahnhof;Ginevra Stazione centrale;Ženeva;Ginebra;Genf;ジュネーヴ;제네바;;Genewa;Genebra;Женева;Cenevre;日内瓦
+5336;Genève Cornavin;geneve-cornavin;8501008;85010082;6.142428;46.210208;5335;f;CH;t;Europe/Zurich;t;CHGVA;t;;f;8501008;t;XGC;t;;f;;f;;f;;;Geneva Main station;Genf Hauptbahnhof;Ginevra Stazione centrale;Ženeva;Ginebra;Genf;ジュネーヴ;제네바;;Genewa;Genebra;Женева;Cenevre;日内瓦
 5337;Genève;geneve;8585440;;;;5335;f;CH;f;Europe/Zurich;f;CHAFH;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 5338;Tours;tours;;;;;;t;FR;f;Europe/Paris;f;FRTUF;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;
 5339;La Tuque;la-tuque;8713435;87134353;0.656392;44.139966;;f;FR;f;Europe/Paris;t;FRTUQ;t;;f;8705049;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;
