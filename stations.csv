@@ -1033,7 +1033,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 1356;Vervins;vervins;8729612;87296129;3.893569;49.830101;;f;FR;f;Europe/Paris;t;FRCNC;t;;f;8702244;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1357;Origny-en-Thiérache;origny-en-thierache;8729614;87296145;4.024128913879394;49.89065322749145;;f;FR;f;Europe/Paris;t;FRCND;t;;f;8701720;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1358;Crépy-Couvron;crepy-couvron;8729615;87296152;3.516768;49.623376;;f;FR;f;Europe/Paris;t;FRCNE;t;;f;8700933;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-1359;Cognac;cognac;8749144;87491449;-0.3259742259979248;45.68446971913285;;f;FR;f;Europe/Paris;t;FRCNG;t;;f;8702337;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Коньяк;;;
+1359;Cognac;cognac;8749144;87491449;-0.3259742259979248;45.68446971913285;;f;FR;f;Europe/Paris;t;FRCNG;t;;f;8702337;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Коньяк;Konjak;;
 1360;Clacy-Mons;clacy-mons;8729617;87296178;3.576529;49.543777;;f;FR;f;Europe/Paris;t;FRCNH;t;;f;8700907;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1361;Bohain;bohain;8729626;87296269;3.4500000000;49.9833330000;;f;FR;f;Europe/Paris;t;FRCNK;t;;f;8700752;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1362;Fresnoy-le-Grand;fresnoy-le-grand;8729629;87296293;3.432149291038513;49.949683887096896;;f;FR;f;Europe/Paris;t;FRCNL;t;;f;8701159;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -4460,7 +4460,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5841;Tulle Préfecture;tulle-prefecture;8741775;87417758;1.76531;45.270062;9098;f;FR;f;Europe/Paris;t;FRXTP;t;;f;8705710;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5842;Villeneuve-sur-Lot Hôtel de Ville;villeneuve-sur-lot-hotel-de-ville;8746560;87465609;0.722876;44.443235;;f;FR;f;Europe/Paris;t;FRXTQ;t;;f;8706326;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5843;Thonon-les-Bains;thonon-les-bains;8774564;87745646;6.481977;46.368958;;f;FR;f;Europe/Paris;t;FRXTS;t;;f;8700547;f;;f;;f;;f;;f;;;;;;;;;;トノン＝レ＝バン;;;;;Тонон-ле-Бен;;;
-5844;Tulle;tulle;8759449;87594499;1.756384;45.258565;9098;f;FR;t;Europe/Paris;t;FRXTU;t;;f;8700204;f;;f;;f;;f;;f;;;;;;;;;;チュール;튈;;;;Тюль;;;蒂勒
+5844;Tulle;tulle;8759449;87594499;1.756384;45.258565;9098;f;FR;t;Europe/Paris;t;FRXTU;t;;f;8700204;f;;f;;f;;f;;f;;;;;;;;;;チュール;튈;;;;Тюль;Tyll;;蒂勒
 5845;Auray;auray;8747620;87476200;-2.999417781829834;47.68021184001663;;f;FR;f;Europe/Paris;t;FRXUY;t;XUY;t;8700206;f;;f;;f;;f;;f;;;;;;;;;;オーレー;오레;;;;Оре;;;
 5846;Vendôme;vendome;;;;;;t;FR;f;Europe/Paris;f;FRXVD;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5847;Villefranche-sur-Saône;villefranche-sur-saone;8772133;87721332;4.721143;45.98448;;f;FR;f;Europe/Paris;t;FRXVF;t;;f;8702170;f;;f;;f;;f;;f;;;;;;;;Villefranche sobre Saona;;ヴィルフランシュ＝シュル＝ソーヌ;;;;;Вильфранш-сюр-Сон;;;
@@ -4493,7 +4493,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5884;Berthelming Mairie;berthelming-mairie;8747756;;7.0000000000;48.8166670000;;f;FR;f;Europe/Paris;t;FRZHB;t;;f;8706467;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5890;Zornhoff;zornhoff;;;;;;t;FR;f;Europe/Paris;f;FRZNF;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5892;London St-Pancras;london-st-pancras;7015400;70154005;-0.1263610000;51.5319210000;8267;f;GB;t;Europe/London;t;GBSPX;t;;f;7004428;t;;f;;f;;f;;f;;Londres;;;Londra;Londýn;;Londres;;ロンドン;런던;Londen;Londyn;Londres;Лондон;;Londra;伦敦
-5893;Bruxelles-Midi;bruxelles-midi;8814001;88140010;4.335695;50.835374;5974;f;BE;t;Europe/Brussels;t;BEBMI;t;;f;8800004;t;ZYR;t;;f;;f;;f;;;Brussels South Station;Brüssel Südbahnhof;Stazione Sud;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
+5893;Bruxelles-Midi;bruxelles-midi;8814001;88140010;4.335695;50.835374;5974;f;BE;t;Europe/Brussels;t;BEBMI;t;;f;8800004;t;ZYR;t;;f;;f;;f;;;Brussels South Station;Brüssel Südbahnhof;Stazione Sud;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 5894;Amsterdam-Centraal;amsterdam-centraal;8400058;84000588;4.899426;52.37919;8657;f;NL;t;Europe/Amsterdam;t;NLAMA;t;;f;8400058;t;;f;;f;;f;;f;;Gare centrale;Main station;Hauptbahnhof;Stazione centrale;;;;Amszterdam;アムステルダム;암스테르담;;;Amesterdão;Амстердам;;;阿姆斯特丹
 5901;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5902;Soignies;soignies;8883113;;4.069281;50.573177;;f;BE;f;Europe/Brussels;f;BEAAB;f;;f;8800144;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -4539,7 +4539,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5942;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5943;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5944;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5945;Bruxelles-National-Aéroport;bruxelles-national-aeroport;8819406;;4.483022689819336;50.8985400058829;5974;f;BE;f;Europe/Brussels;t;BEABT;t;;f;8800043;t;;f;;f;;f;;f;;;Brussels Airport;Brüssel Flughafen;Aeroporto;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
+5945;Bruxelles-National-Aéroport;bruxelles-national-aeroport;8819406;;4.483022689819336;50.8985400058829;5974;f;BE;f;Europe/Brussels;t;BEABT;t;;f;8800043;t;;f;;f;;f;;f;;;Brussels Airport;Brüssel Flughafen;Aeroporto;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 5946;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5947;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5948;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -4565,10 +4565,10 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5968;;;;;;;5974;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5969;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5970;Blandain Ville;blandain-ville;;;;;;t;BE;f;Europe/Brussels;f;BEBDN;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5971;Bruxelles-Nord;bruxelles-nord;8812005;;4.3614580000;50.8602380000;5974;f;BE;f;Europe/Brussels;t;BEBNO;t;;f;8800002;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
+5971;Bruxelles-Nord;bruxelles-nord;8812005;;4.3614580000;50.8602380000;5974;f;BE;f;Europe/Brussels;t;BEBNO;t;;f;8800002;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 5972;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5973;Brugge;brugge;8891009;;3.217062950134277;51.19722998626312;;f;BE;f;Europe/Brussels;t;BEBRG;t;;f;8800029;t;;f;;f;;f;;f;;Bruges;Bruges;;Bruges;Bruggy;;Brujas;;ブルッヘ;브뤼허;;Brugia;Bruges;Брюгге;;;布鲁日
-5974;Bruxelles;bruxelles;9900009;;4.351739287376404;50.84651957961837;;t;BE;f;Europe/Brussels;t;BEBRU;t;;f;;f;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
+5973;Brugge;brugge;8891009;;3.217062950134277;51.19722998626312;;f;BE;f;Europe/Brussels;t;BEBRG;t;;f;8800029;t;;f;;f;;f;;f;;Bruges;Bruges;;Bruges;Bruggy;;Brujas;;ブルッヘ;브뤼허;;Brugia;Bruges;Брюгге;Brygge;;布鲁日
+5974;Bruxelles;bruxelles;9900009;;4.351739287376404;50.84651957961837;;t;BE;f;Europe/Brussels;t;BEBRU;t;;f;;f;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 5975;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5976;Charleroi;charleroi;8872009;;4.4387740000;50.4044220000;;f;BE;f;Europe/Brussels;t;BECRL;t;;f;8800024;t;;f;;f;;f;;f;;;;;;;;;;シャルルロワ;샤를루아;;;;Шарлеруа;;;沙勒罗瓦
 5977;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -4592,7 +4592,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5995;Liège;liege;8841004;88410040;5.5666670000;50.6242970000;;f;BE;t;Europe/Brussels;t;BELGG;t;;f;8800012;t;;f;;f;;f;;f;;;;Lüttich;Liegi;Lutych;;Lieja;;リエージュ;리에주;Luik;;;Льеж;;;列日
 5996;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5997;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5998;Oostende;oostende;8891702;;2.9268240000;51.2284900000;;f;BE;f;Europe/Brussels;t;BEOST;t;;f;8800030;t;;f;;f;;f;;f;;Ostende;Ostend;Ostende;Ostenda;Ostende;;Ostende;;オーステンデ;오스텐더;;Ostenda;Ostende;Остенде;;;奥斯滕德
+5998;Oostende;oostende;8891702;;2.9268240000;51.2284900000;;f;BE;f;Europe/Brussels;t;BEOST;t;;f;8800030;t;;f;;f;;f;;f;;Ostende;Ostend;Ostende;Ostenda;Ostende;Ostende;Ostende;;オーステンデ;오스텐더;;Ostenda;Ostende;Остенде;;;奥斯滕德
 5999;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6000;Mons;mons;8881000;;3.9446711540222164;50.45612423580516;;f;BE;f;Europe/Brussels;t;BEQMO;t;;f;8800025;t;;f;;f;;f;;f;;;;;;;;;;モンス;몽스;Bergen;;;Монс;;;蒙斯
 6001;Namur;namur;8863008;;4.8624990000;50.4689830000;;f;BE;f;Europe/Brussels;t;BEQNM;t;;f;8800018;t;;f;;f;;f;;f;;;;;;;;;;ナミュール;나무르;Namen;;;Намюр;;;那慕爾
@@ -5458,7 +5458,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6868;Bad Rappenau;bad-rappenau;8014196;;9.101308;49.237721;;f;DE;f;Europe/Berlin;t;DEAGT;f;;f;8000736;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6869;Bad Wimpfen;bad-wimpfen;8014198;;9.167226;49.229748;;f;DE;f;Europe/Berlin;t;DEAGU;f;;f;8000765;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6870;Dornstetten;dornstetten;8029490;;8.494959;48.47211;;f;DE;f;Europe/Berlin;t;DEAGV;f;;f;8001512;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-6871;Eckernförde;eckernforde;8001392;;9.835115;54.4676;;f;DE;f;Europe/Berlin;t;DEAGW;f;;f;8001654;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Эккернфёрде;;;埃克尔恩弗尔德
+6871;Eckernförde;eckernforde;8001392;;9.835115;54.4676;;f;DE;f;Europe/Berlin;t;DEAGW;f;;f;8001654;t;;f;;f;;f;;f;;;;;;;Egernførde;;;;;;;;Эккернфёрде;;;埃克尔恩弗尔德
 6872;Eichstätt Bahnhof;eichstatt-bahnhof;8020381;;11.163649;48.869883;;f;DE;f;Europe/Berlin;t;DEAGX;f;;f;8001708;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Айхштет;;;艾希斯特
 6873;Eimelrod;eimelrod;8005264;;;;;f;DE;f;Europe/Berlin;f;DEAGY;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6874;Elfershausen-Trimberg;elfershausen-trimberg;8022553;;9.969109;50.140481;;f;DE;f;Europe/Berlin;t;DEAGZ;f;;f;8001742;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -5490,7 +5490,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6900;Flörsheim (Main);florsheim-main;8011120;;8.431009;50.017212;;f;DE;f;Europe/Berlin;t;DEAHZ;f;;f;8002013;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6901;Finnentrop;finnentrop;8008267;;7.964703;51.172631;;f;DE;f;Europe/Berlin;t;DEAIA;f;;f;8000102;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6902;Fischen;fischen;8002379;;10.271712;47.45659;;f;DE;f;Europe/Berlin;t;DEAIB;f;;f;8001995;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-6903;Flensburg;flensburg;8001427;;9.436884;54.774088;;f;DE;f;Europe/Berlin;t;DEAIC;f;;f;8000103;t;;f;;f;;f;;f;;Flensbourg;;;Flensburgo;;;Flensburgo;;フレンスブルク;플렌스부르크;;;;Фленсбург;;;弗伦斯堡
+6903;Flensburg;flensburg;8001427;;9.436884;54.774088;;f;DE;f;Europe/Berlin;t;DEAIC;f;;f;8000103;t;;f;;f;;f;;f;;Flensbourg;;;Flensburgo;;Flensborg;Flensburgo;;フレンスブルク;플렌스부르크;;;;Фленсбург;;;弗伦斯堡
 6904;Freising;freising;8020487;;11.744541;48.395198;;f;DE;f;Europe/Berlin;t;DEAID;f;;f;8002078;t;;f;;f;;f;;f;;;;;Frisinga;;;Frisinga;;フライジング;프라이징;;Fryzynga;Frisinga;Фрайзинг;;;弗赖辛
 6906;Frankenthal Hbf;frankenthal-hbf;8019073;;8.349702;49.53557;;f;DE;f;Europe/Berlin;t;DEAIF;f;;f;8000332;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;;;;;;Франкенталь;;;弗兰肯塔尔
 6907;Fröndenberg;frondenberg;8008205;;7.763039;51.47119;;f;DE;f;Europe/Berlin;t;DEAIG;f;;f;8000113;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -5745,7 +5745,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7157;Northeim (Han);northeim-han;8013055;;9.98662;51.703139;;f;DE;f;Europe/Berlin;t;DEARX;f;;f;8000283;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7158;Nortorf;nortorf;8001405;;9.852581;54.166633;;f;DE;f;Europe/Berlin;t;DEARY;f;;f;8004466;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7159;Niederlahnstein;niederlahnstein;8019501;;7.599498;50.316391;;f;DE;f;Europe/Berlin;t;DEARZ;f;;f;8000278;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-7160;Niebüll;niebull;8001572;;8.834571;54.789603;;f;DE;f;Europe/Berlin;t;DEASA;f;;f;8004343;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Нибюлль;;;尼比尔
+7160;Niebüll;niebull;8001572;;8.834571;54.789603;;f;DE;f;Europe/Berlin;t;DEASA;f;;f;8004343;t;;f;;f;;f;;f;;;;;;;Nibøl;;;;;;;;Нибюлль;;;尼比尔
 7161;Neustadt (Waldnaab);neustadt-waldnaab;8026114;;12.168337;49.725916;;f;DE;f;Europe/Berlin;t;DEASB;f;;f;8004332;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7162;Neuhaus (Pegnitz);neuhaus-pegnitz;8022304;;11.551704;49.626649;;f;DE;f;Europe/Berlin;t;DEASC;f;;f;8004284;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7163;Nierstein;nierstein;8019060;;8.342735;49.872135;;f;DE;f;Europe/Berlin;t;DEASD;f;;f;8004432;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -5808,7 +5808,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7220;Remagen;remagen;8019001;;7.229781;50.577213;;f;DE;f;Europe/Berlin;t;DEAUI;f;;f;8000310;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7221;Remscheid Hbf;remscheid-hbf;8008453;;7.199622;51.17727;7705;f;DE;f;Europe/Berlin;t;DEAUJ;f;;f;8005033;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;レムシャイト;렘샤이트;;;;Ремшайд;;;雷姆沙伊德
 7222;Remscheid-Lennep;remscheid-lennep;8008452;;7.252829;51.190727;7705;f;DE;f;Europe/Berlin;t;DEAUK;f;;f;8000311;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-7223;Rendsburg;rendsburg;8001409;;9.670712;54.302594;;f;DE;f;Europe/Berlin;t;DEAUL;f;;f;8000312;t;;f;;f;;f;;f;;Rendsbourg;;;;;;;;;;;;;Рендсбург;;;伦茨堡
+7223;Rendsburg;rendsburg;8001409;;9.670712;54.302594;;f;DE;f;Europe/Berlin;t;DEAUL;f;;f;8000312;t;;f;;f;;f;;f;;Rendsbourg;;;;;Rendsborg;;;;;;;;Рендсбург;;;伦茨堡
 7224;Retzbach-Zellingen;retzbach-zellingen;8022544;;9.814215;49.905152;;f;DE;f;Europe/Berlin;t;DEAUM;f;;f;8005049;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7225;Rheine;rheine;8021065;;7.434258;52.2763;;f;DE;f;Europe/Berlin;t;DEAUN;f;;f;8000316;t;;f;;f;;f;;f;;;;;;;;;;;라이네;;;;Райне;;;赖内
 7226;Rheinfelden (Baden);rheinfelden-baden;8014462;;7.784208;47.556918;;f;DE;f;Europe/Berlin;t;DEAUO;f;;f;8005064;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -5974,7 +5974,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7386;Weißenburg (Bay);weissenburg-bay;8022404;;10.965392;49.029675;;f;DE;f;Europe/Berlin;t;DEBAS;f;;f;8006298;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Вайсенбург;;;拜恩州魏森堡
 7388;Wernfeld;wernfeld;8022548;;9.725528;50.026066;;f;DE;f;Europe/Berlin;t;DEBAU;f;;f;8006349;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7389;Weilburg;weilburg;8011441;;8.267945;50.486368;;f;DE;f;Europe/Berlin;t;DEBAV;f;;f;8000218;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-7390;Westerland (Sylt);westerland-sylt;8001583;;8.310311;54.90729;;f;DE;f;Europe/Berlin;t;DEBAW;f;;f;8006369;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Вестерланд;;;
+7390;Westerland (Sylt);westerland-sylt;8001583;;8.310311;54.90729;;f;DE;f;Europe/Berlin;t;DEBAW;f;;f;8006369;t;;f;;f;;f;;f;;;;;;;Vesterland;;;;;;;;Вестерланд;;;
 7391;Westheim-Langendorf;westheim-langendorf;8022554;;9.932747;50.125775;;f;DE;f;Europe/Berlin;t;DEBAX;f;;f;8006380;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7392;Wetter (Ruhr);wetter-ruhr;8008067;;7.385968;51.386458;;f;DE;f;Europe/Berlin;t;DEBAY;f;;f;8006386;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7393;Welschingen-Neuhausen;welschingen-neuhausen;8014555;;8.769219;47.834029;;f;DE;f;Europe/Berlin;t;DEBAZ;f;;f;8006321;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6058,7 +6058,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7471;Bochum-Langendreer;bochum-langendreer;8010114;;7.323727;51.478031;7470;f;DE;f;Europe/Berlin;t;DEBLA;f;;f;8000358;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7472;Bochum Hbf;bochum-hbf;8010179;;7.224109;51.478651;7470;f;DE;f;Europe/Berlin;t;DEQBO;f;;f;8000041;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ボーフム;보훔;;;;Бохум;;;波鸿
 7473;Bonn Hbf;bonn-hbf;8015485;;7.097136;50.732007;7545;f;DE;f;Europe/Berlin;t;DEBEA;f;;f;8000044;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ボン;본;;;Bona;Бонн;;;波恩
-7474;Hamburg Hbf;hamburg-hbf;8001071;;10.006908;53.552732;;f;DE;f;Europe/Berlin;t;DEBEB;f;;f;8002549;t;;f;;f;;f;;f;;Hambourg Gare centrale;Main station;;Amburgo Stazione centrale;Hamburk;;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
+7474;Hamburg Hbf;hamburg-hbf;8001071;;10.006908;53.552732;;f;DE;f;Europe/Berlin;t;DEBEB;f;;f;8002549;t;;f;;f;;f;;f;;Hambourg Gare centrale;Main station;;Amburgo Stazione centrale;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7475;Düsseldorf Hbf;dusseldorf-hbf;8008094;;6.794316;51.21996;7578;f;DE;f;Europe/Berlin;t;DEBEC;t;;f;8000085;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;デュッセルドルフ;뒤셀도르프;;;;Дюссельдорф;;;
 7476;Lindau reutin;lindau-reutin;8000467;;;;;f;DE;f;Europe/Berlin;f;DEBED;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7477;Mittenwald (Gr);mittenwald-gr;8000464;;11.267439;47.39807;7685;f;DE;f;Europe/Berlin;f;DEBEE;f;;f;8004044;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6180,7 +6180,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7593;Plauen (Vogtl) ob Bf;plauen-vogtl-ob-bf;8006712;;12.12954;50.505937;;f;DE;f;Europe/Berlin;t;DEFBS;f;;f;8010275;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7594;Friedrichshafen Stadt;friedrichshafen-stadt;8029162;;9.473902;47.65322;;f;DE;f;Europe/Berlin;t;DEFDH;f;;f;8000112;t;;f;;f;;f;;f;;;;;;;;;;フリードリヒスハーフェン;;;;;Фридрихсхафен;;;腓特烈港
 7596;Frankfurt (M) Flughafen Fernbf;frankfurt-m-flughafen-fernbf;8061676;;8.569872379302979;50.05290581298199;;f;DE;f;Europe/Berlin;t;DEFFF;t;;f;8070003;t;;f;;f;;f;;f;;Francfort Aéroport;Airport;;Francoforte Aeroporto;Frankfurt nad Mohanem;;Francfort;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-7597;Freiburg (Breisgau) Hbf;freiburg-breisgau-hbf;8014350;80143503;7.841593623161316;47.997690269936264;7692;f;DE;t;Europe/Berlin;t;DEFGB;t;;f;8000107;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;Freiberg;;フライベルク;;Freiberg;Freiberg;Freiberga;Фрайбург;;;弗莱贝格
+7597;Freiburg (Breisgau) Hbf;freiburg-breisgau-hbf;8014350;80143503;7.841593623161316;47.997690269936264;7692;f;DE;t;Europe/Berlin;t;DEFGB;t;;f;8000107;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;Freiberg;;フライベルク;;Freiberg;Freiberg;Freiberga;Фрайбург;Freiberg;;弗莱贝格
 7598;Bergen auf Rügen;bergen-auf-rugen;8028496;;13.41782;54.420497;;f;DE;f;Europe/Berlin;t;DEFGV;f;;f;8010033;t;;f;;f;;f;;f;;;;;;;;;;;베르겐아우프뤼겐;;;;Берген-на-Рюгене;;;贝尔根奥夫吕根
 7599;Binz LB;binz-lb;8028951;;13.609947;54.392783;;f;DE;f;Europe/Berlin;t;DEFHA;f;;f;8011193;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7600;Freilassing;freilassing;8000462;;12.977196;47.836914;;f;DE;f;Europe/Berlin;t;DEFLS;f;;f;8000108;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6209,9 +6209,9 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7623;Hannover;hannover;;;;;;t;DE;f;Europe/Berlin;f;DEHAJ;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7624;Hannover Messe/Laatzen;hannover-messe-laatzen;8013555;;9.792866;52.316895;7623;f;DE;f;Europe/Berlin;t;DELAA;f;;f;8003487;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7625;Hamburg-Altona;hamburg-altona;8001093;;9.935174;53.552696;;f;DE;f;Europe/Berlin;t;DEHAL;f;;f;8002553;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-7626;Hamburg;hamburg;8001083;;9.965836;53.563816;;t;DE;f;Europe/Berlin;t;DEHAM;f;;f;8096009;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
-7627;Hamburg Dammtor;hamburg-dammtor;8001089;;9.989568;53.560751;7626;f;DE;f;Europe/Berlin;t;DEHDA;f;;f;8002548;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
-7628;Hamburg-Harburg;hamburg-harburg;8001134;;9.991591;53.456296;7626;f;DE;f;Europe/Berlin;t;DEHHA;f;;f;8000147;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
+7626;Hamburg;hamburg;8001083;;9.965836;53.563816;;t;DE;f;Europe/Berlin;t;DEHAM;f;;f;8096009;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
+7627;Hamburg Dammtor;hamburg-dammtor;8001089;;9.989568;53.560751;7626;f;DE;f;Europe/Berlin;t;DEHDA;f;;f;8002548;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
+7628;Hamburg-Harburg;hamburg-harburg;8001134;;9.991591;53.456296;7626;f;DE;f;Europe/Berlin;t;DEHHA;f;;f;8000147;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7629;Hanau Hbf;hanau-hbf;8011051;;8.929165;50.12128;;f;DE;f;Europe/Berlin;t;DEHAU;f;;f;8000150;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ハーナウ;;;;;;;;
 7630;Berlin Hbf;berlin-hbf;8033452;80334524;13.369548;52.525589;7527;f;DE;t;Europe/Berlin;t;DEHBF;f;;f;8011160;t;;f;;f;;f;;f;;Gare centrale;Main station;;Berlino Stazione centrale;;;;;ベルリン;베를린;Berlijn;;Berlim;Берлин;;;柏林
 7631;Heilbronn Hbf;heilbronn-hbf;8029629;;9.207713;49.143308;;f;DE;f;Europe/Berlin;t;DEHBN;f;;f;8000157;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ハイルブロン;하일브론;;;;Хайльбронн;;;海尔布隆
@@ -7010,22 +7010,22 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8424;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8425;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8426;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8427;Firenze Campo di Marte;firenze-campo-di-marte;8306900;;11.27659;43.777574;;;IT;f;Europe/Rome;t;ITFCM;f;;f;8300180;f;;f;;f;8306900;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
+8427;Firenze Campo di Marte;firenze-campo-di-marte;8306900;;11.27659;43.777574;;;IT;f;Europe/Rome;t;ITFCM;f;;f;8300180;f;;f;;f;8306900;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 8428;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8429;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8430;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8431;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8432;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8433;Firenze;firenze;8306998;;11.2551002;43.7725042;;t;IT;f;Europe/Rome;t;ITFLR;f;;f;;f;;f;;f;8306998;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
-8434;Firenze Santa Maria Novella;firenze-santa-maria-novella;8306421;83064212;11.247806;43.77681;8433;f;IT;t;Europe/Rome;t;ITFNO;f;;f;8300151;f;;f;;f;8306421;t;SMN;t;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
-8435;Firenze Rifredi;firenze-rifredi;8306420;;11.236408;43.800137;8433;f;IT;f;Europe/Rome;t;ITFRI;f;;f;8300497;f;;f;;f;8306420;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
+8433;Firenze;firenze;8306998;;11.2551002;43.7725042;;t;IT;f;Europe/Rome;t;ITFLR;f;;f;;f;;f;;f;8306998;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+8434;Firenze Santa Maria Novella;firenze-santa-maria-novella;8306421;83064212;11.247806;43.77681;8433;f;IT;t;Europe/Rome;t;ITFNO;f;;f;8300151;f;;f;;f;8306421;t;SMN;t;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+8435;Firenze Rifredi;firenze-rifredi;8306420;;11.236408;43.800137;8433;f;IT;f;Europe/Rome;t;ITFRI;f;;f;8300497;f;;f;;f;8306420;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 8436;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8437;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8438;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8439;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8440;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8441;Montevarchi terranova;montevarchi-terranova;8306910;;11.564201;43.52538;;f;IT;f;Europe/Rome;t;ITFVT;f;;f;;f;;f;;f;8306910;t;;f;;;;;;;;;;;;;;;;;;
-8442;Genova Brignole;genova-brignole;8304702;;8.947197;44.406999;8450;f;IT;f;Europe/Rome;t;ITGBR;f;;f;;f;;f;;f;8304702;t;;f;;Gênes;Genoa;Genua;;Janov;;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;;Cenova;
+8442;Genova Brignole;genova-brignole;8304702;;8.947197;44.406999;8450;f;IT;f;Europe/Rome;t;ITGBR;f;;f;;f;;f;;f;8304702;t;;f;;Gênes;Genoa;Genua;;Janov;;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 8443;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8444;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8445;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -7033,12 +7033,12 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8447;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8448;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8449;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8450;Genova;genova;8304999;;8.918988704681395;44.41633306978571;;t;IT;f;Europe/Rome;t;ITGOA;f;;f;8396002;f;GOA;t;;f;8304999;t;;f;;Gênes;Genoa;Genua;;Janov;;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;;Cenova;
+8450;Genova;genova;8304999;;8.918988704681395;44.41633306978571;;t;IT;f;Europe/Rome;t;ITGOA;f;;f;8396002;f;GOA;t;;f;8304999;t;;f;;Gênes;Genoa;Genua;;Janov;;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 8451;;;;;;;8450;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8452;;;;;;;8450;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8453;Genova Piazza Principe;genova-piazza-principe;8304700;;8.922072;44.417507;8450;f;IT;f;Europe/Rome;t;ITGPP;f;;f;8300153;f;;f;;f;8304700;t;;f;;Gênes;Genoa;Genua;;Janov;;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;;Cenova;
+8453;Genova Piazza Principe;genova-piazza-principe;8304700;;8.922072;44.417507;8450;f;IT;f;Europe/Rome;t;ITGPP;f;;f;8300153;f;;f;;f;8304700;t;;f;;Gênes;Genoa;Genua;;Janov;;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 8454;;;;;;;8450;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8455;Genova quinto al mare;genova-quinto-al-mare;8304705;;9.020556;44.385;8450;f;IT;f;Europe/Rome;t;ITAKC;f;;f;;f;;f;;f;8304705;t;;f;;Gênes;Genoa;Genua;;Janov;;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;;Cenova;
+8455;Genova quinto al mare;genova-quinto-al-mare;8304705;;9.020556;44.385;8450;f;IT;f;Europe/Rome;t;ITAKC;f;;f;;f;;f;;f;8304705;t;;f;;Gênes;Genoa;Genua;;Janov;;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 8456;;;;;;;8450;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8457;;;;;;;8450;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8458;;;;;;;8450;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -7080,7 +7080,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8494;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8495;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8496;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8497;Napoli Centrale;napoli-centrale;8309218;;14.273072;40.852826;;f;IT;t;Europe/Rome;t;ITNAC;f;;f;8300239;f;;f;;f;8309218;t;NAC;t;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;;;那不勒斯
+8497;Napoli Centrale;napoli-centrale;8309218;;14.273072;40.852826;;f;IT;t;Europe/Rome;t;ITNAC;f;;f;8300239;f;;f;;f;8309218;t;NAC;t;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 8498;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8499;Napoli;napoli;;;;;;t;IT;f;Europe/Rome;f;ITNAP;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8500;Napoli marittima;napoli-marittima;8309220;;;;8499;f;IT;f;Europe/Rome;f;ITNMA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -7111,7 +7111,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8525;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8526;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8527;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8528;Padova;padova;8302581;;11.8806200000;45.4178270000;;f;IT;f;Europe/Rome;t;ITQPA;f;;f;8300098;t;;f;;f;8302581;t;PD_;t;;Padoue;Padua;Padua;;;;Padua;;パドヴァ;파도바;Padua;Padwa;Pádua;Падуя;;;帕多瓦
+8528;Padova;padova;8302581;;11.8806200000;45.4178270000;;f;IT;f;Europe/Rome;t;ITQPA;f;;f;8300098;t;;f;;f;8302581;t;PD_;t;;Padoue;Padua;Padua;;;;Padua;;パドヴァ;파도바;Padua;Padwa;Pádua;Падуя;Padua;;帕多瓦
 8529;Piacenza;piacenza;8305000;;9.706363;45.052101;;f;IT;f;Europe/Rome;t;ITQPZ;f;;f;8300230;f;;f;;f;8305000;t;;f;;Plaisance;;;;;;Plasencia;;ピアチェンツァ;;;;Placência;Пьяченца;;;
 8530;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8531;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -7125,10 +7125,10 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8539;Reggio di Calabria Centrale;reggio-di-calabria-centrale;8311781;;15.635792;38.104123;8534;;IT;t;Europe/Rome;t;ITAYW;f;;f;8300337;f;;f;;f;8311781;t;;f;;;;;;;;;;レッジョ・ディ・カラブリア;;;;;Реджо-ди-Калабрия;;;
 8540;;;;;;;8534;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8541;;;;;;;8534;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8542;Roma;roma;8308349;;12.4829203;41.8932225;;t;IT;f;Europe/Rome;t;ITRMA;f;;f;8396004;f;;f;;f;8308349;t;RM0;t;;Rome;Rome;Rom;;Řím;;;;ローマ;로마;Rome;Rzym;;Рим;;;罗马市
-8543;Roma Tiburtina;roma-tiburtina;8308217;;12.531457;41.911072;8542;f;IT;f;Europe/Rome;t;ITRTB;f;;f;8300262;f;;f;;f;8308217;t;RTB;t;;Rome;Rome;Rom;;Řím;;;;ローマ;로마;Rome;Rzym;;Рим;;;罗马市
-8544;Roma Termini;roma-termini;8308409;83084095;12.531457;41.911072;8542;f;IT;t;Europe/Rome;t;ITRTI;f;;f;8300263;f;;f;;f;8308409;t;RMT;t;;Rome;Rome;Rom;;Řím;;;;ローマ;로마;Rome;Rzym;;Рим;;;罗马市
-8545;Roma Ostiense;roma-ostiense;8308406;;12.484902;41.872275;8542;f;IT;f;Europe/Rome;t;ITROS;f;;f;8300261;f;;f;;f;8308406;t;OST;t;;Rome;Rome;Rom;;Řím;;;;ローマ;로마;Rome;Rzym;;Рим;;;罗马市
+8542;Roma;roma;8308349;;12.4829203;41.8932225;;t;IT;f;Europe/Rome;t;ITRMA;f;;f;8396004;f;;f;;f;8308349;t;RM0;t;;Rome;Rome;Rom;;Řím;Rom;;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
+8543;Roma Tiburtina;roma-tiburtina;8308217;;12.531457;41.911072;8542;f;IT;f;Europe/Rome;t;ITRTB;f;;f;8300262;f;;f;;f;8308217;t;RTB;t;;Rome;Rome;Rom;;Řím;Rom;;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
+8544;Roma Termini;roma-termini;8308409;83084095;12.531457;41.911072;8542;f;IT;t;Europe/Rome;t;ITRTI;f;;f;8300263;f;;f;;f;8308409;t;RMT;t;;Rome;Rome;Rom;;Řím;Rom;;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
+8545;Roma Ostiense;roma-ostiense;8308406;;12.484902;41.872275;8542;f;IT;f;Europe/Rome;t;ITROS;f;;f;8300261;f;;f;;f;8308406;t;OST;t;;Rome;Rome;Rom;;Řím;Rom;;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
 8546;;;;;;;8542;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8547;;;;;;;8542;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8548;;;;;;;8542;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -7148,18 +7148,18 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8562;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8563;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8564;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8565;Torino;torino;8300996;;7.686063051223755;45.07075504730648;;t;IT;f;Europe/Rome;t;ITTRN;t;;f;8396006;f;;f;;f;8300996;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;;;
-8566;Torino Lingotto;torino-lingotto;8300452;;7.657532;45.026194;8565;;IT;f;Europe/Rome;t;ITABV;f;;f;8300516;f;;f;;f;8300452;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;;;
-8567;Torino Porta Nuova;torino-porta-nuova;8300219;;7.677713;45.061000;8565;f;IT;f;Europe/Rome;t;ITBGD;f;;f;8300001;f;;f;;f;8300219;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;;;
-8568;Torino Porta Susa;torino-porta-susa;8300222;83002220;7.665164;45.071832;8565;f;IT;f;Europe/Rome;t;ITTRS;t;;f;8300522;f;;f;;f;8300222;t;OUE;t;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;;;
+8565;Torino;torino;8300996;;7.686063051223755;45.07075504730648;;t;IT;f;Europe/Rome;t;ITTRN;t;;f;8396006;f;;f;;f;8300996;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
+8566;Torino Lingotto;torino-lingotto;8300452;;7.657532;45.026194;8565;;IT;f;Europe/Rome;t;ITABV;f;;f;8300516;f;;f;;f;8300452;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
+8567;Torino Porta Nuova;torino-porta-nuova;8300219;;7.677713;45.061000;8565;f;IT;f;Europe/Rome;t;ITBGD;f;;f;8300001;f;;f;;f;8300219;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
+8568;Torino Porta Susa;torino-porta-susa;8300222;83002220;7.665164;45.071832;8565;f;IT;f;Europe/Rome;t;ITTRS;t;;f;8300522;f;;f;;f;8300222;t;OUE;t;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 8569;;;;;;;8565;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8570;;;;;;;8565;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8571;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8572;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8573;Venezia;venezia;8302998;;12.33475;45.43711;;t;IT;f;Europe/Rome;t;ITVCE;f;;f;8396008;f;;f;;f;8302998;t;;f;;Venise;Venice;Venedig;;Benátky;;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;;Venedik;威尼斯
-8574;Venezia Santa Lucia;venezia-santa-lucia;8302593;83025932;12.3204620000;45.4413970000;8573;f;IT;t;Europe/Rome;t;ITAGP;f;;f;8300094;t;;f;;f;8302593;t;VSL;t;;Venise Gare centrale;Venice Main station;Venedig Hauptbahnhof;;Benátky;;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;;Venedik;威尼斯
-8575;Venezia Mestre;venezia-mestre;8302589;83025890;12.2319000000;45.4819020000;8573;f;IT;f;Europe/Rome;t;ITBGG;f;;f;8300093;t;;f;;f;8302589;t;VEM;t;;Venise;Venice;Venedig;;Benátky;;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;;Venedik;威尼斯
-8576;Venezia carpenedo;venezia-carpenedo;8302672;;12.247595;45.506676;8573;f;IT;f;Europe/Rome;t;ITAID;f;;f;8300968;f;;f;;f;8302672;t;;f;;Venise;Venice;Venedig;;Benátky;;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;;Venedik;威尼斯
+8573;Venezia;venezia;8302998;;12.33475;45.43711;;t;IT;f;Europe/Rome;t;ITVCE;f;;f;8396008;f;;f;;f;8302998;t;;f;;Venise;Venice;Venedig;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
+8574;Venezia Santa Lucia;venezia-santa-lucia;8302593;83025932;12.3204620000;45.4413970000;8573;f;IT;t;Europe/Rome;t;ITAGP;f;;f;8300094;t;;f;;f;8302593;t;VSL;t;;Venise Gare centrale;Venice Main station;Venedig Hauptbahnhof;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
+8575;Venezia Mestre;venezia-mestre;8302589;83025890;12.2319000000;45.4819020000;8573;f;IT;f;Europe/Rome;t;ITBGG;f;;f;8300093;t;;f;;f;8302589;t;VEM;t;;Venise;Venice;Venedig;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
+8576;Venezia carpenedo;venezia-carpenedo;8302672;;12.247595;45.506676;8573;f;IT;f;Europe/Rome;t;ITAID;f;;f;8300968;f;;f;;f;8302672;t;;f;;Venise;Venice;Venedig;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 8577;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8578;Ventimiglia;ventimiglia;8304501;;7.609953;43.792586;9604;f;IT;f;Europe/Rome;t;ITVEF;f;;f;8300146;f;;f;;f;8304501;t;;f;;Vintimille;;;;;;;;ヴェンティミーリア;;;;;Вентимилья;;;文蒂米利亚
 8579;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -10276,7 +10276,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 11769;Frankfurt (M) Stresemannallee;frankfurt-m-stresemannallee;8011471;;8.671246;50.094438;;f;DE;f;Europe/Berlin;t;;f;;f;8002059;t;;f;;f;;f;;f;;Francfort;;;Francoforte;Frankfurt nad Mohanem;;Francfort;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 11770;Freden (Leine);freden-leine;8013061;;9.899002;51.927788;;f;DE;f;Europe/Berlin;t;;f;;f;8002063;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11771;Freiberg (Neckar);freiberg-neckar;8029591;;9.197798;48.93011;;f;DE;f;Europe/Berlin;t;;f;;f;8002065;t;;f;;f;;f;;f;;;;;;;;;;フライベルク;;;;Freiberga;Фрайбург;;;内卡河畔弗赖贝格
-11772;Freiburg West;freiburg-west;8014354;;7.812884;48.027324;;f;DE;f;Europe/Berlin;t;;f;;f;8002066;t;;f;;f;;f;;f;;Freiberg;Freiberg;;Friburgo;;;Freiberg;;フライベルク;;Freiberg;Freiberg;Freiberga;Фрайбург;;;弗莱贝格
+11772;Freiburg West;freiburg-west;8014354;;7.812884;48.027324;;f;DE;f;Europe/Berlin;t;;f;;f;8002066;t;;f;;f;;f;;f;;Freiberg;Freiberg;;Friburgo;;;Freiberg;;フライベルク;;Freiberg;Freiberg;Freiberga;Фрайбург;Freiberg;;弗莱贝格
 11773;Freiburg-Herdern;freiburg-herdern;8014349;;7.850971;48.00824;;f;DE;f;Europe/Berlin;t;;f;;f;8002067;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11774;Freiburg-St Georgen;freiburg-st-georgen;8014404;;7.803005;47.975492;;f;DE;f;Europe/Berlin;t;;f;;f;8002069;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11775;Freiburg-Wiehre;freiburg-wiehre;8014364;;7.854127;47.982414;;f;DE;f;Europe/Berlin;t;;f;;f;8002070;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -10448,7 +10448,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 11941;Groß Düngen;gross-dungen;8013378;;10.020077;52.097729;;f;DE;f;Europe/Berlin;t;;f;;f;8002405;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11942;Großen Buseck;grossen-buseck;8011634;;8.783;50.605736;;f;DE;f;Europe/Berlin;t;;f;;f;8002409;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11943;Großen Linden;grossen-linden;8011410;;8.661996;50.527853;;f;DE;f;Europe/Berlin;t;;f;;f;8002410;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-11944;Großenkneten;grossenkneten;8021248;;8.241004;52.945097;;f;DE;f;Europe/Berlin;t;;f;;f;8002412;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Гросенкнетен;;;格罗森克内滕
+11944;Großenkneten;grossenkneten;8021248;;8.241004;52.945097;;f;DE;f;Europe/Berlin;t;;f;;f;8002412;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Гросенкнетен;Ahlhorn;;格罗森克内滕
 11945;Großenlüder;grossenluder;8005621;;9.550004;50.592935;;f;DE;f;Europe/Berlin;t;;f;;f;8002413;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11946;Großgeschaidt;grossgeschaidt;8022220;;11.172207;49.565027;;f;DE;f;Europe/Berlin;t;;f;;f;8002416;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11947;Großhelfendorf;grosshelfendorf;8020246;;11.781181;47.94581;;f;DE;f;Europe/Berlin;t;;f;;f;8002420;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -12651,7 +12651,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 14144;Trossingen Stadt;trossingen-stadt;8035439;;8.631208;48.07405;;f;DE;f;Europe/Berlin;t;;f;;f;8007646;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 14145;Wangerooge Flugplatz;wangerooge-flugplatz;8094426;;7.909185;53.788106;;f;DE;f;Europe/Berlin;t;;f;;f;8007757;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 14146;Helgoland (Reede);helgoland-reede;;;7.893445;54.179424;;f;DE;f;Europe/Berlin;f;;f;;f;8007759;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-14147;Wyk auf Föhr;wyk-auf-fohr;;;8.576608;54.692879;;f;DE;f;Europe/Berlin;t;;f;;f;8007760;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Вик-ауф-Фёр;;;维克奥夫弗赫尔
+14147;Wyk auf Föhr;wyk-auf-fohr;;;8.576608;54.692879;;f;DE;f;Europe/Berlin;t;;f;;f;8007760;t;;f;;f;;f;;f;;;;;;;Vyk;;;;;;;;Вик-ауф-Фёр;;;维克奥夫弗赫尔
 14148;Wittdün (Amrum);wittdun-amrum;;;8.397767;54.629155;;f;DE;f;Europe/Berlin;t;;f;;f;8007761;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 14149;Norderney;norderney;8021454;;7.164204;53.697773;;f;DE;f;Europe/Berlin;t;;f;;f;8007762;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 14150;Juist;juist;8021455;;6.995765;53.672127;;f;DE;f;Europe/Berlin;t;;f;;f;8007763;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -12849,7 +12849,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 14342;Horka;horka;8047969;;14.902128;51.303622;;f;DE;f;Europe/Berlin;t;;f;;f;8010174;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 14343;Neuruppin Rheinsberger Tor;neuruppin-rheinsberger-tor;8027229;;12.810797;52.929573;;f;DE;f;Europe/Berlin;t;;f;;f;8010175;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 14344;Hornstorf;hornstorf;8027114;;11.53467;53.906691;;f;DE;f;Europe/Berlin;t;;f;;f;8010176;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-14345;Hoyerswerda;hoyerswerda;8004318;;14.231029;51.432905;;f;DE;f;Europe/Berlin;t;;f;;f;8010177;t;;f;;f;;f;;f;;;;;;;;;;ホイエルスヴェルダ;;;Wojerce;;Хойерсверда;;;霍耶斯韦达
+14345;Hoyerswerda;hoyerswerda;8004318;;14.231029;51.432905;;f;DE;f;Europe/Berlin;t;;f;;f;8010177;t;;f;;f;;f;;f;;;;;;;;;;ホイエルスヴェルダ;;;Wojerce;;Хойерсверда;Hoyerwerda;;霍耶斯韦达
 14346;Ilmenau;ilmenau;8016264;;10.923089;50.684481;;f;DE;f;Europe/Berlin;t;;f;;f;8010178;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Ильменау;;;伊尔默瑙
 14347;Jatznick;jatznick;8028422;;13.937666;53.603063;;f;DE;f;Europe/Berlin;t;;f;;f;8010179;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 14348;Jüterbog;juterbog;8003449;;13.05435;51.997508;;f;DE;f;Europe/Berlin;t;;f;;f;8010182;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Йютербог;;;于特博格
@@ -15983,7 +15983,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17506;Karlovy Vary;karlovy-vary;5475875;;12.866853;50.235668;;f;CZ;f;Europe/Prague;t;CSAHA;f;;f;5400006;t;;f;;f;;f;;f;;;;Karlsbad;;;;;;カルロヴィ・ヴァリ;카를로비바리;Karlsbad;Karlowe Wary;;Карловы Вары;;Karlsbad;卡罗维发利
 17507;Liberec;liberec;5454212;;15.045946;50.761429;;f;CZ;f;Europe/Prague;t;CSAIT;f;;f;5400198;t;;f;;f;;f;;f;;;;;;;;;;リベレツ;리베레츠;;;;Либерец;;;利贝雷茨
 17508;Olomouc hl.n.;olomouc-hl-n;5434362;;17.277932;49.593128;;f;CZ;f;Europe/Prague;t;CSALY;f;;f;5400010;t;;f;;f;;f;;f;;;;Olmütz;;;;;Olmütz;オロモウツ;올로모우츠;;Ołomuniec;;Оломоуц;;;奧洛穆克
-17509;Praha hl.n.;praha-hl-n;5457076;;14.436037;50.083058;17587;f;CZ;f;Europe/Prague;t;CSANS;f;;f;5400014;t;;f;;f;;f;;f;;Prague;Prague;Prag;Praga;;;Praga;Prága;プラハ;프라하;Praag;Praga;Praga;Прага;;Prag;布拉格
+17509;Praha hl.n.;praha-hl-n;5457076;;14.436037;50.083058;17587;f;CZ;f;Europe/Prague;t;CSANS;f;;f;5400014;t;;f;;f;;f;;f;;Prague;Prague;Prag;Praga;;Prag;Praga;Prága;プラハ;프라하;Praag;Praga;Praga;Прага;Prag;Prag;布拉格
 17510;Teplice v Cechach;teplice-v-cechach;5453289;;13.828807;50.646762;;f;CZ;f;Europe/Prague;t;CSARB;f;;f;5400101;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17511;Usti nad Labem hl.n.;usti-nad-labem-hl-n;5453179;;14.044728;50.659563;;f;CZ;f;Europe/Prague;t;CSARZ;f;;f;5400019;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17512;Aalborg st;aalborg-st;8600020;;9.916486;57.043127;;f;DK;f;Europe/Copenhagen;t;DKAAH;f;;f;8600004;t;;f;;f;;f;;f;;;;;;;;;;オールボー;올보르;;;;Ольборг;;;奥尔堡
@@ -16002,7 +16002,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17525;Amsterdam Stadionplein;amsterdam-stadionplein;;;4.8574810000;52.3441030000;8657;f;NL;f;Europe/Amsterdam;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17526;Milano Autostazione;milano-autostazione;;;9.1276310000;45.4894410000;8483;f;IT;f;Europe/Rome;t;;f;;f;;f;XLM;t;;f;;f;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 17527;Nice Aéroport Côte d’Azur;nice-aeroport-cote-dazur;;;7.2109370000;43.6651400000;4836;f;FR;f;Europe/Paris;t;;f;;f;;f;NCE;t;;f;;f;;f;;;Airport;Flughafen;Nizza Aeroporto;;;Niza;Nizza;ニース;니스;;Nicea;;Ницца;;;尼斯
-17528;Torino Autostazione;torino-autostazione;;;7.6561150000;45.0708540000;8565;f;IT;f;Europe/Rome;t;;f;;f;;f;XUT;t;;f;;f;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;;;
+17528;Torino Autostazione;torino-autostazione;;;7.6561150000;45.0708540000;8565;f;IT;f;Europe/Rome;t;;f;;f;;f;XUT;t;;f;;f;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 17529;Wilderswil;wilderswil;8507388;;7.8694710000;46.6657010000;;f;CH;f;Europe/Zurich;t;;f;;f;8507388;t;;f;;f;;f;;f;;;;;;;;;;ヴィルダースヴィル;;;;;Вильдерсвиль;;;維爾德斯維爾
 17530;Stäfa;stafa;8503107;;8.7216310000;47.2405160000;;f;CH;f;Europe/Zurich;t;;f;;f;8503107;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17531;Stans;stans;8508391;;8.3667450000;46.9583270000;;f;CH;f;Europe/Zurich;t;CHSST;f;;f;8508391;t;;f;;f;;f;;f;;;;;;;;;;シュタンス;슈탄스;;;;Штанс;;;施坦斯
@@ -16201,8 +16201,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17734;Wien Meidling;wien-meidling;8103107;;16.3361230000;48.1749990000;;f;AT;f;Europe/Vienna;t;ATABM;f;;f;8100514;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17735;Heiterwang-Plansee;heiterwang-plansee;8102248;;10.7484550000;47.4425030000;;f;AT;f;Europe/Vienna;t;;f;;f;8100550;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17736;Schaarbeek;schaarbeek;8811007;;4.3786540000;50.8784050000;;f;BE;f;Europe/Brussels;t;;f;;f;8800001;t;;f;;f;;f;;f;;;;;;;;;;スカールベーク;;;;;Схарбек;;;斯哈尔贝克
-17737;Bruxelles-Central;bruxelles-central;8813003;;4.3570620000;50.8454960000;;f;BE;f;Europe/Brussels;t;BEBCE;f;;f;8800003;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
-17738;Bruxelles-Luxembourg;bruxelles-luxembourg;8811304;;4.3739980000;50.8388080000;5974;f;BE;f;Europe/Brussels;t;BEBQL;f;;f;8800005;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
+17737;Bruxelles-Central;bruxelles-central;8813003;;4.3570620000;50.8454960000;;f;BE;f;Europe/Brussels;t;BEBCE;f;;f;8800003;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
+17738;Bruxelles-Luxembourg;bruxelles-luxembourg;8811304;;4.3739980000;50.8388080000;5974;f;BE;f;Europe/Brussels;t;BEBQL;f;;f;8800005;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 17739;Halle;halle;8814308;;4.2400850000;50.7333730000;;f;BE;f;Europe/Brussels;t;BEHAB;f;;f;8800006;t;;f;;f;;f;;f;;Belgique;Belgium;Belgien;Belgio;;;;;;;;;;;;;
 17740;Antwerpen-Berchem;antwerpen-berchem;8821121;;4.4324640000;51.1995270000;;f;BE;f;Europe/Brussels;t;BEBHM;f;;f;8800008;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17741;Essen;essen;8821402;;4.4509990000;51.4626410000;;f;BE;f;Europe/Brussels;t;BEESS;f;;f;8800009;t;;f;;f;;f;;f;;Belgique;Belgium;Belgien;Belgio;;;;;;;;;;;;;
@@ -16245,7 +16245,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17778;Gouvy;gouvy;8845005;;5.9537350000;50.1897240000;;f;BE;f;Europe/Brussels;t;BEGVY;f;;f;8800060;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17779;Grupont;grupont;8864337;;5.2806860000;50.0908070000;;f;BE;f;Europe/Brussels;t;;f;;f;8800061;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17780;Houyet;houyet;8863842;;5.0061190000;50.1900020000;;f;BE;f;Europe/Brussels;t;;f;;f;8800065;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Уйе;;;乌耶
-17781;Ieper;ieper;8896503;;2.8762060000;50.8478240000;;f;BE;f;Europe/Brussels;t;BEACH;f;;f;8800066;t;;f;;f;;f;;f;;Ypres;Ypres;Ypern;Ypres;;;Ypres;;;;;Ypres;;Ипр;;;
+17781;Ieper;ieper;8896503;;2.8762060000;50.8478240000;;f;BE;f;Europe/Brussels;t;BEACH;f;;f;8800066;t;;f;;f;;f;;f;;Ypres;Ypres;Ypern;Ypres;;;Ypres;;;;;Ypres;;Ипр;Ypern;;
 17782;Izegem;izegem;8896909;;3.2147580000;50.9210410000;;f;BE;f;Europe/Brussels;t;BEABB;f;;f;8800067;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Изегем;;;
 17783;Jamioulx;jamioulx;8871175;;4.4115010000;50.3527430000;;f;BE;f;Europe/Brussels;t;;f;;f;8800068;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17784;Jemeppe-sur-Sambre;jemeppe-sur-sambre;8874724;;4.6641520000;50.4516520000;;f;BE;f;Europe/Brussels;t;;f;;f;8800069;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -16281,7 +16281,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17814;Waterloo;waterloo;8814266;;4.3835350000;50.7148470000;;f;BE;f;Europe/Brussels;t;BEWAT;f;;f;8800136;t;;f;;f;;f;;f;;;;;;;;;;ワーテルロー;워털루;;;;Ватерлоо;;;滑鐵盧
 17815;Philippeville;philippeville;8873122;;4.5359830000;50.1916120000;;f;BE;f;Europe/Brussels;t;;f;;f;8800140;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17816;Sint-Niklaas;sint-niklaas;8894508;;4.1442420000;51.1720380000;;f;BE;f;Europe/Brussels;t;BEACJ;f;;f;8800143;t;;f;;f;;f;;f;;Saint-Nicolas;;;;;;;;;;;;;Санкт-Никола;;;
-17817;Bruxelles-Schuman;bruxelles-schuman;8811916;;4.3803710000;50.8431230000;;f;BE;f;Europe/Brussels;t;BESCH;f;;f;8800146;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
+17817;Bruxelles-Schuman;bruxelles-schuman;8811916;;4.3803710000;50.8431230000;;f;BE;f;Europe/Brussels;t;BESCH;f;;f;8800146;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 17818;Opwijk;opwijk;8812146;;4.1871660000;50.9747610000;;f;BE;f;Europe/Brussels;t;;f;;f;8800150;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17819;Nivelles;nivelles;8814209;;4.3353440000;50.6006030000;;f;BE;f;Europe/Brussels;t;BEACN;f;;f;8800152;t;;f;;f;;f;;f;;;;;;;;;;;;Nijvel;;;Нивель;;;尼韦尔
 17820;Marbehan;marbehan;8866175;;5.5395660000;49.7274540000;;f;BE;f;Europe/Brussels;t;;f;;f;8800156;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -16315,8 +16315,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17848;Begijnendijk;begijnendijk;8821865;;4.7994660000;51.0225650000;;f;BE;f;Europe/Brussels;t;;f;;f;8800208;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17849;Sint-Truiden;sint-truiden;8831807;;5.1762760000;50.8175120000;;f;BE;f;Europe/Brussels;t;BEACK;f;;f;8800209;t;;f;;f;;f;;f;;Saint Trond;;;;;;;;;;;;;Синт-Трюйден;;;
 17850;Bokrijk;bokrijk;8831781;;5.4084400000;50.9556680000;;f;BE;f;Europe/Brussels;t;;f;;f;8800210;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17851;Bruxelles-Chapelle;bruxelles-chapelle;8813037;;4.3486300000;50.8412260000;;f;BE;f;Europe/Brussels;t;;f;;f;8800211;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
-17852;Bruxelles-Congres;bruxelles-congres;8813045;;4.3622040000;50.8515190000;;f;BE;f;Europe/Brussels;t;;f;;f;8800212;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
+17851;Bruxelles-Chapelle;bruxelles-chapelle;8813037;;4.3486300000;50.8412260000;;f;BE;f;Europe/Brussels;t;;f;;f;8800211;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
+17852;Bruxelles-Congres;bruxelles-congres;8813045;;4.3622040000;50.8515190000;;f;BE;f;Europe/Brussels;t;;f;;f;8800212;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 17853;Buda;buda;8811148;;4.4178830000;50.9084200000;;f;BE;f;Europe/Brussels;t;;f;;f;8800213;t;;f;;f;;f;;f;;Belgique;Belgium;Belgien;Belgio;;;;;;;;;;;;;
 17854;Weerde;weerde;8822251;;4.4708380000;50.9775110000;;f;BE;f;Europe/Brussels;t;;f;;f;8800216;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17855;Duffel;duffel;8822210;;4.4928080000;51.0916300000;;f;BE;f;Europe/Brussels;t;BEDUF;f;;f;8800218;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -16602,7 +16602,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 18135;Mortsel-Liersesteenw;mortsel-liersesteenw;8821246;;4.4690320000;51.1692960000;;f;BE;f;Europe/Brussels;t;;f;;f;8800607;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18136;Simonis;simonis;8812013;;4.3306340000;50.8631690000;;f;BE;f;Europe/Brussels;t;;f;;f;8812013;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18137;Vivier d’Oie;vivier-doie;8814464;;4.3726580000;50.7960100000;;f;BE;f;Europe/Brussels;t;;f;;f;8814464;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18138;Bruxelles-West;bruxelles-west;8815040;;4.3213030000;50.8492260000;;f;BE;f;Europe/Brussels;t;;f;;f;8815040;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;;Brüksel;布鲁塞尔
+18138;Bruxelles-West;bruxelles-west;8815040;;4.3213030000;50.8492260000;;f;BE;f;Europe/Brussels;t;;f;;f;8815040;t;;f;;f;;f;;f;;;Brussels;Brüssel;;Brusel;;Bruselas;Brüsszel;ブリュッセル;브뤼셀;Brussel;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 18139;Schelle;schelle;8824232;;4.3402700000;51.1254650000;;f;BE;f;Europe/Brussels;t;;f;;f;8824232;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18140;Beverlo;beverlo;8832227;;5.2345890000;51.0890050000;;f;BE;f;Europe/Brussels;t;;f;;f;8832227;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18141;Halanzy;halanzy;8866530;;5.7432890000;49.5559840000;;f;BE;f;Europe/Brussels;t;;f;;f;8866530;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -17541,7 +17541,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19074;Kutno;kutno;5103220;;19.3486150000;52.2269580000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100032;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Кутно;;;库特娜
 19075;Legnica;legnica;5105300;;16.1689240000;51.2138470000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100035;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19076;Sopot;sopot;5100594;;18.5623200000;54.4401650000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100056;t;;f;;f;;f;;f;;;;Zoppot;;Sopoty;;;;ソポト;소포트;;;;Сопот;;;索波特
-19077;Szczecin Glowny;szczecin-glowny;5100027;;14.5503170000;53.4187840000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100057;t;;f;;f;;f;;f;;Stettin;Stettin;Stettin;Stettino;Štětín;;;;シュチェチン;슈체친;;;Estetino;Щецин;;;什切青
+19077;Szczecin Glowny;szczecin-glowny;5100027;;14.5503170000;53.4187840000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100057;t;;f;;f;;f;;f;;Stettin;Stettin;Stettin;Stettino;Štětín;Stettin;;;シュチェチン;슈체친;;;Estetino;Щецин;Stettin;;什切青
 19078;Tczew;tczew;5100711;;18.7901510000;54.0973170000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100061;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Тчев;;;
 19079;Warszawa Zachodnia;warszawa-zachodnia;5103350;;20.9652440000;52.2199740000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100067;t;;f;;f;;f;;f;;Varsovie;Warsaw;Warschau;Varsavia;;;;;;;;;;;;;
 19080;Wrocław Glowny;wroclaw-glowny;5106010;;17.0370840000;51.0980750000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100069;t;;f;;f;;f;;f;;;;Breslau;Breslavia;Vratislav;;;;ヴロツワフ;브로츠와프;;;;Врослав;;;弗罗茨瓦夫
@@ -17571,7 +17571,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19104;Hässleholm Central;hassleholm-central;7401707;;13.7639230000;56.1585160000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400006;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19105;Norrköping Central;norrkoping-central;7402930;;16.1836750000;58.5965620000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400007;t;;f;;f;;f;;f;;;;;;;;;;ノーショーピング;노르셰핑;;;;Норрчёпинг;;;北雪平
 19106;Linköping Central;linkoping-central;7402421;;15.6266760000;58.4160130000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400008;t;;f;;f;;f;;f;;;;;;;;;;リンシェーピング;린셰핑;;;;Линчёпинг;;;林雪平
-19107;Ängelholm Station;angelholm-station;7404828;;12.8541780000;56.2457030000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400013;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+19107;Ängelholm Station;angelholm-station;7404828;;12.8541780000;56.2457030000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400013;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;Ängelholms;;
 19108;Varberg Station;varberg-station;7404429;;12.2484130000;57.1093410000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400016;t;;f;;f;;f;;f;;;;;;;;;;ヴァールベリ;바르베리;;;;Варберг;;;瓦尔贝里
 19109;Nässjö Central;nassjo-central;7403012;;14.6947830000;57.6521280000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400017;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19110;Kungsbacka Station;kungsbacka-station;7402158;;12.0799380000;57.4901870000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400019;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -17581,7 +17581,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19114;Eslöv station;eslov-station;7400816;;13.3042860000;55.8362350000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400053;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19115;Karlshamn Station;karlshamn-station;7401944;;14.8678160000;56.1767730000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400075;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Карлсхамн;;;卡爾斯港
 19116;Karlskrona Central;karlskrona-central;7401948;;15.5852540000;56.1663190000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400076;t;;f;;f;;f;;f;;;;;;;;;;カールスクルーナ;칼스크로나;;;;Карлскруна;;;卡尔斯克鲁纳
-19117;Kristianstad Central;kristianstad-central;7402117;;14.1510520000;56.0317770000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400081;t;;f;;f;;f;;f;;;;;;;;;;クリシャンスタード;크리스티안스타드;;;;Кристианстад;;;克里斯蒂安斯塔德
+19117;Kristianstad Central;kristianstad-central;7402117;;14.1510520000;56.0317770000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400081;t;;f;;f;;f;;f;;;;;;;Christiansstad;;;クリシャンスタード;크리스티안스타드;;;;Кристианстад;;;克里斯蒂安斯塔德
 19118;Laholm station;laholm-station;7402288;;12.9985540000;56.5016440000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400083;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19119;Uppsala Central;uppsala-central;7404351;;17.6467500000;59.8580990000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400102;t;;f;;f;;f;;f;;;;;;;;Upsala;;ウプサラ;웁살라;;;;Уппсала;;;乌普萨拉
 19120;Sölvesborg station;solvesborg-station;7403989;;14.5839280000;56.0498730000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400127;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18452,13 +18452,13 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19992;Fagnano-Campana;fagnano-campana;8307420;;13.567796;42.248554;;;IT;f;Europe/Rome;t;;f;;f;8300795;f;;f;;f;8307420;t;;f;;;;;;;;;;;;;;;;;;
 19993;Dossobuono;dossobuono;8302330;;10.914621;45.392154;;;IT;f;Europe/Rome;t;;f;;f;8300685;f;;f;;f;8302330;t;;f;;;;;;;;;;;;;;;;;;
 19994;Druogno;druogno;8314002;;8.433913;46.133153;;;IT;f;Europe/Rome;t;;f;;f;8302809;f;;f;;f;8314002;t;;f;;;;;;;;;;;;;;;;;;
-19995;Firenze Rovezzano;firenze-rovezzano;8306901;;11.308699;43.768855;;;IT;f;Europe/Rome;t;;f;;f;8302795;f;;f;;f;8306901;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
-19996;Firenze Statuto;firenze-statuto;8306430;;11.249703;43.787319;;;IT;f;Europe/Rome;t;;f;;f;8301531;f;;f;;f;8306430;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
+19995;Firenze Rovezzano;firenze-rovezzano;8306901;;11.308699;43.768855;;;IT;f;Europe/Rome;t;;f;;f;8302795;f;;f;;f;8306901;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+19996;Firenze Statuto;firenze-statuto;8306430;;11.249703;43.787319;;;IT;f;Europe/Rome;t;;f;;f;8301531;f;;f;;f;8306430;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 19997;Fisciano;fisciano;8309519;;14.77565;40.761082;;;IT;f;Europe/Rome;t;;f;;f;8302537;f;;f;;f;8309519;t;;f;;;;;;;;;;;;;;;;;;
 19998;Nozzano;nozzano;8306351;;10.407935;43.830026;;;IT;f;Europe/Rome;t;;f;;f;8301814;f;;f;;f;8306351;t;;f;;;;;;;;;;;;;;;;;;
 19999;Fiorenzuola;fiorenzuola;8305007;;9.916827;44.929021;;;IT;f;Europe/Rome;t;;f;;f;8300235;f;;f;;f;8305007;t;;f;;;;;;;;;;;;;;;;;;
 20000;;;;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-20001;Firenze Castello;firenze-castello;8306419;;11.218313;43.8195;;;IT;f;Europe/Rome;t;;f;;f;8301503;f;;f;;f;8306419;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
+20001;Firenze Castello;firenze-castello;8306419;;11.218313;43.8195;;;IT;f;Europe/Rome;t;;f;;f;8301503;f;;f;;f;8306419;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 20002;;;;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 20003;Galliera Veneta-Tombolo;galliera-veneta-tombolo;8302541;;11.827718;45.652787;;;IT;f;Europe/Rome;t;;f;;f;8301598;f;;f;;f;8302541;t;;f;;;;;;;;;;;;;;;;;;
 20004;Genova Sturla;genova-sturla;8304703;;8.981473;44.397875;;;IT;f;Europe/Rome;t;;f;;f;8301594;f;;f;;f;8304703;t;;f;;;;;;;;;;;;;;;;;;
@@ -18922,7 +18922,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20463;Samassi-Serrenti;samassi-serrenti;8312885;;8.899069;39.482951;;;IT;f;Europe/Rome;t;;f;;f;8302130;f;;f;;f;8312885;t;;f;;;;;;;;;;;;;;;;;;
 20464;Samoggia;samoggia;8305039;;11.132313;44.571681;;;IT;f;Europe/Rome;t;;f;;f;8302062;f;;f;;f;8305039;t;;f;;;;;;;;;;;;;;;;;;
 20465;Sampieri;sampieri;8312419;;14.744601;36.731901;;;IT;f;Europe/Rome;t;;f;;f;8302686;f;;f;;f;8312419;t;;f;;;;;;;;;;;;;;;;;;
-20466;San Remo;san-remo;8304505;;7.784343;43.829038;;;IT;f;Europe/Rome;t;ITSRE;f;;f;8300182;f;;f;;f;8304505;t;;f;;Sanremo;Sanremo;Sanremo;Sanremo;Sanremo;;Sanremo;;サンレーモ;;;Sanremo;Sanremo;Сан-Ремо;;;
+20466;San Remo;san-remo;8304505;;7.784343;43.829038;;;IT;f;Europe/Rome;t;ITSRE;f;;f;8300182;f;;f;;f;8304505;t;;f;;Sanremo;Sanremo;Sanremo;Sanremo;Sanremo;;Sanremo;;サンレーモ;;;Sanremo;Sanremo;Сан-Ремо;Sanremo;;
 20467;Saluggia;saluggia;8300235;;8.017236;45.234303;;;IT;f;Europe/Rome;t;;f;;f;8302059;f;;f;;f;8300235;t;;f;;;;;;;;;;;;;;;;;;
 20468;Salussola;salussola;8300074;;8.11502;45.445172;;;IT;f;Europe/Rome;t;;f;;f;8302065;f;;f;;f;8300074;t;;f;;;;;;;;;;;;;;;;;;
 20469;Sipicciano;sipicciano;8308300;;12.255002;42.546367;;;IT;f;Europe/Rome;t;;f;;f;8302128;f;;f;;f;8308300;t;;f;;;;;;;;;;;;;;;;;;
@@ -18988,7 +18988,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20529;Ponte Schiavo;ponte-schiavo;8312060;;15.494059;38.080616;;;IT;f;Europe/Rome;t;;f;;f;8312060;f;;f;;f;8312060;t;;f;;;;;;;;;;;;;;;;;;
 20530;Malpensa Aeroporto;malpensa-aeroporto;8325635;;8.711086;45.62724;;;IT;f;Europe/Rome;t;;f;;f;8303905;f;;f;;f;8325635;t;;f;;;;;;;;;;;;;;;;;;
 20531;Fratte-Villa Comunale;fratte-villa-comunale;8309534;;14.778014;40.69645;;;IT;f;Europe/Rome;t;;f;;f;8391590;f;;f;;f;8309534;t;;f;;;;;;;;;;;;;;;;;;
-20532;Siracusa;siracusa;8312349;;15.281733;37.068907;;;IT;f;Europe/Rome;t;ITAYX;f;;f;8300338;f;;f;;f;8312349;t;;f;;Syracuse;Syracuse;Syrakus;;Syrakusy;;;;シラクサ;시라쿠사;Syracuse;Syrakuzy;;Сиракуза;;Siraküza;锡拉库扎
+20532;Siracusa;siracusa;8312349;;15.281733;37.068907;;;IT;f;Europe/Rome;t;ITAYX;f;;f;8300338;f;;f;;f;8312349;t;;f;;Syracuse;Syracuse;Syrakus;;Syrakusy;Syrakus;;;シラクサ;시라쿠사;Syracuse;Syrakuzy;;Сиракуза;Syrakusa;Siraküza;锡拉库扎
 20533;Sagrado;sagrado;8303307;;13.483693;45.872286;;;IT;f;Europe/Rome;t;;f;;f;8302112;f;;f;;f;8303307;t;;f;;;;;;;;;;;;;;;;;;
 20534;;;;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 20535;Vernante;vernante;8300616;;7.536079;44.244726;;;IT;f;Europe/Rome;t;;f;;f;8300390;f;;f;;f;8300616;t;;f;;;;;;;;;;;;;;;;;;
@@ -20113,7 +20113,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21658;;;;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 21659;Fiumelatte;fiumelatte;8301412;;9.29277;45.9991;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301412;t;;f;;;;;;;;;;;;;;;;;;
 21660;Fiumetorto;fiumetorto;8312015;;13.7749;37.9666;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312015;t;;f;;;;;;;;;;;;;;;;;;
-21661;Firenze Cascine;firenze-cascine;8306515;;11.2278;43.7824;;;IT;f;Europe/Rome;t;ITFCA;f;;f;;f;;f;;f;8306515;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
+21661;Firenze Cascine;firenze-cascine;8306515;;11.2278;43.7824;;;IT;f;Europe/Rome;t;ITFCA;f;;f;;f;;f;;f;8306515;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 21662;Gamberale;gamberale;8351003;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;8351003;t;;f;;;;;;;;;;;;;;;;;;
 21663;Gallipoli;gallipoli;8341091;;17.9911;40.0583;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8341091;t;;f;;;;;;;;;;;;;;;Галлиполи;;;
 21664;Gallitello;gallitello;8312115;;12.9489;37.8579;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312115;t;;f;;;;;;;;;;;;;;;;;;
@@ -20455,7 +20455,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22000;Vallo della Lucania-Castelnuovo;vallo-della-lucania-castelnuovo;8311709;;15.158419;40.229631;;;IT;f;Europe/Rome;t;ITVDL;f;;f;8300345;f;;f;;f;8311709;t;;f;;;;;;;;;;;;;;;;;;
 22001;Valmozzola;valmozzola;8306157;;9.94249;44.5795;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8306157;t;;f;;;;;;;;;;;;;;;;;;
 22002;Valvasone;valvasone;8303061;;12.8711;46.0004;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8303061;t;;f;;;;;;;;;;;;;;;;;;
-22003;Firenze San Marco Vecchio;firenze-san-marco-vecchio;8306950;;11.2677;43.791;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8306950;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;;Floransa;佛罗伦萨
+22003;Firenze San Marco Vecchio;firenze-san-marco-vecchio;8306950;;11.2677;43.791;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8306950;t;;f;;Florence;Florence;Florenz;;Florencie;;Florencia;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 22004;Nocera Inferiore Mercato;nocera-inferiore-mercato;8309709;;14.6497;40.746;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309709;t;;f;;;;;;;;;;;;;;;;;;
 22005;Rio di Pusteria;rio-di-pusteria;8302102;;11.6698;46.7972;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8302102;t;;f;;;Mühlbach;Mühlbach;;;;;;リオ・ディ・プステリーア;;Mühlbach;;;;;;
 22006;Bosco (Cs);bosco-cs;8354250;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;8354250;t;;f;;;;;;;;;;;;;;;;;;
