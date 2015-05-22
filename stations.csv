@@ -8998,7 +8998,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 10491;Warszawa;warszawa;9900001;;;;;t;PL;f;Europe/Warsaw;f;PLWAG;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10492;Warszawa-Wschodnia;warszawa-wschodnia;5103865;;21.052332;52.251544;10491;f;PL;f;Europe/Warsaw;t;PLWWW;f;;f;5100066;t;;f;;f;;f;;f;;Varsovie;Warsaw;Warschau;Varsavia;;;;;;;;;;;;;
 10493;Warszawa-Centralna;warszawa-centralna;5118788;;21.003233;52.228864;10491;f;PL;f;Europe/Warsaw;t;PLWCE;f;;f;5100065;t;;f;;f;;f;;f;;Varsovie;Warsaw;Warschau;Varsavia;;;;;;;;;;;;;
-10494;Moskva-Belorusskaya (Moscou);moskva-belorusskaya-moscou;2018828;;;;;f;RU;f;Europe/Moscow;f;RUDME;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+10494;Moskva-Belorusskaya;moskva-belorusskaya;2018828;;;;;f;RU;f;Europe/Moscow;f;RUDME;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10495;Saarbrücken;saarbrucken;;;;;;t;DE;f;Europe/Berlin;f;DESAK;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10496;Belfort—Montbéliard TGV;belfort-montbeliard-tgv;8730082;87300822;6.897629;47.585935;10610;f;FR;f;Europe/Paris;t;FRTJA;t;;f;8730082;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10497;La Voulte Cité;la-voulte-cite;8733870;;4.793147;44.81457;5667;f;FR;f;Europe/Paris;t;FRVTE;t;;f;8705299;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
