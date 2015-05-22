@@ -17577,7 +17577,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19110;Kungsbacka Station;kungsbacka-station;7402158;;12.0799380000;57.4901870000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400019;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19111;Mjölby Station;mjolby-station;7402693;;15.1319190000;58.3228310000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400021;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19112;Älmhult station;almhult-station;7404801;;14.1372630000;56.5509940000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400028;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-19113;Baastad station;baastad-station;7400563;;12.8687230000;56.4250190000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400041;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+19113;Båstad station;bastad-station;7400563;;12.8687230000;56.4250190000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400041;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19114;Eslöv station;eslov-station;7400816;;13.3042860000;55.8362350000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400053;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19115;Karlshamn Station;karlshamn-station;7401944;;14.8678160000;56.1767730000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400075;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Карлсхамн;;;卡爾斯港
 19116;Karlskrona Central;karlskrona-central;7401948;;15.5852540000;56.1663190000;;f;SE;f;Europe/Stockholm;t;;f;;f;7400076;t;;f;;f;;f;;f;;;;;;;;;;カールスクルーナ;칼스크로나;;;;Карлскруна;;;卡尔斯克鲁纳
