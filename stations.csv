@@ -15992,8 +15992,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17515;København;kobenhavn;8600626;;12.564618;55.672721;;f;DK;f;Europe/Copenhagen;t;DKCPH;f;;f;8601309;t;;f;;f;;f;;f;;Copenhague;Copenhagen;Kopenhagen;Copenaghen;Kodaň;;Copenhague;Koppenhága;コペンハーゲン;코펜하겐;Kopenhagen;Kopenhaga;Copenhaga;Копенгаген;Köpenhamn;Kopenhag;哥本哈根
 17516;Odense St.;odense-st;8600512;;10.386001;55.401777;;f;DK;f;Europe/Copenhagen;t;DKACT;f;;f;8601770;t;;f;;f;;f;;f;;;;;;;;;;オーデンセ;오덴세;;;;Оденсе;;;欧登塞
 17517;Roskilde St.;roskilde-st;8600617;;12.088855;55.639012;;f;DK;f;Europe/Copenhagen;t;DKADC;f;;f;8602026;t;;f;;f;;f;;f;;;;;;;;;;ロスキレ;로스킬레;;;;Роскилле;;;罗斯基勒
-17518;Gdansk Glowny;gdansk-glowny;5100750;;18.643807;54.355523;;f;PL;f;Europe/Warsaw;t;PLGAW;f;;f;5100009;t;;f;;f;;f;;f;;Dantzig;Danzig;Danzig;Danzica;Gdaňsk;;;Gdańsk;グダニスク;그단스크;;;Gdańsk;Гданьск;;;格但斯克
-17519;Lodz Kaliska;lodz-kaliska;5104670;;19.430884;51.757416;;f;PL;f;Europe/Warsaw;t;PLABQ;f;;f;5100039;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17518;Gdańsk Główny;gdansk-glowny;5100750;;18.643807;54.355523;;f;PL;f;Europe/Warsaw;t;PLGAW;f;;f;5100009;t;;f;;f;;f;;f;;Dantzig;Danzig;Danzig;Danzica;Gdaňsk;;;Gdańsk;グダニスク;그단스크;;;Gdańsk;Гданьск;;;格但斯克
+17519;Lodź Kaliska;lodz-kaliska;5104670;;19.430884;51.757416;;f;PL;f;Europe/Warsaw;t;PLABQ;f;;f;5100039;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17520;Göteborg Central;goteborg-central;7401318;;11.973424;57.709308;;f;SE;f;Europe/Stockholm;t;SEGOT;f;;f;7400003;t;;f;;f;;f;;f;;;Gothenburg;;;;;Gotemburgo;;ヨーテボリ;예테보리;Gotenburg;;Gotemburgo;Гётеборг;;;哥德堡
 17521;Halmstad Central;halmstad-central;7401380;;12.8643;56.669211;;f;SE;f;Europe/Stockholm;t;SEACM;f;;f;7400014;t;;f;;f;;f;;f;;;;;;;;;;ハルムスタッド;할름스타드;;;;Хальмстад;;;哈尔姆斯塔德
 17522;Helsingborg Central;helsingborg-central;7401688;;12.695069;56.043688;;f;SE;f;Europe/Stockholm;t;SEAGH;f;;f;7400154;t;;f;;f;;f;;f;;;;;;;;;;ヘルシンボリ;헬싱보리;;;;Хельсингборг;;;赫尔辛堡
@@ -16049,8 +16049,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17581;Dronten;dronten;8400198;;5.7216430000;52.5342540000;;f;NL;f;Europe/Amsterdam;t;NLDAI;f;;f;8400198;t;;f;;f;;f;;f;;;;;;;;;;ドロンテン;;;;;Дронтен;;;
 17582;St. Valentin;st-valentin;8101061;;14.5218480000;48.1791430000;;f;AT;f;Europe/Vienna;t;ATAAK;f;;f;8100009;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17583;Berlin Hbf (Europaplatz);berlin-hbf-europaplatz;;;13.3690810000;52.5261550000;7527;f;DE;f;Europe/Berlin;f;;f;;f;8070952;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17584;Kraków Glowny;krakow-glowny;5100214;;19.9474230000;50.0671920000;;f;PL;t;Europe/Warsaw;t;PLKRK;f;;f;5100028;t;;f;;f;;f;;f;;Cracovie;Krakow;Krakau;Cracovia;Krakov;;Cracovia;Krakkó;クラクフ;크라쿠프;;;Cracóvia;Краков;;;克拉科夫
-17585;Kraków Glowny (Bus);krakow-glowny-bus;;;19.9495800000;50.0679020000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104621;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17584;Kraków Główny;krakow-glowny;5100214;;19.9474230000;50.0671920000;;f;PL;t;Europe/Warsaw;t;PLKRK;f;;f;5100028;t;;f;;f;;f;;f;;Cracovie;Krakow;Krakau;Cracovia;Krakov;;Cracovia;Krakkó;クラクフ;크라쿠프;;;Cracóvia;Краков;;;克拉科夫
+17585;Kraków Główny (Bus);krakow-glowny-bus;;;19.9495800000;50.0679020000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104621;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17587;Praha (Prague);praha-prague;;;14.4514810000;50.0819250000;;t;CZ;f;Europe/Prague;f;CSPRG;f;;f;5496001;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17588;Praha hl.n.Wilsonova;praha-hl-n-wilsonova;;;14.4346170000;50.0833720000;17587;f;CZ;f;Europe/Prague;f;;f;;f;5471014;t;;f;;f;;f;;f;17509;;;;;;;;;;;;;;;;;
 17589;München ZOB (Hackerbrücke);munchen-zob-hackerbrucke;;;11.5498620000;48.1422690000;7686;f;DE;f;Europe/Berlin;f;;f;;f;8089317;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -17532,29 +17532,29 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19065;Weert;weert;8400684;;5.7049140000;51.2487970000;;f;NL;f;Europe/Amsterdam;t;NLABG;f;;f;8400684;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Верт;;;
 19066;Zutphen;zutphen;8400744;;6.1941430000;52.1448330000;;f;NL;f;Europe/Amsterdam;t;;f;;f;8400744;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Зютфен;;;
 19067;Heerlen;heerlen;8400307;;5.9758390000;50.8906940000;;f;NL;f;Europe/Amsterdam;t;;f;;f;8400307;t;;f;;f;;f;;f;;;;;;;;;;;;;;Coriovalo;;;;
-19068;Bydgoszcz Glowna;bydgoszcz-glowna;5101840;;17.9916400000;53.1351110000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100005;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-19069;Gdynia Glowna;gdynia-glowna;5100590;;18.5295540000;54.5208430000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100010;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+19068;Bydgoszcz Główna;bydgoszcz-glowna;5101840;;17.9916400000;53.1351110000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100005;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+19069;Gdynia Główna;gdynia-glowna;5100590;;18.5295540000;54.5208430000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100010;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19070;Gniezno;gniezno;5103080;;17.6017860000;52.5264340000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100013;t;;f;;f;;f;;f;;;;;;Hnězdno;;;;グニェズノ;그니에즈노;;;;Гнезно;;;格涅兹诺
-19071;Inowroclaw;inowroclaw;5101870;;18.2391840000;52.8014050000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100015;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+19071;Inowrocław;inowroclaw;5101870;;18.2391840000;52.8014050000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100015;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19072;Katowice;katowice;5107331;;19.0171650000;50.2575110000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100020;t;;f;;f;;f;;f;;;;Kattowitz;;Katovice;;;;カトヴィツェ;카토비체;;;;Катовице;;;卡托维兹
 19073;Konin;konin;5103310;;18.2533330000;52.2313990000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100026;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Конин;;;
 19074;Kutno;kutno;5103220;;19.3486150000;52.2269580000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100032;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Кутно;;;库特娜
 19075;Legnica;legnica;5105300;;16.1689240000;51.2138470000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100035;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19076;Sopot;sopot;5100594;;18.5623200000;54.4401650000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100056;t;;f;;f;;f;;f;;;;Zoppot;;Sopoty;;;;ソポト;소포트;;;;Сопот;;;索波特
-19077;Szczecin Glowny;szczecin-glowny;5100027;;14.5503170000;53.4187840000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100057;t;;f;;f;;f;;f;;Stettin;Stettin;Stettin;Stettino;Štětín;Stettin;;;シュチェチン;슈체친;;;Estetino;Щецин;Stettin;;什切青
+19077;Szczecin Główny;szczecin-glowny;5100027;;14.5503170000;53.4187840000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100057;t;;f;;f;;f;;f;;Stettin;Stettin;Stettin;Stettino;Štětín;Stettin;;;シュチェチン;슈체친;;;Estetino;Щецин;Stettin;;什切青
 19078;Tczew;tczew;5100711;;18.7901510000;54.0973170000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100061;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Тчев;;;
 19079;Warszawa Zachodnia;warszawa-zachodnia;5103350;;20.9652440000;52.2199740000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100067;t;;f;;f;;f;;f;;Varsovie;Warsaw;Warschau;Varsavia;;;;;;;;;;;;;
-19080;Wrocław Glowny;wroclaw-glowny;5106010;;17.0370840000;51.0980750000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100069;t;;f;;f;;f;;f;;;;Breslau;Breslavia;Vratislav;;;;ヴロツワフ;브로츠와프;;;;Врослав;;;弗罗茨瓦夫
-19081;Zbaszynek;zbaszynek;5102610;;15.8180930000;52.2425090000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100071;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+19080;Wrocław Główny;wroclaw-glowny;5106010;;17.0370840000;51.0980750000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100069;t;;f;;f;;f;;f;;;;Breslau;Breslavia;Vratislav;;;;ヴロツワフ;브로츠와프;;;;Врослав;;;弗罗茨瓦夫
+19081;Zbąszynek;zbaszynek;5102610;;15.8180930000;52.2425090000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100071;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19082;Rzepin;rzepin;5102580;;14.8150760000;52.3502180000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100082;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19083;Kostrzyn;kostrzyn;5101300;;14.6446950000;52.5915970000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100214;t;;f;;f;;f;;f;;;;Küstrin;;;;;;コストシン・ナド・オドロン;;;;;Костшин;;;科斯琴
-19084;Zary;zary;5104155;;15.1369620000;51.6347490000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100243;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+19084;Żary;zary;5104155;;15.1369620000;51.6347490000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100243;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19085;Krzewina Zgorzelecka;krzewina-zgorzelecka;5105285;;14.9393610000;51.0153560000;;f;PL;f;Europe/Warsaw;t;;f;;f;5100244;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-19086;Swiebodzin;swiebodzin;5102810;;15.5395350000;52.2451430000;;f;PL;f;Europe/Warsaw;t;;f;;f;5103284;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Свиебоджин;;;
+19086;Świebodzin;swiebodzin;5102810;;15.5395350000;52.2451430000;;f;PL;f;Europe/Warsaw;t;;f;;f;5103284;t;;f;;f;;f;;f;;;;;;;;;;;;;;;Свиебоджин;;;
 19087;Warszawa Zachodnia WKD;warszawa-zachodnia-wkd;;;20.9653970000;52.2196590000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104223;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19088;Warszawa Zachodnia (peron 8);warszawa-zachodnia-peron-8;;;20.9613160000;52.2213220000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104228;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19089;Katowice Dworzec autobusowy Piotra Skargi 8;katowice-dworzec-autobusowy-piotra-skargi-8;;;19.0171830000;50.2626800000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104614;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-19090;Wroclaw Glowny (Dworzec autobusovy Sucha 1-11);wroclaw-glowny-dworzec-autobusovy-sucha-1-11;;;17.0339470000;51.0965560000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104651;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+19090;Wrocław Główny (Dworzec autobusowy Sucha 1-11);wroclaw-glowny-dworzec-autobusovy-sucha-1-11;;;17.0339470000;51.0965560000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104651;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 19091;Świnoujście Centrum;swinoujscie-centrum;5189954;;14.2360000000;53.9129930000;;f;PL;f;Europe/Warsaw;t;;f;;f;5189954;t;;f;;f;;f;;f;;;;;;;;;;シフィノウイシチェ;시비노우이시치에;;;;Свиноуйсьце;;;希維諾烏伊希切
 19092;Jesenice;jesenice;7942400;;14.0533040000;46.4363500000;;f;SI;f;Europe/Ljubljana;t;;f;;f;7900001;t;;f;;f;;f;;f;;Slovénie;Slovenia;Slowenien;Slovenia;;;;;イェセニツェ;;;;;;;;
 19093;Lesce Bled;lesce-bled;7942313;;14.1576320000;46.3604270000;;f;SI;f;Europe/Ljubljana;t;;f;;f;7900002;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -21453,8 +21453,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23008;København Ingerslgd;kobenhavn-ingerslgd;;;;;;f;DK;f;Europe/Copenhagen;f;;f;;f;8602989;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23009;Rostock Seehaf Fähre;rostock-seehaf-fahre;;;;;;f;DE;f;Europe/Berlin;f;;f;;f;8089326;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23010;Chojnice;chojnice;;;;;;f;PL;f;Europe/Warsaw;f;;f;;f;5100304;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-23011;Krzyz;krzyz;;;;;;f;PL;f;Europe/Warsaw;f;;f;;f;5100030;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-23012;Opole Glowne;opole-glowne;;;;;;f;PL;f;Europe/Warsaw;f;;f;;f;5100046;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+23011;Krzyż;krzyz;;;;;;f;PL;f;Europe/Warsaw;f;;f;;f;5100030;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+23012;Opole Główne;opole-glowne;;;;;;f;PL;f;Europe/Warsaw;f;;f;;f;5100046;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23013;Wien Matzleinsd. Pl.;wien-matzleinsd-pl;;;;;;f;AT;f;Europe/Vienna;f;;f;;f;8101227;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23014;Wien Matzleinsd. Pl.T;wien-matzleinsd-pl-t;;;;;;f;AT;f;Europe/Vienna;f;;f;;f;8100385;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23015;Frankfurt (Oder);frankfurt-oder;8003171;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;7730;;;;;;;;;;;;;;;;;
