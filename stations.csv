@@ -15979,13 +15979,13 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17501;Steyr;steyr;8101530;;14.4249450000;48.0394050000;;f;AT;f;Europe/Vienna;t;ATAAL;f;;f;8100010;t;;f;;f;;f;;f;;;;;;;;;;シュタイアー;슈타이어;;;;Штайр;;;施泰爾
 17502;Wels Hbf;wels-hbf;8101081;;14.0265610000;48.1658740000;;f;AT;f;Europe/Vienna;t;ATAAO;f;;f;8100014;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;;;;;;Вельс;;;
 17503;Brno hl.n.;brno-hl-n;5433295;;16.612775;49.190537;;f;CZ;f;Europe/Prague;t;CSABJ;f;;f;5400001;t;;f;;f;;f;;f;;;;Brünn;;;;;Brünn;ブルノ;브르노;;;;Брно;;;布爾諾
-17505;Decin hl.n.;decin-hl-n;5455659;;14.201248;50.773411;;f;CZ;f;Europe/Prague;t;CSADJ;f;;f;5400003;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17505;Děčín hl.n.;decin-hl-n;5455659;;14.201248;50.773411;;f;CZ;f;Europe/Prague;t;CSADJ;f;;f;5400003;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17506;Karlovy Vary;karlovy-vary;5475875;;12.866853;50.235668;;f;CZ;f;Europe/Prague;t;CSAHA;f;;f;5400006;t;;f;;f;;f;;f;;;;Karlsbad;;;;;;カルロヴィ・ヴァリ;카를로비바리;Karlsbad;Karlowe Wary;;Карловы Вары;;Karlsbad;卡罗维发利
 17507;Liberec;liberec;5454212;;15.045946;50.761429;;f;CZ;f;Europe/Prague;t;CSAIT;f;;f;5400198;t;;f;;f;;f;;f;;;;;;;;;;リベレツ;리베레츠;;;;Либерец;;;利贝雷茨
 17508;Olomouc hl.n.;olomouc-hl-n;5434362;;17.277932;49.593128;;f;CZ;f;Europe/Prague;t;CSALY;f;;f;5400010;t;;f;;f;;f;;f;;;;Olmütz;;;;;Olmütz;オロモウツ;올로모우츠;;Ołomuniec;;Оломоуц;;;奧洛穆克
 17509;Praha hl.n.;praha-hl-n;5457076;;14.436037;50.083058;17587;f;CZ;f;Europe/Prague;t;CSANS;f;;f;5400014;t;;f;;f;;f;;f;;Prague;Prague;Prag;Praga;;Prag;Praga;Prága;プラハ;프라하;Praag;Praga;Praga;Прага;Prag;Prag;布拉格
-17510;Teplice v Cechach;teplice-v-cechach;5453289;;13.828807;50.646762;;f;CZ;f;Europe/Prague;t;CSARB;f;;f;5400101;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17511;Usti nad Labem hl.n.;usti-nad-labem-hl-n;5453179;;14.044728;50.659563;;f;CZ;f;Europe/Prague;t;CSARZ;f;;f;5400019;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17510;Teplice v Čechách;teplice-v-cechach;5453289;;13.828807;50.646762;;f;CZ;f;Europe/Prague;t;CSARB;f;;f;5400101;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17511;Ústi nad Labem hl.n.;usti-nad-labem-hl-n;5453179;;14.044728;50.659563;;f;CZ;f;Europe/Prague;t;CSARZ;f;;f;5400019;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17512;Aalborg St.;aalborg-st;8600020;;9.916486;57.043127;;f;DK;f;Europe/Copenhagen;t;DKAAH;f;;f;8600004;t;;f;;f;;f;;f;;;;;;;;;;オールボー;올보르;;;;Ольборг;Ålborg;;奥尔堡
 17513;Aarhus;aarhus;8600053;;10.204995;56.150075;;f;DK;f;Europe/Copenhagen;t;DKAAO;f;;f;8600087;t;;f;;f;;f;;f;;Århus;;Århus;Århus;Århus;Århus;Århus;;オーフス;;Århus;Århus;;Орхус;Århus;Århus;
 17514;Kolding St.;kolding-st;8600083;;9.481525;55.490842;;f;DK;f;Europe/Copenhagen;t;DKAAU;f;;f;8601318;t;;f;;f;;f;;f;;;;;;;;;;コリング;콜링;;;;Кольдинг;;;科靈
@@ -16051,8 +16051,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17583;Berlin Hbf (Europaplatz);berlin-hbf-europaplatz;;;13.3690810000;52.5261550000;7527;f;DE;f;Europe/Berlin;f;;f;;f;8070952;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17584;Kraków Główny;krakow-glowny;5100214;;19.9474230000;50.0671920000;;f;PL;t;Europe/Warsaw;t;PLKRK;f;;f;5100028;t;;f;;f;;f;;f;;Cracovie;Krakow;Krakau;Cracovia;Krakov;;Cracovia;Krakkó;クラクフ;크라쿠프;;;Cracóvia;Краков;;;克拉科夫
 17585;Kraków Główny (Bus);krakow-glowny-bus;;;19.9495800000;50.0679020000;;f;PL;f;Europe/Warsaw;f;;f;;f;5104621;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17587;Praha (Prague);praha-prague;;;14.4514810000;50.0819250000;;t;CZ;f;Europe/Prague;f;CSPRG;f;;f;5496001;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17588;Praha hl.n.Wilsonova;praha-hl-n-wilsonova;;;14.4346170000;50.0833720000;17587;f;CZ;f;Europe/Prague;f;;f;;f;5471014;t;;f;;f;;f;;f;17509;;;;;;;;;;;;;;;;;
+17587;Praha;praha;;;14.4514810000;50.0819250000;;t;CZ;f;Europe/Prague;f;CSPRG;f;;f;5496001;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17588;Praha hl.n. Wilsonova;praha-hl-n-wilsonova;;;14.4346170000;50.0833720000;17587;f;CZ;f;Europe/Prague;f;;f;;f;5471014;t;;f;;f;;f;;f;17509;;;;;;;;;;;;;;;;;
 17589;München ZOB (Hackerbrücke);munchen-zob-hackerbrucke;;;11.5498620000;48.1422690000;7686;f;DE;f;Europe/Berlin;f;;f;;f;8089317;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17590;Mannheim Hbf (busbf);mannheim-hbf-busbf;;;8.46891700000;49.4793510000;7478;f;DE;f;Europe/Berlin;f;;f;;f;8070044;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17591;Leipzig Hbf (tief);leipzig-hbf-tief;;;12.3833330000;51.3465460000;16756;f;DE;f;Europe/Berlin;f;;f;;f;8098205;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -17041,24 +17041,24 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 18574;Visp;visp;8501605;;7.8814540000;46.2940240000;;f;CH;f;Europe/Zurich;t;CHZLB;t;;f;8501605;t;;f;;f;;f;;f;;Viège;;;;;;;;;;;;;;;;
 18575;Lauterbrunnen;lauterbrunnen;8507384;;7.9086100000;46.5989110000;;f;CH;f;Europe/Zurich;t;CHAKE;f;;f;8507384;t;;f;;f;;f;;f;;;;;;;;;;ラウターブルンネン;라우터브루넨;;;;Лаутербруннен;;;盧達本納
 18576;Interlaken Ost;interlaken-ost;8507492;85074922;7.8689770000;46.6906910000;;f;CH;f;Europe/Zurich;t;CHZTG;t;;f;8507492;t;;f;;f;;f;;f;;;;;;;;Entrelagos;;インターラーケン;인터라켄;;;;Интерлакен;;;因特拉肯
-18577;Plzen hl.n.;plzen-hl-n;5473275;;13.3882460000;49.7431670000;;f;CZ;f;Europe/Prague;t;;f;;f;5400012;t;;f;;f;;f;;f;;Pilsen;Pilsen;Pilsen;Pilsen;Plzeň;;Pilsen;Plzeň;プルゼニ;플젠;Pilsen;Pilzno;Plzeň;Пльзень;;;比尔森
-18578;Kolin;kolin;5453414;;15.2135320000;50.0254010000;;f;CZ;f;Europe/Prague;t;;f;;f;5400022;t;;f;;f;;f;;f;;République Tchèque;Czech Republic;Tschechien;Repubblica Ceca;;;;;;;;;;;;;
-18579;Ceska Lipa hl.n.;ceska-lipa-hl-n;5456809;;14.5409500000;50.6790790000;;f;CZ;f;Europe/Prague;t;;f;;f;5400045;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18580;Praha-Liben;praha-liben;5457176;;14.5014340000;50.1012610000;;f;CZ;f;Europe/Prague;t;;f;;f;5400130;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18577;Plzeň hl.n.;plzen-hl-n;5473275;;13.3882460000;49.7431670000;;f;CZ;f;Europe/Prague;t;;f;;f;5400012;t;;f;;f;;f;;f;;Pilsen;Pilsen;Pilsen;Pilsen;Plzeň;;Pilsen;Plzeň;プルゼニ;플젠;Pilsen;Pilzno;Plzeň;Пльзень;;;比尔森
+18578;Kolín;kolin;5453414;;15.2135320000;50.0254010000;;f;CZ;f;Europe/Prague;t;;f;;f;5400022;t;;f;;f;;f;;f;;République Tchèque;Czech Republic;Tschechien;Repubblica Ceca;;;;;;;;;;;;;
+18579;Česka Lípa hl.n.;ceska-lipa-hl-n;5456809;;14.5409500000;50.6790790000;;f;CZ;f;Europe/Prague;t;;f;;f;5400045;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18580;Praha-Libeň;praha-liben;5457176;;14.5014340000;50.1012610000;;f;CZ;f;Europe/Prague;t;;f;;f;5400130;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18581;Pardubice hl.n.;pardubice-hl-n;5453613;;15.7587100000;50.0312620000;;f;CZ;f;Europe/Prague;t;CSAMP;f;;f;5400161;t;;f;;f;;f;;f;;;;;;;;;;パルドゥビツェ;파르두비체;;;;Пардубице;;;帕尔杜比采
-18582;Praha-Holesovice;praha-holesovice;5457256;;14.4400100000;50.1102140000;;f;CZ;f;Europe/Prague;t;CSANR;f;;f;5400201;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18583;Praha-Smichov;praha-smichov;5457226;;14.4088720000;50.0614840000;;f;CZ;f;Europe/Prague;t;;f;;f;5400204;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18584;Praha-Vrsovice;praha-vrsovice;5457276;;14.4570630000;50.0611690000;;f;CZ;f;Europe/Prague;t;;f;;f;5400275;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18582;Praha-Holešovice;praha-holesovice;5457256;;14.4400100000;50.1102140000;;f;CZ;f;Europe/Prague;t;CSANR;f;;f;5400201;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18583;Praha-Smíchov;praha-smichov;5457226;;14.4088720000;50.0614840000;;f;CZ;f;Europe/Prague;t;;f;;f;5400204;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18584;Praha-Vršovice;praha-vrsovice;5457276;;14.4570630000;50.0611690000;;f;CZ;f;Europe/Prague;t;;f;;f;5400275;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18585;Praha-Dejvice;praha-dejvice;5457066;;14.3996850000;50.0972880000;;f;CZ;f;Europe/Prague;t;;f;;f;5400277;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18586;Nove Udoli;nove-udoli;5473952;;13.7955650000;48.8314810000;;f;CZ;f;Europe/Prague;t;;f;;f;5402195;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18587;Praha-Bubenec;praha-bubenec;5457026;;14.4086290000;50.1073290000;;f;CZ;f;Europe/Prague;t;;f;;f;5402489;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18586;Nove Údolí;nove-udoli;5473952;;13.7955650000;48.8314810000;;f;CZ;f;Europe/Prague;t;;f;;f;5402195;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18587;Praha-Bubeneč;praha-bubenec;5457026;;14.4086290000;50.1073290000;;f;CZ;f;Europe/Prague;t;;f;;f;5402489;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18588;Praha-Bubny;praha-bubny;5457036;;14.4240640000;50.1003890000;;f;CZ;f;Europe/Prague;t;;f;;f;5402490;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18589;Praha-Smichov sev.n.;praha-smichov-sev-dot-n;;;14.4063640000;50.0632280000;;f;CZ;f;Europe/Prague;f;;f;;f;5402512;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18590;Praha-Strasnice zast.;praha-strasnice-zast;5457306;;14.4958960000;50.0629670000;;f;CZ;f;Europe/Prague;t;;f;;f;5402514;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18589;Praha-Smíchov sev.n.;praha-smichov-sev-n;;;14.4063640000;50.0632280000;;f;CZ;f;Europe/Prague;f;;f;;f;5402512;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18590;Praha-Strašnice zastávka;praha-strasnice-zastavka;5457306;;14.4958960000;50.0629670000;;f;CZ;f;Europe/Prague;t;;f;;f;5402514;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18591;Praha-Zbraslav;praha-zbraslav;5455536;;14.4023550000;49.9681400000;;f;CZ;f;Europe/Prague;t;;f;;f;5402518;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18592;Praha Nadrazi Holesovice (M);praha-nadrazi-holesovice-m;;;14.4400100000;50.1102140000;;f;CZ;f;Europe/Prague;f;;f;;f;5480000;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18593;Praha Smichovske nadrazi (M);praha-smichovske-nadrazi-m;;;14.4078110000;50.0607830000;;f;CZ;f;Europe/Prague;f;;f;;f;5480035;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18594;Praha Namesti Republiky (M);praha-namesti-republiky-m;;;14.4324510000;50.0883700000;;f;CZ;f;Europe/Prague;f;;f;;f;5480040;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18592;Praha Nádraží Holešovice (M);praha-nadrazi-holesovice-m;;;14.4400100000;50.1102140000;;f;CZ;f;Europe/Prague;f;;f;;f;5480000;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18593;Praha Smíchovské nádraží (M);praha-smichovske-nadrazi-m;;;14.4078110000;50.0607830000;;f;CZ;f;Europe/Prague;f;;f;;f;5480035;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+18594;Praha Náměšti Republiky (M);praha-namesti-republiky-m;;;14.4324510000;50.0883700000;;f;CZ;f;Europe/Prague;f;;f;;f;5480040;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18595;Alken St.;alken-st;8600260;;9.8457680000;56.0525960000;;f;DK;f;Europe/Copenhagen;t;;f;;f;8600042;t;;f;;f;;f;;f;;Danemark;Denmark;Dänemark;Danimarca;;;;;;;;;;;;;
 18596;Ålsgårde St.;alsgarde-st;8601633;;12.5377040000;56.0750600000;;f;DK;f;Europe/Copenhagen;t;;f;;f;8600057;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18597;Arden St.;arden-st;8600029;;9.8598270000;56.7692520000;;f;DK;f;Europe/Copenhagen;t;;f;;f;8600083;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -21068,10 +21068,10 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22623;Hahn Flughafen Terminal 2;hahn-flughafen-terminal-2;8013370;;7.270996;49.946853;;f;DE;f;Europe/Berlin;t;;f;;f;8002518;t;;f;;f;;f;;f;;Aéroport;Airport;;Aeroporto;;;;;;;;;;;;;
 22624;Ljubljana Avtobus po;ljubljana-avtobus-po;;;14.51294;46.058686;;f;SI;f;Europe/Ljubljana;f;;f;;f;7989003;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22625;Zagreb Autobusni kol;zagreb-autobusni-kol;;;15.978478;45.804453;;f;HR;t;Europe/Zagreb;f;;f;;f;7889051;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-22626;Budapest-Kelenföld;budapest-kelenfold;5501024;;19.020455;47.464356;;f;HR;t;Europe/Budapest;t;HUAAE;f;;f;5500008;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+22626;Budapest-Kelenföld;budapest-kelenfold;5501024;;19.020455;47.464356;;f;HU;t;Europe/Budapest;t;HUAAE;f;;f;5500008;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22627;Klatovy;klatovy;5473745;;13.27411;49.401487;;f;CZ;f;Europe/Prague;t;;f;;f;5400213;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-22628;Breclav;breclav;5433425;;16.893239;48.753904;;f;CZ;f;Europe/Prague;t;;f;;f;5400202;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-22629;Domazlice;domazlice;5473515;;12.944583;49.434693;;f;CZ;f;Europe/Prague;t;;f;;f;5400196;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+22628;Břeclav;breclav;5433425;;16.893239;48.753904;;f;CZ;f;Europe/Prague;t;;f;;f;5400202;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+22629;Domažlice;domazlice;5473515;;12.944583;49.434693;;f;CZ;f;Europe/Prague;t;;f;;f;5400196;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22630;Cheb;cheb;5475035;;12.380699;50.073493;;f;CZ;f;Europe/Prague;t;;f;;f;5400004;t;;f;;f;;f;;f;;Egra;;Eger;;;;;;ヘプ;헤프;;;;Хеб;;;海布
 22631;Taizé;taize;;;4.680979;46.511706;;t;FR;f;Europe/Paris;f;FRTZA;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22632;Taizé Communauté;taize-communaute;8760540;;4.677051;46.514143;22631;f;FR;f;Europe/Paris;t;FRNEQ;t;;f;8706809;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
