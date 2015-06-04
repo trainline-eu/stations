@@ -19630,7 +19630,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21175;Bianzone;bianzone;8301438;;10.1125;46.1795;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301438;t;;f;;;;;;;;;;;;;;;;;;
 21176;Castrofilippo;castrofilippo;8312374;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;8312374;t;;f;;;;;;;;;;;;;;;;;;
 21177;Collevalenza-Rosceto-Rosarno;collevalenza-rosceto-rosarno;8335125;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;8335125;t;;f;;;;;;;;;;;;;;;;;;
-21178;Cologne;cologne;8301539;;9.93551;45.5767;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301539;t;;f;;;;;;;;;;コローニェ;;;;;;;;
+21178;Cologne;cologne;8301539;;9.93551;45.5767;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301539;t;;f;;Italie;Italy;Italien;Italia;;;;;コローニェ;;;;;;;;
 21179;Cassano D’Adda;cassano-dadda;8301707;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;8301707;t;;f;;;;;;;;;;;;;;;;;;
 21180;Cassano Spinola;cassano-spinola;8304302;;8.85898;44.7626;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8304302;t;;f;;;;;;;;;;;;;;;;;;
 21181;Cassibile;cassibile;8312427;;15.1918;36.9628;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312427;t;;f;;;;;;;;;;;;;;;;;;
