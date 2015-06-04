@@ -3417,7 +3417,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4555;St-Pal-de-Mons;st-pal-de-mons;8763024;87630244;4.2833330000;45.2333330000;;f;FR;f;Europe/Paris;t;FRJBV;t;;f;8704630;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4556;St-Loup-sur-Semouse;st-loup-sur-semouse;8718533;87185330;6.307407;47.880997;;f;FR;f;Europe/Paris;t;FRJBW;t;;f;8702051;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4558;Lyon St-Exupéry TGV;lyon-st-exupery-tgv;8776290;87762906;5.075822;45.720907;10799;f;FR;f;Europe/Paris;t;FRJDQ;t;JDQ;t;8702384;f;;f;JDQ;t;;f;;f;;Aéroport;Airport;Flughafen;Lione Aeroporto;;;;;リヨン;리옹;;;;Лион;;;里昂
-4561;Noailles Bourg;noailles-bourg;8744499;87444992;1.5333330000;45.1000000000;;f;FR;f;Europe/Paris;t;FRJEA;t;;f;8701683;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+4561;Noailles Bourg;noailles-bourg;8744499;87444992;1.5333330000;45.1000000000;;f;FR;f;Europe/Paris;f;FRJEA;t;;f;8701683;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4562;Meymac Bourg;meymac-bourg;8745006;87450064;2.138309;45.527325;4720;f;FR;f;Europe/Paris;t;FRJEB;t;;f;8703986;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4564;La Baule-Escoublac;la-baule-escoublac;8748175;87481754;-2.3892045021057124;47.28866138517192;4613;f;FR;t;Europe/Paris;t;FRJEE;t;;f;8700084;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Ла-Боль;;;
 4568;Jussey;jussey;;;5.9000000000;47.8166670000;;t;FR;f;Europe/Paris;f;FRJLO;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
