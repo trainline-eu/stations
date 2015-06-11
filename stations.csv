@@ -4523,7 +4523,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5926;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5927;La Louvière Centre;la-louviere-centre;8882107;;;;;f;BE;f;Europe/Brussels;f;BEABA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5928;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5929;Antwerpen-Centraal;antwerpen-centraal;8821006;88210060;4.42100465297699;51.21552672202654;5964;f;BE;t;Europe/Brussels;t;BEABC;t;;f;8800007;t;XAN;f;;f;;f;;f;;Anvers Gare centrale;Antwerp Main station;Hauptbahnhof;Anversa Stazione centrale;;;;;;;;;;;;;
+5929;Antwerpen-Centraal;antwerpen-centraal;8821006;88210060;4.42100465297699;51.21552672202654;5964;f;BE;t;Europe/Brussels;t;BEABC;t;;f;8800007;t;XAN;t;;f;;f;;f;;Anvers Gare centrale;Antwerp Main station;Hauptbahnhof;Anversa Stazione centrale;;;;;;;;;;;;;
 5930;Zeebrugge;zeebrugge;8891553;;;;;f;BE;f;Europe/Brussels;f;BEABD;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5931;Waregem;waregem;8896149;;3.425303;50.890855;;f;BE;f;Europe/Brussels;f;BEABE;f;;f;8800092;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5932;Torhout;torhout;8891314;;3.105656;51.064455;;f;BE;f;Europe/Brussels;f;BEABF;f;;f;8800087;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -7252,7 +7252,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8667;Haarlem;haarlem;8400285;;4.6364650000;52.3871100000;;f;NL;f;Europe/Amsterdam;t;NLGRZ;f;;f;8400285;t;;f;;f;;f;;f;;;;;;;;;;ハールレム;하를럼;;;;Харлем;;;哈勒姆
 8668;Maastricht;maastricht;8400424;;5.705875;50.849811;;f;NL;f;Europe/Amsterdam;f;NLMST;f;;f;8400424;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8669;Roosendaal;roosendaal;8400526;;4.4566360000;51.5398590000;;f;NL;f;Europe/Amsterdam;t;NLROO;f;;f;8400526;t;;f;;f;;f;;f;;Rosendael;;;;;;;;ローゼンダール;;;;;Розендал;;;罗森达尔
-8670;Rotterdam Centraal;rotterdam-centraal;8400530;84005306;4.468839168548584;51.925068244603146;;f;NL;f;Europe/Amsterdam;t;NLRTA;t;;f;8400530;f;QRH;f;;f;;f;;f;;Gare centrale;Main station;Hauptbahnhof;Stazione centrale;;;Róterdam;;ロッテルダム;로테르담;;;Roterdão;Роттердам;;;鹿特丹
+8670;Rotterdam Centraal;rotterdam-centraal;8400530;84005306;4.468839168548584;51.925068244603146;;f;NL;f;Europe/Amsterdam;t;NLRTA;t;;f;8400530;f;QRH;t;;f;;f;;f;;Gare centrale;Main station;Hauptbahnhof;Stazione centrale;;;Róterdam;;ロッテルダム;로테르담;;;Roterdão;Роттердам;;;鹿特丹
 8671;;;;;;;;f;NL;f;Europe/Amsterdam;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8672;Amsterdam-Schiphol;amsterdam-schiphol;8400561;;4.7614870000;52.3087870000;;f;NL;f;Europe/Amsterdam;t;NLSPH;t;;f;8400561;t;;f;;f;;f;;f;;Aéroport;Airport;Flughafen;Aeroporto;;;;;;;;;;;;;
 8673;Utrecht Centraal;utrecht-centraal;8400621;;5.1111670000;52.0875800000;;f;NL;f;Europe/Amsterdam;t;NLUTC;f;;f;8400621;t;;f;;f;;f;;f;;Gare centrale;Main station;Hauptbahnhof;Stazione centrale;;;;;ユトレヒト;;;;;Утрехт;;;
