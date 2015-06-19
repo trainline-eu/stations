@@ -15728,7 +15728,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17222;Sablons Pont De Sablons;sablons-pont-de-sablons;8742044;;;;;f;FR;f;Europe/Paris;f;FRSNO;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17223;Saint Germain Odeon;saint-germain-odeon;8741462;;;;;f;FR;f;Europe/Paris;f;FRSOD;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17224;Les Sablons;les-sablons;8798751;87987511;1.882853;48.989943;;f;FR;f;Europe/Paris;f;FRSOL;f;;f;8705570;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17225;;;8740966;;;;10646;f;FR;f;Europe/Paris;f;FRSRA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17225;Saint-Sauves-d’Auvergne Bourg;saint-sauves-d-auvergne-bourg;8740966;;2.686799;45.607363;10646;f;FR;f;Europe/Paris;f;FRSRA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17226;;;8742077;;;;;f;FR;f;Europe/Paris;f;FRSRR;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17227;Liesse Gendarmerie;liesse-gendarmerie;8758874;;3.808468;49.61027;;f;FR;f;Europe/Paris;f;FRSSI;f;;f;8706652;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17228;;;8798442;87984427;2.520071;48.689128;;f;FR;f;Europe/Paris;f;FRSTI;f;;f;8705607;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
