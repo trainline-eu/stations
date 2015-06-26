@@ -7159,7 +7159,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8573;Venezia;venezia;8302998;;12.33475;45.43711;;t;IT;f;Europe/Rome;t;ITVCE;f;;f;8396008;f;;f;;f;8302998;t;;f;;Venise;Venice;Venedig;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 8574;Venezia Santa Lucia;venezia-santa-lucia;8302593;83025932;12.3204620000;45.4413970000;8573;f;IT;t;Europe/Rome;t;ITAGP;f;;f;8300094;t;;f;;f;8302593;t;VSL;t;;Venise Gare centrale;Venice Main station;Venedig Hauptbahnhof;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 8575;Venezia Mestre;venezia-mestre;8302589;83025890;12.2319000000;45.4819020000;8573;f;IT;f;Europe/Rome;t;ITBGG;f;;f;8300093;t;;f;;f;8302589;t;VEM;t;;Venise;Venice;Venedig;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
-8576;Venezia carpenedo;venezia-carpenedo;8302672;;12.247595;45.506676;8573;f;IT;f;Europe/Rome;t;ITAID;f;;f;8300968;f;;f;;f;8302672;t;;f;;Venise;Venice;Venedig;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
+8576;Venezia Carpenedo;venezia-carpenedo;8302672;;12.247595;45.506676;8573;f;IT;f;Europe/Rome;t;ITAID;f;;f;8300968;f;;f;;f;8302672;t;;f;;Venise;Venice;Venedig;;Benátky;Venedig;Venecia;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 8577;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8578;Ventimiglia;ventimiglia;8304501;;7.609953;43.792586;9604;f;IT;f;Europe/Rome;t;ITVEF;f;;f;8300146;f;;f;;f;8304501;t;;f;;Vintimille;;;;;;;;ヴェンティミーリア;;;;;Вентимилья;;;文蒂米利亚
 8579;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
