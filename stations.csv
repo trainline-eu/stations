@@ -2941,7 +2941,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 3852;Chabreloche;chabreloche;8773449;87734491;3.7000000000;45.8833330000;;f;FR;f;Europe/Paris;t;FRHLV;t;;f;8703010;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3853;Noirétable;noiretable;8773450;87734509;3.761154413223266;45.81601772853264;;f;FR;f;Europe/Paris;t;FRHLW;t;;f;8704123;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3854;Fontenay-le-Comte Pôle Santé;fontenay-le-comte-pole-sante;8746298;87462986;-0.82483;46.46774;2776;f;FR;f;Europe/Paris;t;FRHLX;t;;f;8706371;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-3855;Courpierre;courpierre;8773452;87734525;3.543376;45.757943;;f;FR;f;Europe/Paris;t;FRHLY;t;;f;8703176;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+3855;Courpière;courpiere;8773452;87734525;3.543376;45.757943;;f;FR;f;Europe/Paris;t;FRHLY;t;;f;8703176;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3856;Giroux;giroux;8773453;87734533;3.594336;45.699774;;f;FR;f;Europe/Paris;t;FRHLZ;t;;f;8703407;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3857;Olliergues;olliergues;8773454;87734541;3.6333330000;45.6666670000;;f;FR;f;Europe/Paris;t;FRHMA;t;;f;8704146;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3858;Pont-de-David;pont-de-david;8773455;87734558;3.66945;45.647591;;f;FR;f;Europe/Paris;t;FRHMB;t;;f;8704261;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
