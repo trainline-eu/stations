@@ -19,7 +19,7 @@ rows = csv.map { |row| row.fields }
 column_name = ARGV[0]
 column_before = nil
 same_as = nil
-column_content = ""
+column_content = nil
 column_content_prog = nil
 
 if ARGV.length > 1
