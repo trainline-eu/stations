@@ -14,7 +14,7 @@ CSV_PARAMS = { headers: true, col_sep: ";", encoding: "UTF-8" }
 
 csv = CSV.parse(STDIN, CSV_PARAMS)
 headers = csv.headers
-rows = csv.map { |row| row.fields }[1..-1]
+rows = csv.map { |row| row.fields }
 
 column_name = ARGV[0]
 column_before = nil
@@ -37,7 +37,7 @@ if ARGV.length > 1
   end
 end
 
-column_before = headers[-1] unless column_before
+column_before ||= headers[-1]
 column_insertion_index = headers.find_index(column_before) + 1
 same_as_index = headers.find_index(same_as) if same_as
 
