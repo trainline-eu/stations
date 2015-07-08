@@ -15992,7 +15992,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17515;København;kobenhavn;8600626;;12.564618;55.672721;;f;DK;f;Europe/Copenhagen;t;DKCPH;f;;f;8601309;t;;f;;f;;f;;f;;Copenhague;Copenhagen;Kopenhagen;Copenaghen;Kodaň;;Copenhague;Koppenhága;コペンハーゲン;코펜하겐;Kopenhagen;Kopenhaga;Copenhaga;Копенгаген;Köpenhamn;Kopenhag;哥本哈根
 17516;Odense St.;odense-st;8600512;;10.386001;55.401777;;f;DK;f;Europe/Copenhagen;t;DKACT;f;;f;8601770;t;;f;;f;;f;;f;;;;;;;;;;オーデンセ;오덴세;;;;Оденсе;;;欧登塞
 17517;Roskilde St.;roskilde-st;8600617;;12.088855;55.639012;;f;DK;f;Europe/Copenhagen;t;DKADC;f;;f;8602026;t;;f;;f;;f;;f;;;;;;;;;;ロスキレ;로스킬레;;;;Роскилле;;;罗斯基勒
-17518;Gdańsk Główny;gdansk-glowny;5100750;;18.643807;54.355523;;f;PL;f;Europe/Warsaw;t;PLGAW;f;;f;5100009;t;;f;;f;;f;;f;;Dantzig;Danzig;Danzig;Danzica;Gdaňsk;;;Gdańsk;グダニスク;그단스크;;;Gdańsk;Гданьск;;;格但斯克
+17518;Gdańsk Główny;gdansk-glowny;5100750;;18.643807;54.355523;;f;PL;f;Europe/Warsaw;t;PLGAW;f;;f;5100009;t;;f;;f;;f;;f;;Dantzig;Danzig;Danzig;Danzica;Gdaňsk;;;;グダニスク;그단스크;;;Gdańsk;Гданьск;;;格但斯克
 17519;Lodź Kaliska;lodz-kaliska;5104670;;19.430884;51.757416;;f;PL;f;Europe/Warsaw;t;PLABQ;f;;f;5100039;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17520;Göteborg Central;goteborg-central;7401318;;11.973424;57.709308;;f;SE;f;Europe/Stockholm;t;SEGOT;f;;f;7400003;t;;f;;f;;f;;f;;;Gothenburg;;;;;Gotemburgo;;ヨーテボリ;예테보리;Gotenburg;;Gotemburgo;Гётеборг;;;哥德堡
 17521;Halmstad Central;halmstad-central;7401380;;12.8643;56.669211;;f;SE;f;Europe/Stockholm;t;SEACM;f;;f;7400014;t;;f;;f;;f;;f;;;;;;;;;;ハルムスタッド;할름스타드;;;;Хальмстад;;;哈尔姆斯塔德
