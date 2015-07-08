@@ -4579,7 +4579,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5982;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5983;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5984;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5985;Gent Saint-Pierre;gent-saint-pierre;8892007;;3.7106120000;51.0356270000;;f;BE;f;Europe/Brussels;t;BEGNT;t;;f;8800031;t;;f;;f;;f;;f;;Gand;Ghent;;Gand;;;;;;;;;;;;;
+5985;Gent-Sint-Pieters;gent-sint-pieters;8892007;;3.7106120000;51.0356270000;;f;BE;f;Europe/Brussels;t;BEGNT;t;;f;8800031;t;;f;;f;;f;;f;;Gand;Ghent;;Gand;;;;;;;;;;;;;
 5986;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5987;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5988;Herseaux;herseaux;8885753;;3.24604;50.713723;;f;BE;f;Europe/Brussels;f;BEHER;f;;f;8800064;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
