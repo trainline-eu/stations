@@ -4939,7 +4939,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6349;Neuchâtel;neuchatel;8504244;;6.93569;46.996728;6350;f;CH;f;Europe/Zurich;t;CHNBT;t;;f;8504221;t;;f;;f;;f;;f;;;;Neuenburg;;;;;;ヌーシャテル;뇌샤텔;;;;Невшатель;;;纳沙泰尔
 6350;Neuchâtel;neuchatel;;;;;;t;CH;f;Europe/Zurich;f;CHNLO;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6351;Neuchâtel (Suisse);neuchatel-suisse;8504221;;6.935914;46.996513;6350;f;CH;f;Europe/Zurich;f;CHQNC;t;;f;8530791;f;;f;;f;;f;;f;6349;;;;;;;;;;;;;;;;;
-6352;St-Gallen;st-gallen;8506302;;9.369303;47.423276;6358;f;CH;f;Europe/Zurich;t;CHQGL;f;;f;8506302;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+6352;St-Gallen;st-gallen;8506302;;9.369303;47.423276;6358;f;CH;f;Europe/Zurich;t;CHQGL;f;;f;8506302;t;;f;;f;;f;;f;;Saint-Gall;;;San Gallo;;;;;;;;;;Санкт-Галлен;;;
 6353;Luzern;luzern;8505000;;8.31068;47.050142;;f;CH;f;Europe/Zurich;t;CHQLJ;f;;f;8505000;t;;f;;f;;f;;f;;Lucerne;Lucerne;;Lucerna;Lucern;;Lucerna;;ルツェルン;루체른;;Lucerna;Lucerna;Люцерн;;;卢塞恩
 6354;Lausanne;lausanne;;;;;;t;CH;f;Europe/Zurich;f;CHQLS;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6355;Arolla poste;arolla-poste;8501750;;;;;f;CH;f;Europe/Zurich;f;CHRLA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
