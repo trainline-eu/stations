@@ -6058,7 +6058,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7471;Bochum-Langendreer;bochum-langendreer;8010114;;7.323727;51.478031;7470;f;DE;f;Europe/Berlin;t;DEBLA;f;;f;8000358;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7472;Bochum Hbf;bochum-hbf;8010179;;7.224109;51.478651;7470;f;DE;f;Europe/Berlin;t;DEQBO;f;;f;8000041;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ボーフム;보훔;;;;Бохум;;;波鸿
 7473;Bonn Hbf;bonn-hbf;8015485;;7.097136;50.732007;7545;f;DE;f;Europe/Berlin;t;DEBEA;f;;f;8000044;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ボン;본;;;Bona;Бонн;;;波恩
-7474;Hamburg Hbf;hamburg-hbf;8001071;;10.006908;53.552732;;f;DE;f;Europe/Berlin;t;DEBEB;f;;f;8002549;t;;f;;f;;f;;f;;Hambourg Gare centrale;Main station;;Amburgo Stazione centrale;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
+7474;Hamburg Hbf;hamburg-hbf;8001071;;10.006908;53.552732;7626;f;DE;f;Europe/Berlin;t;DEBEB;f;;f;8002549;t;;f;;f;;f;;f;;Hambourg Gare centrale;Main station;;Amburgo Stazione centrale;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7475;Düsseldorf Hbf;dusseldorf-hbf;8008094;;6.794316;51.21996;7578;f;DE;f;Europe/Berlin;t;DEBEC;t;;f;8000085;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;デュッセルドルフ;뒤셀도르프;;;;Дюссельдорф;;;
 7476;Lindau reutin;lindau-reutin;8000467;;;;;f;DE;f;Europe/Berlin;f;DEBED;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7477;Mittenwald (Gr);mittenwald-gr;8000464;;11.267439;47.39807;7685;f;DE;f;Europe/Berlin;f;DEBEE;f;;f;8004044;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6208,7 +6208,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7622;Günzburg;gunzburg;8002084;;10.278652;48.460334;;f;DE;f;Europe/Berlin;t;DEGZB;f;;f;8000139;t;;f;;f;;f;;f;;Guntzbourg;;;;;;Gunzburgo;;ギュンツブルク;;;;;Гюнцбург;;;金茨堡
 7623;Hannover;hannover;;;;;;t;DE;f;Europe/Berlin;f;DEHAJ;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7624;Hannover Messe/Laatzen;hannover-messe-laatzen;8013555;;9.792866;52.316895;7623;f;DE;f;Europe/Berlin;t;DELAA;f;;f;8003487;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-7625;Hamburg-Altona;hamburg-altona;8001093;;9.935174;53.552696;;f;DE;f;Europe/Berlin;t;DEHAL;f;;f;8002553;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+7625;Hamburg-Altona;hamburg-altona;8001093;;9.935174;53.552696;7626;f;DE;f;Europe/Berlin;t;DEHAL;f;;f;8002553;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7626;Hamburg;hamburg;8001083;;9.965836;53.563816;;t;DE;f;Europe/Berlin;t;DEHAM;f;;f;8096009;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7627;Hamburg Dammtor;hamburg-dammtor;8001089;;9.989568;53.560751;7626;f;DE;f;Europe/Berlin;t;DEHDA;f;;f;8002548;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7628;Hamburg-Harburg;hamburg-harburg;8001134;;9.991591;53.456296;7626;f;DE;f;Europe/Berlin;t;DEHHA;f;;f;8000147;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
