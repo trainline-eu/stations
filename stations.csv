@@ -1435,7 +1435,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 1940;Bourgtheroulde-Thuit-Hébert;bourgtheroulde-thuit-hebert;8741532;87415323;0.838271;49.317536;;f;FR;f;Europe/Paris;t;FRDPV;t;;f;8702891;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1941;Glos-Montfort;glos-montfort;8741534;87415349;0.682838;49.271521;;f;FR;f;Europe/Paris;t;FRDPX;t;;f;8703412;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1942;Brionne;brionne;8741536;87415364;0.7116597890853882;49.196435582351896;;f;FR;f;Europe/Paris;t;FRDPZ;t;;f;8702927;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-1943;Vernon;vernon;8741560;87415604;1.477961;49.091647;;f;FR;f;Europe/Paris;t;FRDQC;t;;f;8700230;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+1943;Vernon—Giverny;vernon-giverny;8741560;87415604;1.477961;49.091647;;f;FR;f;Europe/Paris;t;FRDQC;t;;f;8700230;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1944;Gaillon—Aubevoye;gaillon-aubevoye;8741562;87415620;1.352741;49.174644;;f;FR;f;Europe/Paris;t;FRDQE;t;;f;8703364;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1945;St-Pierre-du-Vauvray;st-pierre-du-vauvray;8741564;87415646;1.2166670000;49.2333330000;;f;FR;f;Europe/Paris;t;FRDQG;t;;f;8704639;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1946;Pont-de-l’Arche;pont-de-larche;8741566;87415661;1.1666670000;49.3000000000;;f;FR;f;Europe/Paris;t;FRDQH;t;;f;8704264;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;蓬德拉尔克
