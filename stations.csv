@@ -1435,7 +1435,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 1940;Bourgtheroulde-Thuit-Hébert;bourgtheroulde-thuit-hebert;8741532;87415323;0.838271;49.317536;;f;FR;f;Europe/Paris;t;FRDPV;t;;f;8702891;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1941;Glos-Montfort;glos-montfort;8741534;87415349;0.682838;49.271521;;f;FR;f;Europe/Paris;t;FRDPX;t;;f;8703412;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1942;Brionne;brionne;8741536;87415364;0.7116597890853882;49.196435582351896;;f;FR;f;Europe/Paris;t;FRDPZ;t;;f;8702927;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-1943;Vernon;vernon;8741560;87415604;1.477961;49.091647;;f;FR;f;Europe/Paris;t;FRDQC;t;;f;8700230;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+1943;Vernon—Giverny;vernon-giverny;8741560;87415604;1.477961;49.091647;;f;FR;f;Europe/Paris;t;FRDQC;t;;f;8700230;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1944;Gaillon—Aubevoye;gaillon-aubevoye;8741562;87415620;1.352741;49.174644;;f;FR;f;Europe/Paris;t;FRDQE;t;;f;8703364;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1945;St-Pierre-du-Vauvray;st-pierre-du-vauvray;8741564;87415646;1.2166670000;49.2333330000;;f;FR;f;Europe/Paris;t;FRDQG;t;;f;8704639;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1946;Pont-de-l’Arche;pont-de-larche;8741566;87415661;1.1666670000;49.3000000000;;f;FR;f;Europe/Paris;t;FRDQH;t;;f;8704264;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;蓬德拉尔克
@@ -4579,7 +4579,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5982;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5983;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5984;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5985;Gent Saint-Pierre;gent-saint-pierre;8892007;;3.7106120000;51.0356270000;;f;BE;f;Europe/Brussels;t;BEGNT;t;;f;8800031;t;;f;;f;;f;;f;;Gand;Ghent;;Gand;;;;;;;;;;;;;
+5985;Gent-Sint-Pieters;gent-sint-pieters;8892007;;3.7106120000;51.0356270000;;f;BE;f;Europe/Brussels;t;BEGNT;t;;f;8800031;t;;f;;f;;f;;f;;Gand;Ghent;;Gand;;;;;;;;;;;;;
 5986;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5987;;;;;;;;f;BE;f;Europe/Brussels;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5988;Herseaux;herseaux;8885753;;3.24604;50.713723;;f;BE;f;Europe/Brussels;f;BEHER;f;;f;8800064;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -4939,7 +4939,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6349;Neuchâtel;neuchatel;8504244;;6.93569;46.996728;6350;f;CH;f;Europe/Zurich;t;CHNBT;t;;f;8504221;t;;f;;f;;f;;f;;;;Neuenburg;;;;;;ヌーシャテル;뇌샤텔;;;;Невшатель;;;纳沙泰尔
 6350;Neuchâtel;neuchatel;;;;;;t;CH;f;Europe/Zurich;f;CHNLO;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6351;Neuchâtel (Suisse);neuchatel-suisse;8504221;;6.935914;46.996513;6350;f;CH;f;Europe/Zurich;f;CHQNC;t;;f;8530791;f;;f;;f;;f;;f;6349;;;;;;;;;;;;;;;;;
-6352;St-Gallen;st-gallen;8506302;;9.369303;47.423276;6358;f;CH;f;Europe/Zurich;t;CHQGL;f;;f;8506302;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+6352;St-Gallen;st-gallen;8506302;;9.369303;47.423276;6358;f;CH;f;Europe/Zurich;t;CHQGL;f;;f;8506302;t;;f;;f;;f;;f;;Saint-Gall;;;San Gallo;;;;;;;;;;Санкт-Галлен;;;
 6353;Luzern;luzern;8505000;;8.31068;47.050142;;f;CH;f;Europe/Zurich;t;CHQLJ;f;;f;8505000;t;;f;;f;;f;;f;;Lucerne;Lucerne;;Lucerna;Lucern;;Lucerna;;ルツェルン;루체른;;Lucerna;Lucerna;Люцерн;;;卢塞恩
 6354;Lausanne;lausanne;;;;;;t;CH;f;Europe/Zurich;f;CHQLS;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6355;Arolla poste;arolla-poste;8501750;;;;;f;CH;f;Europe/Zurich;f;CHRLA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -5254,7 +5254,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6664;Madrid principe pio;madrid-principe-pio;7110000;;;;6663;f;ES;f;Europe/Madrid;f;ESMPP;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6665;Madrid vallecas;madrid-vallecas;7137604;;;;6663;f;ES;f;Europe/Madrid;f;ESMVA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6666;Madrid villaverde;madrid-villaverde;7178608;;;;6663;f;ES;f;Europe/Madrid;f;ESMVV;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-6667;Madrid atocha;madrid-atocha;7160000;;-3.689757;40.405963;6663;f;ES;f;Europe/Madrid;t;ESMAT;t;;f;7100049;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+6667;Madrid Atocha;madrid-atocha;7160000;;-3.689757;40.405963;6663;f;ES;f;Europe/Madrid;t;ESMAT;t;;f;7100049;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6668;Madrid Chamartin;madrid-chamartin;7117000;;-3.68235;40.472151;6663;f;ES;t;Europe/Madrid;f;ESMCH;f;;f;7100017;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6669;Medina del campo;medina-del-campo;7110500;;;;;f;ES;f;Europe/Madrid;f;ESMDC;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6670;Miranda de ebro;miranda-de-ebro;7111200;;;;;f;ES;f;Europe/Madrid;f;ESMEB;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -5271,7 +5271,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6681;San fernando de cadiz;san-fernando-de-cadiz;7151402;;;;;f;ES;f;Europe/Madrid;f;ESSFD;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6682;Salamanca;salamanca;7130100;;0.859998;41.133002;;f;ES;f;Europe/Madrid;f;ESSLM;f;;f;7171304;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6683;Sevilla;sevilla;;;;;;t;ES;f;Europe/Madrid;f;ESSVQ;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-6684;Camp tarragona;camp-tarragona;7104104;;1.272541880607605;41.19206141706671;;f;ES;f;Europe/Madrid;t;ESTAA;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+6684;Camp Tarragona;camp-tarragona;7104104;;1.272541880607605;41.19206141706671;;f;ES;f;Europe/Madrid;t;ESTAA;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6685;Torremolinos;torremolinos;7154509;;;;;f;ES;f;Europe/Madrid;f;ESTRM;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6686;Tuy;tuy;7122401;;;;;f;ES;f;Europe/Madrid;f;ESTUY;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6687;Valencia de alcantar;valencia-de-alcantar;;;;;;t;ES;f;Europe/Madrid;f;ESVAL;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6058,7 +6058,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7471;Bochum-Langendreer;bochum-langendreer;8010114;;7.323727;51.478031;7470;f;DE;f;Europe/Berlin;t;DEBLA;f;;f;8000358;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7472;Bochum Hbf;bochum-hbf;8010179;;7.224109;51.478651;7470;f;DE;f;Europe/Berlin;t;DEQBO;f;;f;8000041;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ボーフム;보훔;;;;Бохум;;;波鸿
 7473;Bonn Hbf;bonn-hbf;8015485;;7.097136;50.732007;7545;f;DE;f;Europe/Berlin;t;DEBEA;f;;f;8000044;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ボン;본;;;Bona;Бонн;;;波恩
-7474;Hamburg Hbf;hamburg-hbf;8001071;;10.006908;53.552732;;f;DE;f;Europe/Berlin;t;DEBEB;f;;f;8002549;t;;f;;f;;f;;f;;Hambourg Gare centrale;Main station;;Amburgo Stazione centrale;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
+7474;Hamburg Hbf;hamburg-hbf;8001071;;10.006908;53.552732;7626;f;DE;f;Europe/Berlin;t;DEBEB;f;;f;8002549;t;;f;;f;;f;;f;;Hambourg Gare centrale;Main station;;Amburgo Stazione centrale;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7475;Düsseldorf Hbf;dusseldorf-hbf;8008094;;6.794316;51.21996;7578;f;DE;f;Europe/Berlin;t;DEBEC;t;;f;8000085;t;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;デュッセルドルフ;뒤셀도르프;;;;Дюссельдорф;;;
 7476;Lindau reutin;lindau-reutin;8000467;;;;;f;DE;f;Europe/Berlin;f;DEBED;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7477;Mittenwald (Gr);mittenwald-gr;8000464;;11.267439;47.39807;7685;f;DE;f;Europe/Berlin;f;DEBEE;f;;f;8004044;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6208,7 +6208,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7622;Günzburg;gunzburg;8002084;;10.278652;48.460334;;f;DE;f;Europe/Berlin;t;DEGZB;f;;f;8000139;t;;f;;f;;f;;f;;Guntzbourg;;;;;;Gunzburgo;;ギュンツブルク;;;;;Гюнцбург;;;金茨堡
 7623;Hannover;hannover;;;;;;t;DE;f;Europe/Berlin;f;DEHAJ;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7624;Hannover Messe/Laatzen;hannover-messe-laatzen;8013555;;9.792866;52.316895;7623;f;DE;f;Europe/Berlin;t;DELAA;f;;f;8003487;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-7625;Hamburg-Altona;hamburg-altona;8001093;;9.935174;53.552696;;f;DE;f;Europe/Berlin;t;DEHAL;f;;f;8002553;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+7625;Hamburg-Altona;hamburg-altona;8001093;;9.935174;53.552696;7626;f;DE;f;Europe/Berlin;t;DEHAL;f;;f;8002553;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7626;Hamburg;hamburg;8001083;;9.965836;53.563816;;t;DE;f;Europe/Berlin;t;DEHAM;f;;f;8096009;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7627;Hamburg Dammtor;hamburg-dammtor;8001089;;9.989568;53.560751;7626;f;DE;f;Europe/Berlin;t;DEHDA;f;;f;8002548;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7628;Hamburg-Harburg;hamburg-harburg;8001134;;9.991591;53.456296;7626;f;DE;f;Europe/Berlin;t;DEHHA;f;;f;8000147;t;;f;;f;;f;;f;;Hambourg;;;Amburgo;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
@@ -15992,7 +15992,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17515;København;kobenhavn;8600626;;12.564618;55.672721;;f;DK;f;Europe/Copenhagen;t;DKCPH;f;;f;8601309;t;;f;;f;;f;;f;;Copenhague;Copenhagen;Kopenhagen;Copenaghen;Kodaň;;Copenhague;Koppenhága;コペンハーゲン;코펜하겐;Kopenhagen;Kopenhaga;Copenhaga;Копенгаген;Köpenhamn;Kopenhag;哥本哈根
 17516;Odense St.;odense-st;8600512;;10.386001;55.401777;;f;DK;f;Europe/Copenhagen;t;DKACT;f;;f;8601770;t;;f;;f;;f;;f;;;;;;;;;;オーデンセ;오덴세;;;;Оденсе;;;欧登塞
 17517;Roskilde St.;roskilde-st;8600617;;12.088855;55.639012;;f;DK;f;Europe/Copenhagen;t;DKADC;f;;f;8602026;t;;f;;f;;f;;f;;;;;;;;;;ロスキレ;로스킬레;;;;Роскилле;;;罗斯基勒
-17518;Gdańsk Główny;gdansk-glowny;5100750;;18.643807;54.355523;;f;PL;f;Europe/Warsaw;t;PLGAW;f;;f;5100009;t;;f;;f;;f;;f;;Dantzig;Danzig;Danzig;Danzica;Gdaňsk;;;Gdańsk;グダニスク;그단스크;;;Gdańsk;Гданьск;;;格但斯克
+17518;Gdańsk Główny;gdansk-glowny;5100750;;18.643807;54.355523;;f;PL;f;Europe/Warsaw;t;PLGAW;f;;f;5100009;t;;f;;f;;f;;f;;Dantzig;Danzig;Danzig;Danzica;Gdaňsk;;;;グダニスク;그단스크;;;Gdańsk;Гданьск;;;格但斯克
 17519;Lodź Kaliska;lodz-kaliska;5104670;;19.430884;51.757416;;f;PL;f;Europe/Warsaw;t;PLABQ;f;;f;5100039;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17520;Göteborg Central;goteborg-central;7401318;;11.973424;57.709308;;f;SE;f;Europe/Stockholm;t;SEGOT;f;;f;7400003;t;;f;;f;;f;;f;;;Gothenburg;;;;;Gotemburgo;;ヨーテボリ;예테보리;Gotenburg;;Gotemburgo;Гётеборг;;;哥德堡
 17521;Halmstad Central;halmstad-central;7401380;;12.8643;56.669211;;f;SE;f;Europe/Stockholm;t;SEACM;f;;f;7400014;t;;f;;f;;f;;f;;;;;;;;;;ハルムスタッド;할름스타드;;;;Хальмстад;;;哈尔姆斯塔德
