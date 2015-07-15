@@ -17935,7 +17935,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19473;Pontenure;pontenure;8305005;;9.792156;45.001716;;;IT;f;Europe/Rome;t;;f;;f;8301919;f;;f;;f;8305005;t;;f;;;;;;;;;;;;;;;;;;
 19474;Ponte di Piave;ponte-di-piave;8302763;;12.460415;45.719199;;;IT;f;Europe/Rome;t;;f;;f;8300718;f;;f;;f;8302763;t;;f;;;;;;;;;;;;;;;;;;
 19475;Ponte d’Adige/Sigmundskron;ponte-dadige-sigmundskron;8302225;;11.297849;46.485647;;;IT;f;Europe/Rome;t;;f;;f;8300128;f;;f;;f;8302225;t;;f;;;;;;;;;;;;;;;;;;
-19476;Limone;limone;8300617;;7.577915;44.203627;;;IT;f;Europe/Rome;f;ITAQJ;f;;f;8300381;f;;f;;f;8300617;f;;f;;;;;;;;;;;;;;;;;;
+19476;Limone;limone;8300617;;7.577915;44.203627;;;IT;f;Europe/Rome;t;ITAQJ;f;;f;8300381;f;;f;;f;8300617;t;;f;;;;;;;;;;;;;;;;;;
 19477;Montepaone-Montauro;montepaone-montauro;8311836;;16.541931;38.728765;;;IT;f;Europe/Rome;t;;f;;f;8301733;f;;f;;f;8311836;t;;f;;;;;;;;;;;;;;;;;;
 19478;Montepescali;montepescali;8306038;;11.068993;42.869385;;;IT;f;Europe/Rome;t;;f;;f;8300988;f;;f;;f;8306038;t;;f;;;;;;;;;;;;;;;;;;
 19479;Monteprandone;monteprandone;8307554;;13.849896;42.894061;;;IT;f;Europe/Rome;t;;f;;f;8301748;f;;f;;f;8307554;t;;f;;;;;;;;;;;;;;;;;;
