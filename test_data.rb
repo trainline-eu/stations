@@ -127,18 +127,15 @@ class StationsTest < Minitest::Test
   end
 
   def test_uic_unicity
-    count = {}
+    counts = {}
     STATIONS.each do |row|
       if row["uic"]
-        count[row["uic"]] = (count[row["uic"]] || 0) + 1
+        counts[row["uic"]] = (counts[row["uic"]] || 0) + 1
       end
     end
 
-    count.each do |uic, count|
-      if count != 1
-       puts "Station with UIC #{uic} is duplicated"
-      end
-    end
+    bad_counts = counts.select { |_, count| count != 1 }
+    assert_equal 0, bad_counts.length, "UIC duplicated: #{bad_counts.map(&:first).join(', ')}"
   end
 
   def test_coordinates
@@ -191,7 +188,7 @@ class StationsTest < Minitest::Test
 
   def test_country
     STATIONS.each do |row|
-      assert_match /[A-Z]{2}/, row["country"], "Invalid country for station #{row["id"]}"
+      assert_match(/[A-Z]{2}/, row["country"], "Invalid country for station #{row["id"]}")
     end
   end
 
