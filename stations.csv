@@ -15827,7 +15827,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17321;;;8744026;;;;;f;FR;f;Europe/Paris;f;FRUEC;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17322;;;8744032;;;;;f;FR;f;Europe/Paris;f;FRUED;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17323;Saint-Paul-Cap-de-Joux Centre;saint-paul-cap-de-joux-centre;8716594;;1.986247;43.647141;;f;FR;f;Europe/Paris;t;FRUEE;t;;f;8705936;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17324;;;8717721;;;;;f;FR;f;Europe/Paris;f;FRUEF;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17324;Albine Croisement N112/D88;albine-croisement-n112-d88;8717721;;2.527997;43.469251;;f;FR;f;Europe/Paris;t;FRUEF;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17325;;;8743998;;;;;f;FR;f;Europe/Paris;f;FRUEG;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17326;;;8717724;;;;;f;FR;f;Europe/Paris;f;FRUEH;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17327;;;8716586;;;;;f;FR;f;Europe/Paris;f;FRUEI;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
