@@ -195,7 +195,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 295;Albens;albens;8774611;87746115;5.9500000000;45.7833330000;;f;FR;f;Europe/Paris;t;FRALE;t;;f;8702637;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 302;Pierre-Buffière Ville;pierre-buffiere-ville;8740899;87408997;1.3500000000;45.7000000000;5349;f;FR;f;Europe/Paris;t;FRALL;t;;f;8704217;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 303;Aix La Marsalouse;aix-la-marsalouse;8759429;;2.3984473943710327;45.614206266734726;;f;FR;f;Europe/Paris;t;FRALM;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-304;La Ferté-sous-Jouarre;la-ferte-sous-jouarre;8711651;;3.1255245208740234;48.950915549215985;;f;FR;f;Europe/Paris;t;FRALN;t;;f;8701378;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+304;La Ferté-sous-Jouarre;la-ferte-sous-jouarre;8711651;;3.1255245208740234;48.950915549215985;;f;FR;f;Europe/Paris;f;FRALN;t;;f;8701378;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 311;Merten;merten;8719321;87193219;6.6666670000;49.2500000000;;f;FR;f;Europe/Paris;t;FRALV;t;;f;8701579;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 313;La Ferté-Milon;la-ferte-milon;8711667;;3.1166670000;49.1666670000;;f;FR;f;Europe/Paris;t;FRALX;t;;f;8701379;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 314;Neuilly-St-Front;neuilly-st-front;8711668;87116681;3.2666670000;49.1666670000;;f;FR;f;Europe/Paris;t;FRALY;t;;f;8701686;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
