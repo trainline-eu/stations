@@ -8421,7 +8421,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 9914;Montrond;montrond;8776373;;5.7500000000;44.3833330000;;f;FR;f;Europe/Paris;f;FRIHJ;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 9915;Eyguians;eyguians;;;5.7833330000;44.3500000000;;f;FR;f;Europe/Paris;f;FRIHK;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 9916;Houlgate Centre;houlgate-centre;8715234;;-0.0666670000;49.3000000000;4893;f;FR;f;Europe/Paris;f;FROLC;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-9917;Le Teil;le-teil;8776447;87764472;4.68595;44.552328;4806;f;FR;f;Europe/Paris;f;FRIHQ;f;;f;8702094;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+9917;Le Teil;le-teil;8776447;87764472;4.68595;44.552328;4806;f;FR;f;Europe/Paris;t;FRIHQ;t;;f;8702094;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 9918;Avignon Sud;avignon-sud;8776502;87765024;;;489;f;FR;f;Europe/Paris;f;FRIHW;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 9919;Oisy-le-Verger;oisy-le-verger;;;3.1166670000;50.2500000000;;f;FR;f;Europe/Paris;f;FRDAP;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 9920;Coex Centre;coex-centre;;;-1.7666670000;46.6833330000;;f;FR;f;Europe/Paris;f;FRJEC;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
