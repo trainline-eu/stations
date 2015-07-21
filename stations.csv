@@ -15704,7 +15704,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17198;;;8747882;;;;;f;FR;f;Europe/Paris;f;FRSDO;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17199;;;8747884;;;;;f;FR;f;Europe/Paris;f;FRSDQ;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17200;Til-Châtel Perdrixière;til-chatel-perdrixière;8747885;;;;;f;FR;f;Europe/Paris;f;FRSDR;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17201;;;8742079;;;;;f;FR;f;Europe/Paris;f;FRSDS;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+17201;St-Didier sous Aubenas;st-didier-sous-aubenas;8742079;;4.415463;44.606958;;f;FR;f;Europe/Paris;t;FRSDS;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17202;;;8747883;;;;;f;FR;f;Europe/Paris;f;FRSDW;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17203;;;8798561;;;;;f;FR;f;Europe/Paris;f;FRSEC;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17204;Le Subdray Lycée Agricole;le-subdray-lycee-agricole;8748726;;2.270504;47.001996;;f;FR;f;Europe/Paris;t;FRSEF;t;;f;8706418;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
