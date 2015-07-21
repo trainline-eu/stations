@@ -9017,7 +9017,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 10510;Poix-Terron;poix-terron;8756205;;4.636294;49.649985;;f;FR;f;Europe/Paris;t;FRTTB;t;;f;8706548;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10511;Ribeauvillé Gare Routière;ribeauville-gare-routiere;8755214;87552141;7.325714;48.192105;;f;FR;f;Europe/Paris;t;FRRHV;t;;f;8706546;f;;f;;f;;f;;f;;;;Rappoltsweiler;;;;;;リボヴィレ;;;;;Рибовилле;;;里博维莱
 10512;St-Nauphary;st-nauphary;8755189;87551895;1.429293;43.964325;;f;FR;f;Europe/Paris;t;FRNPH;t;;f;8706539;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-10513;Aubenas Gare Routière;aubenas-gare-routiere;8753509;;;;;f;FR;f;Europe/Paris;f;FRSSN;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+10513;Aubenas Gare Routière;aubenas-gare-routiere;8753509;;4.4081105;44.6113183;;f;FR;f;Europe/Paris;t;FRSSN;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10514;Aire de covoiturage 45;aire-de-covoiturage;8754474;;;;;f;FR;f;Europe/Paris;f;FRSOR;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10515;Vieux Thann Z.I.;vieux-thann-zi;8718128;;7.11956977844238;47.8058914149008;;f;FR;f;Europe/Paris;f;FRJFK;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10516;Villefranche-de-Lauragais CPAM;villefranche-de-lauragais-cpam;8717771;;;;10662;f;FR;f;Europe/Paris;f;FRUCG;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
