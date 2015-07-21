@@ -3133,8 +3133,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4111;Malijai;malijai;8775145;87751453;6.0333330000;44.0500000000;;f;FR;f;Europe/Paris;t;FRHXR;t;;f;8703893;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4112;Mallemoisson;mallemoisson;8775146;87751461;6.1333330000;44.0500000000;;f;FR;f;Europe/Paris;t;FRHXS;t;;f;8703894;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4115;L’Ariane—La Trinité;lariane-la-trinite;8775152;87751529;7.302548;43.734228;;f;FR;f;Europe/Paris;t;FRHXV;t;;f;8703528;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-4116;Séon—St-Henry;seon-st-henry;8775163;87751636;5.339799;43.36239;4790;f;FR;f;Europe/Paris;t;FRHXW;t;;f;8702037;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;;Marsilya;马赛
-4117;St-Louis-les-Aygalades;st-louis-les-aygalades;8775164;87751644;5.365175;43.345948;4790;f;FR;f;Europe/Paris;t;FRHXX;t;;f;8701986;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;;Marsilya;马赛
+4116;Séon—St-Henry;seon-st-henry;8775163;87751636;5.339799;43.36239;4790;f;FR;f;Europe/Paris;t;FRHXW;t;;f;8702037;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;Marseille;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;Marseille;Marsilya;马赛
+4117;St-Louis-les-Aygalades;st-louis-les-aygalades;8775164;87751644;5.365175;43.345948;4790;f;FR;f;Europe/Paris;t;FRHXX;t;;f;8701986;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;Marseille;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;Marseille;Marsilya;马赛
 4120;St-Marcel;st-marcel;8775170;87751701;5.467086;43.288372;;f;FR;f;Europe/Paris;t;FRHYA;t;;f;8704608;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4121;La Pomme;la-pomme;8775171;87751719;5.4415260000;43.2898660000;;f;FR;f;Europe/Paris;t;FRHYB;t;;f;8703595;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4122;La Penne-sur-Huveaune;la-penne-sur-huveaune;8775174;87751743;5.5166670000;43.2833330000;;f;FR;f;Europe/Paris;t;FRHYC;t;;f;8703592;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -3719,9 +3719,9 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4943;Pontivy Douric;pontivy-douric;8741422;87414227;-2.9833330000;48.0666670000;9399;f;FR;f;Europe/Paris;t;FRPDI;t;;f;8705625;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4945;Pont-de-Dore;pont-de-dore;8773445;87734459;3.5000000000;45.8333330000;;f;FR;f;Europe/Paris;t;FRPDO;t;;f;8704262;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4946;Persan—Beaumont;persan-beaumont;8727646;;2.278307;49.147919;;f;FR;f;Europe/Paris;t;FRPEB;t;;f;8701755;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-4947;Picon-Busserine;picon-busserine;8775929;87759290;5.393195;43.331224;4790;f;FR;f;Europe/Paris;t;FRPEI;t;;f;8706227;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;;Marsilya;马赛
+4947;Picon-Busserine;picon-busserine;8775929;87759290;5.393195;43.331224;4790;f;FR;f;Europe/Paris;t;FRPEI;t;;f;8706227;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;Marseille;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;Marseille;Marsilya;马赛
 4948;Marseille St-Antoine;marseille-st-antoine;8775182;87751826;5.357409;43.36968;4790;f;FR;f;Europe/Paris;t;FRPEJ;t;;f;8706228;f;;f;;f;;f;;f;;;;;Marsiglia;;;Marsella;;マルセイユ;마르세유;;Marsylia;Marselha;Марсель;;Marsilya;马赛
-4949;St-Joseph-le-Castellas;st-joseph-le-castellas;8775931;87759316;5.377248;43.351998;4790;f;FR;f;Europe/Paris;t;FRPEK;t;;f;8706229;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;;Marsilya;马赛
+4949;St-Joseph-le-Castellas;st-joseph-le-castellas;8775931;87759316;5.377248;43.351998;4790;f;FR;f;Europe/Paris;t;FRPEK;t;;f;8706229;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;Marseille;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;Marseille;Marsilya;马赛
 4951;Pierrefitte-Nestalas;pierrefitte-nestalas;8767175;87671750;-0.0666670000;42.9666670000;;f;FR;f;Europe/Paris;t;FRPFN;t;;f;8704218;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4952;Le Puy-en-Velay Lafayette;le-puy-en-velay-lafayette;8702438;87024380;3.880283;45.04339;5009;f;FR;f;Europe/Paris;t;FRPFY;t;;f;8705030;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4953;Dives;dives;;;;;;t;FR;f;Europe/Paris;f;FRPGE;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
