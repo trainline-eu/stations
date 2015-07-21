@@ -21462,3 +21462,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23017;Berlin Friedrichstr;berlin-friedrichstr;8003137;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;7512;;;;;;;;;;;;;;;;;
 23018;Auch Hôpital;auch-hopital;8766846;;0.57897;43.63068;;f;FR;f;Europe/Paris;t;FRLJX;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23019;Flughafen Wien;flughafen-wien;8102924;;16.563056;48.120833;;f;AT;f;Europe/Berlin;t;;f;;f;8100353;t;;f;;f;;f;;f;;Vienne Aéroport;Vienna Airport;;Vienna Aeroporto;;;;;;;;;;;;;
+23020;La Barasse;la-barasse;8763558;87635581;5.4845101;43.2858384;4790;f;FR;f;Europe/Paris;t;FRSSA;t;;f;;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marseille;Marseille;Marsella;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;Marseille;Marsilya;马赛
