@@ -4364,7 +4364,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5742;Abbeville;abbeville;8731736;87317362;1.8243902921676636;50.10215589451615;;f;FR;f;Europe/Paris;t;FRXAB;t;;f;8700238;f;;f;;f;;f;;f;;;;;;;;;;アブヴィル;아브빌;;;;Абвиль;;;阿贝维尔拉里维埃
 5743;Arcachon;arcachon;8758266;87582668;-1.1657309532165525;44.65897699818545;;f;FR;f;Europe/Paris;t;FRXAC;t;;f;8700197;f;;f;;f;;f;;f;;;;;;;;;;アルカション;;;;;Аркашон;;;阿尔卡雄
 5744;Agde;agde;8778127;87781278;3.4661972522735596;43.31732542255665;;f;FR;f;Europe/Paris;t;FRXAG;t;;f;8700145;f;;f;;f;;f;;f;;;;;;;;;;アグド;;;;;Агд;;;阿格德
-5745;Aix-les-Bains—Le Revard;aix-les-bains-le-revard;8774113;87741132;5.909056663513184;45.68809730934939;;f;FR;f;Europe/Paris;t;FRXAI;t;XAI;t;8700048;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+5745;Aix-les-Bains—Le Revard;aix-les-bains-le-revard;8774113;87741132;5.909056663513184;45.68809730934939;;f;FR;f;Europe/Paris;t;FRXAI;t;XAI;f;8700048;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5746;Amboise;amboise;8757434;87574343;0.9812164306640625;47.42146734975387;;f;FR;f;Europe/Paris;t;FRXAM;t;;f;8700607;f;;f;;f;;f;;f;;;;;;;;;;アンボワーズ;;;;;Амбуаз;;;昂布瓦斯
 5747;Alençon;alencon;8744471;87444711;0.0984;48.4339;;f;FR;f;Europe/Paris;t;FRXAN;t;;f;8700141;f;;f;;f;;f;;f;;;;;;;;Alenzón;;アランソン;;;;;Алансон;;;阿朗松
 5748;Alès;ales;8777528;87775288;4.085025787353515;44.12793673360334;;f;FR;f;Europe/Paris;t;FRXAS;t;;f;8700126;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
