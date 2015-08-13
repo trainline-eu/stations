@@ -20641,7 +20641,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22186;Palermo;palermo;8312792;;13.35789442062378;38.12074922665;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312792;t;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
 22187;Pisa;pisa;8306993;;10.398817062377928;43.71089730436839;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8306993;t;;f;;Pise;;;;;;;;ピサ;;;Piza;;Пиза;;;
 22188;Segrate;segrate;8301715;;9.29855;45.4808;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301715;t;;f;;;;;;;;;;セグラーテ;;;;;;;;
-22189;Ancona (Centroide);ancona-centroide;8307120;;13.4977126121521;43.607602432787104;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8307120;t;;f;;;;;;;;;;;;;;;;;;
+22189;Ancona Centroide;ancona-centroide;8307120;;13.4977126121521;43.607602432787104;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8307120;t;;f;;;;;;;;;;;;;;;;;;
 22190;Duomo - Via Vernieri;duomo-via-vernieri;8309820;;14.762777778;40.680833333;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309820;t;;f;;;;;;;;;;;;;;;;;;
 22191;Vezzola;vezzola;8329203;;10.698;44.8058;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8329203;t;;f;;;;;;;;;;;;;;;;;;
 22192;Viadana Bresciana;viadana-bresciana;8301842;;10.332;45.3738;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301842;t;;f;;;;;;;;;;;;;;;;;;
