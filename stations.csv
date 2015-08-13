@@ -7080,10 +7080,10 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8494;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8495;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8496;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8497;Napoli Centrale;napoli-centrale;8309218;;14.273072;40.852826;;f;IT;t;Europe/Rome;t;ITNAC;f;;f;8300239;f;;f;;f;8309218;t;NAC;t;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
+8497;Napoli Centrale;napoli-centrale;8309218;;14.273072;40.852826;22184;f;IT;t;Europe/Rome;t;ITNAC;f;;f;8300239;f;;f;;f;8309218;t;NAC;t;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 8498;;;;;;;;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8499;Napoli;napoli;;;;;;t;IT;f;Europe/Rome;f;ITNAP;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8500;Napoli marittima;napoli-marittima;8309220;;;;8499;f;IT;f;Europe/Rome;f;ITNMA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+8499;;;;;;;;t;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+8500;Napoli Marittima;napoli-marittima;8309220;;;;22184;f;IT;f;Europe/Rome;f;ITNMA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8501;;;;;;;8499;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8502;;;;;;;8499;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8503;;;;;;;8499;f;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18488,8 +18488,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20028;Mussotto;mussotto;8300824;;8.016687;44.713477;;;IT;f;Europe/Rome;t;;f;;f;8301791;f;;f;;f;8300824;t;;f;;;;;;;;;;;;;;;;;;
 20029;Muzzana del Turgnano;muzzana-del-turgnano;8303204;;13.132655;45.816885;;;IT;f;Europe/Rome;t;;f;;f;8300898;f;;f;;f;8303204;t;;f;;;;;;;;;;;;;;;;;;
 20030;;;;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-20031;Napoli Gianturco;napoli-gianturco;8309110;;14.287266;40.845958;;;IT;f;Europe/Rome;t;;f;;f;8301012;f;;f;;f;8309110;t;;f;;;;;;;;;;;;;;;;;;
-20032;Napoli Piazza Amedeo;napoli-piazza-amedeo;8309106;;14.2336;40.837473;;;IT;f;Europe/Rome;t;;f;;f;8302631;f;;f;;f;8309106;t;;f;;;;;;;;;;;;;;;;;;
+20031;Napoli Gianturco;napoli-gianturco;8309110;;14.287266;40.845958;22184;;IT;f;Europe/Rome;t;;f;;f;8301012;f;;f;;f;8309110;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
+20032;Napoli Piazza Amedeo;napoli-piazza-amedeo;8309106;;14.2336;40.837473;22184;;IT;f;Europe/Rome;t;;f;;f;8302631;f;;f;;f;8309106;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 20033;Grottaglie;grottaglie;8311602;;17.424402;40.529098;;;IT;f;Europe/Rome;t;;f;;f;8302556;f;;f;;f;8311602;t;;f;;;;;;;;;;;;;;;Гротталье;;;
 20034;Mulinetti;mulinetti;8304713;;9.13028;44.362242;;;IT;f;Europe/Rome;t;;f;;f;8301787;f;;f;;f;8304713;t;;f;;;;;;;;;;;;;;;;;;
 20035;Pietra Ligure;pietra-ligure;8304520;;8.277752;44.145548;;;IT;f;Europe/Rome;t;ITAAP;f;;f;8300035;f;;f;;f;8304520;t;;f;;;;;;;;;;;;;;;;;;
@@ -18508,7 +18508,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20048;None;none;8300513;;7.54007;44.938064;;;IT;f;Europe/Rome;t;;f;;f;8301811;f;;f;;f;8300513;t;;f;;;;;;;;;;ノーネ;;;;;;;;
 20049;Notaresco;notaresco;8307903;;13.876369;42.701476;;;IT;f;Europe/Rome;t;;f;;f;8301812;f;;f;;f;8307903;t;;f;;;;;;;;;;;;;;;;;;
 20050;Noto;noto;8312424;;15.074307;36.882498;;;IT;f;Europe/Rome;t;;f;;f;8302609;f;;f;;f;8312424;t;;f;;;;;;;;;;ノート;;;;;Ното;;;
-20051;Napoli San Giovanni Barra;napoli-san-giovanni-barra;8309800;;14.305541;40.833158;;;IT;f;Europe/Rome;t;;f;;f;8301013;f;;f;;f;8309800;t;;f;;;;;;;;;;;;;;;;;;
+20051;Napoli San Giovanni Barra;napoli-san-giovanni-barra;8309800;;14.305541;40.833158;22184;;IT;f;Europe/Rome;t;;f;;f;8301013;f;;f;;f;8309800;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 20052;Racalmuto;racalmuto;8312373;;13.727624;37.405903;;;IT;f;Europe/Rome;t;;f;;f;8300528;f;;f;;f;8312373;t;;f;;;;;;;;;;;;;;;;;;
 20053;Ravenna;ravenna;8305811;;12.208384;44.419242;;;IT;f;Europe/Rome;t;ITANH;f;;f;8300219;f;;f;;f;8305811;t;;f;;Ravenne;;;;;;Rávena;;ラヴェンナ;;;Rawenna;;Равенна;;;
 20054;Airasca;airasca;8300514;;7.483348;44.928077;;;IT;f;Europe/Rome;t;;f;;f;8300644;f;;f;;f;8300514;t;;f;;;;;;;;;;アイラスカ;;;;;;;;
@@ -19169,7 +19169,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20711;Marano Ticino;marano-ticino;8300983;;8.626471;45.629424;;;IT;f;Europe/Rome;t;;f;;f;8301661;f;;f;;f;8300983;t;;f;;;;;;;;;;;;;;;;;;
 20712;Castel Gandolfo;castel-gandolfo;8308703;;12.65229;41.746902;;;IT;f;Europe/Rome;t;;f;;f;8302509;f;;f;;f;8308703;t;;f;;;;;;;;;;;;;;;;;;
 20713;Marotta-Mondolfo;marotta-mondolfo;8307107;;13.137285;43.7697;;;IT;f;Europe/Rome;t;;f;;f;8301728;f;;f;;f;8307107;t;;f;;;;;;;;;;;;;;;;;;
-20714;Napoli Montesanto;napoli-montesanto;8309107;;14.245268;40.847001;;;IT;f;Europe/Rome;t;;f;;f;8302753;f;;f;;f;8309107;t;;f;;;;;;;;;;;;;;;;;;
+20714;Napoli Montesanto;napoli-montesanto;8309107;;14.245268;40.847001;22184;;IT;f;Europe/Rome;t;;f;;f;8302753;f;;f;;f;8309107;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 20715;Genova Pra;genova-pra;8304535;;8.789247;44.425391;;;IT;f;Europe/Rome;t;ITAJX;f;;f;8300980;f;;f;;f;8304535;t;;f;;;;;;;;;;;;;;;;;;
 20716;Massalombarda;massalombarda;8305952;;11.827871;44.448871;;;IT;f;Europe/Rome;t;;f;;f;8301717;f;;f;;f;8305952;t;;f;;;;;;;;;;;;;;;;;;
 20717;Rapallo;rapallo;8304720;;9.231553;44.351239;;;IT;f;Europe/Rome;t;ITALL;f;;f;8300178;f;;f;;f;8304720;t;;f;;;;;;;;;;ラパッロ;;;;;Рапалло;;;
@@ -19320,8 +19320,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20863;Fontaniva;fontaniva;8302534;;11.749027;45.634791;;;IT;f;Europe/Rome;t;;f;;f;8300887;f;;f;;f;8302534;t;;f;;;;;;;;;;;;;;;;;;
 20864;Falciano-Mondragone-Carinola;falciano-mondragone-carinola;8309001;;13.97169;41.123428;;;IT;f;Europe/Rome;t;;f;;f;8301517;f;;f;;f;8309001;t;;f;;;;;;;;;;;;;;;;;;
 20865;Melano-Marischio;melano-marischio;8307065;;12.860075;43.345049;;;IT;f;Europe/Rome;t;;f;;f;8301731;f;;f;;f;8307065;t;;f;;;;;;;;;;;;;;;;;;
-20866;Napoli Campi Flegrei;napoli-campi-flegrei;8309103;;14.19483;40.822362;;;IT;f;Europe/Rome;t;ITNCA;f;;f;8300253;f;;f;;f;8309103;t;;f;;;;;;;;;;;;;;;;;;
-20867;Napoli Mergellina;napoli-mergellina;8309105;;14.218759;40.831459;;;IT;f;Europe/Rome;t;ITNAM;f;;f;8300240;f;;f;;f;8309105;t;;f;;;;;;;;;;;;;;;;;;
+20866;Napoli Campi Flegrei;napoli-campi-flegrei;8309103;;14.19483;40.822362;22184;;IT;f;Europe/Rome;t;ITNCA;f;;f;8300253;f;;f;;f;8309103;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
+20867;Napoli Mergellina;napoli-mergellina;8309105;;14.218759;40.831459;22184;;IT;f;Europe/Rome;t;ITNAM;f;;f;8300240;f;;f;;f;8309105;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 20868;Pellezzano;pellezzano;8309521;;14.770229;40.722303;;;IT;f;Europe/Rome;t;;f;;f;8302622;f;;f;;f;8309521;t;;f;;;;;;;;;;;;;;;;;;
 20869;Monfalcone;monfalcone;8303310;;13.543238;45.807393;;;IT;f;Europe/Rome;t;ITAHD;f;;f;8300103;f;;f;;f;8303310;t;;f;;;;;;;;;;モンファルコーネ;;;;;Монфальконе;;;
 20870;Casoria-Afragola;casoria-afragola;8309009;;14.298619;40.907732;;;IT;f;Europe/Rome;t;;f;;f;8302378;f;;f;;f;8309009;t;;f;;;;;;;;;;;;;;;;;;
@@ -20134,7 +20134,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21679;Meda;meda;8325025;;9.15891;45.6624;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8325025;t;;f;;;;;;;;;;メーダ;;;;;Мед;;;
 21680;Potenza Centrale;potenza-centrale;8311420;;15.806551;40.630109;;;IT;f;Europe/Rome;t;ITAUV;f;;f;8300291;f;;f;;f;8311420;t;;f;;;;;;;;;;ポテンツァ;;;;;;;;
 21681;Musei;musei;8312953;;8.67651;39.2885;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312953;t;;f;;;;;;;;;;;;;;;;;;
-21682;Napoli Marittima;napoli-marittima;8316506;;14.256198406219482;40.838842482626404;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8316506;t;;f;;;;;;;;;;;;;;;;;;
+21682;Napoli Marittima;napoli-marittima;8316506;;14.256198406219482;40.838842482626404;22184;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8316506;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 21683;Mozzate;mozzate;8325224;;8.95507;45.6778;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8325224;t;;f;;;;;;;;;;;;;;;;;;
 21684;Pietrafitta;pietrafitta;8354304;;16.323537826538086;39.26922482677927;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8354304;t;;f;;;;;;;;;;;;;;;;;;
 21685;Piene Frontiere;piene-frontiere;8323601;;7.530555556;43.890277778;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8323601;t;;f;;;;;;;;;;;;;;;;;;
@@ -20151,12 +20151,12 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21696;Exilles;exilles;8300251;;6.926944444;45.090000000;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8300251;t;;f;;;;;;;;;;;;;;;;;;
 21697;Piazzola;piazzola;8329105;;10.8191595;46.4107636;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8329105;t;;f;;;;;;;;;;;;;;;;;;
 21698;Neive;neive;8300827;;8.12017;44.7228;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8300827;t;;f;;;;;;;;;;;;;;;;;;
-21699;Napoli Piazza Leopardi;napoli-piazza-leopardi;8309104;;14.2004;40.8248;;;IT;f;Europe/Rome;t;ITAQN;f;;f;;f;;f;;f;8309104;t;;f;;;;;;;;;;;;;;;;;;
+21699;Napoli Piazza Leopardi;napoli-piazza-leopardi;8309104;;14.2004;40.8248;22184;;IT;f;Europe/Rome;t;ITAQN;f;;f;;f;;f;;f;8309104;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 21700;Niardo Losine;niardo-losine;8326023;;10.325839519500732;45.981441702946924;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8326023;t;;f;;;;;;;;;;;;;;;;;;
-21701;Napoli Piazza Cavour;napoli-piazza-cavour;8309108;;14.255;40.8553;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309108;t;;f;;;;;;;;;;;;;;;;;;
+21701;Napoli Piazza Cavour;napoli-piazza-cavour;8309108;;14.255;40.8553;22184;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309108;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 21702;Nicorvo;nicorvo;8300273;;8.67129;45.2756;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8300273;t;;f;;;;;;;;;;;;;;;;;;
 21703;Noicattaro Citta’;noicattaro-citta;8341006;;16.9863224029541;41.028769282003026;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8341006;t;;f;;;;;;;;;;;;;;;;;;
-21704;Napoli Piazza Garibaldi;napoli-piazza-garibaldi;8309109;;14.2707;40.8526;;;IT;f;Europe/Rome;t;ITQAA;f;;f;;f;;f;;f;8309109;t;;f;;;;;;;;;;;;;;;;;;
+21704;Napoli Piazza Garibaldi;napoli-piazza-garibaldi;8309109;;14.2707;40.8526;22184;;IT;f;Europe/Rome;t;ITQAA;f;;f;;f;;f;;f;8309109;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 21705;Nardo’ Centrale;nardo-centrale;8341088;;18.0492526;40.1617497;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8341088;t;;f;;;;;;;;;;;;;;;;;;
 21706;Racale-Alliste;racale-alliste;8341071;;18.087637424468994;39.965477436645436;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8341071;t;;f;;;;;;;;;;;;;;;;;;
 21707;Rapolla-Lavello;rapolla-lavello;8311301;;15.741388889;41.009166667;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8311301;t;;f;;;;;;;;;;;;;;;;;;
@@ -20636,7 +20636,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22181;Villamaggiore;villamaggiore;8301802;;9.19051;45.3205;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301802;t;;f;;;;;;;;;;;;;;;;;;
 22182;Villamar;villamar;8342303;;8.958837;39.618044;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8342303;t;;f;;;;;;;;;;;;;;;;;;
 22183;;;;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-22184;Napoli (Tutte Le Stazioni);napoli-tutte-le-stazioni;8309993;;14.28171157836914;40.85871378519896;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309993;t;;f;;;;;;;;;;;;;;;;;;
+22184;Napoli;napoli;8309993;;14.28171157836914;40.85871378519896;;;IT;f;Europe/Rome;t;ITNAP;f;;f;;f;;f;;f;8309993;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 22185;Reviglione di Somma Vesuviana;reviglione-di-somma-vesuviana;8309762;;14.482777778;40.873055556;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309762;t;;f;;;;;;;;;;;;;;;;;;
 22186;Palermo (Tutte Le Stazioni);palermo-tutte-le-stazioni;8312792;;13.35789442062378;38.12074922665;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312792;t;;f;;;;;;;;;;;;;;;;;;
 22187;Pisa (Tutte Le Stazioni);pisa-tutte-le-stazioni;8306993;;10.398817062377928;43.71089730436839;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8306993;t;;f;;;;;;;;;;;;;;;;;;
@@ -20817,7 +20817,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22362;Casarano;casarano;8341059;;18.1589071;40.0031833;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8341059;t;;f;;;;;;;;;;;;;;;;;;
 22363;Capodacqua-Pieve Fanonica;capodacqua-pieve-fanonica;8307215;;12.7541;43.0268;;;IT;t;Europe/Rome;t;;f;;f;;f;;f;;f;8307215;t;;f;;;;;;;;;;;;;;;;;;
 22364;Tradate;tradate;8325227;;8.90695;45.7104;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8325227;t;;f;;;;;;;;;;;;;;;;;;
-22365;Napoli Molo Beverello;napoli-molo-beverello;8386707;;14.254406690597532;40.83752752831728;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8386707;t;;f;;;;;;;;;;;;;;;;;;
+22365;Napoli Molo Beverello;napoli-molo-beverello;8386707;;14.254406690597532;40.83752752831728;22184;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8386707;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 22366;Rescaldina;rescaldina;8325622;;8.94662;45.6223;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8325622;t;;f;;;;;;;;;;レスカルディーナ;;;;;;;;
 22367;Revere Scalo;revere-scalo;8305306;;11.129444444;45.040277778;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8305306;t;;f;;;;;;;;;;;;;;;;;;
 22368;Ribera;ribera;8312608;;13.267707824707031;37.501010429493284;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312608;t;;f;;;;;;;;;;;;;;;;;;
@@ -20839,7 +20839,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22384;San Lorenzo St.Lorenzen;san-lorenzo-st-lorenzen;8302016;;11.903160810470581;46.7815190242636;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8302016;t;;f;;;;;;;;;;;;;;;;;;
 22385;San Gennaro;san-gennaro;8308736;;12.7264;41.6746;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8308736;t;;f;;;;;;;;;;;;;;;;;;
 22386;Milano Porta Garibaldi Passante;milano-porta-garibaldi-passante;8301662;;9.185000000;45.484166667;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301662;t;;f;;;;;;;;;;;;;;;;;;
-22387;Napoli Molo Mergellina;napoli-molo-mergellina;8386708;;14.218626022338867;40.83158961661274;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8386708;t;;f;;;;;;;;;;;;;;;;;;
+22387;Napoli Molo Mergellina;napoli-molo-mergellina;8386708;;14.218626022338867;40.83158961661274;22184;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8386708;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 22388;Ladispoli-Cerveteri;ladispoli-cerveteri;8308021;;12.0815;41.9534;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8308021;t;;f;;;;;;;;;;;;;;;;;;
 22389;Sellia Marina;sellia-marina;8311831;;16.7647;38.9039;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8311831;t;;f;;;;;;;;;;;;;;;;;;
 22390;Milano Porta Venezia;milano-porta-venezia;8301664;;9.20917;45.4756;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301664;t;;f;;;;;;;;;;;;;;;;;;
