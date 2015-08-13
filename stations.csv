@@ -18051,9 +18051,9 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19589;Ora/Auer;ora-auer;8302031;;11.296977;46.360912;;;IT;f;Europe/Rome;t;ITORA;f;;f;8300123;f;;f;;f;8302031;t;;f;;;;;;;;;;;;;;;;;;
 19590;Orciano;orciano;8306022;;10.476783;43.501309;;;IT;f;Europe/Rome;t;;f;;f;8300747;f;;f;;f;8306022;t;;f;;;;;;;;;;;;;;;;;;
 19591;Palazzolo Vercellese;palazzolo-vercellese;8300175;;8.232851;45.189061;;;IT;f;Europe/Rome;t;;f;;f;8301859;f;;f;;f;8300175;t;;f;;;;;;;;;;;;;;;;;;
-19592;Palermo Brancaccio;palermo-brancaccio;8312055;;13.39256;38.092976;;;IT;f;Europe/Rome;t;;f;;f;8301049;f;;f;;f;8312055;t;;f;;;;;;;;;;;;;;;;;;
-19593;Palermo Centrale;palermo-centrale;8312002;;13.367472;38.109417;;;IT;t;Europe/Rome;t;ITPMO;f;;f;8300341;f;;f;;f;8312002;t;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
-19594;Palermo Notarbartolo;palermo-notarbartolo;8312134;;13.341493;38.132313;;;IT;f;Europe/Rome;t;;f;;f;8300511;f;;f;;f;8312134;t;;f;;;;;;;;;;;;;;;;;;
+19592;Palermo Brancaccio;palermo-brancaccio;8312055;;13.39256;38.092976;22186;;IT;f;Europe/Rome;t;;f;;f;8301049;f;;f;;f;8312055;t;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
+19593;Palermo Centrale;palermo-centrale;8312002;;13.367472;38.109417;22186;;IT;t;Europe/Rome;t;ITPMO;f;;f;8300341;f;;f;;f;8312002;t;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
+19594;Palermo Notarbartolo;palermo-notarbartolo;8312134;;13.341493;38.132313;22186;;IT;f;Europe/Rome;t;;f;;f;8300511;f;;f;;f;8312134;t;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
 19595;Palidano;palidano;8302343;;10.777904;44.972178;;;IT;f;Europe/Rome;t;;f;;f;8301905;f;;f;;f;8302343;t;;f;;;;;;;;;;;;;;;;;;
 19596;Palizzi;palizzi;8311859;;15.98647;37.918855;;;IT;f;Europe/Rome;t;;f;;f;8301907;f;;f;;f;8311859;t;;f;;;;;;;;;;;;;;;;;;
 19597;Pallanzeno;pallanzeno;8300002;;8.260673;46.043539;;;IT;f;Europe/Rome;t;;f;;f;8301908;f;;f;;f;8300002;t;;f;;;;;;;;;;;;;;;;;;
@@ -19824,7 +19824,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21369;Oppido Lucano;oppido-lucano;8354025;;16.01735830307007;40.79701497456496;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8354025;t;;f;;;;;;;;;;;;;;;;;;
 21370;Orbetello-Monte Argentario;orbetello-monte-argentario;8308004;;11.248768;42.450785;;;IT;f;Europe/Rome;t;ITAQR;f;;f;8300256;f;;f;;f;8308004;t;;f;;;;;;;;;;;;;;;;;;
 21371;Palena;palena;8308904;;14.1052;41.9186;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8308904;t;;f;;;;;;;;;;;;;;;;;;
-21372;Palermo Marittima;palermo-marittima;8316507;;13.360555556;38.130833333;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8316507;t;;f;;;;;;;;;;;;;;;;;;
+21372;Palermo Marittima;palermo-marittima;8316507;;13.360555556;38.130833333;22186;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8316507;t;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
 21373;Palagiano-Chiatona;palagiano-chiatona;8311464;;17.0591;40.5172;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8311464;t;;f;;;;;;;;;;;;;;;;;;
 21374;Palestro;palestro;8300271;;8.5344;45.3072;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8300271;t;;f;;;;;;;;;;;;;;;;;;
 21375;Pallerone;pallerone;8306220;;10.0051;44.2044;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8306220;t;;f;;;;;;;;;;;;;;;;;;
@@ -20638,8 +20638,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22183;;;;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22184;Napoli;napoli;8309993;;14.28171157836914;40.85871378519896;;;IT;f;Europe/Rome;t;ITNAP;f;;f;;f;;f;;f;8309993;t;;f;;Naples;Naples;Neapel;;Neapol;;Nápoles;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 22185;Reviglione di Somma Vesuviana;reviglione-di-somma-vesuviana;8309762;;14.482777778;40.873055556;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309762;t;;f;;;;;;;;;;;;;;;;;;
-22186;Palermo (Tutte Le Stazioni);palermo-tutte-le-stazioni;8312792;;13.35789442062378;38.12074922665;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312792;t;;f;;;;;;;;;;;;;;;;;;
 22187;Pisa (Tutte Le Stazioni);pisa-tutte-le-stazioni;8306993;;10.398817062377928;43.71089730436839;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8306993;t;;f;;;;;;;;;;;;;;;;;;
+22186;Palermo;palermo;8312792;;13.35789442062378;38.12074922665;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312792;t;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
 22188;Segrate;segrate;8301715;;9.29855;45.4808;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8301715;t;;f;;;;;;;;;;セグラーテ;;;;;;;;
 22189;Ancona (Centroide);ancona-centroide;8307120;;13.4977126121521;43.607602432787104;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8307120;t;;f;;;;;;;;;;;;;;;;;;
 22190;Duomo - Via Vernieri;duomo-via-vernieri;8309820;;14.762777778;40.680833333;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309820;t;;f;;;;;;;;;;;;;;;;;;
