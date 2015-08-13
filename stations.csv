@@ -20603,7 +20603,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22148;Trieste Campo Marzio Loco;trieste-campo-marzio-loco;8303471;;13.755277778;45.646388889;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8303471;t;;f;;;;;;;;;;;;;;;;;;
 22149;Dimaro;dimaro;8315021;;10.872538089752197;46.32876506091474;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8315021;t;;f;;;;;;;;;;;;;;;;;;
 22150;Fornaci;fornaci;8330004;;11.2233183;46.0641063;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8330004;t;;f;;;;;;;;;;;;;;;;;;
-22151;Villa Opicina Confine (Sezana);villa-opicina-confine-sezana;8303553;;13.832688331604004;45.68777503296321;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8303553;t;;f;;;;;;;;;;;;;;;;;;
+22151;Villa Opicina Confine (Sežana);villa-opicina-confine-sezana;8303553;;13.832688331604004;45.68777503296321;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8303553;t;;f;;;;;;;;;;;;;;;;;;
 22152;Zerbinate;zerbinate;8332319;;11.36833369731903;44.951033629023534;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8332319;t;;f;;;;;;;;;;;;;;;;;;
 22153;Villabella;villabella;8300317;;8.5721215;45.0394255;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8300317;t;;f;;;;;;;;;;;;;;;;;;
 22154;Villacidro;villacidro;8342305;;8.737220764160154;39.45700489529222;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8342305;t;;f;;;;;;;;;;;;;;;;;;
