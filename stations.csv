@@ -20610,7 +20610,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22155;Villafranca Piemonte;villafranca-piemonte;8300543;;7.501087188720703;44.77958088110324;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8300543;t;;f;;;;;;;;;;;;;;;;;;
 22156;;;;;;;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22157;Bari;bari;8311699;;16.8620293;41.1257843;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8311699;t;;f;;;;;;;;;;;;;;;;;;
-22158;Benevento;benevento;8309999;;14.770131111145018;41.14175621597;;;IT;f;Europe/Rome;f;;f;;f;;f;;f;;f;8309999;f;;f;;Bénévent;;Benevent;;;;;;ベネヴェント;;;Benewent;;Беневенто;;;
+22158;Benevento;benevento;8309999;;14.770131111145018;41.14175621597;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8309999;t;;f;;Bénévent;;Benevent;;;;;;ベネヴェント;;;Benewent;;Беневенто;;;
 22159;Bologna;bologna;8305999;;11.343169212341307;44.493681377379744;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8305999;t;;f;;Bologne;;;;;;Bolonia;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
 22160;Catania;catania;8312796;;15.088133811950684;37.50141898722712;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8312796;t;;f;;Catane;;;;;;;;カターニア;;;Katania;;Катания;;;
 22161;Civitavecchia;civitavecchia;8308997;;11.798737049102781;42.088123382714144;;;IT;f;Europe/Rome;t;;f;;f;;f;;f;;f;8308997;t;;f;;;;;;;;;;チヴィタヴェッキア;;;;;Чивитавеккья;;;
