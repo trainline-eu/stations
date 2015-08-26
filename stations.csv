@@ -1221,7 +1221,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 1573;Bully-Grenay;bully-grenay;8734210;87342105;2.73317;50.448308;;f;FR;f;Europe/Paris;t;FRCXJ;t;;f;8700334;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1574;Vitry-en-Artois;vitry-en-artois;8734211;87342113;2.982009;50.327699;;f;FR;f;Europe/Paris;t;FRCXK;t;;f;8702234;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1575;Mazingarbe;mazingarbe;8734212;87342121;2.7000000000;50.4666670000;;f;FR;f;Europe/Paris;t;FRCXL;t;;f;8701649;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-1576;Nœux;noeux;8734213;87342139;2.67429;50.48293;;f;FR;f;Europe/Paris;t;FRCXM;t;;f;8701698;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+1576;Nœux-les-Mines;noeux-les-mines;8734213;87342139;2.67429;50.48293;;f;FR;f;Europe/Paris;t;FRCXM;t;;f;8701698;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1577;Marœuil;maroeuil;8734218;87342188;2.698328;50.322369;;f;FR;f;Europe/Paris;t;FRCXQ;t;;f;8701565;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1579;Frévin-Capelle;frevin-capelle;8734221;87342212;2.6333330000;50.3500000000;;f;FR;f;Europe/Paris;t;FRCXS;t;;f;8701168;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1580;Chocques;chocques;8734222;87342220;2.5666670000;50.5333330000;;f;FR;f;Europe/Paris;t;FRCXT;t;;f;8700872;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
