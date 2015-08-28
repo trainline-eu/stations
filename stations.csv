@@ -4464,7 +4464,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5845;Auray;auray;8747620;87476200;-2.999417781829834;47.68021184001663;;f;FR;f;Europe/Paris;t;FRXUY;t;XUY;t;8700206;f;;f;;f;;f;;f;;;;;;;;;;オーレー;오레;;;;Оре;;;
 5846;Vendôme;vendome;;;;;;t;FR;f;Europe/Paris;f;FRXVD;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5847;Villefranche-sur-Saône;villefranche-sur-saone;8772133;87721332;4.721143;45.98448;;f;FR;f;Europe/Paris;t;FRXVF;t;;f;8702170;f;;f;;f;;f;;f;;;;;;;;Villefranche sobre Saona;;ヴィルフランシュ＝シュル＝ソーヌ;;;;;Вильфранш-сюр-Сон;;;
-5848;Vienne;vienne;8772258;87722587;4.8744;45.521023;;f;FR;f;Europe/Paris;t;FRXVI;t;;f;8700095;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Вьенн;;;
+5848;Vienne;vienne;8772258;87722587;4.8744;45.521023;;f;FR;f;Europe/Paris;t;FRXVI;t;;f;8700095;f;;f;;f;;f;;f;;France;France;Frankreich;Francia;;;;;;;;;;Вьенн;;;
 5849;Buxières-Les-Villiers;buxieres-les-villiers;8721522;87215228;5.0333330000;48.1000000000;;f;FR;f;Europe/Paris;t;FRXVL;t;;f;8705159;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5850;Verdun;verdun;8717577;87175778;5.379163;49.165475;;f;FR;f;Europe/Paris;t;FRXVN;t;;f;8700523;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5851;Vesoul;vesoul;8718500;87185009;6.152037;47.617541;;f;FR;f;Europe/Paris;t;FRXVO;t;;f;8700385;f;;f;;f;;f;;f;;;;;;;;;;ヴズー;;;;;Везуль;;;沃苏勒
