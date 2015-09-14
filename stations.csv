@@ -149,7 +149,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 189;Péronne Centre;peronne-centre;8731341;87313411;2.938987;49.934997;188;f;FR;t;Europe/Paris;t;FRCRJ;t;;f;8701752;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 190;Péronne La Chapelette;peronne-la-chapelette;8731386;87313866;2.933359;49.924488;188;f;FR;f;Europe/Paris;t;FRCSU;t;;f;8701770;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 191;Albi Ville;albi-ville;8761500;87615005;2.13785;43.922472;4604;f;FR;t;Europe/Paris;t;FRAFJ;t;;f;8704917;f;;f;;f;;f;;f;;;;;Albé;;;Albé;;アルビ;알비;Albé;Albé;Albé;Альбе;;;阿尔比
-192;Orléans;orleans;8754300;87543009;1.9047331809997559;47.90807935070001;4894;f;FR;t;Europe/Paris;t;FRAFK;t;;f;8700404;f;;f;;f;;f;;f;;;;;;;;;;オルレアン;오를레앙;;Orlean;Orleães;Орлеан;;;奥尔良
+192;Orléans;orleans;8754300;87543009;1.9047331809997559;47.90807935070001;4894;f;FR;t;Europe/Paris;f;FRAFK;t;;f;8700404;f;;f;;f;;f;;f;;;;;;;;;;オルレアン;오를레앙;;Orlean;Orleães;Орлеан;;;奥尔良
 194;Vendôme;vendome;8757455;87574558;1.067837;47.802198;5846;f;FR;f;Europe/Paris;t;FRAFM;t;;f;8702203;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 195;Fréjus;frejus;8775750;87757500;6.7329078912734985;43.43200708149751;4583;f;FR;t;Europe/Paris;t;FRAFN;t;;f;8700472;f;;f;;f;;f;;f;;;;;;;;;;フレジュス;;;;;Фрежюс;;;弗雷瑞斯
 196;Fontenay-le-Comte;fontenay-le-comte;8748561;87485615;-0.809592604637146;46.46785957735252;2776;f;FR;t;Europe/Paris;t;FRAFQ;t;;f;8702433;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -3673,12 +3673,12 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4883;Brignoles;brignoles;8745899;87458992;6.05647087097168;43.40595166064919;9134;f;FR;t;Europe/Paris;t;FROCX;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;ブリニョール;;;;;Бриньоль;;;布里尼奥勒
 4884;St-Maximin;st-maximin;8745900;87459008;5.8666670000;43.4500000000;;f;FR;f;Europe/Paris;t;FROCY;t;;f;8706297;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4885;Forcalquier;forcalquier;8745901;87459016;5.78030526638031;43.96034499448917;;f;FR;f;Europe/Paris;t;FROCZ;t;;f;8706298;f;;f;;f;;f;;f;;;;;;;;;;フォルカルキエ;;;;;Форкалькье;;;福卡尔基耶
-4888;Orléans Gare Routière;orleans-gare-routiere;8713744;87137448;1.9000000000;47.9166670000;192;f;FR;f;Europe/Paris;f;FROGR;t;;f;8705045;f;XOS;t;;f;;f;;f;;;;;;;;;;;;;;;;;;
+4888;Orléans Gare Routière;orleans-gare-routiere;8713744;87137448;1.9000000000;47.9166670000;4894;f;FR;f;Europe/Paris;f;FROGR;f;;f;8705045;f;XOS;t;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4889;Orges;orges;8721553;87215533;4.9333330000;48.0833330000;;f;FR;f;Europe/Paris;t;FROGS;t;;f;8705157;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4890;Ostricourt;ostricourt;8734524;87345249;3.0333330000;50.4500000000;;f;FR;f;Europe/Paris;t;FROIC;t;;f;8701725;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4891;Oissel;oissel;8741120;87411207;1.1023235321044922;49.34299206229827;;f;FR;f;Europe/Paris;t;FROIL;t;;f;8700402;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4893;Houlgate;houlgate;;;-0.0666670000;49.3000000000;;t;FR;f;Europe/Paris;f;FROLG;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-4894;Orléans;orleans;9904003;;1.9000000000;47.9166670000;;t;FR;f;Europe/Paris;f;FROLS;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+4894;Orléans;orleans;9904003;;1.9000000000;47.9166670000;;t;FR;f;Europe/Paris;t;FROLS;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4895;Le Caoulet;le-caoulet;8712404;87124040;0.644427;44.236689;;f;FR;f;Europe/Paris;t;FROLT;t;;f;8706318;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4896;Le Caoulet Station;le-caoulet-station;8746557;87465575;0.643528;44.235835;;f;FR;f;Europe/Paris;t;FROLU;t;;f;8706319;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4897;Le Caoulet Pharmacie;le-caoulet-pharmacie;8746556;87465567;0.638629;44.234361;;f;FR;f;Europe/Paris;t;FROLV;t;;f;8706320;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
