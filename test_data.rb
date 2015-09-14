@@ -16,10 +16,21 @@ STATIONS_UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
 CHILDREN = {}
 CHILDREN_COUNT = Hash.new(0)
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
+
+def valid_carrier(row)
+  row["db_is_enabled"] == "t" ||
+    row["idbus_is_enabled"] == "t" ||
+    row["idtgv_is_enabled"] == "t" ||
+    row["ntv_is_enabled"] == "t" ||
+    row["ouigo_is_enabled"] == "t" ||
+    row["sncf_is_enabled"] == "t" ||
+    row["trenitalia_is_enabled"] == "t"
+end
+
 STATIONS.each do |row|
   if row["parent_station_id"]
     CHILDREN[row["parent_station_id"]] << row
-    if row["is_suggestable"] == "t"
+    if valid_carrier(row) == "t"
       CHILDREN_COUNT[row["parent_station_id"]] += 1
     end
   end
@@ -232,16 +243,6 @@ class StationsTest < Minitest::Test
         end
       end
     end
-  end
-
-  def valid_carrier(row)
-    row["db_is_enabled"] == "t" ||
-      row["idbus_is_enabled"] == "t" ||
-      row["idtgv_is_enabled"] == "t" ||
-      row["ntv_is_enabled"] == "t" ||
-      row["ouigo_is_enabled"] == "t" ||
-      row["sncf_is_enabled"] == "t" ||
-      row["trenitalia_is_enabled"] == "t"
   end
 
   def test_suggestable_has_carrier
