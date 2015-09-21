@@ -17691,7 +17691,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19226;Arvier;arvier;8300134;;7.166551;45.704286;;;IT;f;Europe/Rome;t;;f;;f;8301160;f;;f;;f;8300134;t;;f;;;;;;;;;;;;;;;;;;
 19227;Bicocca;bicocca;8312338;;15.044922;37.460935;;;IT;f;Europe/Rome;t;;f;;f;8300842;f;;f;;f;8312338;t;;f;;;;;;;;;;;;;;;;;;
 19228;Biforco;biforco;8306621;;11.602233;44.068411;;;IT;f;Europe/Rome;t;;f;;f;8301212;f;;f;;f;8306621;t;;f;;;;;;;;;;;;;;;;;;
-19229;Catanzaro Lido;catanzaro-lido;8311833;;16.613647;38.822451;;;IT;f;Europe/Rome;t;;f;;f;8300312;f;;f;;f;8311833;t;;f;;;;;;;;;;カタンツァーロ;;;;;Катандзаро;;;
+19229;Catanzaro Lido;catanzaro-lido;8311833;;16.613647;38.822451;;;IT;f;Europe/Rome;t;;f;;f;8300312;f;;f;;f;8311833;t;;f;;Gare centrale;Main station;Hauptbahnhof;Stazione centrale;;;;;;;;;;;;;
 19230;Catenanuova-Centuripe;catenanuova-centuripe;8312244;;14.688994;37.561642;;;IT;f;Europe/Rome;t;;f;;f;8300314;f;;f;;f;8312244;t;;f;;;;;;;;;;;;;;;;;;
 19231;Caulonia;caulonia;8311846;;16.46724;38.343793;;;IT;f;Europe/Rome;t;;f;;f;8300830;f;;f;;f;8311846;t;;f;;;;;;;;;;;;;;;;;;
 19232;Cava dei Tirreni;cava-dei-tirreni;8309816;;14.708491;40.703587;;;IT;f;Europe/Rome;t;;f;;f;8301021;f;;f;;f;8309816;t;;f;;;;;;;;;;;;;;;;;;
@@ -17887,7 +17887,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19423;Benevento Arco Traiano;benevento-arco-traiano;8309524;;14.779866;41.134611;22158;;IT;f;Europe/Rome;t;;f;;f;8302917;f;;f;;f;8309524;t;;f;;Bénévent;;Benevent;;;;;;ベネヴェント;;;Benewent;;Беневенто;;;
 19424;Arquata Scrivia;arquata-scrivia;8304207;;8.885342;44.692263;;;IT;f;Europe/Rome;t;;f;;f;8300134;f;;f;;f;8304207;t;;f;;;;;;;;;;;;;;;;;;
 19425;Arsoli;arsoli;8308516;;13.013081;42.045838;;;IT;f;Europe/Rome;t;;f;;f;8301162;f;;f;;f;8308516;t;;f;;;;;;;;;;アルソリ;;;;;;;;
-19426;Catanzaro;catanzaro;8311956;;16.599354;38.896126;;;IT;f;Europe/Rome;t;;f;;f;8300315;f;;f;;f;8311956;t;;f;;;;;;;;;;カタンツァーロ;;;;;Катандзаро;;;
+19426;Catanzaro;catanzaro;8311956;;16.599354;38.896126;;;IT;f;Europe/Rome;t;;f;;f;8300315;f;;f;;f;8311956;t;;f;;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto;Germaneto
 19427;Bari Santo Spirito;bari-santo-spirito;8311116;;16.746409;41.159772;;;IT;f;Europe/Rome;t;;f;;f;8301025;f;;f;;f;8311116;t;;f;;;;;;;;;;;;;;;;;;
 19428;Bari Zona Industriale;bari-zona-industriale;8311156;;16.829262;41.105567;;;IT;f;Europe/Rome;t;;f;;f;8302467;f;;f;;f;8311156;t;;f;;;;;;;;;;;;;;;;;;
 19429;Baricetta;baricetta;8305419;;11.995547;45.060847;;;IT;f;Europe/Rome;t;;f;;f;8301174;f;;f;;f;8305419;t;;f;;;;;;;;;;;;;;;;;;
