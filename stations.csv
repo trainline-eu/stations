@@ -6144,7 +6144,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7557;Cottbus;cottbus;8004019;;14.324158;51.750952;;f;DE;f;Europe/Berlin;t;DECBU;f;;f;8010073;t;;f;;f;;f;;f;;;;;;Chotěbuz;;;;コトブス;콧부스;;Chociebuż;;Котбус;;;科特布斯
 7558;Köln;koln;;;6.967206;50.941312;;t;DE;f;Europe/Berlin;t;DECGN;t;;f;8096022;t;;f;;f;;f;;f;;Cologne;Cologne;;Colonia;Kolín nad Rýnem;;Colonia;;ケルン;쾰른;Keulen;Kolonia;Colônia;Кёльн;;;科隆
 7559;Köln-Mülheim;koln-mulheim;8015541;;7.013294;50.957987;7558;f;DE;f;Europe/Berlin;t;DEKOM;f;;f;8000209;t;;f;;f;;f;;f;;Cologne;Cologne;;Colonia;Kolín nad Rýnem;;Colonia;;ケルン;쾰른;Keulen;Kolonia;Colônia;Кёльн;;;科隆
-7560;Köln Messe/Deutz;koln-messe-deutz;8015561;;6.975;50.940871;7558;f;DE;f;Europe/Berlin;t;DEKOD;f;;f;8003368;t;QKU;t;;f;;f;;f;;Cologne;Cologne;;Colonia;Kolín nad Rýnem;;Colonia;;ケルン;쾰른;Keulen;Kolonia;Colônia;Кёльн;;;科隆
+7560;Köln Messe/Deutz;koln-messe-deutz;8015561;;6.975;50.940871;7558;f;DE;f;Europe/Berlin;t;DEKOD;f;;f;8003368;t;QKU;f;;f;;f;;f;;Cologne;Cologne;;Colonia;Kolín nad Rýnem;;Colonia;;ケルン;쾰른;Keulen;Kolonia;Colônia;Кёльн;;;科隆
 7561;Köln Hbf;koln-hbf;8015458;80154583;6.958729;50.943029;7558;f;DE;t;Europe/Berlin;t;DEKOH;t;;f;8000207;t;;f;;f;;f;;f;;Cologne Gare centrale;Cologne Main station;;Colonia Stazione centrale;Kolín nad Rýnem;;Colonia;;ケルン;쾰른;Keulen;Kolonia;Colônia;Кёльн;;;科隆
 7562;Celle;celle;8013631;;10.062704;52.621171;;f;DE;f;Europe/Berlin;t;DECLL;f;;f;8000064;t;;f;;f;;f;;f;;Allemagne;Germany;Deutschland;Germania;;;;;ツェレ;첼레;;;;Целле;;;策勒
 7563;Cochem (Mosel);cochem-mosel;8025107;;7.166739;50.153093;;f;DE;f;Europe/Berlin;t;DECMO;f;;f;8001340;t;;f;;f;;f;;f;;;;;;;;;;コッヘム;;;;;Кохем;;;科赫姆
@@ -21095,7 +21095,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22650;Gare fictive 6;gare-fictive-6;8722209;;;;;f;FR;f;Europe/Paris;f;FRRRR;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22651;Gare fictive 1 CE;gare-fictive-1-ce;8718892;;;;;f;FR;f;Europe/Paris;f;FRSSS;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22652;Köln Arcaden;koln-arcaden;;;6.99536;50.93940;7558;f;DE;f;Europe/Berlin;f;;f;;f;;f;XCG;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-22653;Aachen Wilmerdorferstraße;aachen-wilmerdorferstrasse;;;6.13759;50.78590;6698;t;DE;f;Europe/Berlin;f;;f;;f;;f;XAA;t;;f;;f;;f;;Aix-la-Chapelle;;;Aquisgrana;;;;;;;;;;;;;
+22653;Aachen Wilmerdorferstraße;aachen-wilmerdorferstrasse;;;6.13759;50.78590;6698;t;DE;f;Europe/Berlin;f;;f;;f;;f;XAA;f;;f;;f;;f;;Aix-la-Chapelle;;;Aquisgrana;;;;;;;;;;;;;
 22654;London Victoria c.st;london-victoria-cst;;;-0.14352500438690186;51.49589967008447;8267;f;GB;f;Europe/London;f;;f;;f;7002842;t;;f;;f;;f;;f;;Londres;;;Londra;;;;;;;;;;;;;
 22655;Sainte-Ménéhould Médiathèque;sainte-menehould-mediatheque;8763593;;4.8666670000;49.1000000000;;f;FR;f;Europe/Paris;t;FRZKT;t;;f;8701999;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 22656;Hamburg Hbf;hamburg-hbf;8001019;;;;;f;DE;f;Europe/Berlin;f;;f;;f;;f;;f;;f;;f;;f;7474;;;;;;;;;;;;;;;;;
