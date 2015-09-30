@@ -4893,7 +4893,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6297;Brügg;brugg;8500309;;8.2088320000;47.4808510000;;f;CH;f;Europe/Zurich;t;CHBGG;f;;f;8500309;t;;f;;f;;f;;f;;;;;;;;;;;브루그;;;;Брюгг;;;布魯格
 6298;;;;;;;;f;CH;f;Europe/Zurich;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6299;Braunwald;braunwald;8503261;;8.998597;46.938685;;f;CH;f;Europe/Zurich;f;CHBNW;f;;f;8503261;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-6300;Bern;bern;8507000;85070003;7.4384830000;46.9491130000;;f;CH;f;Europe/Zurich;t;CHBRN;t;;f;8507000;t;;f;;f;;f;;f;;Berne, Suisse;Switzerland;Schweiz;Berna, Svizzera;;;Berna;;ベルン;베른;;Berno;Berna;Берн;;;伯恩
+6300;Bern;bern;8507000;85070003;7.4384830000;46.9491130000;;f;CH;f;Europe/Zurich;t;CHBRN;t;;f;8507000;t;;f;;f;8507000;t;;f;;Berne, Suisse;Switzerland;Schweiz;Berna, Svizzera;;;Berna;;ベルン;베른;;Berno;Berna;Берн;;;伯恩
 6301;;;;;;;;f;CH;f;Europe/Zurich;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6302;Chandolin Poste;chandolin-poste;8501755;;;;;f;CH;f;Europe/Zurich;f;CHCHA;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6303;;;;;;;;f;CH;f;Europe/Zurich;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
