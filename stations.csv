@@ -4262,7 +4262,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5598;Urt;urt;;;;;;t;FR;f;Europe/Paris;f;FRURC;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5599;Urt;urt;8767238;87672386;-1.300586;43.499385;5598;f;FR;t;Europe/Paris;t;FRURT;t;;f;8702144;f;;f;;f;;f;;f;;;;;;;;Ahurti;;;;;;;;;;于尔
 5601;Rouen Rive Droite;rouen-rive-droite;8741101;87411017;1.094113;49.44904;5603;f;FR;t;Europe/Paris;t;FRURD;t;;f;8700113;f;XRO;f;;f;;f;;f;;;;;;;;Ruan;;ルーアン;루앙;;;Ruão;Руан;;;鲁昂
-5602;Rouen Gare Routière;rouen-gare-routiere;8740189;87401893;1.0993190000;49.4431290000;5601;f;FR;f;Europe/Paris;f;FRURG;t;;f;8705355;f;XRN;t;;f;;f;;f;;;;;;;;;;;;;;;;;;
+5602;Rouen Gare Routière;rouen-gare-routiere;8740189;87401893;1.0993190000;49.4431290000;5601;f;FR;f;Europe/Paris;f;FRURG;f;;f;8705355;f;XRN;t;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5603;Rouen;rouen;9919002;;1.0993190000;49.4431290000;;t;FR;f;Europe/Paris;f;FRURL;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5604;Aubusson;aubusson;;;2.1666670000;45.9500000000;;t;FR;f;Europe/Paris;f;FRUSO;t;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5605;Ussel;ussel;8759409;87594093;2.314353;45.557475;10657;f;FR;f;Europe/Paris;t;FRUSS;t;;f;8700098;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
