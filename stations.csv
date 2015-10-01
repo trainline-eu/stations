@@ -1793,7 +1793,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 2390;Voves;voves;8754570;87545707;1.621968;48.275039;;f;FR;f;Europe/Paris;t;FRERM;t;;f;8702232;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2391;Bonneval;bonneval;8754573;87545731;1.4000000000;48.1833330000;;f;FR;f;Europe/Paris;t;FRERO;t;;f;8700746;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2394;Err;err;8778484;87784843;2.0292305946350098;42.4427976546067;;f;FR;f;Europe/Paris;t;FRERR;t;;f;8703279;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-2406;Vendôme—Villiers-sur-Loir;vendome-villiers-sur-loir;8757121;87571216;1.067873239517212;47.80215498881091;5846;f;FR;f;Europe/Paris;t;FRESL;t;;f;8702205;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+2406;Vendôme—Villiers-sur-Loir;vendome-villiers-sur-loir;8757121;87571216;1.0214602947;47.8219005964;5846;f;FR;f;Europe/Paris;t;FRESL;t;;f;8702205;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2407;Montbazon;montbazon;8757140;87571406;0.7166670000;47.2833330000;;f;FR;f;Europe/Paris;t;FRESO;t;;f;8704021;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2408;Veigné;veigne;8757141;87571414;0.734976;47.291404;;f;FR;f;Europe/Paris;t;FRESP;t;;f;8704795;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2409;Esvres-sur-Indre;esvres-sur-indre;8757142;87571422;0.78171;47.284015;;f;FR;f;Europe/Paris;t;FRESQ;t;;f;8703288;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
