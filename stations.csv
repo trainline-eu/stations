@@ -21485,3 +21485,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23040;Tuttlingen Busbahnhof;tuttlingen-busbahnhof;;;8.79962;47.98016;7339;f;DE;f;Europe/Berlin;f;;f;;f;501460;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23041;Engen Busbahnhof;engen-busbahnhof;;;8.77323;47.85598;7587;f;DE;f;Europe/Berlin;f;;f;;f;501477;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23042;Leutkirch Busbahnhof;leutkirch-busbahnhof;;;10.01655;47.82623;7461;f;DE;f;Europe/Berlin;f;;f;;f;490138;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+23043;Toulouse Gironis;toulouse-gironis;8768814;;1.417999;43.563604;5306;f;FR;f;Europe/Paris;f;FRXTO;t;;f;;f;;f;;f;;f;;f;;;;;Tolosa;;;;;トゥールーズ;툴루즈;;Tuluza;;Тулуза;;;圖盧茲
