@@ -70,7 +70,7 @@ end
 class StationsTest < Minitest::Test
 
   def test_number_columns
-    nb_columns = 45
+    nb_columns = 46
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Wrong number of columns #{row["size"]} for station #{row["id"]}" }
   end
@@ -147,6 +147,18 @@ class StationsTest < Minitest::Test
 
     bad_counts = counts.select { |_, count| count != 1 }
     assert_equal 0, bad_counts.length, "UIC duplicated: #{bad_counts.map(&:first).join(', ')}"
+  end
+
+  def test_sncf_tvs_id_unicity
+    counts = {}
+    STATIONS.each do |row|
+      if row["sncf_tvs_id"]
+        counts[row["sncf_tvs_id"]] = (counts[row["sncf_tvs_id"]] || 0) + 1
+      end
+    end
+
+    bad_counts = counts.select { |_, count| count != 1 }
+    assert_equal 0, bad_counts.length, "SNCF TVS duplicated: #{bad_counts.map(&:first).join(', ')}"
   end
 
   def test_coordinates
