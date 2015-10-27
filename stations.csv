@@ -471,7 +471,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 630;Fumay;fumay;8717209;87172098;4.7000000000;49.9833330000;;f;FR;f;Europe/Paris;t;FRBDG;FUY;t;;f;8701167;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Фюме;;;菲迈
 631;Haybes;haybes;8717210;87172106;4.705023765563965;50.01190356683356;;f;FR;f;Europe/Paris;t;FRBDH;HYM;t;;f;8701243;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 632;Vireux-Molhain;vireux-molhain;8717211;87172114;4.723229;50.083004;;f;FR;f;Europe/Paris;t;FRBDI;VRX;t;;f;8702196;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-633;Aubrives;aubrives;8717212;87172122;4.7666670000;50.1000000000;;f;FR;f;Europe/Paris;t;FRBDJ;;t;;f;8700569;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+633;Aubrives;aubrives;8717212;87172122;4.7666670000;50.1000000000;;f;FR;f;Europe/Paris;t;FRBDJ;ARI;t;;f;8700569;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 634;Givet;givet;8717213;87172130;4.8176443576812735;50.1402756471295;;f;FR;f;Europe/Paris;t;FRBDK;GVT;t;;f;8700522;f;;f;;f;;f;;f;;f;;;;;;;;;;ジヴェ;;;;;Живе;;;日韦
 635;Lumes;lumes;8717218;87172189;4.7833330000;49.7333330000;;f;FR;f;Europe/Paris;t;FRBDO;;t;;f;8701415;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 636;Nouvion-sur-Meuse;nouvion-sur-meuse;8717221;87172213;4.8000000000;49.7000000000;;f;FR;f;Europe/Paris;t;FRBDP;NSM;t;;f;8701689;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -1047,7 +1047,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 1372;Appilly;appilly;8729645;87296459;3.1166670000;49.5833330000;;f;FR;f;Europe/Paris;t;FRCNW;;t;;f;8700623;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1373;Anizy-Pinon;anizy-pinon;8729656;87296566;3.448765;49.496008;;f;FR;f;Europe/Paris;t;FRCNY;;t;;f;8700597;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1374;Versigny;versigny;8729660;87296608;3.433196;49.657517;;f;FR;f;Europe/Paris;t;FRCNZ;;t;;f;8702230;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-1375;Chauny;chauny;8729661;87296616;3.2239937782287598;49.61105058707904;;f;FR;f;Europe/Paris;t;FRCOA;;t;;f;8700336;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+1375;Chauny;chauny;8729661;87296616;3.2239937782287598;49.61105058707904;;f;FR;f;Europe/Paris;t;FRCOA;CNY;t;;f;8700336;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1377;La Fère;la-fere;8729663;87296632;3.3666670000;49.6666670000;;f;FR;f;Europe/Paris;t;FRCOC;;t;;f;8701123;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1378;Flavy-le-Martel;flavy-le-martel;8729687;87296871;3.2000000000;49.7166670000;;f;FR;f;Europe/Paris;t;FRCOD;;t;;f;8701136;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 1380;Collonges—Fontaines;collonges-fontaines;8772122;87721225;4.8333330000;45.8166670000;;f;FR;f;Europe/Paris;t;FRCOF;COF;t;;f;8700923;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -1981,7 +1981,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 2629;Montmoreau;montmoreau;8758367;87583674;0.1333330000;45.4000000000;;f;FR;f;Europe/Paris;t;FRFDK;;t;;f;8701555;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2630;Chalais;chalais;8758369;87583690;0.04349470138549804;45.270748914540015;;f;FR;f;Europe/Paris;t;FRFDL;;t;;f;8700868;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2632;Luxé;luxe;8758382;87583823;0.1166670000;45.8833330000;;f;FR;f;Europe/Paris;t;FRFDQ;;t;;f;8701464;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-2633;Ruffec (Charente);ruffec-charente;8758384;87583849;0.1902008056640625;46.03050613404603;;f;FR;f;Europe/Paris;t;FRFDS;;t;;f;8701902;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+2633;Ruffec (Charente);ruffec-charente;8758384;87583849;0.1902008056640625;46.03050613404603;;f;FR;f;Europe/Paris;t;FRFDS;RUG;t;;f;8701902;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2634;St-Émilion;st-emilion;8758410;87584102;-0.15921592712402344;44.88126555065233;;f;FR;f;Europe/Paris;t;FRFDT;;t;;f;8704553;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2635;Assier Ville;assier-ville;8716547;87165472;1.8833330000;44.6666670000;2715;f;FR;f;Europe/Paris;t;FRFDV;;t;;f;8705771;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2636;Castillon;castillon;8758413;87584136;-0.04079103469848633;44.8570552520214;;f;FR;f;Europe/Paris;t;FRFDW;;t;;f;8702983;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -2788,7 +2788,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 3668;Le Méridien;le-meridien;8772152;87721522;4.748362;45.768829;;f;FR;f;Europe/Paris;t;FRHCV;WER;t;;f;8703974;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3669;Charbonnières-les-Bains;charbonnieres-les-bains;8772153;87721530;4.735912084579468;45.78210388081568;4862;f;FR;t;Europe/Paris;t;FRHCW;CRB;t;;f;8703045;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3670;La Tour-de-Salvagny;la-tour-de-salvagny;8772154;87721548;4.7166670000;45.8166670000;;f;FR;f;Europe/Paris;t;FRHCX;TSW;t;;f;8704733;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-3671;Lentilly;lentilly;8772155;87721555;4.666668176651001;45.82214530056215;;f;FR;f;Europe/Paris;t;FRHCY;;t;;f;8703752;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+3671;Lentilly;lentilly;8772155;87721555;4.666668176651001;45.82214530056215;;f;FR;f;Europe/Paris;t;FRHCY;LTY;t;;f;8703752;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3672;Fleurieux-sur-l’Arbresle;fleurieux-sur-larbresle;8772156;87721563;4.6500000000;45.8333330000;;f;FR;f;Europe/Paris;t;FRHCZ;FSL;t;;f;8703321;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3673;Les Flachères;les-flacheres;8772170;87721704;4.75408;45.777396;;f;FR;f;Europe/Paris;t;FRHDB;FLD;t;;f;8703318;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 3675;Dommartin—Lissieu;dommartin-lissieu;8772173;87721738;4.732137;45.847943;;f;FR;f;Europe/Paris;t;FRHDE;DLU;t;;f;8703230;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -3063,7 +3063,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4015;Seyssel—Corbonod;seyssel-corbonod;8774582;87745828;5.831347;45.963032;;f;FR;f;Europe/Paris;t;FRHSX;SSS;t;;f;8700458;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4018;Grésy-sur-Aix;gresy-sur-aix;8774610;87746107;5.9500000000;45.7166670000;;f;FR;f;Europe/Paris;t;FRHTB;GAX;t;;f;8703436;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4021;Rumilly;rumilly;8774614;87746149;5.947980880737305;45.86293870111006;;f;FR;f;Europe/Paris;t;FRHTE;RUM;t;;f;8700440;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-4022;Lyon Jean Macé;lyon-jean-mace;8728262;87282624;4.841841;45.745052;4718;f;FR;f;Europe/Paris;t;FRHTF;;t;;f;8706450;f;;f;;f;;f;;f;;f;;;;;Lione;;;;;リヨン;리옹;;;;Лион;;;里昂
+4022;Lyon Jean Macé;lyon-jean-mace;8728262;87282624;4.841841;45.745052;4718;f;FR;f;Europe/Paris;t;FRHTF;LJC;t;;f;8706450;f;;f;;f;;f;;f;;f;;;;;Lione;;;;;リヨン;리옹;;;;Лион;;;里昂
 4023;Hettange-Grande;hettange-grande;8719116;87191163;6.15659236907959;49.40767829801834;;f;FR;f;Europe/Paris;t;FRHTG;;t;;f;8701141;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4025;Pringy (Haute Savoie);pringy-haute-savoie;8774620;87746206;6.123311519622802;45.9394967961247;;f;FR;f;Europe/Paris;t;FRHTK;PGY;t;;f;8704920;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4026;St-Martin-Bellevue;st-martin-bellevue;8774622;87746222;6.1333330000;45.9500000000;;f;FR;f;Europe/Paris;t;FRHTM;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -3215,8 +3215,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4278;St-Péray;st-peray;8776149;87761494;4.8333330000;44.9500000000;5611;f;FR;f;Europe/Paris;t;FRIFB;;t;;f;8702028;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4279;La Voulte;la-voulte;8776154;;4.781134128570557;44.799362720814585;5667;f;FR;t;Europe/Paris;t;FRIFC;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4281;Romans—Bourg-de-Péage;romans-bourg-de-peage;8776165;87761650;5.049591064453125;45.048875893555234;;f;FR;f;Europe/Paris;t;FRIFE;ROM;t;;f;8700414;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-4282;St-Hilaire—St-Nazaire;st-hilaire-st-nazaire;8776168;87761684;5.243820548057556;45.071402882128005;;f;FR;f;Europe/Paris;t;FRIFF;;t;;f;8704587;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-4283;St-Marcellin;st-marcellin;8776171;87761718;5.323594808578491;45.15087923796671;;f;FR;f;Europe/Paris;t;FRIFG;;t;;f;8700482;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+4282;St-Hilaire—St-Nazaire;st-hilaire-st-nazaire;8776168;87761684;5.243820548057556;45.071402882128005;;f;FR;f;Europe/Paris;t;FRIFF;SHN;t;;f;8704587;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
+4283;St-Marcellin;st-marcellin;8776171;87761718;5.323594808578491;45.15087923796671;;f;FR;f;Europe/Paris;t;FRIFG;SCI;t;;f;8700482;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4284;Vinay;vinay;8776172;87761726;5.410155057907104;45.207924234281286;;f;FR;f;Europe/Paris;t;FRIFH;VNA;t;;f;8704882;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4285;Poliénas;polienas;8776174;87761742;5.4666670000;45.2500000000;;f;FR;f;Europe/Paris;t;FRIFI;POS;t;;f;8704249;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4286;Tullins—Fures;tullins-fures;8776175;87761759;5.492579;45.301408;;f;FR;f;Europe/Paris;t;FRIFJ;TLE;t;;f;8704750;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -3700,7 +3700,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4919;Paris-Gare-de-l’Est;paris-gare-de-lest;8711300;87113001;2.35912;48.876975;4916;f;FR;f;Europe/Paris;t;FRPST;PES;t;PST;f;8700011;t;;f;;f;;f;;f;;f;;;;;Parigi;Paříž;;;Párizs;パリ;파리;Parijs;Paryż;;Париж;;;巴黎
 4920;Paris-Gare-Montparnasse;paris-gare-montparnasse;8739100;87391003;2.319576;48.840488;4916;f;FR;f;Europe/Paris;t;FRPMO;PMP;t;PMO;t;8700013;f;;f;;f;;f;;f;;f;;;;;Parigi;Paříž;;;Párizs;パリ;파리;Parijs;Paryż;;Париж;;;巴黎
 4921;Paris-Austerlitz;paris-austerlitz;8754700;87547000;2.3665666580200195;48.84091003613604;4916;f;FR;f;Europe/Paris;t;FRPAZ;PAZ;t;;f;8700010;t;;f;;f;;f;;f;;f;;;;;Parigi;Paříž;;;Párizs;パリ;파리;Parijs;Paryż;;Париж;;;巴黎
-4922;Paris-Gare-du-Nord;paris-gare-du-nord;8727100;87271007;2.354931;48.880885;4916;f;FR;f;Europe/Paris;t;FRPNO;;t;;f;8700014;f;;f;;f;;f;;f;;f;;;;;Parigi;Paříž;;;Párizs;パリ;파리;Parijs;Paryż;;Париж;;;巴黎
+4922;Paris-Gare-du-Nord;paris-gare-du-nord;8727100;87271007;2.354931;48.880885;4916;f;FR;f;Europe/Paris;t;FRPNO;PNO;t;;f;8700014;f;;f;;f;;f;;f;;f;;;;;Parigi;Paříž;;;Párizs;パリ;파리;Parijs;Paryż;;Париж;;;巴黎
 4923;Paris-Gare-St-Lazare;paris-gare-st-lazare;8738400;87384008;2.325338;48.876328;4916;f;FR;f;Europe/Paris;t;FRPSL;PSL;t;;f;8700015;f;;f;;f;;f;;f;;f;;;;;Parigi;Paříž;;;Párizs;パリ;파리;Parijs;Paryż;;Париж;;;巴黎
 4924;Paris-Gare-de-Lyon;paris-gare-de-lyon;8768600;87686006;2.374069;48.844839;4916;f;FR;f;Europe/Paris;t;FRPLY;PLY;t;PLY;t;8700012;f;;f;;f;8768600;t;;f;;f;;;;;Parigi;Paříž;;;Párizs;パリ;파리;Parijs;Paryż;;Париж;;;巴黎
 4926;Parthenay;parthenay;8748717;87487173;-0.24051904678344727;46.6482872235422;;f;FR;f;Europe/Paris;t;FRPAY;;t;;f;8704189;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -3792,7 +3792,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5036;Langres Boulière;langres-bouliere;8721607;87216077;5.332931;47.845229;5032;f;FR;f;Europe/Paris;t;FRVGS;;t;;f;8705135;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5037;Les Cauquillous;les-cauquillous;8732802;87328021;1.754685;43.734013;;f;FR;f;Europe/Paris;t;FRQLS;;t;;f;8705267;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5038;Moûtiers—Salins;moutiers-salins;8774172;87741728;6.531454;45.486693;;f;FR;f;Europe/Paris;t;FRQMU;MOS;t;QMU;t;8700129;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5039;Annemasse;annemasse;8774549;87745497;6.236371994018555;46.19928993718554;;f;FR;f;Europe/Paris;t;FRQNJ;;t;QNJ;t;8700131;f;;f;;f;;f;;f;;f;;;;;;;;;;アヌマッス;;;;;;;;安纳马斯
+5039;Annemasse;annemasse;8774549;87745497;6.236371994018555;46.19928993718554;;f;FR;f;Europe/Paris;t;FRQNJ;ANE;t;QNJ;t;8700131;f;;f;;f;;f;;f;;f;;;;;;;;;;アヌマッス;;;;;;;;安纳马斯
 5041;Mâcon;macon;;;4.8333330000;46.3000000000;;t;FR;f;Europe/Paris;t;FRQNX;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;マコン;마콩;;;;Макон;;;马孔
 5042;Arras;arras;8734201;87342014;2.781364917755127;50.286933167844474;;f;FR;f;Europe/Paris;t;FRQRV;ARR;t;;f;8700071;f;;f;;f;;f;;f;;f;;;;;;;;;;アラス;아라스;;;;Аррас-сюр-Рон;;;罗讷河畔阿尔拉
 5043;Château-Renault;chateau-renault;;;0.9166670000;47.5833330000;;t;FR;f;Europe/Paris;f;FRQTV;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -4436,7 +4436,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5817;Rambouillet;rambouillet;8739331;;1.8328070640563965;48.64430879442644;;f;FR;f;Europe/Paris;t;FRXRT;;t;;f;8700186;f;;f;;f;;f;;f;;f;;;;;;;;;;ランブイエ;;;;;Рамбуйе;;;朗布依埃
 5818;St-Malo;st-malo;8747810;87478107;-2.0038890838623047;48.64663389373507;;f;FR;f;Europe/Paris;t;FRXSB;SMP;t;;f;8700228;f;;f;;f;;f;;f;;f;;;;;;;;;;サン・マロ;;;;;Сен-Мало;;;圣马洛
 5819;Sens;sens;8768300;87683003;3.2677567005157466;48.197919069342625;;f;FR;f;Europe/Paris;t;FRXSF;SES;t;;f;8702014;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5820;St-Omer;st-omer;8728144;87281444;2.266895771026611;50.753916161404945;;f;FR;f;Europe/Paris;t;FRXSG;;t;;f;8700260;f;;f;;f;;f;;f;;f;;;;;;;;;;;;Sint-Omaars;;;;;;
+5820;St-Omer;st-omer;8728144;87281444;2.266895771026611;50.753916161404945;;f;FR;f;Europe/Paris;t;FRXSG;STO;t;;f;8700260;f;;f;;f;;f;;f;;f;;;;;;;;;;;;Sint-Omaars;;;;;;
 5821;St-Pierre-des-Corps;st-pierre-des-corps;8757124;87571240;0.7235956192016602;47.38603813196069;;f;FR;f;Europe/Paris;t;FRXSH;SPC;t;;f;8700006;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5822;Villeneuve-sur-Lot Lycée;villeneuve-sur-lot-lycee;8746559;87465591;0.70959;44.396149;;f;FR;f;Europe/Paris;t;FRXSI;;t;;f;8706325;f;;f;;f;;f;;f;;f;;;;;;;;;;ヴィルヌーヴ＝シュル＝ロット;;;;;Вильнёв-сюр-Ло;;;洛特河畔新城
 5823;St-Quentin;st-quentin;8729600;87296004;3.297067880630493;49.83995795162259;;f;FR;f;Europe/Paris;t;FRXSJ;SQT;t;;f;8700176;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Сен-Кантен-Фаллавье;;;圣屈昂坦法拉维耶
@@ -9002,7 +9002,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 10495;Saarbrücken;saarbrucken;;;;;;t;DE;f;Europe/Berlin;f;DESAK;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10496;Belfort—Montbéliard TGV;belfort-montbeliard-tgv;8730082;87300822;6.897629;47.585935;10610;f;FR;f;Europe/Paris;t;FRTJA;BFB;t;;f;8730082;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10497;La Voulte Cité;la-voulte-cite;8733870;;4.793147;44.81457;5667;f;FR;f;Europe/Paris;t;FRVTE;;t;;f;8705299;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-10498;Besançon-Franche-Comté TGV;besancon-franche-comte-tgv;8730086;87300863;5.952674;47.307557;5029;f;FR;f;Europe/Paris;t;FRTJB;;t;;f;8730086;t;;f;;f;;f;;f;;f;;;;;;;;Besanzón;;ブザンソン;브장송;;;;Безансон;;;贝桑松
+10498;Besançon-Franche-Comté TGV;besancon-franche-comte-tgv;8730086;87300863;5.952674;47.307557;5029;f;FR;f;Europe/Paris;t;FRTJB;BFC;t;;f;8730086;t;;f;;f;;f;;f;;f;;;;;;;;Besanzón;;ブザンソン;브장송;;;;Безансон;;;贝桑松
 10499;Montauban Gare Routière;montauban-gare-routiere;8744184;87441840;1.339455;43.997756;;f;FR;f;Europe/Paris;f;FRUGA;;t;;f;8706018;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10500;Louviers Porte de l’eau;louviers-porte-de-leau;8740191;87401919;1.172606;49.192443;;f;FR;f;Europe/Paris;t;FRLPL;;t;;f;8705490;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 10501;Montauban Prax;mountauban-prax;8744244;;;;;f;FR;f;Europe/Paris;f;FRUFZ;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
