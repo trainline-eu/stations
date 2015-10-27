@@ -51,6 +51,8 @@ Column Name | Notes
 `idtgv_is_enabled` |
 `db_id` |
 `db_is_enabled` |
+`hkx_id` |
+`hkx_is_enabled` |
 `idbus_id` |
 `idbus_is_enabled` |
 `ouigo_id` |
