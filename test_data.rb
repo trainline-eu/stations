@@ -70,7 +70,7 @@ end
 class StationsTest < Minitest::Test
 
   def test_number_columns
-    nb_columns = 46
+    nb_columns = 48
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Wrong number of columns #{row["size"]} for station #{row["id"]}" }
   end
@@ -101,6 +101,10 @@ class StationsTest < Minitest::Test
 
   def test_db_enabled_and_id_columns
     validate_enabled_and_id_columns("db")
+  end
+
+  def test_hkx_enabled_and_id_columns
+    validate_enabled_and_id_columns("hkx")
   end
 
   def test_idbus_enabled_and_id_columns
