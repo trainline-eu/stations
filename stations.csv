@@ -4589,7 +4589,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5992;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5993;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5994;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-5995;Liège;liege;8841004;88410040;5.5666670000;50.6242970000;;f;BE;t;Europe/Brussels;t;BELGG;;t;;f;8800012;t;;f;;f;;f;;f;;f;;;;Lüttich;Liegi;Lutych;;Lieja;;リエージュ;리에주;Luik;;;Льеж;;;列日
+5995;Liège-Guillemins;liege-guillemins;8841004;88410040;5.5666670000;50.6242970000;23044;f;BE;t;Europe/Brussels;t;BELGG;;t;;f;8800012;t;;f;;f;;f;;f;;f;;;;Lüttich;Liegi;Lutych;;Lieja;;リエージュ;리에주;Luik;;;Льеж;;;列日
 5996;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5997;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 5998;Oostende;oostende;8891702;;2.9268240000;51.2284900000;;f;BE;f;Europe/Brussels;t;BEOST;;t;;f;8800030;t;;f;;f;;f;;f;;f;;Ostende;Ostend;Ostende;Ostenda;Ostende;Ostende;Ostende;;オーステンデ;오스텐더;;Ostenda;Ostende;Остенде;;;奥斯滕德
@@ -16333,7 +16333,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17866;Evere;evere;8811106;;4.4009020000;50.8675550000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800231;t;;f;;f;;f;;f;;f;;;;;;;;;;エヴェレ;;;;;Эвере;;;埃韦勒
 17867;Bordet;bordet;8811163;;4.4090920000;50.8767420000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800232;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17868;Hofstade;hofstade;8822277;;4.4984980000;50.9885320000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800234;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-17869;Liège-Jonfosse;liege-jonfosse;8841558;;5.5619580000;50.6405060000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800235;t;;f;;f;;f;;f;;f;;;;Lüttich;Liegi;;;;;;;;;;;;;
+17869;Liège-Jonfosse;liege-jonfosse;8841558;;5.5619580000;50.6405060000;23044;f;BE;f;Europe/Brussels;t;;;f;;f;8800235;t;;f;;f;;f;;f;;f;;;;Lüttich;Liegi;Lutych;;Lieja;;リエージュ;리에주;Luik;;;Льеж;;;列日
 17870;Herstal;herstal;8841608;;5.6224830000;50.6606060000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800236;t;;f;;f;;f;;f;;f;;;;;;;;;;エルスタル;;;;;Эрсталь;;;赫尔斯塔尔
 17871;Milmort;milmort;8841665;;5.5998030000;50.6930300000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800237;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 17872;Liers;liers;8841673;;5.5684570000;50.6982260000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800238;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -16597,7 +16597,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 18130;Moensberg;moensberg;8814431;;4.3315420000;50.7786340000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800583;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18131;Beersel;beersel;8814423;;4.3020300000;50.7661660000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800584;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18132;Huizingen;huizingen;8814415;;4.2665590000;50.7518010000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800585;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18133;Liège-Palais;liege-palais;8841525;;5.5707140000;50.6464840000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800586;t;;f;;f;;f;;f;;f;;;;Lüttich;Liegi;;;;;;;;;;;;;
+18133;Liège-Palais;liege-palais;8841525;;5.5707140000;50.6464840000;23044;f;BE;f;Europe/Brussels;t;;;f;;f;8800586;t;;f;;f;;f;;f;;f;;;;Lüttich;Liegi;Lutych;;Lieja;;リエージュ;리에주;Luik;;;Льеж;;;列日
 18134;Aarsele;aarsele;8892288;;3.4181120000;50.9845410000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800594;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18135;Mortsel-Liersesteenw;mortsel-liersesteenw;8821246;;4.4690320000;51.1692960000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800607;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18136;Simonis;simonis;8812013;;4.3306340000;50.8631690000;;f;BE;f;Europe/Brussels;t;;;f;;f;8812013;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -21486,3 +21486,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23041;Engen Busbahnhof;engen-busbahnhof;;;8.77323;47.85598;7587;f;DE;f;Europe/Berlin;f;;;f;;f;501477;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23042;Leutkirch Busbahnhof;leutkirch-busbahnhof;;;10.01655;47.82623;7461;f;DE;f;Europe/Berlin;f;;;f;;f;490138;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23043;Toulouse Gironis;toulouse-gironis;8768814;;1.417999;43.563604;5306;f;FR;f;Europe/Paris;f;FRXTO;;t;;f;;f;;f;;f;;f;;f;;f;;;;;Tolosa;;;;;トゥールーズ;툴루즈;;Tuluza;;Тулуза;;;圖盧茲
+23044;Liège;liege;;;5.566667;50.633333;;t;BE;f;Europe/Brussels;t;BEFAA;;t;;f;;f;;f;;f;;f;;f;;f;;;;Lüttich;Liegi;Lutych;;Lieja;;リエージュ;리에주;Luik;;;Льеж;;;列日
