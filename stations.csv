@@ -6057,7 +6057,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7470;Bochum;bochum;;;;;;t;DE;f;Europe/Berlin;f;DEBDZ;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7471;Bochum-Langendreer;bochum-langendreer;8010114;;7.323727;51.478031;7470;f;DE;f;Europe/Berlin;t;DEBLA;;f;;f;8000358;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7472;Bochum Hbf;bochum-hbf;8010179;;7.224109;51.478651;7470;f;DE;f;Europe/Berlin;t;DEQBO;;f;;f;8000041;t;;f;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ボーフム;보훔;;;;Бохум;;;波鸿
-7473;Bonn Hbf;bonn-hbf;8015485;;7.097136;50.732007;7545;f;DE;f;Europe/Berlin;t;DEBEA;;f;;f;8000044;t;;f;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ボン;본;;;Bona;Бонн;;;波恩
+7473;Bonn Hbf;bonn-hbf;8015485;;7.097136;50.732007;7545;f;DE;f;Europe/Berlin;t;DEBEA;;f;;f;8000044;t;;f;;f;;f;;f;108000044;t;;Gare centrale;Main station;;Stazione centrale;;;;;ボン;본;;;Bona;Бонн;;;波恩
 7474;Hamburg Hbf;hamburg-hbf;8001071;;10.006908;53.552732;7626;f;DE;f;Europe/Berlin;t;DEBEB;;f;;f;8002549;t;;f;;f;;f;;f;108001071;t;;Hambourg Gare centrale;Main station;;Amburgo Stazione centrale;Hamburk;Hamborg;Hamburgo;;ハンブルク;함부르크;;;Hamburgo;Гамбург;;;汉堡市
 7475;Düsseldorf Hbf;dusseldorf-hbf;8008094;;6.794316;51.21996;7578;f;DE;f;Europe/Berlin;t;DEBEC;;t;;f;8000085;t;;f;;f;;f;;f;108008094;t;;Gare centrale;Main station;;Stazione centrale;;;;;デュッセルドルフ;뒤셀도르프;;;;Дюссельдорф;;;
 7476;Lindau reutin;lindau-reutin;8000467;;;;;f;DE;f;Europe/Berlin;f;DEBED;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6127,7 +6127,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7540;Berlin Ostbahnhof;berlin-ostbahnhof;8003004;;13.434567;52.510972;7527;f;DE;f;Europe/Berlin;t;DEBML;;f;;f;8010255;t;;f;;f;;f;;f;;f;;;;;Berlino;;;;;ベルリン;베를린;Berlijn;;Berlim;Берлин;;;柏林
 7541;Bad Münster a Stein;bad-munster-a-stein;8019187;;7.846989;49.813426;;f;DE;f;Europe/Berlin;t;DEBMS;;f;;f;8000726;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7542;Bad Honnef (Rhein);bad-honnef-rhein;8015585;;7.219533;50.639769;;f;DE;f;Europe/Berlin;t;DEBNF;;f;;f;8000713;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-7543;Bingen (Rhein) Hbf;bingen-rhein-hbf;8019041;;7.884258;49.968724;;f;DE;f;Europe/Berlin;t;DEBNG;;f;;f;8000039;t;;f;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ビンゲン・アム・ライン;;;;;Бинген-на-Рейне;;;莱茵河畔宾根
+7543;Bingen (Rhein) Hbf;bingen-rhein-hbf;8019041;;7.884258;49.968724;;f;DE;f;Europe/Berlin;t;DEBNG;;f;;f;8000039;t;;f;;f;;f;;f;108000039;t;;Gare centrale;Main station;;Stazione centrale;;;;;ビンゲン・アム・ライン;;;;;Бинген-на-Рейне;;;莱茵河畔宾根
 7544;Bad Nauheim;bad-nauheim;8011402;;8.749335;50.367899;;f;DE;f;Europe/Berlin;t;DEBNH;;f;;f;8000728;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7545;Bonn;bonn;;;;;;t;DE;f;Europe/Berlin;f;DEBNJ;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7546;Buchloe;buchloe;8002181;;10.71622;48.033724;;f;DE;f;Europe/Berlin;t;DEBOE;;f;;f;8000057;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6187,7 +6187,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7601;Reichenbach (Vogtl) ob Bf;reichenbach-vogtl-ob-bf;8006704;;12.293117;50.627777;;f;DE;f;Europe/Berlin;t;DEFLW;;f;;f;8012739;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7602;Frankfurt (Main);frankfurt-main;;;8.663785;50.107149;;t;DE;f;Europe/Berlin;t;DEFRA;;t;;f;8096021;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Frankfurt nad Mohanem;;Francfort;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 7603;Frankfurt (Main) Süd;frankfurt-main-sud;8011065;;8.686303;50.09958;7602;f;DE;f;Europe/Berlin;t;DEFRS;;f;;f;8002041;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Frankfurt nad Mohanem;;Francfort;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-7604;Frankfurt (Main) Hbf;frankfurt-main-hbf;8011068;;8.663785;50.107149;7602;f;DE;t;Europe/Berlin;t;DEFRH;;t;;f;8000105;t;;f;;f;;f;;f;;f;;Francfort Gare centrale;Main station;;Francoforte Stazione centrale;Frankfurt nad Mohanem;;Francfort;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+7604;Frankfurt (Main) Hbf;frankfurt-main-hbf;8011068;;8.663785;50.107149;7602;f;DE;t;Europe/Berlin;t;DEFRH;;t;;f;8000105;t;;f;;f;;f;;f;108000105;t;;Francfort Gare centrale;Main station;;Francoforte Stazione centrale;Frankfurt nad Mohanem;;Francfort;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 7605;Frankfurt-Höchst;frankfurt-hochst;8011100;;8.542368;50.102636;7602;f;DE;f;Europe/Berlin;t;DEFRO;;f;;f;8000106;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Frankfurt nad Mohanem;;Francfort;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 7606;Freudenstadt;freudenstadt;;;;;;t;DE;f;Europe/Berlin;f;DEFRE;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7607;Gengenbach;gengenbach;8014497;;8.010188;48.404655;;f;DE;f;Europe/Berlin;t;DEGGB;;f;;f;8002235;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -6325,7 +6325,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7739;Ludwigslust;ludwigslust;8027327;;11.494488;53.334672;;f;DE;f;Europe/Berlin;t;DEZLU;;f;;f;8010216;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7740;Magdeburg Hbf;magdeburg-hbf;8024001;;11.62689;52.130351;;f;DE;f;Europe/Berlin;t;DEZMG;;f;;f;8010224;t;;f;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;Magdeburk;;Magdeburgo;;マクデブルク;마그데부르크;Maagdenburg;;Magdeburgo;Магдебург;;;马格德堡
 7741;Hamm (Westf);hamm-westf;8010002;;7.807823;51.678077;;f;DE;f;Europe/Berlin;t;DEZNB;;f;;f;8000149;t;;f;;f;;f;;f;;f;;;;;;;;;;ハム;함;;;;Хамм;;;哈姆
-7742;Koblenz Hbf;koblenz-hbf;8019021;;7.588648;50.35108;;f;DE;f;Europe/Berlin;t;DEZNV;;f;;f;8000206;t;;f;;f;;f;;f;;f;;Coblence Gare centrale;Main station;;Coblenza Stazione centrale;;;Coblenza;;コブレンツ;코블렌츠;;Koblencja;Coblença;Кобленц;;;科布倫茨
+7742;Koblenz Hbf;koblenz-hbf;8019021;;7.588648;50.35108;;f;DE;f;Europe/Berlin;t;DEZNV;;f;;f;8000206;t;;f;;f;;f;;f;108000206;t;;Coblence Gare centrale;Main station;;Coblenza Stazione centrale;;;Coblenza;;コブレンツ;코블렌츠;;Koblencja;Coblença;Кобленц;;;科布倫茨
 7743;Ludwigshafen (Rh) Hbf;ludwigshafen-rh-hbf;8019082;;8.4334;49.477985;;f;DE;f;Europe/Berlin;t;DEZOE;;f;;f;8000236;t;;f;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;ルートヴィヒスハーフェン;루트비히스하펜;;;;Людвигсхафен-на-Рейне;;;路德维希港
 7744;Minden (Westf);minden-westf;8013577;;8.934729;52.290134;;f;DE;f;Europe/Berlin;t;DEZOM;;f;;f;8000252;t;;f;;f;;f;;f;;f;;;;;;;;;;ミンデン;;;;;Минден;;;明登
 7745;Mülheim (Ruhr) Hbf;mulheim-ruhr-hbf;8010217;;6.88668;51.431323;;f;DE;f;Europe/Berlin;t;DEZOO;;f;;f;8000259;t;;f;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;;;;;;;;;;Мюльхайм-на-Руре;;;
