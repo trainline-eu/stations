@@ -1,16 +1,16 @@
-[![Build Status](https://travis-ci.org/capitainetrain/stations.svg?branch=master)](https://travis-ci.org/capitainetrain/stations)
+[![Build Status](https://travis-ci.org/captaintrain/stations.svg?branch=master)](https://travis-ci.org/captaintrain/stations)
 
-[Capitaine Train](https://www.capitainetrain.com) sells tickets for numerous train operators across Europe.
+[Captain Train](https://www.captaintrain.com) sells tickets for numerous train operators across Europe.
 
 ## Stations - A Database of European Train Stations
 
-This repository contains the information Capitaine Train uses to identify stations across the diverse systems of the train operators.
+This repository contains the information Captain Train uses to identify stations across the diverse systems of the train operators.
 
-If you want to contribute to this database, please read [CONTRIBUTING.md](https://github.com/capitainetrain/stations/blob/master/CONTRIBUTING.md).
+If you want to contribute to this database, please read [CONTRIBUTING.md](https://github.com/captaintrain/stations/blob/master/CONTRIBUTING.md).
 
 ## Licence
 
-The file `stations.csv` is distributed under the Open Database License (ODbL) licence, see [LICENCE.txt](https://github.com/capitainetrain/stations/blob/master/LICENCE.txt). In short, any modification to this data source must be published.
+The file `stations.csv` is distributed under the Open Database License (ODbL) licence, see [LICENCE.txt](https://github.com/captaintrain/stations/blob/master/LICENCE.txt). In short, any modification to this data source must be published.
 
 Data sources include [OpenStreetMap](https://www.openstreetmap.org), [SNCF OpenData](https://ressources.data.sncf.com/explore/dataset/referentiel-gares-voyageurs/), and [GeoNames](http://www.geonames.org/) all released under ODbL or compatible licences; and a lot of blood, sweat, and tears.
 
