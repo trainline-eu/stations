@@ -7148,7 +7148,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8562;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8563;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8564;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8565;Torino;torino;8300996;;7.686063051223755;45.07075504730648;;t;IT;f;Europe/Rome;t;ITTRN;;t;;f;8396006;f;;f;;f;8300996;t;;f;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
+8565;Torino;torino;8300996;;7.686063051223755;45.07075504730648;;t;IT;f;Europe/Rome;t;ITTRN;;t;;f;8396006;f;;f;;f;8300996;t;TO0;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 8566;Torino Lingotto;torino-lingotto;8300452;;7.657532;45.026194;8565;;IT;f;Europe/Rome;t;ITABV;;f;;f;8300516;f;;f;;f;8300452;t;;f;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 8567;Torino Porta Nuova;torino-porta-nuova;8300219;;7.677713;45.061000;8565;f;IT;f;Europe/Rome;t;ITBGD;;f;;f;8300001;f;;f;;f;8300219;t;TOP;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 8568;Torino Porta Susa;torino-porta-susa;8300222;83002220;7.665164;45.071832;8565;f;IT;f;Europe/Rome;t;ITTRS;;t;;f;8300522;f;;f;;f;8300222;t;OUE;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
