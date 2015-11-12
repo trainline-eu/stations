@@ -7073,7 +7073,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8487;;;;;;;8483;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8488;;;;;;;8483;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8489;;;;;;;8483;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8490;Milano Centrale;milano-centrale;8301700;83017004;9.204828;45.487143;8483;f;IT;t;Europe/Rome;t;ITBGE;;t;;f;8300046;t;;f;;f;8301700;t;MC_;f;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
+8490;Milano Centrale;milano-centrale;8301700;83017004;9.204828;45.487143;8483;f;IT;t;Europe/Rome;t;ITBGE;;t;;f;8300046;t;;f;;f;8301700;t;MC_;t;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 8491;Milano Rogoredo;milano-rogoredo;8301820;83018200;9.2390140000;45.4336660000;8483;f;IT;f;Europe/Rome;t;ITMRO;;f;;f;8300418;t;;f;;f;8301820;t;RG_;t;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 8492;Milano Porta Garibaldi;milano-porta-garibaldi;8301645;83016451;9.187299;45.484437;8483;f;IT;f;Europe/Rome;t;ITMPG;;t;;f;8300047;t;;f;;f;8301645;t;MPG;t;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 8493;Modena;modena;8305032;;10.929948;44.654616;;;IT;f;Europe/Rome;t;ITMOD;;f;;f;8300214;f;;f;;f;8305032;t;;f;;f;;Modène;;;;;;;;モデナ;;;;;Модена;;;
@@ -7150,7 +7150,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8564;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8565;Torino;torino;8300996;;7.686063051223755;45.07075504730648;;t;IT;f;Europe/Rome;t;ITTRN;;t;;f;8396006;f;;f;;f;8300996;t;;f;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 8566;Torino Lingotto;torino-lingotto;8300452;;7.657532;45.026194;8565;;IT;f;Europe/Rome;t;ITABV;;f;;f;8300516;f;;f;;f;8300452;t;;f;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
-8567;Torino Porta Nuova;torino-porta-nuova;8300219;;7.677713;45.061000;8565;f;IT;f;Europe/Rome;t;ITBGD;;f;;f;8300001;f;;f;;f;8300219;t;;f;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
+8567;Torino Porta Nuova;torino-porta-nuova;8300219;;7.677713;45.061000;8565;f;IT;f;Europe/Rome;t;ITBGD;;f;;f;8300001;f;;f;;f;8300219;t;TOP;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 8568;Torino Porta Susa;torino-porta-susa;8300222;83002220;7.665164;45.071832;8565;f;IT;f;Europe/Rome;t;ITTRS;;t;;f;8300522;f;;f;;f;8300222;t;OUE;t;;f;;Turin;Turin;Turin;;Turín;;Turín;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 8569;;;;;;;8565;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8570;;;;;;;8565;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -7164,7 +7164,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8578;Ventimiglia;ventimiglia;8304501;;7.609953;43.792586;9604;f;IT;f;Europe/Rome;t;ITVEF;;f;;f;8300146;f;;f;;f;8304501;t;;f;;f;;Vintimille;;;;;;;;ヴェンティミーリア;;;;;Вентимилья;;;文蒂米利亚
 8579;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8580;Verone;verone;;;;;;t;IT;f;Europe/Rome;f;ITVER;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8581;Verona Porta Nuova;verona-porta-nuova;8302430;83024307;10.9827410000;45.4286590000;8580;f;IT;t;Europe/Rome;t;ITVRN;;f;;f;8300120;t;;f;;f;8302430;t;;f;;f;;Vérone;;;;;;;;ヴェローナ;;;Werona;;Верона;;;
+8581;Verona Porta Nuova;verona-porta-nuova;8302430;83024307;10.9827410000;45.4286590000;8580;f;IT;t;Europe/Rome;t;ITVRN;;f;;f;8300120;t;;f;;f;8302430;t;VPN;t;;f;;Vérone;;;;;;;;ヴェローナ;;;Werona;;Верона;;;
 8582;;;;;;;8580;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8583;Verona ca di david;verona-ca-di-david;8302061;;;;8580;f;IT;f;Europe/Rome;f;ITAIE;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8585;Ventimiglia;ventimiglia;8300340;;7.6098994;43.792458;9604;f;IT;f;Europe/Rome;f;ITAJS;;f;;f;;f;;f;;f;8300340;f;;f;;f;;Vintimille;;;;;;;;ヴェンティミーリア;;;;;Вентимилья;;;文蒂米利亚
