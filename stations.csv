@@ -7073,7 +7073,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8487;;;;;;;8483;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8488;;;;;;;8483;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8489;;;;;;;8483;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8490;Milano Centrale;milano-centrale;8301700;83017004;9.204828;45.487143;8483;f;IT;t;Europe/Rome;t;ITBGE;;t;;f;8300046;t;;f;;f;8301700;t;MC_;f;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
+8490;Milano Centrale;milano-centrale;8301700;83017004;9.204828;45.487143;8483;f;IT;t;Europe/Rome;t;ITBGE;;t;;f;8300046;t;;f;;f;8301700;t;MC_;t;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 8491;Milano Rogoredo;milano-rogoredo;8301820;83018200;9.2390140000;45.4336660000;8483;f;IT;f;Europe/Rome;t;ITMRO;;f;;f;8300418;t;;f;;f;8301820;t;RG_;t;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 8492;Milano Porta Garibaldi;milano-porta-garibaldi;8301645;83016451;9.187299;45.484437;8483;f;IT;f;Europe/Rome;t;ITMPG;;t;;f;8300047;t;;f;;f;8301645;t;MPG;t;;f;;Milan;Milan;Mailand;;Milán;;Milán;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 8493;Modena;modena;8305032;;10.929948;44.654616;;;IT;f;Europe/Rome;t;ITMOD;;f;;f;8300214;f;;f;;f;8305032;t;;f;;f;;Modène;;;;;;;;モデナ;;;;;Модена;;;
