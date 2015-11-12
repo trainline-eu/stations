@@ -7164,7 +7164,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8578;Ventimiglia;ventimiglia;8304501;;7.609953;43.792586;9604;f;IT;f;Europe/Rome;t;ITVEF;;f;;f;8300146;f;;f;;f;8304501;t;;f;;f;;Vintimille;;;;;;;;ヴェンティミーリア;;;;;Вентимилья;;;文蒂米利亚
 8579;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8580;Verone;verone;;;;;;t;IT;f;Europe/Rome;f;ITVER;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8581;Verona Porta Nuova;verona-porta-nuova;8302430;83024307;10.9827410000;45.4286590000;8580;f;IT;t;Europe/Rome;t;ITVRN;;f;;f;8300120;t;;f;;f;8302430;t;;f;;f;;Vérone;;;;;;;;ヴェローナ;;;Werona;;Верона;;;
+8581;Verona Porta Nuova;verona-porta-nuova;8302430;83024307;10.9827410000;45.4286590000;8580;f;IT;t;Europe/Rome;t;ITVRN;;f;;f;8300120;t;;f;;f;8302430;t;VPN;t;;f;;Vérone;;;;;;;;ヴェローナ;;;Werona;;Верона;;;
 8582;;;;;;;8580;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8583;Verona ca di david;verona-ca-di-david;8302061;;;;8580;f;IT;f;Europe/Rome;f;ITAIE;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8585;Ventimiglia;ventimiglia;8300340;;7.6098994;43.792458;9604;f;IT;f;Europe/Rome;f;ITAJS;;f;;f;;f;;f;;f;8300340;f;;f;;f;;Vintimille;;;;;;;;ヴェンティミーリア;;;;;Вентимилья;;;文蒂米利亚
