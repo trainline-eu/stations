@@ -738,7 +738,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 935;Hochfelden;hochfelden;8721216;87212167;7.5676920000;48.7573770000;;f;FR;f;Europe/Paris;t;FRBUH;HCH;t;;f;8701260;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 936;Wilwisheim;wilwisheim;8721217;87212175;7.50779;48.745921;;f;FR;f;Europe/Paris;t;FRBUI;;t;;f;8702269;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 937;Dettwiller;dettwiller;8721218;87212183;7.4663260000;48.7541520000;;f;FR;f;Europe/Paris;t;FRBUJ;DEE;t;;f;8701044;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;代特维莱
-938;Strasbourg Roethig;strasbourg-roethig;8721219;87212191;7.694325;48.563207;5260;f;FR;f;Europe/Paris;t;FRBUK;SQG;t;;f;8702054;f;;f;;f;;f;;f;;f;;;;Straßburg;Strasburgo;;;;;;;;;;;;;
+938;Strasbourg Roethig;strasbourg-roethig;8721219;87212191;7.694325;48.563207;5260;f;FR;f;Europe/Paris;t;FRBUK;SQG;t;;f;8702054;f;;f;;f;;f;;f;;f;;;;Straßburg;Strasburgo;Estrasburgo;;;;;;;;;;;;
 939;Zornhoff—Monswiller;zornhoff-monswiller;8721221;;7.383874654769897;48.75265914104226;5890;f;FR;f;Europe/Paris;t;FRBUL;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 940;Graffenstaden;graffenstaden;8721224;87212241;7.7166670000;48.5333330000;;f;FR;f;Europe/Paris;t;FRBUN;GRF;t;;f;8701209;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 941;Geispolsheim;geispolsheim;8721225;87212258;7.68433;48.51904;;f;FR;f;Europe/Paris;t;FRBUO;GPM;t;;f;8701186;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -1561,10 +1561,10 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 2087;Paimpol;paimpol;8747386;87473868;-3.046088218688965;48.777007776767704;;f;FR;f;Europe/Paris;t;FREAE;;t;;f;8704168;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Пемполь;;;潘波
 2088;Frynaudour;frynaudour;8747387;87473876;-3.128398;48.727763;;f;FR;f;Europe/Paris;t;FREAF;;t;;f;8703357;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2089;Dirinon;dirinon;8747401;87474015;-4.2666670000;48.4000000000;;f;FR;f;Europe/Paris;t;FREAG;;t;;f;8703219;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;迪里农
-2091;Meuse TGV;meuse-tgv;8714732;87147322;5.270808935165404;48.97869598842097;;f;FR;f;Europe/Paris;t;FREAJ;TGM;t;;f;8714732;f;;f;;f;;f;;f;;f;;à 30 km de Verdun et Bar-le-Duc;30km from Verdun and Bar-le-Duc;30 km von Verdun und Bar-le-Duc entfernt;30km da Verdun e Bar-le-Duc;A 30 km de Verdun y Bar-le-Duc;;;;;;;;;;;;
+2091;Meuse TGV;meuse-tgv;8714732;87147322;5.270808935165404;48.97869598842097;;f;FR;f;Europe/Paris;t;FREAJ;TGM;t;;f;8714732;f;;f;;f;;f;;f;;f;;à 30 km de Verdun et Bar-le-Duc;30km from Verdun and Bar-le-Duc;30 km von Verdun und Bar-le-Duc entfernt;30km da Verdun e Bar-le-Duc;a 30 km de Verdun y Bar-le-Duc;;;;;;;;;;;;
 2092;Pont-de-Buis;pont-de-buis;8747405;87474056;-4.0833330000;48.2500000000;;f;FR;f;Europe/Paris;t;FREAK;;t;;f;8704257;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2093;Châteaulin;chateaulin;8747406;87474064;-4.094334;48.201616;;f;FR;f;Europe/Paris;t;FREAL;;t;;f;8703061;f;;f;;f;;f;;f;;f;;;;;;;;;;シャトーラン;;;;;Шатолен;;;沙托兰
-2094;Lorraine TGV;lorraine-tgv;8714210;87142109;6.169692;48.947406;;f;FR;f;Europe/Paris;t;FREAM;TGL;t;;f;8700729;f;;f;;f;;f;;f;;f;;à 30 km de Metz et Nancy;30km from Metz and Nancy;30 km von Metz und Nancy entfernt;30km da Metz a Nancy;A 30 km de Metz y Nancy;;;;;;;;;;;;
+2094;Lorraine TGV;lorraine-tgv;8714210;87142109;6.169692;48.947406;;f;FR;f;Europe/Paris;t;FREAM;TGL;t;;f;8700729;f;;f;;f;;f;;f;;f;;à 30 km de Metz et Nancy;30km from Metz and Nancy;30 km von Metz und Nancy entfernt;30km da Metz a Nancy;a 30 km de Metz y Nancy;;;;;;;;;;;;
 2096;Le Juch;le-juch;8747413;;-4.2500000000;48.0666670000;;f;FR;f;Europe/Paris;t;FREAP;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 2097;Bannalec;bannalec;8747418;87474189;-3.7000000000;47.9333330000;;f;FR;f;Europe/Paris;t;FREAQ;;t;;f;8700745;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Банналек;;;巴纳莱克
 2099;Kerhuon;kerhuon;8747421;87474213;-4.4000000000;48.4000000000;;f;FR;f;Europe/Paris;t;FREAS;;t;;f;8701336;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -4839,7 +4839,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6242;Muri;muri;8502215;;;;;f;CH;f;Europe/Zurich;f;CHAJA;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6243;Raefis;raefis;8509405;;;;;f;CH;f;Europe/Zurich;f;CHAJB;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6244;Othmarsingen;othmarsingen;8502105;;8.214783;47.407446;;f;CH;f;Europe/Zurich;f;CHAJC;;f;;f;8502105;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-6245;Zürich HB;zurich-hb;8503000;85030007;8.539203;47.378186;6401;f;CH;f;Europe/Zurich;t;CHAJD;;t;;f;8503000;t;;f;;f;8503000;t;;f;;f;;;;;Zurigo;Zúrich;Curych;;;チューリッヒ;취리히;;Zurych;Zurique;Цюрих;;Zürih;
+6245;Zürich HB;zurich-hb;8503000;85030007;8.539203;47.378186;6401;f;CH;f;Europe/Zurich;t;CHAJD;;t;;f;8503000;t;;f;;f;8503000;t;;f;;f;;;;;Zurigo;;Curych;;;チューリッヒ;취리히;;Zurych;Zurique;Цюрих;;Zürih;
 6246;Vernayaz;vernayaz;;;;;;t;CH;f;Europe/Zurich;f;CHAJE;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6247;Lausanne;lausanne;8501120;85011205;6.6290500000;46.5167040000;6354;f;CH;t;Europe/Zurich;t;CHAJF;;t;;f;8501120;t;;f;;f;8501120;t;;f;;f;;;;;Losanna;Lausana;;;;ローザンヌ;;;Lozanna;Lausana;Лозанна;;Lozan;洛桑
 6248;Grenchen Nord;grenchen-nord;8500159;;7.3894560000;47.1918210000;6325;f;CH;f;Europe/Zurich;t;CHAJG;;f;;f;8500159;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -5504,7 +5504,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6915;Freienohl;freienohl;8008197;;8.169486;51.366421;;f;DE;f;Europe/Berlin;t;DEAIO;;f;;f;8002073;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6916;Furth i Wald;furth-i-wald;8026267;;12.838807;49.309815;;f;DE;f;Europe/Berlin;t;DEAIP;;f;;f;8002159;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6917;Freiburg-Littenweiler;freiburg-littenweiler;8014365;;7.895135;47.981667;;f;DE;f;Europe/Berlin;t;DEAIQ;;f;;f;8002068;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-6918;Frankfurt (Main) West;frankfurt-main-west;8011124;;8.639334;50.118862;;f;DE;f;Europe/Berlin;t;DEAIR;;f;;f;8002042;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+6918;Frankfurt (Main) West;frankfurt-main-west;8011124;;8.639334;50.118862;;f;DE;f;Europe/Berlin;t;DEAIR;;f;;f;8002042;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 6919;Gaggenau Bf;gaggenau-bf;8014254;;8.319975;48.805772;;f;DE;f;Europe/Berlin;t;DEAIS;;f;;f;8002167;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6920;Geldern;geldern;8015025;;6.319335;51.513287;;f;DE;f;Europe/Berlin;t;DEAIT;;f;;f;8002222;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 6921;Hannover Hbf;hannover-hbf;8013547;;9.741016;52.376763;7623;f;DE;f;Europe/Berlin;t;DEAIU;;f;;f;8000152;t;;f;;f;;f;;f;;f;;Hanovre Gare centrale;Hanover Main station;;Stazione centrale;Hanóver Estación central;;;;ハノーファー;하노버;;Hanower;Hanôver;Ганновер;;;汉诺威
@@ -6179,16 +6179,16 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7592;Fürth (Bay) Hbf;furth-bay-hbf;8022187;;10.989987;49.469706;;f;DE;f;Europe/Berlin;t;DEFBH;;f;;f;8000114;t;;f;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;Estación central;;;;フュルト;퓌르트;;;;Фюрт;;;菲尔特
 7593;Plauen (Vogtl) ob Bf;plauen-vogtl-ob-bf;8006712;;12.12954;50.505937;;f;DE;f;Europe/Berlin;t;DEFBS;;f;;f;8010275;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7594;Friedrichshafen Stadt;friedrichshafen-stadt;8029162;;9.473902;47.65322;;f;DE;f;Europe/Berlin;t;DEFDH;;f;;f;8000112;t;;f;;f;;f;;f;;f;;;;;;;;;;フリードリヒスハーフェン;;;;;Фридрихсхафен;;;腓特烈港
-7596;Frankfurt (M) Flughafen Fernbf;frankfurt-m-flughafen-fernbf;8061676;;8.569872379302979;50.05290581298199;;f;DE;f;Europe/Berlin;t;DEFFF;;t;;f;8070003;t;;f;;f;;f;;f;;f;;Francfort Aéroport;Airport;;Francoforte Aeroporto;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+7596;Frankfurt (M) Flughafen Fernbf;frankfurt-m-flughafen-fernbf;8061676;;8.569872379302979;50.05290581298199;;f;DE;f;Europe/Berlin;t;DEFFF;;t;;f;8070003;t;;f;;f;;f;;f;;f;;Francfort Aéroport;Airport;;Francoforte Aeroporto;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 7597;Freiburg (Breisgau) Hbf;freiburg-breisgau-hbf;8014350;80143503;7.841593623161316;47.997690269936264;7692;f;DE;t;Europe/Berlin;t;DEFGB;;t;;f;8000107;t;;f;;f;;f;;f;;f;;Gare centrale;Main station;;Stazione centrale;Freiberg Estación central;;;;フライベルク;;Freiberg;Freiberg;Freiberga;Фрайбург;Freiberg;;弗莱贝格
 7598;Bergen auf Rügen;bergen-auf-rugen;8028496;;13.41782;54.420497;;f;DE;f;Europe/Berlin;t;DEFGV;;f;;f;8010033;t;;f;;f;;f;;f;;f;;;;;;;;;;;베르겐아우프뤼겐;;;;Берген-на-Рюгене;;;贝尔根奥夫吕根
 7599;Binz LB;binz-lb;8028951;;13.609947;54.392783;;f;DE;f;Europe/Berlin;t;DEFHA;;f;;f;8011193;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7600;Freilassing;freilassing;8000462;;12.977196;47.836914;;f;DE;f;Europe/Berlin;t;DEFLS;;f;;f;8000108;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7601;Reichenbach (Vogtl) ob Bf;reichenbach-vogtl-ob-bf;8006704;;12.293117;50.627777;;f;DE;f;Europe/Berlin;t;DEFLW;;f;;f;8012739;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-7602;Frankfurt (Main);frankfurt-main;;;8.663785;50.107149;;t;DE;f;Europe/Berlin;t;DEFRA;;t;;f;8096021;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-7603;Frankfurt (Main) Süd;frankfurt-main-sud;8011065;;8.686303;50.09958;7602;f;DE;f;Europe/Berlin;t;DEFRS;;f;;f;8002041;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-7604;Frankfurt (Main) Hbf;frankfurt-main-hbf;8011068;;8.663785;50.107149;7602;f;DE;t;Europe/Berlin;t;DEFRH;;t;;f;8000105;t;;f;;f;;f;;f;108000105;t;;Francfort Gare centrale;Main station;;Francoforte Stazione centrale;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-7605;Frankfurt-Höchst;frankfurt-hochst;8011100;;8.542368;50.102636;7602;f;DE;f;Europe/Berlin;t;DEFRO;;f;;f;8000106;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+7602;Frankfurt (Main);frankfurt-main;;;8.663785;50.107149;;t;DE;f;Europe/Berlin;t;DEFRA;;t;;f;8096021;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+7603;Frankfurt (Main) Süd;frankfurt-main-sud;8011065;;8.686303;50.09958;7602;f;DE;f;Europe/Berlin;t;DEFRS;;f;;f;8002041;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+7604;Frankfurt (Main) Hbf;frankfurt-main-hbf;8011068;;8.663785;50.107149;7602;f;DE;t;Europe/Berlin;t;DEFRH;;t;;f;8000105;t;;f;;f;;f;;f;108000105;t;;Francfort Gare centrale;Main station;;Francoforte Stazione centrale;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+7605;Frankfurt-Höchst;frankfurt-hochst;8011100;;8.542368;50.102636;7602;f;DE;f;Europe/Berlin;t;DEFRO;;f;;f;8000106;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 7606;Freudenstadt;freudenstadt;;;;;;t;DE;f;Europe/Berlin;f;DEFRE;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7607;Gengenbach;gengenbach;8014497;;8.010188;48.404655;;f;DE;f;Europe/Berlin;t;DEGGB;;f;;f;8002235;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 7608;Gießen;giessen;8011033;;8.661466;50.579056;;f;DE;f;Europe/Berlin;t;DEGIE;;f;;f;8000124;t;;f;;f;;f;;f;;f;;;;;;;;;;ギーセン;기센;;;;Гиссен;;;吉森
@@ -10252,10 +10252,10 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 11745;Forsting;forsting;8020220;;12.091444;48.081861;;f;DE;f;Europe/Berlin;t;;;f;;f;8002028;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11746;Forth;forth;8022222;;11.221459;49.591698;;f;DE;f;Europe/Berlin;t;;;f;;f;8002029;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11747;Friedrichshafen Ost;friedrichshafen-ost;8029169;;9.50202;47.651709;;f;DE;f;Europe/Berlin;t;;;f;;f;8002030;t;;f;;f;;f;;f;;f;;;;;;;;;;フリードリヒスハーフェン;;;;;Фридрихсхафен;;;腓特烈港
-11748;Frankfurt (M) Mühlberg;frankfurt-m-muhlberg;8011268;;8.701504;50.101612;;f;DE;f;Europe/Berlin;t;;;f;;f;8002034;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+11748;Frankfurt (M) Mühlberg;frankfurt-m-muhlberg;8011268;;8.701504;50.101612;;f;DE;f;Europe/Berlin;t;;;f;;f;8002034;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 11749;Frankenstein (Pfalz);frankenstein-pfalz;8019407;;7.9698;49.438864;;f;DE;f;Europe/Berlin;t;;;f;;f;8002036;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-11750;Frankfurt (M) Lokalbahnhof;frankfurt-m-lokalbahnhof;8011470;;8.693027;50.102169;;f;DE;f;Europe/Berlin;t;;;f;;f;8002038;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-11751;Frankfurt (Main) Ost;frankfurt-main-ost;8011080;;8.708551;50.112965;;f;DE;f;Europe/Berlin;t;;;f;;f;8002039;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+11750;Frankfurt (M) Lokalbahnhof;frankfurt-m-lokalbahnhof;8011470;;8.693027;50.102169;;f;DE;f;Europe/Berlin;t;;;f;;f;8002038;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+11751;Frankfurt (Main) Ost;frankfurt-main-ost;8011080;;8.708551;50.112965;;f;DE;f;Europe/Berlin;t;;;f;;f;8002039;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 11752;Frankfurt am Main - Stadion;frankfurt-am-main-stadion;8011089;;8.633249;50.068226;;f;DE;f;Europe/Berlin;t;;;f;;f;8002040;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11753;Frankfurt-Berkersheim;frankfurt-berkersheim;8011149;;8.697827;50.176483;;f;DE;f;Europe/Berlin;t;;;f;;f;8002043;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11754;Frankfurt-Frankfurter Berg;frankfurt-frankfurter-berg;8011148;;8.67655;50.170262;;f;DE;f;Europe/Berlin;t;;;f;;f;8002044;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -10272,8 +10272,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 11765;Frankfurt-Zeilsheim;frankfurt-zeilsheim;8069802;;8.506402;50.090213;;f;DE;f;Europe/Berlin;t;;;f;;f;8002055;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11766;Ludwigshafen (Rhein) BASF Süd;ludwigshafen-rhein-basf-sud;8019080;;8.438956;49.493968;;f;DE;f;Europe/Berlin;t;;;f;;f;8002056;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11767;Frauenau;frauenau;8026470;;13.300043;48.98765;;f;DE;f;Europe/Berlin;t;;;f;;f;8002057;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-11768;Frankfurt (M) Ostendstraße;frankfurt-m-ostendstrasse;8011469;;8.696982;50.11256;;f;DE;f;Europe/Berlin;t;;;f;;f;8002058;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-11769;Frankfurt (M) Stresemannallee;frankfurt-m-stresemannallee;8011471;;8.671246;50.094438;;f;DE;f;Europe/Berlin;t;;;f;;f;8002059;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+11768;Frankfurt (M) Ostendstraße;frankfurt-m-ostendstrasse;8011469;;8.696982;50.11256;;f;DE;f;Europe/Berlin;t;;;f;;f;8002058;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+11769;Frankfurt (M) Stresemannallee;frankfurt-m-stresemannallee;8011471;;8.671246;50.094438;;f;DE;f;Europe/Berlin;t;;;f;;f;8002059;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 11770;Freden (Leine);freden-leine;8013061;;9.899002;51.927788;;f;DE;f;Europe/Berlin;t;;;f;;f;8002063;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 11771;Freiberg (Neckar);freiberg-neckar;8029591;;9.197798;48.93011;;f;DE;f;Europe/Berlin;t;;;f;;f;8002065;t;;f;;f;;f;;f;;f;;;;;;;;;;フライベルク;;;;Freiberga;Фрайбург;;;内卡河畔弗赖贝格
 11772;Freiburg West;freiburg-west;8014354;;7.812884;48.027324;;f;DE;f;Europe/Berlin;t;;;f;;f;8002066;t;;f;;f;;f;;f;;f;;Freiberg;Freiberg;;Friburgo;Freiberg;;;;フライベルク;;Freiberg;Freiberg;Freiberga;Фрайбург;Freiberg;;弗莱贝格
@@ -11426,7 +11426,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 12919;Niederzeuzheim;niederzeuzheim;8011541;;8.039691;50.468228;;f;DE;f;Europe/Berlin;t;;;f;;f;8004424;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 12920;Niefern;niefern;8029498;;8.769273;48.920132;;f;DE;f;Europe/Berlin;t;;;f;;f;8004425;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 12921;Münster-Häger;munster-hager;8021147;;7.562337;52.022058;;f;DE;f;Europe/Berlin;t;;;f;;f;8004426;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-12922;Frankfurt (M) Konstablerwache;frankfurt-m-konstablerwache;8011078;;8.687094;50.114619;;f;DE;f;Europe/Berlin;t;;;f;;f;8004429;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+12922;Frankfurt (M) Konstablerwache;frankfurt-m-konstablerwache;8011078;;8.687094;50.114619;;f;DE;f;Europe/Berlin;t;;;f;;f;8004429;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 12923;Velbert-Nierenhof;velbert-nierenhof;8008162;;7.134127;51.372255;;f;DE;f;Europe/Berlin;t;;;f;;f;8004430;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 12924;Nieukerk;nieukerk;8015027;;6.37559;51.458084;;f;DE;f;Europe/Berlin;t;;;f;;f;8004433;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 12925;Nievenheim;nievenheim;8015307;;6.782118;51.123667;;f;DE;f;Europe/Berlin;t;;;f;;f;8004434;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -12446,9 +12446,9 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 13939;Zwingenberg (Baden);zwingenberg-baden;8014123;;9.042833;49.416031;;f;DE;f;Europe/Berlin;t;;;f;;f;8006686;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 13940;Zwingenberg (Bergstr);zwingenberg-bergstr;8011303;;8.609122;49.725898;;f;DE;f;Europe/Berlin;t;;;f;;f;8006687;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 13941;Unterschleißheim;unterschleissheim;8020559;;11.568631;48.2737;;f;DE;f;Europe/Berlin;t;;;f;;f;8006688;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;Унтершлайсхайм;;;翁特尔斯希莱斯海姆
-13942;Frankfurt (M) Galluswarte;frankfurt-m-galluswarte;8011704;;8.644719;50.10403;;f;DE;f;Europe/Berlin;t;;;f;;f;8006690;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-13943;Frankfurt (M) Taunusanlage;frankfurt-m-taunusanlage;8011136;;8.668864;50.113567;;f;DE;f;Europe/Berlin;t;;;f;;f;8006691;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-13944;Frankfurt (M) Hauptwache;frankfurt-m-hauptwache;8011139;;8.67895;50.113927;;f;DE;f;Europe/Berlin;t;;;f;;f;8006692;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+13942;Frankfurt (M) Galluswarte;frankfurt-m-galluswarte;8011704;;8.644719;50.10403;;f;DE;f;Europe/Berlin;t;;;f;;f;8006690;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+13943;Frankfurt (M) Taunusanlage;frankfurt-m-taunusanlage;8011136;;8.668864;50.113567;;f;DE;f;Europe/Berlin;t;;;f;;f;8006691;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+13944;Frankfurt (M) Hauptwache;frankfurt-m-hauptwache;8011139;;8.67895;50.113927;;f;DE;f;Europe/Berlin;t;;;f;;f;8006692;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 13945;München-Neuperlach Süd;munchen-neuperlach-sud;8020558;;11.645156;48.088621;;f;DE;f;Europe/Berlin;t;;;f;;f;8006696;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 13946;Stuttgart Schwabstr.;stuttgart-schwabstr;8029373;;9.156538;48.770237;;f;DE;f;Europe/Berlin;t;;;f;;f;8006698;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 13947;Stuttgart Feuersee;stuttgart-feuersee;8029374;;9.166273;48.772763;;f;DE;f;Europe/Berlin;t;;;f;;f;8006699;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -14394,7 +14394,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 15887;Schömberg (b Rottweil);schomberg-b-rottweil;;;8.758504;48.205742;;f;DE;f;Europe/Berlin;f;;;f;;f;8029359;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 15888;Westerland (Sylt) DB AutoZug SyltShuttle;westerland-sylt-db-autozug-syltshuttle;8030918;;8.311012;54.90631;;f;DE;f;Europe/Berlin;f;;;f;;f;8030918;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 15889;Birkenstein;birkenstein;8033457;;13.647773;52.515701;;f;DE;f;Europe/Berlin;t;;;f;;f;8070002;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-15890;Frankfurt (M) Flughafen Regionalbf;frankfurt-m-flughafen-regionalbf;8011090;;8.57125;50.051218;;f;DE;f;Europe/Berlin;t;;;f;;f;8070004;t;;f;;f;;f;;f;;f;;Francfort Aéroport;Airport;;Francoforte Aeroporto;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+15890;Frankfurt (M) Flughafen Regionalbf;frankfurt-m-flughafen-regionalbf;8011090;;8.57125;50.051218;;f;DE;f;Europe/Berlin;t;;;f;;f;8070004;t;;f;;f;;f;;f;;f;;Francfort Aéroport;Airport;;Francoforte Aeroporto;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 15891;Heidenheim Voithwerk;heidenheim-voithwerk;8035252;;10.155886;48.669288;;f;DE;f;Europe/Berlin;t;;;f;;f;8070005;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 15892;Bruchsal Tunnelstr.;bruchsal-tunnelstr;8039248;;8.594379;49.119549;;f;DE;f;Europe/Berlin;t;;;f;;f;8070008;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 15893;Bruchsal Schlachthof;bruchsal-schlachthof;8039249;;8.609715;49.118929;;f;DE;f;Europe/Berlin;t;;;f;;f;8070009;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -14971,7 +14971,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 16464;Zeutern Sportplatz;zeutern-sportplatz;8042100;;8.670059;49.17806;;f;DE;f;Europe/Berlin;t;;;f;;f;8079617;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 16465;Rostock Thierfelder Str.;rostock-thierfelder-str;8034328;;12.099912;54.077873;;f;DE;f;Europe/Berlin;t;;;f;;f;8079629;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 16466;Heilbr.-Böckingen Berufsschulzentrum;heilbr-bockingen-berufsschulzentrum;8034512;;9.182328;49.140431;;f;DE;f;Europe/Berlin;t;;;f;;f;8079631;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-16467;Frankfurt (Main) Messe;frankfurt-main-messe;8032564;;8.64337;50.112003;;f;DE;f;Europe/Berlin;t;;;f;;f;8079632;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Francfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
+16467;Frankfurt (Main) Messe;frankfurt-main-messe;8032564;;8.64337;50.112003;;f;DE;f;Europe/Berlin;t;;;f;;f;8079632;t;;f;;f;;f;;f;;f;;Francfort;;;Francoforte;Fráncfort;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 16468;Singen (Htw) Rielasinger-Str.;singen-htw-rielasinger-str;;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;8079709;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 16469;Singen (Htw) Markuskirche;singen-htw-markuskirche;;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;8079795;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 16470;Rielasingen Zoll;rielasingen-zoll;;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;8079808;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -16698,7 +16698,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 18231;Cham (CH) See;cham-ch-see;;;8.4634780000;47.1786790000;;f;CH;f;Europe/Zurich;f;;;f;;f;8502250;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18232;Wohlen AG Bahnhof;wohlen-ag-bahnhof;;;8.2694640000;47.3488720000;;f;CH;f;Europe/Zurich;f;;;f;;f;8502889;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18233;Sursee Bahnhof;sursee-bahnhof;;;8.0986240000;47.1702290000;;f;CH;f;Europe/Zurich;f;;;f;;f;8502998;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-18234;Zürich Flughafen;zurich-flughafen;8503016;;8.5623330000;47.4502790000;;f;CH;f;Europe/Zurich;t;CHAJO;;f;;f;8503016;t;;f;;f;;f;;f;;f;;Aéroport;Airport;;Aeroporto;Zúrich Aeropuerto;Curych;;;チューリッヒ;취리히;;Zurych;Zurique;Цюрих;;Zürih;
+18234;Zürich Flughafen;zurich-flughafen;8503016;;8.5623330000;47.4502790000;;f;CH;f;Europe/Zurich;t;CHAJO;;f;;f;8503016;t;;f;;f;;f;;f;;f;;Aéroport;Airport;;Aeroporto;Aeropuerto;Curych;;;チューリッヒ;취리히;;Zurych;Zurique;Цюрих;;Zürih;
 18235;Zürich HB SZU;zurich-hb-szu;8503088;;8.5392030000;47.3781860000;;f;CH;f;Europe/Zurich;f;;;f;;f;8503088;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18236;Küsnacht ZH;kusnacht-zh;8503101;;8.5806260000;47.3191630000;;f;CH;f;Europe/Zurich;t;;;f;;f;8503101;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 18237;Erlenbach ZH;erlenbach-zh;8503102;;8.5915120000;47.3057780000;;f;CH;f;Europe/Zurich;t;;;f;;f;8503102;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
