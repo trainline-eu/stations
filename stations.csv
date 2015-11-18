@@ -19690,7 +19690,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21235;Bellavista;bellavista;8311512;;17.176666667;40.516666667;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311512;t;;f;;f;;;;;;;;;;;;;;;;;;
 21236;Belvi-Aritzo;belvi-aritzo;8342145;;9.1826187;39.9609522;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342145;t;;f;;f;;;;;;;;;;;;;;;;;;
 21237;Benetutti-Nule;benetutti-nule;8342609;;9.167790412902832;40.456531756514906;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342609;t;;f;;f;;;;;;;;;;;;;;;;;;
-21238;Benevento Acquafredda;benevento-acquafredda;8309527;;14.803055556;41.157222222;22158;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309527;t;;f;;f;;Bénévent;;Benevent;;;;;;ベネヴェント;;;Benewent;;Беневенто;;;
+21238;Benevento Acquafredda;benevento-acquafredda;8309527;;14.803055556;41.157222222;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309527;t;;f;;f;;Bénévent;;Benevent;;;;;;ベネヴェント;;;Benewent;;Беневенто;;;
 21239;Bari Sud Est;bari-sud-est;8341002;;16.8797;41.1176;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341002;t;;f;;f;;;;;;;;;;;;;;;;;;
 21240;Alezio;alezio;8341090;;18.0525572;40.0685245;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341090;t;;f;;f;;;;;;;;;;;;;;;;;;
 21241;Alghero;alghero;8343709;;8.32213282585144;40.57488864610283;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8343709;t;;f;;f;;;;;;;;;;;;;;;;;;
