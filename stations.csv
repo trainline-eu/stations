@@ -7010,7 +7010,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8424;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8425;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8426;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8427;Firenze Campo di Marte;firenze-campo-di-marte;8306900;;11.27659;43.777574;;;IT;f;Europe/Rome;t;ITFCM;;f;;f;8300180;f;;f;;f;8306900;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+8427;Firenze Campo di Marte;firenze-campo-di-marte;8306900;;11.27659;43.777574;8433;;IT;f;Europe/Rome;t;ITFCM;;f;;f;8300180;f;;f;;f;8306900;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 8428;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8429;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8430;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -7038,7 +7038,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8452;;;;;;;8450;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8453;Genova Piazza Principe;genova-piazza-principe;8304700;;8.922072;44.417507;8450;f;IT;f;Europe/Rome;t;ITGPP;;f;;f;8300153;f;;f;;f;8304700;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 8454;;;;;;;8450;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8455;Genova quinto al mare;genova-quinto-al-mare;8304705;;9.020556;44.385;8450;f;IT;f;Europe/Rome;t;ITAKC;;f;;f;;f;;f;;f;8304705;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+8455;Genova Quinto al Mare;genova-quinto-al-mare;8304705;;9.020556;44.385;8450;f;IT;f;Europe/Rome;t;ITAKC;;f;;f;;f;;f;;f;8304705;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 8456;;;;;;;8450;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8457;;;;;;;8450;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8458;;;;;;;8450;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -17608,7 +17608,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19142;Amendolara-Oriolo;amendolara-oriolo;8311807;;16.602941;39.93385;;;IT;f;Europe/Rome;t;;;f;;f;8301147;f;;f;;f;8311807;t;;f;;f;;;;;;;;;;;;;;;;;;
 19143;Amorosi Melizzano;amorosi-melizzano;8309306;;14.479257;41.192798;;;IT;f;Europe/Rome;t;;;f;;f;8300873;f;;f;;f;8309306;t;;f;;f;;;;;;;;;;;;;;;;;;
 19144;Anagni-Fiuggi;anagni-fiuggi;8308658;;13.095988;41.710316;;;IT;f;Europe/Rome;t;;;f;;f;8301122;f;;f;;f;8308658;t;;f;;f;;;;;;;;;;;;;;;;;;
-19145;Ancona;ancona;8307113;;13.497797;43.607597;;t;IT;t;Europe/Rome;t;ITAOI;;f;;f;8300186;f;;f;;f;8307113;t;FF_;f;;f;;Ancône;;;;;;;;アンコーナ;;;Ankona;;Анкона;;;安科纳
+19145;Ancona stazione;ancona-stazione;8307113;;13.497797;43.607597;22189;t;IT;t;Europe/Rome;t;ITAOI;;f;;f;8300186;f;;f;;f;8307113;t;FF_;f;;f;;Ancône;;;;;;;;アンコーナ;;;Ankona;;Анкона;;;安科纳
 19146;Aragona-Caldare;aragona-caldare;8312370;;13.63686;37.381057;;;IT;f;Europe/Rome;t;;;f;;f;8300300;f;;f;;f;8312370;t;;f;;f;;;;;;;;;;;;;;;;;;
 19147;Arbia;arbia;8306811;;11.406151;43.29444;;;IT;f;Europe/Rome;t;;;f;;f;8301151;f;;f;;f;8306811;t;;f;;f;;;;;;;;;;;;;;;;;;
 19148;Arce;arce;8308861;;13.572551;41.583442;;;IT;f;Europe/Rome;t;;;f;;f;8302457;f;;f;;f;8308861;t;;f;;f;;;;;;;;;;アルチェ;;;;;Арче;;;阿尔切
@@ -17908,8 +17908,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19444;Bazzana;bazzana;8300807;;8.401192;44.777256;;;IT;f;Europe/Rome;t;;;f;;f;8301274;f;;f;;f;8300807;t;;f;;f;;;;;;;;;;;;;;;;;;
 19445;Beffi;beffi;8307422;;13.660511;42.197433;;;IT;f;Europe/Rome;t;;;f;;f;8301195;f;;f;;f;8307422;t;;f;;f;;;;;;;;;;;;;;;;;;
 19446;Mignano Monte Lungo;mignano-monte-lungo;8309201;;13.986649;41.407541;;;IT;f;Europe/Rome;t;;;f;;f;8301732;f;;f;;f;8309201;t;;f;;f;;;;;;;;;;;;;;;;;;
-19448;Milano Certosa;milano-certosa;8301640;;9.135818;45.506497;;;IT;f;Europe/Rome;t;;;f;;f;8300414;f;;f;;f;8301640;t;;f;;f;;;;;;;;;;;;;;;;;;
-19449;Milano Greco Pirelli;milano-greco-pirelli;8301326;;9.214491;45.512888;;;IT;f;Europe/Rome;t;ITAEQ;;f;;f;8300416;f;;f;;f;8301326;t;;f;;f;;;;;;;;;;;;;;;;;;
+19448;Milano Certosa;milano-certosa;8301640;;9.135818;45.506497;8483;;IT;f;Europe/Rome;t;;;f;;f;8300414;f;;f;;f;8301640;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
+19449;Milano Greco Pirelli;milano-greco-pirelli;8301326;;9.214491;45.512888;8483;;IT;f;Europe/Rome;t;ITAEQ;;f;;f;8300416;f;;f;;f;8301326;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 19451;Longobardi;longobardi;8311742;;16.061314;39.209643;;;IT;f;Europe/Rome;t;;;f;;f;8301626;f;;f;;f;8311742;t;;f;;f;;;;;;;;;;;;;;;;;;
 19452;Lonigo;lonigo;8302441;;11.34506;45.413252;;;IT;f;Europe/Rome;t;;;f;;f;8300601;f;;f;;f;8302441;t;;f;;f;;;;;;;;;;;;;;;;;;
 19453;Loreo;loreo;8305423;;12.191665;45.059562;;;IT;f;Europe/Rome;t;;;f;;f;8300691;f;;f;;f;8305423;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18017,7 +18017,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19555;Lioni;lioni;8309616;;15.182996;40.871452;;;IT;f;Europe/Rome;t;;;f;;f;8302572;f;;f;;f;8309616;t;;f;;f;;;;;;;;;;;;;;;;;;
 19556;Licata;licata;8312400;;13.938278;37.105987;;;IT;f;Europe/Rome;t;;;f;;f;8300380;f;;f;;f;8312400;t;;f;;f;;;;;;;;;;;;;;;;;;
 19557;Lido di Lavinio;lido-di-lavinio;8308714;;12.625897;41.500679;;;IT;f;Europe/Rome;t;;;f;;f;8302571;f;;f;;f;8308714;t;;f;;f;;;;;;;;;;;;;;;;;;
-19558;Marconi;marconi;8311122;;16.887342;41.117163;;;IT;f;Europe/Rome;t;;;f;;f;8301757;f;;f;;f;8311122;t;;f;;f;;;;;;;;;;;;;;;;;;
+19558;Marconi;marconi;8311122;;16.887342;41.117163;22157;;IT;f;Europe/Rome;t;;;f;;f;8301757;f;;f;;f;8311122;t;;f;;f;;Bari;Bari;Bari;Bari;Bari;Bari;Bari;Bari;バーリ;바리;Bari;Bari;Bari;Бари;Bari;Bari;巴里
 19559;Acquaviva-Casteltermini;acquaviva-casteltermini;8312209;;13.674804;37.570415;;;IT;f;Europe/Rome;t;;;f;;f;8300849;f;;f;;f;8312209;t;;f;;f;;;;;;;;;;;;;;;;;;
 19560;Reggio di Calabria Lido;reggio-di-calabria-lido;8311780;;15.649653;38.114982;22399;;IT;f;Europe/Rome;t;ITRCL;;f;;f;8300503;f;;f;;f;8311780;t;;f;;f;;Reggio de Calabre;;;;;;;;レッジョ・ディ・カラブリア;;;;;Реджо-ди-Калабрия;;;
 19561;Montebello;montebello;8302443;;11.390842;45.452445;;;IT;f;Europe/Rome;t;;;f;;f;8301743;f;;f;;f;8302443;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18180,11 +18180,11 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19719;Gatteo a Mare;gatteo-a-mare;8305816;;12.432333;44.170556;;;IT;f;Europe/Rome;t;;;f;;f;8300405;f;;f;;f;8305816;t;;f;;f;;;;;;;;;;;;;;;;;;
 19720;Rometta-Messinese;rometta-messinese;8312049;;15.405865;38.228434;;;IT;f;Europe/Rome;t;;;f;;f;8300917;f;;f;;f;8312049;t;;f;;f;;;;;;;;;;;;;;;;;;
 19721;Roncegno Bagni-Marter;roncegno-bagni-marter;8302312;;11.398501;46.03597;;;IT;f;Europe/Rome;t;;;f;;f;8300579;f;;f;;f;8302312;t;;f;;f;;;;;;;;;;;;;;;;;;
-19722;Roma Prenestina;roma-prenestina;8308500;;12.545974;41.897777;;;IT;f;Europe/Rome;t;;;f;;f;8300566;f;;f;;f;8308500;t;;f;;f;;;;;;;;;;;;;;;;;;
+19722;Roma Prenestina;roma-prenestina;8308500;;12.545974;41.897777;8542;;IT;f;Europe/Rome;t;;;f;;f;8300566;f;;f;;f;8308500;t;;f;;f;;Rome;Rome;Rom;;;Řím;Rom;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
 19723;Ronciglione;ronciglione;8308109;;12.218758;42.281994;;;IT;f;Europe/Rome;t;;;f;;f;8302003;f;;f;;f;8308109;t;;f;;f;;;;;;;;;;;;;;;;;;
 19724;Ronta;ronta;8306606;;11.431528;44.00653;;;IT;f;Europe/Rome;t;;;f;;f;8302041;f;;f;;f;8306606;t;;f;;f;;;;;;;;;;;;;;;;;;
 19725;Rosa;rosa;8302521;;11.775761;45.720548;;;IT;f;Europe/Rome;t;;;f;;f;8300707;f;;f;;f;8302521;t;;f;;f;;;;;;;;;;;;;;;;;;
-19726;Roma Trastevere;roma-trastevere;8308405;;12.46615;41.872356;;;IT;f;Europe/Rome;t;ITRTV;;f;;f;8300479;f;;f;;f;8308405;t;;f;;f;;;;;;;;;;;;;;;;;;
+19726;Roma Trastevere;roma-trastevere;8308405;;12.46615;41.872356;8542;;IT;f;Europe/Rome;t;ITRTV;;f;;f;8300479;f;;f;;f;8308405;t;;f;;f;;Rome;Rome;Rom;;;Řím;Rom;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
 19727;Roseto degli Abruzzi;roseto-degli-abruzzi;8307804;;14.015225;42.677807;;;IT;f;Europe/Rome;t;;;f;;f;8300560;f;;f;;f;8307804;t;;f;;f;;;;;;;;;;;;;;;;;;
 19728;Pozzuoli Solfatara;pozzuoli-solfatara;8309101;;14.126161;40.827566;;;IT;f;Europe/Rome;t;;;f;;f;8302643;f;;f;;f;8309101;t;;f;;f;;;;;;;;;;;;;;;;;;
 19729;Pracchia;pracchia;8305113;;10.907223;44.055035;;;IT;f;Europe/Rome;t;;;f;;f;8300740;f;;f;;f;8305113;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18290,10 +18290,10 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19830;Castagno;castagno;8305122;;10.915439;44.012301;;;IT;f;Europe/Rome;t;;;f;;f;8301085;f;;f;;f;8305122;t;;f;;f;;;;;;;;;;;;;;;;;;
 19831;Casteggio;casteggio;8301942;;9.124698;45.017394;;;IT;f;Europe/Rome;t;;;f;;f;8301343;f;;f;;f;8301942;t;;f;;f;;;;;;;;;;;;;;;;;;
 19832;Gemona del Friuli;gemona-del-friuli;8303019;;13.127576;46.27209;;;IT;f;Europe/Rome;t;ITGDF;;f;;f;8300090;f;;f;;f;8303019;t;;f;;f;;;;;;;;;;;;;;;;;;
-19833;Genova Acquasanta;genova-acquasanta;8304107;;8.773256;44.458714;;;IT;f;Europe/Rome;t;ITAJR;;f;;f;8300974;f;;f;;f;8304107;t;;f;;f;;;;;;;;;;;;;;;;;;
-19834;Genova Bolzaneto;genova-bolzaneto;8304218;;8.900147;44.459271;;;IT;f;Europe/Rome;t;ITALO;;f;;f;8300992;f;;f;;f;8304218;t;;f;;f;;;;;;;;;;;;;;;;;;
-19835;Genova Borzoli;genova-borzoli;8304109;;8.866689;44.43474;;;IT;f;Europe/Rome;t;ITAJT;;f;;f;8300975;f;;f;;f;8304109;t;;f;;f;;;;;;;;;;;;;;;;;;
-19836;Genova Costa di Sestri Ponente;genova-costa-di-sestri-ponente;8304110;;8.84667;44.433868;;;IT;f;Europe/Rome;t;;;f;;f;8302768;f;;f;;f;8304110;t;;f;;f;;;;;;;;;;;;;;;;;;
+19833;Genova Acquasanta;genova-acquasanta;8304107;;8.773256;44.458714;8450;;IT;f;Europe/Rome;t;ITAJR;;f;;f;8300974;f;;f;;f;8304107;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+19834;Genova Bolzaneto;genova-bolzaneto;8304218;;8.900147;44.459271;8450;;IT;f;Europe/Rome;t;ITALO;;f;;f;8300992;f;;f;;f;8304218;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+19835;Genova Borzoli;genova-borzoli;8304109;;8.866689;44.43474;8450;;IT;f;Europe/Rome;t;ITAJT;;f;;f;8300975;f;;f;;f;8304109;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+19836;Genova Costa di Sestri Ponente;genova-costa-di-sestri-ponente;8304110;;8.84667;44.433868;8450;;IT;f;Europe/Rome;t;;;f;;f;8302768;f;;f;;f;8304110;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 19837;Ferruzzano;ferruzzano;8311856;;16.134315;38.016361;;;IT;f;Europe/Rome;t;;;f;;f;8300835;f;;f;;f;8311856;t;;f;;f;;;;;;;;;;;;;;;;;;
 19838;Fidenza;fidenza;8305009;;10.06345;44.867759;;;IT;f;Europe/Rome;t;ITFDZ;;f;;f;8300200;f;;f;;f;8305009;t;;f;;f;;;;;;;;;;;;;;;Фиденцы;;;
 19839;Figline Valdarno;figline-valdarno;8306908;;11.473561;43.621818;;;IT;f;Europe/Rome;t;ITFVD;;f;;f;8301537;f;;f;;f;8306908;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18318,10 +18318,10 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19858;Castel Madama;castel-madama;8308510;;12.865019;41.988478;;;IT;f;Europe/Rome;t;;;f;;f;8301722;f;;f;;f;8308510;t;;f;;f;;;;;;;;;;カステル・マダーマ;;;;;;;;
 19859;Castel Sant’Angelo;castel-santangelo;8307407;;13.01753;42.379689;;;IT;f;Europe/Rome;t;;;f;;f;8301124;f;;f;;f;8307407;t;;f;;f;;;;;;;;;;;;;;;;;;
 19860;Castel San Giorgio-Roccapiemonte;castel-san-giorgio-roccapiemonte;8309704;;14.695025;40.771501;;;IT;f;Europe/Rome;t;;;f;;f;8302511;f;;f;;f;8309704;t;;f;;f;;;;;;;;;;;;;;;;;;
-19861;Genova Granara;genova-granara;8304108;;8.823496;44.442048;;;IT;f;Europe/Rome;t;ITAJV;;f;;f;8300977;f;;f;;f;8304108;t;;f;;f;;;;;;;;;;;;;;;;;;
-19862;Genova Nervi;genova-nervi;8304707;;9.039957;44.381155;;;IT;f;Europe/Rome;t;ITGNE;;f;;f;8300147;f;;f;;f;8304707;t;;f;;f;;;;;;;;;;;;;;;;;;
+19861;Genova Granara;genova-granara;8304108;;8.823496;44.442048;8450;;IT;f;Europe/Rome;t;ITAJV;;f;;f;8300977;f;;f;;f;8304108;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+19862;Genova Nervi;genova-nervi;8304707;;9.039957;44.381155;8450;;IT;f;Europe/Rome;t;ITGNE;;f;;f;8300147;f;;f;;f;8304707;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 19863;;;;;;;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-19864;Genova Pontedecimo;genova-pontedecimo;8304217;;8.905784;44.494365;;;IT;f;Europe/Rome;t;;;f;;f;8300979;f;;f;;f;8304217;t;;f;;f;;;;;;;;;;;;;;;;;;
+19864;Genova Pontedecimo;genova-pontedecimo;8304217;;8.905784;44.494365;8450;;IT;f;Europe/Rome;t;;;f;;f;8300979;f;;f;;f;8304217;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 19865;Fasano;fasano;8311130;;17.385785;40.85155;;;IT;f;Europe/Rome;t;ITATG;;f;;f;8300276;f;;f;;f;8311130;t;;f;;f;;;;;;;;;;;;;;;Фазано;;;
 19866;Favazzina;favazzina;8311771;;15.756202;38.258629;;;IT;f;Europe/Rome;t;;;f;;f;8301065;f;;f;;f;8311771;t;;f;;f;;;;;;;;;;;;;;;;;;
 19867;Lagonegro;lagonegro;8309911;;15.765803;40.12826;;;IT;f;Europe/Rome;t;;;f;;f;8309911;f;;f;;f;8309911;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18443,7 +18443,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19983;Gela-Anic;gela-anic;8312430;;14.299176;37.045013;;;IT;f;Europe/Rome;t;;;f;;f;8302743;f;;f;;f;8312430;t;;f;;f;;;;;;;;;;;;;;;;;;
 19984;Gaibanella;gaibanella;8305800;;11.670901;44.778281;;;IT;f;Europe/Rome;t;;;f;;f;8301539;f;;f;;f;8305800;t;;f;;f;;;;;;;;;;;;;;;;;;
 19985;Agnone di Siracusa;agnone-di-siracusa;8312342;;15.078245;37.304676;;;IT;f;Europe/Rome;t;;;f;;f;8301121;f;;f;;f;8312342;t;;f;;f;;;;;;;;;;;;;;;;;;
-19986;Genova Cornigliano;genova-cornigliano;8304538;;8.865017;44.414766;;;IT;f;Europe/Rome;t;;;f;;f;8300976;f;;f;;f;8304538;t;;f;;f;;;;;;;;;;;;;;;;;;
+19986;Genova Cornigliano;genova-cornigliano;8304538;;8.865017;44.414766;8450;;IT;f;Europe/Rome;t;;;f;;f;8300976;f;;f;;f;8304538;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 19987;Manoppello;manoppello;8307710;;14.061097;42.306013;;;IT;f;Europe/Rome;t;;;f;;f;8300901;f;;f;;f;8307710;t;;f;;f;;;;;;;;;;;;;;;;;;
 19988;Fabro-Ficulle;fabro-ficulle;8308201;;12.041401;42.874869;;;IT;f;Europe/Rome;t;;;f;;f;8301509;f;;f;;f;8308201;t;;f;;f;;;;;;;;;;;;;;;;;;
 19989;Faenza;faenza;8305058;;11.883227;44.293672;;;IT;f;Europe/Rome;t;ITFAE;;f;;f;8300199;f;;f;;f;8305058;t;;f;;f;;;;;;;;;;ファエンツァ;;;;;;;;
@@ -18452,17 +18452,17 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19992;Fagnano-Campana;fagnano-campana;8307420;;13.567796;42.248554;;;IT;f;Europe/Rome;t;;;f;;f;8300795;f;;f;;f;8307420;t;;f;;f;;;;;;;;;;;;;;;;;;
 19993;Dossobuono;dossobuono;8302330;;10.914621;45.392154;;;IT;f;Europe/Rome;t;;;f;;f;8300685;f;;f;;f;8302330;t;;f;;f;;;;;;;;;;;;;;;;;;
 19994;Druogno;druogno;8314002;;8.433913;46.133153;;;IT;f;Europe/Rome;t;;;f;;f;8302809;f;;f;;f;8314002;t;;f;;f;;;;;;;;;;;;;;;;;;
-19995;Firenze Rovezzano;firenze-rovezzano;8306901;;11.308699;43.768855;;;IT;f;Europe/Rome;t;;;f;;f;8302795;f;;f;;f;8306901;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
-19996;Firenze Statuto;firenze-statuto;8306430;;11.249703;43.787319;;;IT;f;Europe/Rome;t;;;f;;f;8301531;f;;f;;f;8306430;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+19995;Firenze Rovezzano;firenze-rovezzano;8306901;;11.308699;43.768855;8433;;IT;f;Europe/Rome;t;;;f;;f;8302795;f;;f;;f;8306901;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+19996;Firenze Statuto;firenze-statuto;8306430;;11.249703;43.787319;8433;;IT;f;Europe/Rome;t;;;f;;f;8301531;f;;f;;f;8306430;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 19997;Fisciano;fisciano;8309519;;14.77565;40.761082;;;IT;f;Europe/Rome;t;;;f;;f;8302537;f;;f;;f;8309519;t;;f;;f;;;;;;;;;;;;;;;;;;
 19998;Nozzano;nozzano;8306351;;10.407935;43.830026;;;IT;f;Europe/Rome;t;;;f;;f;8301814;f;;f;;f;8306351;t;;f;;f;;;;;;;;;;;;;;;;;;
 19999;Fiorenzuola;fiorenzuola;8305007;;9.916827;44.929021;;;IT;f;Europe/Rome;t;;;f;;f;8300235;f;;f;;f;8305007;t;;f;;f;;;;;;;;;;;;;;;;;;
 20000;;;;;;;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-20001;Firenze Castello;firenze-castello;8306419;;11.218313;43.8195;;;IT;f;Europe/Rome;t;;;f;;f;8301503;f;;f;;f;8306419;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+20001;Firenze Castello;firenze-castello;8306419;;11.218313;43.8195;8433;;IT;f;Europe/Rome;t;;;f;;f;8301503;f;;f;;f;8306419;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 20002;;;;;;;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 20003;Galliera Veneta-Tombolo;galliera-veneta-tombolo;8302541;;11.827718;45.652787;;;IT;f;Europe/Rome;t;;;f;;f;8301598;f;;f;;f;8302541;t;;f;;f;;;;;;;;;;;;;;;;;;
-20004;Genova Sturla;genova-sturla;8304703;;8.981473;44.397875;;;IT;f;Europe/Rome;t;;;f;;f;8301594;f;;f;;f;8304703;t;;f;;f;;;;;;;;;;;;;;;;;;
-20005;Genova Voltri;genova-voltri;8304534;;8.758351;44.428456;;;IT;f;Europe/Rome;t;ITAKH;;f;;f;8300984;f;;f;;f;8304534;t;;f;;f;;;;;;;;;;;;;;;;;;
+20004;Genova Sturla;genova-sturla;8304703;;8.981473;44.397875;8450;;IT;f;Europe/Rome;t;;;f;;f;8301594;f;;f;;f;8304703;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+20005;Genova Voltri;genova-voltri;8304534;;8.758351;44.428456;8450;;IT;f;Europe/Rome;t;ITAKH;;f;;f;8300984;f;;f;;f;8304534;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 20006;Giulianova;giulianova;8307802;;13.96565;42.751806;;;IT;f;Europe/Rome;t;ITGNV;;f;;f;8300202;f;;f;;f;8307802;t;;f;;f;;;;;;;;;;;;;;;;;;
 20007;Giarole;giarole;8300316;;8.560957;45.05602;;;IT;f;Europe/Rome;t;;;f;;f;8301570;f;;f;;f;8300316;t;;f;;f;;;;;;;;;;;;;;;;;;
 20008;Giave;giave;8312866;;8.729757;40.456366;;;IT;f;Europe/Rome;t;;;f;;f;8301569;f;;f;;f;8312866;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18498,7 +18498,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20038;Hone-Bard;hone-bard;8300147;;7.741492;45.613873;;;IT;f;Europe/Rome;t;;;f;;f;8301599;f;;f;;f;8300147;t;;f;;f;;;;;;;;;;;;;;;;;;
 20039;Igea Marina;igea-marina;8305818;;12.482852;44.130653;;;IT;f;Europe/Rome;t;;;f;;f;8300203;f;;f;;f;8305818;t;;f;;f;;;;;;;;;;;;;;;;;;
 20040;Il Neto;il-neto;8306424;;11.182733;43.839726;;;IT;f;Europe/Rome;t;;;f;;f;8301604;f;;f;;f;8306424;t;;f;;f;;;;;;;;;;;;;;;;;;
-20041;Imperatore Federico;imperatore-federico;8312136;;13.349107;38.145248;;;IT;f;Europe/Rome;t;;;f;;f;8302533;f;;f;;f;8312136;t;;f;;f;;;;;;;;;;;;;;;;;;
+20041;Imperatore Federico;imperatore-federico;8312136;;13.349107;38.145248;22186;;IT;f;Europe/Rome;t;;;f;;f;8302533;f;;f;;f;8312136;t;;f;;f;;Palerme;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;パレルモ;Palermo;Palermo;Palermo;Palermo;Палермо;Palermo;Palermo;巴勒莫市
 20042;Este;este;8302396;;11.662919;45.220954;;;IT;f;Europe/Rome;t;;;f;;f;8300684;f;;f;;f;8302396;t;;f;;f;;;;;;;;;;エステ;;;;;Эсте;;;埃斯泰
 20043;Nera Montoro;nera-montoro;8307229;;12.476632;42.497951;;;IT;f;Europe/Rome;t;;;f;;f;8301809;f;;f;;f;8307229;t;;f;;f;;;;;;;;;;;;;;;;;;
 20044;Nettuno;nettuno;8308710;;12.662106;41.459571;;;IT;f;Europe/Rome;t;;;f;;f;8302607;f;;f;;f;8308710;t;;f;;f;;;;;;;;;;ネットゥーノ;네투노;;;;Неттуно;;;聶圖諾
@@ -18542,11 +18542,11 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20082;Ghemme;ghemme;8300110;;8.417813;45.595742;;;IT;f;Europe/Rome;t;;;f;;f;8301562;f;;f;;f;8300110;t;;f;;f;;;;;;;;;;;;;;;;;;
 20083;Ghislarengo;ghislarengo;8300974;;8.379222;45.526147;;;IT;f;Europe/Rome;t;;;f;;f;8301560;f;;f;;f;8300974;t;;f;;f;;;;;;;;;;;;;;;;;;
 20084;Ghivizzano-Coreglia;ghivizzano-coreglia;8306306;;10.510691;44.02743;;;IT;f;Europe/Rome;t;;;f;;f;8300751;f;;f;;f;8306306;t;;f;;f;;;;;;;;;;;;;;;;;;
-20085;Genova Quarto dei Mille;genova-quarto-dei-mille;8304704;;8.995793;44.38858;;;IT;f;Europe/Rome;t;ITAKB;;f;;f;8300981;f;;f;;f;8304704;t;;f;;f;;;;;;;;;;;;;;;;;;
-20086;Giachery;giachery;8312138;;13.358069;38.135243;;;IT;f;Europe/Rome;t;;;f;;f;8302551;f;;f;;f;8312138;t;;f;;f;;;;;;;;;;;;;;;;;;
-20087;Genova Rivarolo;genova-rivarolo;8304219;;8.890942;44.436205;;;IT;f;Europe/Rome;t;;;f;;f;8300983;f;;f;;f;8304219;t;;f;;f;;;;;;;;;;;;;;;;;;
-20088;Genova Sampierdarena;genova-sampierdarena;8304220;;8.887248;44.412869;;;IT;f;Europe/Rome;t;ITGSA;;f;;f;8300158;f;;f;;f;8304220;t;;f;;f;;;;;;;;;;;;;;;;;;
-20089;Genova Sestri Ponente;genova-sestri-ponente;8304537;;8.847956;44.422326;;;IT;f;Europe/Rome;t;ITAKF;;f;;f;8300408;f;;f;;f;8304537;t;;f;;f;;;;;;;;;;;;;;;;;;
+20085;Genova Quarto dei Mille;genova-quarto-dei-mille;8304704;;8.995793;44.38858;8450;;IT;f;Europe/Rome;t;ITAKB;;f;;f;8300981;f;;f;;f;8304704;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+20086;Giachery;giachery;8312138;;13.358069;38.135243;22186;;IT;f;Europe/Rome;t;;;f;;f;8302551;f;;f;;f;8312138;t;;f;;f;;Palerme;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;パレルモ;Palermo;Palermo;Palermo;Palermo;Палермо;Palermo;Palermo;巴勒莫市
+20087;Genova Rivarolo;genova-rivarolo;8304219;;8.890942;44.436205;8450;;IT;f;Europe/Rome;t;;;f;;f;8300983;f;;f;;f;8304219;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+20088;Genova Sampierdarena;genova-sampierdarena;8304220;;8.887248;44.412869;8450;;IT;f;Europe/Rome;t;ITGSA;;f;;f;8300158;f;;f;;f;8304220;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+20089;Genova Sestri Ponente;genova-sestri-ponente;8304537;;8.847956;44.422326;8450;;IT;f;Europe/Rome;t;ITAKF;;f;;f;8300408;f;;f;;f;8304537;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 20090;Ginosa;ginosa;8311462;;16.891072;40.429308;;;IT;f;Europe/Rome;t;ITGNS;;f;;f;8301027;f;;f;;f;8311462;t;;f;;f;;;;;;;;;;;;;;;;;;
 20091;Gioia del Colle;gioia-del-colle;8311505;;16.916871;40.796841;;;IT;f;Europe/Rome;t;ITGDC;;f;;f;8300277;f;;f;;f;8311505;t;;f;;f;;;;;;;;;;;;;;;Джоя-дель-Колле;;;
 20092;Gioia Tauro;gioia-tauro;8311766;;15.897369;38.42341;;;IT;f;Europe/Rome;t;ITGIT;;f;;f;8300344;f;;f;;f;8311766;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18881,7 +18881,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20421;San Giuseppe di Cairo;san-giuseppe-di-cairo;8304805;;8.288395;44.370134;;;IT;f;Europe/Rome;t;;;f;;f;8300027;f;;f;;f;8304805;t;;f;;f;;;;;;;;;;;;;;;;;;
 20422;San Giorgio di Nogaro;san-giorgio-di-nogaro;8303205;;13.2099;45.829236;;;IT;f;Europe/Rome;t;;;f;;f;8300117;f;;f;;f;8303205;t;;f;;f;;;;;;;;;;;;;;;;;;
 20423;San Giorgio di Piano;san-giorgio-di-piano;8305723;;11.37904;44.646517;;;IT;f;Europe/Rome;t;;;f;;f;8301550;f;;f;;f;8305723;t;;f;;f;;;;;;;;;;;;;;;;;;
-20425;Torino Stura;torino-stura;8300228;;7.712609;45.12183;;;IT;f;Europe/Rome;t;ITABX;;f;;f;8300514;f;;f;;f;8300228;t;;f;;f;;;;;;;;;;;;;;;;;;
+20425;Torino Stura;torino-stura;8300228;;7.712609;45.12183;8565;;IT;f;Europe/Rome;t;ITABX;;f;;f;8300514;f;;f;;f;8300228;t;;f;;f;;Turin;Turin;Turin;;Turín;Turín;;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 20426;Torre del Greco;torre-del-greco;8309803;;14.370101;40.793255;;;IT;f;Europe/Rome;t;;;f;;f;8302274;f;;f;;f;8309803;t;;f;;f;;;;;;;;;;トッレ・デル・グレーコ;;;;;Торре-дель-Греко;;;
 20427;Vanzago-Pogliano;vanzago-pogliano;8301036;;8.996044;45.524889;;;IT;f;Europe/Rome;t;;;f;;f;8302301;f;;f;;f;8301036;t;;f;;f;;;;;;;;;;;;;;;;;;
 20428;Varallo Pombia;varallo-pombia;8300982;;8.620169;45.669804;;;IT;f;Europe/Rome;t;;;f;;f;8300604;f;;f;;f;8300982;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18948,7 +18948,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20489;Volterra Saline-Pomarance;volterra-saline-pomarance;8306753;;10.809924;43.36034;;;IT;f;Europe/Rome;t;;;f;;f;8300748;f;;f;;f;8306753;t;;f;;f;;;;;;;;;;;;;;;;;;
 20490;Zagarolo;zagarolo;8308652;;12.826932;41.821836;;;IT;f;Europe/Rome;t;;;f;;f;8301022;f;;f;;f;8308652;t;;f;;f;;;;;;;;;;ザガローロ;;;;;;;;
 20491;Zambra;zambra;8306425;;11.205952;43.825918;;;IT;f;Europe/Rome;t;;;f;;f;8302377;f;;f;;f;8306425;t;;f;;f;;;;;;;;;;;;;;;;;;
-20492;Rimini Fiera;rimini-fiera;8305070;;12.487535;44.084385;22533;;IT;f;Europe/Rome;t;ITRIM;;f;;f;8361210;f;;f;;f;8305070;t;;f;;f;;;;;;;;;;リミニ;;;;;Римини;;;
+20492;Rimini Fiera;rimini-fiera;8305070;;12.487535;44.084385;;;IT;f;Europe/Rome;t;ITRIM;;f;;f;8361210;f;;f;;f;8305070;t;;f;;f;;;;;;;;;;リミニ;;;;;Римини;;;
 20493;Venafro;venafro;8309060;;14.048863;41.482673;;;IT;f;Europe/Rome;t;;;f;;f;8302723;f;;f;;f;8309060;t;;f;;f;;;;;;;;;;;;;;;;;;
 20494;Zambrone;zambrone;8311758;;15.976114;38.712809;;;IT;f;Europe/Rome;t;;;f;;f;8301054;f;;f;;f;8311758;t;;f;;f;;;;;;;;;;;;;;;;;;
 20495;Ipogeo degli Ottavi;ipogeo-degli-ottavi;8308331;;12.408871;41.968711;;;IT;f;Europe/Rome;t;;;f;;f;8302831;f;;f;;f;8308331;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18975,7 +18975,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20516;Travedona-Biandronno;travedona-biandronno;8301142;;8.700524;45.799383;;;IT;f;Europe/Rome;t;;;f;;f;8302237;f;;f;;f;8301142;t;;f;;f;;;;;;;;;;;;;;;;;;
 20517;Roviano;roviano;8308515;;12.991336;42.026503;;;IT;f;Europe/Rome;t;;;f;;f;8302051;f;;f;;f;8308515;t;;f;;f;;;;;;;;;;ロヴィアーノ;;;;;;;;
 20518;Rovigo;rovigo;8305706;;11.781064;45.076983;;;IT;f;Europe/Rome;t;ITBGP;;f;;f;8300238;f;;f;;f;8305706;t;;f;;f;;;;;;;;;;ロヴィーゴ;;;;;Ровиго;;;
-20519;Venezia Porto Marghera;venezia-porto-marghera;8302592;;12.256027;45.472589;;;IT;f;Europe/Rome;t;;;f;;f;8302355;f;;f;;f;8302592;t;;f;;f;;;;;;;;;;;;;;;;;;
+20519;Venezia Porto Marghera;venezia-porto-marghera;8302592;;12.256027;45.472589;8573;;IT;f;Europe/Rome;t;;;f;;f;8302355;f;;f;;f;8302592;t;;f;;f;;Venise;Venice;Venedig;;Venecia;Benátky;Venedig;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 20520;Venosa-Maschito;venosa-maschito;8311302;;15.84195;40.979997;;;IT;f;Europe/Rome;t;;;f;;f;8302724;f;;f;;f;8311302;t;;f;;f;;;;;;;;;;;;;;;;;;
 20521;Villa San Giovanni;villa-san-giovanni;8311774;;15.634003;38.219733;;;IT;f;Europe/Rome;t;;;f;;f;8300342;f;;f;;f;8311774;t;;f;;f;;;;;;;;;;;;;;;;;;
 20522;Villa San Giovanni-Cannitello;villa-san-giovanni-cannitello;8311773;;15.653653;38.234376;;;IT;f;Europe/Rome;t;;;f;;f;8301075;f;;f;;f;8311773;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19164,13 +19164,13 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20706;Cusano;cusano;8302700;;12.757329;45.945458;;;IT;f;Europe/Rome;t;;;f;;f;8300629;f;;f;;f;8302700;t;;f;;f;;;;;;;;;;;;;;;;;;
 20707;Ploaghe;ploaghe;8312816;;8.728067;40.661356;;;IT;f;Europe/Rome;t;;;f;;f;8301906;f;;f;;f;8312816;t;;f;;f;;;;;;;;;;;;;;;;;;
 20708;Giarre-Riposto;giarre-riposto;8312324;;15.193567;37.730207;;;IT;f;Europe/Rome;t;ITAXJ;;f;;f;8300311;f;;f;;f;8312324;t;;f;;f;;;;;;;;;;;;;;;;;;
-20709;Fiera;fiera;8312137;;13.35361;38.141032;;;IT;f;Europe/Rome;t;;;f;;f;8302534;f;;f;;f;8312137;t;;f;;f;;;;;;;;;;;;;;;;;;
+20709;Fiera;fiera;8312137;;13.35361;38.141032;22186;;IT;f;Europe/Rome;t;;;f;;f;8302534;f;;f;;f;8312137;t;;f;;f;;Palerme;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;パレルモ;Palermo;Palermo;Palermo;Palermo;Палермо;Palermo;Palermo;巴勒莫市
 20710;Filiano;filiano;8311211;;15.752319;40.837194;;;IT;f;Europe/Rome;t;;;f;;f;8302536;f;;f;;f;8311211;t;;f;;f;;;;;;;;;;;;;;;;;;
 20711;Marano Ticino;marano-ticino;8300983;;8.626471;45.629424;;;IT;f;Europe/Rome;t;;;f;;f;8301661;f;;f;;f;8300983;t;;f;;f;;;;;;;;;;;;;;;;;;
 20712;Castel Gandolfo;castel-gandolfo;8308703;;12.65229;41.746902;;;IT;f;Europe/Rome;t;;;f;;f;8302509;f;;f;;f;8308703;t;;f;;f;;;;;;;;;;;;;;;;;;
 20713;Marotta-Mondolfo;marotta-mondolfo;8307107;;13.137285;43.7697;;;IT;f;Europe/Rome;t;;;f;;f;8301728;f;;f;;f;8307107;t;;f;;f;;;;;;;;;;;;;;;;;;
 20714;Napoli Montesanto;napoli-montesanto;8309107;;14.245268;40.847001;22184;;IT;f;Europe/Rome;t;;;f;;f;8302753;f;;f;;f;8309107;t;;f;;f;;Naples;Naples;Neapel;;Nápoles;Neapol;;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
-20715;Genova Pra;genova-pra;8304535;;8.789247;44.425391;;;IT;f;Europe/Rome;t;ITAJX;;f;;f;8300980;f;;f;;f;8304535;t;;f;;f;;;;;;;;;;;;;;;;;;
+20715;Genova Pra;genova-pra;8304535;;8.789247;44.425391;8450;;IT;f;Europe/Rome;t;ITAJX;;f;;f;8300980;f;;f;;f;8304535;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 20716;Massalombarda;massalombarda;8305952;;11.827871;44.448871;;;IT;f;Europe/Rome;t;;;f;;f;8301717;f;;f;;f;8305952;t;;f;;f;;;;;;;;;;;;;;;;;;
 20717;Rapallo;rapallo;8304720;;9.231553;44.351239;;;IT;f;Europe/Rome;t;ITALL;;f;;f;8300178;f;;f;;f;8304720;t;;f;;f;;;;;;;;;;ラパッロ;;;;;Рапалло;;;
 20718;Finale Ligure Marina;finale-ligure-marina;8304522;;8.340407;44.169243;;;IT;f;Europe/Rome;t;ITFLG;;f;;f;8300144;f;;f;;f;8304522;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19179,7 +19179,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20721;Piana Bella di Montelibretti;piana-bella-di-montelibretti;8308222;;12.632397;42.103432;;;IT;f;Europe/Rome;t;;;f;;f;8301861;f;;f;;f;8308222;t;;f;;f;;;;;;;;;;;;;;;;;;
 20722;Mestrino;mestrino;8302580;;11.77399;45.457829;;;IT;f;Europe/Rome;t;;;f;;f;8301694;f;;f;;f;8302580;t;;f;;f;;;;;;;;;;;;;;;;;;
 20723;Roma San Filippo Neri;roma-san-filippo-neri;8308328;;12.416296;41.946696;;;IT;f;Europe/Rome;t;;;f;;f;8302752;f;;f;;f;8308328;t;;f;;f;;;;;;;;;;;;;;;;;;
-20724;Roma Tuscolana;roma-tuscolana;8308408;;12.523654;41.87925;;;IT;f;Europe/Rome;t;ITRTU;;f;;f;8300429;f;;f;;f;8308408;t;;f;;f;;;;;;;;;;;;;;;;;;
+20724;Roma Tuscolana;roma-tuscolana;8308408;;12.523654;41.87925;8542;;IT;f;Europe/Rome;t;ITRTU;;f;;f;8300429;f;;f;;f;8308408;t;;f;;f;;Rome;Rome;Rom;;;Řím;Rom;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
 20725;Niscemi;niscemi;8312392;;14.403505;37.144992;;;IT;f;Europe/Rome;t;;;f;;f;8300423;f;;f;;f;8312392;t;;f;;f;;;;;;;;;;;;;;;Нишеми;;;
 20726;Mola di Bari;mola-di-bari;8311127;;17.081032;41.057376;;;IT;f;Europe/Rome;t;;;f;;f;8300279;f;;f;;f;8311127;t;;f;;f;;;;;;;;;;;;;;;;;;
 20727;Ragusa;ragusa;8312414;;14.725427;36.919209;;;IT;f;Europe/Rome;t;;;f;;f;8300336;f;;f;;f;8312414;t;;f;;f;;Raguse;;;;;;;;ラグーザ;;;;;Рагуза;;;
@@ -19198,7 +19198,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20740;Tre Croci;tre-croci;8308308;;12.08614;42.331507;;;IT;f;Europe/Rome;t;;;f;;f;8302244;f;;f;;f;8308308;t;;f;;f;;;;;;;;;;;;;;;;;;
 20741;Santo Stefano Lodigiano;santo-stefano-lodigiano;8301829;;9.723802;45.122064;;;IT;f;Europe/Rome;t;;;f;;f;8302198;f;;f;;f;8301829;t;;f;;f;;;;;;;;;;;;;;;;;;
 20742;Sezze Romano;sezze-romano;8308609;;13.038799;41.495537;;;IT;f;Europe/Rome;t;;;f;;f;8300854;f;;f;;f;8308609;t;;f;;f;;;;;;;;;;;;;;;;;;
-20743;Genova Piazza Principe Sotterranea;genova-piazza-principe-sotterranea;8304701;;8.919591;44.415548;;;IT;f;Europe/Rome;t;;;f;;f;8306200;f;;f;;f;8304701;t;;f;;f;;;;;;;;;;;;;;;;;;
+20743;Genova Piazza Principe Sotterranea;genova-piazza-principe-sotterranea;8304701;;8.919591;44.415548;8450;;IT;f;Europe/Rome;t;;;f;;f;8306200;f;;f;;f;8304701;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 20744;Bronzolo/Branzoll;bronzolo-branzoll;8302030;;11.315971;46.405121;;;IT;f;Europe/Rome;t;;;f;;f;8301245;f;;f;;f;8302030;t;;f;;f;;;;;;;;;;;;;;;;;;
 20745;Civitavecchia stazione;civitavecchia-stazione;8308010;;11.799276;42.087854;22161;;IT;t;Europe/Rome;t;ITCVV;;f;;f;8300249;f;;f;;f;8308010;t;;f;;f;;;;;;;;;;チヴィタヴェッキア;;;;;Чивитавеккья;;;
 20746;Civitella Roveto;civitella-roveto;8308852;;13.42511;41.91598;;;IT;f;Europe/Rome;t;;;f;;f;8302521;f;;f;;f;8308852;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19395,7 +19395,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20939;Filattiera;filattiera;8306165;;9.933538;44.331481;;;IT;f;Europe/Rome;t;;;f;;f;8300736;f;;f;;f;8306165;t;;f;;f;;;;;;;;;;;;;;;;;;
 20940;Manzano;manzano;8303030;;13.375472;45.987995;;;IT;f;Europe/Rome;t;;;f;;f;8301662;f;;f;;f;8303030;t;;f;;f;;;;;;;;;;;;;;;;;;
 20941;Castel Lagopesole;castel-lagopesole;8311212;;15.758063;40.787654;;;IT;f;Europe/Rome;t;;;f;;f;8302510;f;;f;;f;8311212;t;;f;;f;;;;;;;;;;;;;;;;;;
-20942;Genova Pegli;genova-pegli;8304536;;8.816871;44.426236;;;IT;f;Europe/Rome;t;ITGPE;;f;;f;8300978;f;;f;;f;8304536;t;;f;;f;;;;;;;;;;;;;;;;;;
+20942;Genova Pegli;genova-pegli;8304536;;8.816871;44.426236;8450;;IT;f;Europe/Rome;t;ITGPE;;f;;f;8300978;f;;f;;f;8304536;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 20943;Bonefro-Santa Croce;bonefro-santa-croce;8309464;;14.860346;41.710936;;;IT;f;Europe/Rome;t;;;f;;f;8302473;f;;f;;f;8309464;t;;f;;f;;;;;;;;;;;;;;;;;;
 20944;Chiusaforte;chiusaforte;8303013;;13.304925;46.407126;;;IT;f;Europe/Rome;t;ITCHF;;f;;f;8300082;f;;f;;f;8303013;t;;f;;f;;;;;;;;;;;;;;;;;;
 20945;Castelguelfo;castelguelfo;8305012;;10.176822;44.836576;;;IT;f;Europe/Rome;t;;;f;;f;8301445;f;;f;;f;8305012;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19460,7 +19460,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21005;Brescello-Viadana;brescello-viadana;8328314;;10.519;44.8981;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8328314;t;;f;;f;;;;;;;;;;;;;;;;;;
 21006;Airuno;airuno;8301515;;9.4222;45.7555;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301515;t;;f;;f;;;;;;;;;;;;;;;;;;
 21007;Alife;alife;8352007;;14.3392;41.3237;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8352007;t;;f;;f;;;;;;;;;;アリーフェ;알리페;;;;Алифе;;;阿利费
-21008;Ancona Marittima;ancona-marittima;8307116;;13.5073;43.6175;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307116;t;;f;;f;;Ancône;;;;;;;;アンコーナ;;;Ankona;;Анкона;;;安科纳
+21008;Ancona Marittima;ancona-marittima;8307116;;13.5073;43.6175;22189;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307116;t;;f;;f;;Ancône;;;;;;;;アンコーナ;;;Ankona;;Анкона;;;安科纳
 21009;Andrano Castiglione;andrano-castiglione;8341107;;18.3398318;39.9794597;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341107;t;;f;;f;;;;;;;;;;;;;;;;;;
 21010;Anela;anela;8342607;;9.056682586669922;40.442048049496236;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342607;t;;f;;f;;;;;;;;;;;;;;;;;;
 21011;Bosco Redole;bosco-redole;8309473;;14.5879;41.4593;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309473;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19500,8 +19500,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21045;Castellina in Chianti-Monteriggioni;castellina-in-chianti-monteriggioni;8306808;;11.2123;43.4087;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306808;t;;f;;f;;;;;;;;;;;;;;;;;;
 21046;Bibbiano;bibbiano;8329104;;10.4692262;44.6640627;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8329104;t;;f;;f;;;;;;;;;;;;;;;;;;
 21047;Colico;colico;8301420;;9.37529;46.138;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301420;t;;f;;f;;;;;;;;;;;;;;;;;;
-21048;Bologna San Vitale;bologna-san-vitale;8327204;;11.3728;44.4961;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327204;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
-21049;Bologna Via Larga;bologna-via-larga;8327297;;11.3925;44.4967;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327297;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21048;Bologna San Vitale;bologna-san-vitale;8327204;;11.3728;44.4961;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327204;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21049;Bologna Via Larga;bologna-via-larga;8327297;;11.3925;44.4967;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327297;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
 21050;Bolognina;bolognina;8305315;;11.144166667;44.765277778;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8305315;t;;f;;f;;;;;;;;;;;;;;;;;;
 21051;Bolotana;bolotana;8342515;;8.9624703;40.3103635;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342515;t;;f;;f;;;;;;;;;;;;;;;;;;
 21052;Bomba;bomba;8351007;;14.347729;42.032974;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8351007;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19612,9 +19612,9 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21157;Bono;bono;8342606;;9.0299928;40.4168302;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342606;t;;f;;f;;;;;;;;;;;;;;;;;;
 21158;Boretto;boretto;8328316;;10.5534;44.9034;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8328316;t;;f;;f;;;;;;;;;;;;;;;;;;
 21159;Borghetto Parmense;borghetto-parmense;8306100;;10.1176;44.8371;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306100;t;;f;;f;;;;;;;;;;;;;;;;;;
-21160;Bologna Panigale Scala;bologna-panigale-scala;8305323;;11.28467559814453;44.51511398458795;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8305323;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
-21161;Bologna Rimesse;bologna-rimesse;8327207;;11.3735;44.494;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327207;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
-21162;Bologna Santa Rita;bologna-santa-rita;8327295;;11.3835;44.4957;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327295;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21160;Bologna Panigale Scala;bologna-panigale-scala;8305323;;11.28467559814453;44.51511398458795;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8305323;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21161;Bologna Rimesse;bologna-rimesse;8327207;;11.3735;44.494;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327207;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21162;Bologna Santa Rita;bologna-santa-rita;8327295;;11.3835;44.4957;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327295;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
 21163;Castellino sul Biferno;castellino-sul-biferno;8309472;;14.6995;41.6213;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309472;t;;f;;f;;;;;;;;;;;;;;;;;;
 21164;Castellino Tanaro;castellino-tanaro;8300741;;7.98124;44.427835;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300741;t;;f;;f;;;;;;;;;;;;;;;;;;
 21165;Calciano;calciano;8311455;;16.202500000;40.594722222;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311455;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19676,7 +19676,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21221;Cesi;cesi;8335107;;12.5942234;42.5968391;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8335107;t;;f;;f;;;;;;;;;;;;;;;;;;
 21222;Ceto-Cerveno;ceto-cerveno;8326012;;10.3389946;45.9968563;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8326012;t;;f;;f;;;;;;;;;;;;;;;;;;
 21223;Chambave;chambave;8300141;;7.55718;45.7443;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300141;t;;f;;f;;;;;;;;;;;;;;;;;;
-21224;Bari Ceglie-Carbonara;bari-ceglie-carbonara;8341022;;16.871;41.0684;22157;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341022;t;;f;;f;;;;;;;;;;;;;;;;;;
+21224;Bari Ceglie-Carbonara;bari-ceglie-carbonara;8341022;;16.871;41.0684;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341022;t;;f;;f;;;;;;;;;;;;;;;;;;
 21225;Cosenza Casali;cosenza-casali;8354309;;16.2661269;39.2879852;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354309;t;;f;;f;;;;;;;;;;;;;;;;;;
 21226;Castellana Grotte;castellana-grotte;8341009;;17.1661;40.887;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341009;t;;f;;f;;;;;;;;;;カステッラーナ・グロッテ;;;;;;;;
 21227;Castellanza;castellanza;8325624;;8.87551;45.6105;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325624;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19690,8 +19690,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21235;Bellavista;bellavista;8311512;;17.176666667;40.516666667;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311512;t;;f;;f;;;;;;;;;;;;;;;;;;
 21236;Belvi-Aritzo;belvi-aritzo;8342145;;9.1826187;39.9609522;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342145;t;;f;;f;;;;;;;;;;;;;;;;;;
 21237;Benetutti-Nule;benetutti-nule;8342609;;9.167790412902832;40.456531756514906;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342609;t;;f;;f;;;;;;;;;;;;;;;;;;
-21238;Benevento Acquafredda;benevento-acquafredda;8309527;;14.803055556;41.157222222;22158;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309527;t;;f;;f;;Bénévent;;Benevent;;;;;;ベネヴェント;;;Benewent;;Беневенто;;;
-21239;Bari Sud Est;bari-sud-est;8341002;;16.8797;41.1176;22157;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341002;t;;f;;f;;;;;;;;;;;;;;;;;;
+21238;Benevento Acquafredda;benevento-acquafredda;8309527;;14.803055556;41.157222222;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309527;t;;f;;f;;Bénévent;;Benevent;;;;;;ベネヴェント;;;Benewent;;Беневенто;;;
+21239;Bari Sud Est;bari-sud-est;8341002;;16.8797;41.1176;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341002;t;;f;;f;;;;;;;;;;;;;;;;;;
 21240;Alezio;alezio;8341090;;18.0525572;40.0685245;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341090;t;;f;;f;;;;;;;;;;;;;;;;;;
 21241;Alghero;alghero;8343709;;8.32213282585144;40.57488864610283;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8343709;t;;f;;f;;;;;;;;;;;;;;;;;;
 21242;Alvignano;alvignano;8352008;;14.33786630630493;41.24683746537623;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8352008;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19710,7 +19710,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21255;Bauladu-Milis;bauladu-milis;8312875;;8.68706;40.0206;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312875;t;;f;;f;;;;;;;;;;;;;;;;;;
 21256;Milano Affori;milano-affori;8325005;;9.167452;45.521304;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325005;t;;f;;f;;;;;;;;;;;;;;;;;;
 21257;Milano Bruzzano;milano-bruzzano;8325006;;9.17275;45.5336;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325006;t;;f;;f;;;;;;;;;;;;;;;;;;
-21258;Milano Nord Cadorna;milano-nord-cadorna;8325001;;9.17529;45.4685697;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325001;t;;f;;f;;;;;;;;;;;;;;;;;;
+21258;Milano Nord Cadorna;milano-nord-cadorna;8325001;;9.17529;45.4685697;8483;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325001;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 21259;Lucera;lucera;8311000;;15.3316;41.4996;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311000;t;;f;;f;;;;;;;;;;;;;;;Лучера;;;
 21260;Lisiera;lisiera;8302530;;11.6105;45.5787;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302530;t;;f;;f;;;;;;;;;;;;;;;;;;
 21261;Stazione Lison;stazione-lison;8302663;;12.759166667;45.751666667;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302663;t;;f;;f;;Italie;Italy;Italien;Italia;Italia;;;;;;;;;;;;
@@ -19761,7 +19761,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21306;Olcenengo;olcenengo;8300244;;8.3100934;45.341505;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300244;t;;f;;f;;;;;;;;;;;;;;;;;;
 21307;Olcio;olcio;8301414;;9.31397;45.938;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301414;t;;f;;f;;;;;;;;;;;;;;;;;;
 21308;Olgiate-Calco-Brivio;olgiate-calco-brivio;8301514;;9.40368;45.7292;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301514;t;;f;;f;;;;;;;;;;;;;;;;;;
-21309;Milano San Cristoforo;milano-san-cristoforo;8301630;;9.13017;45.4425;;;IT;f;Europe/Rome;t;ITMSC;;f;;f;;f;;f;;f;8301630;t;;f;;f;;;;;;;;;;;;;;;;;;
+21309;Milano San Cristoforo;milano-san-cristoforo;8301630;;9.13017;45.4425;8483;;IT;f;Europe/Rome;t;ITMSC;;f;;f;;f;;f;;f;8301630;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 21310;Cancellara;cancellara;8354027;;15.92639923095703;40.7301369268277;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354027;t;;f;;f;;;;;;;;;;;;;;;;;;
 21311;Campochiaro;campochiaro;8309455;;14.508928;41.447524;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309455;t;;f;;f;;;;;;;;;;;;;;;;;;
 21312;Campolattaro;campolattaro;8309505;;14.726666667;41.285555556;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309505;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19788,7 +19788,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21333;Magomadas;magomadas;8342529;;8.525733947753904;40.263906841933625;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342529;t;;f;;f;;;;;;;;;;;;;;;;;;
 21334;Majano;majano;8303051;;13.0666;46.2193;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8303051;t;;f;;f;;;;;;;;;;;;;;;;;;
 21335;Olivetta San Michele;olivetta-san-michele;8304480;;7.53515;43.8784;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8304480;t;;f;;f;;;;;;;;;;;;;;;;;;
-21336;Milano Porta Genova;milano-porta-genova;8301631;;9.16957;45.4533;;;IT;f;Europe/Rome;t;ITAER;;f;;f;;f;;f;;f;8301631;t;;f;;f;;;;;;;;;;;;;;;;;;
+21336;Milano Porta Genova;milano-porta-genova;8301631;;9.16957;45.4533;8483;;IT;f;Europe/Rome;t;ITAER;;f;;f;;f;;f;;f;8301631;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 21337;Libertinia;libertinia;8312242;;14.591666667;37.545555556;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312242;t;;f;;f;;;;;;;;;;;;;;;;;;
 21338;Limone Confine;limone-confine;8300630;;7.578914165496825;44.201451050801126;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300630;t;;f;;f;;;;;;;;;;;;;;;;;;
 21339;Lioni-Valle delle Viti;lioni-valle-delle-viti;8309628;;15.207787156105042;40.878684585031216;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309628;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20113,7 +20113,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21658;;;;;;;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 21659;Fiumelatte;fiumelatte;8301412;;9.29277;45.9991;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301412;t;;f;;f;;;;;;;;;;;;;;;;;;
 21660;Fiumetorto;fiumetorto;8312015;;13.7749;37.9666;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312015;t;;f;;f;;;;;;;;;;;;;;;;;;
-21661;Firenze Cascine;firenze-cascine;8306515;;11.2278;43.7824;;;IT;f;Europe/Rome;t;ITFCA;;f;;f;;f;;f;;f;8306515;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+21661;Firenze Cascine;firenze-cascine;8306515;;11.2278;43.7824;8433;;IT;f;Europe/Rome;t;ITFCA;;f;;f;;f;;f;;f;8306515;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 21662;Gamberale;gamberale;8351003;;14.207315;41.906031;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8351003;t;;f;;f;;;;;;;;;;;;;;;;;;
 21663;Gallipoli;gallipoli;8341091;;17.9911;40.0583;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341091;t;;f;;f;;;;;;;;;;;;;;;Галлиполи;;;
 21664;Gallitello;gallitello;8312115;;12.9489;37.8579;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312115;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20360,7 +20360,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21905;San Martino In Campo-Torgiano;san-martino-in-campo-torgiano;8335160;;12.40352153778076;43.03821874579908;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8335160;t;;f;;f;;;;;;;;;;;;;;;;;;
 21906;Santa Maria Colle di Serra;santa-maria-colle-di-serra;8309531;;14.718888889;41.317500000;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309531;t;;f;;f;;;;;;;;;;;;;;;;;;
 21907;Staggia Senese;staggia-senese;8306807;;11.182777778;43.426944444;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306807;t;;f;;f;;;;;;;;;;;;;;;;;;
-21908;Bari Sant’Andrea;bari-santandrea;8311513;;16.8292;41.1056;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8311513;t;;f;;f;;;;;;;;;;;;;;;;;;
+21908;Bari Sant’Andrea;bari-santandrea;8311513;;16.8292;41.1056;22157;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8311513;t;;f;;f;;;;;;;;;;;;;;;;;;
 21909;San Massimo;san-massimo;8309452;;14.410225;41.492924;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309452;t;;f;;f;;;;;;;;;;;;;;;;;;
 21910;Cavaria-Oggiona-Ierago;cavaria-oggiona-ierago;8301210;;8.803333333;45.698333333;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301210;t;;f;;f;;;;;;;;;;;;;;;;;;
 21911;Sant’Angelo dei Lombardi;santangelo-dei-lombardi;8309615;;15.161388889;40.890277778;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309615;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20491,7 +20491,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22036;Torre De’ Picenardi;torre-de-picenardi;8301918;;10.286666667;45.136944444;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301918;t;;f;;f;;;;;;;;;;;;;;;;;;
 22037;Torre Garga;torre-garga;8354243;;16.641626358032227;39.28468899185645;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354243;t;;f;;f;;;;;;;;;;;;;;;;;;
 22038;Torre San Giorgio;torre-san-giorgio;8300545;;7.527651786804198;44.73572906737356;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300545;t;;f;;f;;;;;;;;;;;;;;;;;;
-22039;Torino Dora;torino-dora;8300224;;7.67794;45.0899;;;IT;f;Europe/Rome;t;ITABU;;f;;f;;f;;f;;f;8300224;t;;f;;f;;;;;;;;;;;;;;;;;;
+22039;Torino Dora;torino-dora;8300224;;7.67794;45.0899;8565;;IT;f;Europe/Rome;t;ITABU;;f;;f;;f;;f;;f;8300224;t;;f;;f;;Turin;Turin;Turin;;Turín;Turín;;;トリノ;토리노;Turijn;Turyn;Turim;Турин;Turin;;
 22040;San Pietro In Guarano;san-pietro-in-guarano;8354235;;16.31418764591217;39.34045452360338;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354235;t;;f;;f;;;;;;;;;;;;;;;;;;
 22041;Terlano-Andriano Terlan-Andrian;terlano-andriano-terlan-andrian;8302223;;11.248055556;46.528333333;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302223;t;;f;;f;;;;;;;;;;;;;;;;;;
 22042;Terme Vigliatore;terme-vigliatore;8312040;;15.164166667;38.133333333;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312040;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20567,7 +20567,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22112;Villa Raverio;villa-raverio;8301487;;9.26173;45.6904;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301487;t;;f;;f;;;;;;;;;;;;;;;;;;
 22113;Villa Sant’Angelo;villa-santangelo;8307419;;13.537095;42.270434;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307419;t;;f;;f;;;;;;;;;;;;;;;;;;
 22114;Zollino;zollino;8341084;;18.2372308;40.1990496;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341084;t;;f;;f;;;;;;;;;;;;;;;;;;
-22115;Venezia Asseggiano;venezia-asseggiano;8302513;;12.182;45.4974;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302513;t;;f;;f;;;;;;;;;;;;;;;;;;
+22115;Venezia Asseggiano;venezia-asseggiano;8302513;;12.182;45.4974;8573;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302513;t;;f;;f;;Venise;Venice;Venedig;;Venecia;Benátky;Venedig;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 22116;Colle Val D’Elsa;colle-val-delsa;8306840;;11.127777778;43.421666667;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306840;t;;f;;f;;;;;;;;;;;;;;;;;;
 22117;Milano Repubblica;milano-repubblica;8301663;;9.1989;45.4804;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301663;t;;f;;f;;;;;;;;;;;;;;;;;;
 22118;Milano Dateo;milano-dateo;8301665;;9.21737;45.4678;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301665;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20575,16 +20575,16 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22120;Venusio;venusio;8354010;;16.5657;40.7303;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354010;t;;f;;f;;;;;;;;;;;;;;;;;;
 22121;Villa Santa Maria;villa-santa-maria;8351005;;14.351818;41.952433;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8351005;t;;f;;f;;;;;;;;;;;;;;;;;;
 22122;Villabassa-Braies Niederdorf-Prags;villabassa-braies-niederdorf-prags;8302112;;12.166666667;46.736388889;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302112;t;;f;;f;;;;;;;;;;;;;;;;;;
-22123;Firenze Porta a Prato;firenze-porta-a-prato;8306518;;11.2378704;43.7783962;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306518;t;;f;;f;;;;;;;;;;;;;;;;;;
+22123;Firenze Porta a Prato;firenze-porta-a-prato;8306518;;11.2378704;43.7783962;8433;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306518;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 22124;Venetico;venetico;8312047;;15.3671;38.2182;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312047;t;;f;;f;;;;;;;;;;;;;;;;;;
-22125;Milano Porta Vittoria;milano-porta-vittoria;8301633;;9.22401;45.4595;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301633;t;;f;;f;;;;;;;;;;;;;;;;;;
+22125;Milano Porta Vittoria;milano-porta-vittoria;8301633;;9.22401;45.4595;8483;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301633;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 22126;Paratico Sarnico;paratico-sarnico;8301620;;9.961388889;45.662500000;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301620;t;;f;;f;;;;;;;;;;;;;;;;;;
 22127;Saronno Sud;saronno-sud;8325117;;9.0458;45.6117;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325117;t;;f;;f;;;;;;;;;;;;;;;;;;
 22128;Lido di Turbigo;lido-di-turbigo;8325759;;8.72087;45.5098;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325759;t;;f;;f;;;;;;;;;;;;;;;;;;
 22129;Ferno;ferno;8325760;;8.755245208740234;45.608543705537386;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325760;t;;f;;f;;;;;;;;;;;;;;;;;;
 22130;Gavirate Verbano;gavirate-verbano;8325763;;8.70623;45.8513;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325763;t;;f;;f;;;;;;;;;;;;;;;;;;
 22131;Abbiate Guazzone;abbiate-guazzone;8325757;;8.918709754943848;45.70196842327326;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325757;t;;f;;f;;;;;;;;;;;;;;;;;;
-22132;Milano Romolo;milano-romolo;8301032;;9.16754;45.4433;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301032;t;;f;;f;;;;;;;;;;;;;;;;;;
+22132;Milano Romolo;milano-romolo;8301032;;9.16754;45.4433;8483;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301032;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 22133;Moimacco;moimacco;8327408;;13.3732;46.0886;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327408;t;;f;;f;;;;;;;;;;;;;;;;;;
 22134;Bottenicco Zona Ind.Le;bottenicco-zona-ind-le;8327409;;13.390617370605467;46.09025759482859;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327409;t;;f;;f;;;;;;;;;;;;;;;;;;
 22135;Reggio di Calabria San Gregorio;reggio-di-calabria-san-gregorio;8311868;;15.651666667;38.061388889;22399;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311868;t;;f;;f;;Reggio de Calabre;;;;;;;;レッジョ・ディ・カラブリア;;;;;Реджо-ди-Калабрия;;;
@@ -20641,7 +20641,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22186;Palermo;palermo;8312792;;13.35789442062378;38.12074922665;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312792;t;;f;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
 22187;Pisa;pisa;8306993;;10.398817062377928;43.71089730436839;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306993;t;;f;;f;;Pise;;;;;;;;ピサ;;;Piza;;Пиза;;;
 22188;Segrate;segrate;8301715;;9.29855;45.4808;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301715;t;;f;;f;;;;;;;;;;セグラーテ;;;;;;;;
-22189;Ancona Centroide;ancona-centroide;8307120;;13.4977126121521;43.607602432787104;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307120;t;;f;;f;;;;;;;;;;;;;;;;;;
+22189;Ancona;ancona;8307120;;13.4977126121521;43.607602432787104;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307120;t;;f;;f;;;;;;;;;;;;;;;;;;
 22190;Duomo - Via Vernieri;duomo-via-vernieri;8309820;;14.762777778;40.680833333;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309820;t;;f;;f;;;;;;;;;;;;;;;;;;
 22191;Vezzola;vezzola;8329203;;10.698;44.8058;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8329203;t;;f;;f;;;;;;;;;;;;;;;;;;
 22192;Viadana Bresciana;viadana-bresciana;8301842;;10.332;45.3738;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301842;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20777,7 +20777,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22322;Marsure;marsure;8303086;;12.606425285339355;46.09236327526071;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8303086;t;;f;;f;;;;;;;;;;;;;;;;;;
 22323;Marzi;marzi;8354208;;16.30422592163086;39.16830017204048;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354208;t;;f;;f;;;;;;;;;;;;;;;;;;
 22324;Muglia;muglia;8312245;;14.7287719;37.5396258;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312245;t;;f;;f;;;;;;;;;;;;;;;;;;
-22325;Genova Marittima;genova-marittima;8316504;;8.904444444;44.405277778;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8316504;t;;f;;f;;;;;;;;;;;;;;;;;;
+22325;Genova Marittima;genova-marittima;8316504;;8.904444444;44.405277778;8450;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8316504;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 22326;Mungivacca;mungivacca;8341003;;16.9001275;41.0902247;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341003;t;;f;;f;;;;;;;;;;;;;;;;;;
 22327;Ierzu;ierzu;8342308;;9.51815128326416;39.79102830450014;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342308;t;;f;;f;;;;;;;;;;;;;;;;;;
 22328;Guarda;guarda;8327224;;11.633055556;44.615000000;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327224;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20817,7 +20817,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22362;Casarano;casarano;8341059;;18.1589071;40.0031833;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341059;t;;f;;f;;;;;;;;;;;;;;;;;;
 22363;Capodacqua-Pieve Fanonica;capodacqua-pieve-fanonica;8307215;;12.7541;43.0268;;;IT;t;Europe/Rome;t;;;f;;f;;f;;f;;f;8307215;t;;f;;f;;;;;;;;;;;;;;;;;;
 22364;Tradate;tradate;8325227;;8.90695;45.7104;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325227;t;;f;;f;;;;;;;;;;;;;;;;;;
-22365;Napoli Molo Beverello;napoli-molo-beverello;8386707;;14.254406690597532;40.83752752831728;22184;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8386707;t;;f;;f;;Naples;Naples;Neapel;;Nápoles;Neapol;;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
+22365;Napoli Molo Beverello;napoli-molo-beverello;8386707;;14.254406690597532;40.83752752831728;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8386707;t;;f;;f;;Naples;Naples;Neapel;;Nápoles;Neapol;;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 22366;Rescaldina;rescaldina;8325622;;8.94662;45.6223;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325622;t;;f;;f;;;;;;;;;;レスカルディーナ;;;;;;;;
 22367;Revere Scalo;revere-scalo;8305306;;11.129444444;45.040277778;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8305306;t;;f;;f;;;;;;;;;;;;;;;;;;
 22368;Ribera;ribera;8312608;;13.267707824707031;37.501010429493284;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312608;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20838,11 +20838,11 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22383;Salve-Ruggiano;salve-ruggiano;8341062;;18.3113147;39.8706539;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341062;t;;f;;f;;;;;;;;;;;;;;;;;;
 22384;San Lorenzo St.Lorenzen;san-lorenzo-st-lorenzen;8302016;;11.903160810470581;46.7815190242636;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302016;t;;f;;f;;;;;;;;;;;;;;;;;;
 22385;San Gennaro;san-gennaro;8308736;;12.7264;41.6746;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8308736;t;;f;;f;;;;;;;;;;;;;;;;;;
-22386;Milano Porta Garibaldi Passante;milano-porta-garibaldi-passante;8301662;;9.185000000;45.484166667;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301662;t;;f;;f;;;;;;;;;;;;;;;;;;
+22386;Milano Porta Garibaldi Passante;milano-porta-garibaldi-passante;8301662;;9.185000000;45.484166667;8483;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301662;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 22387;Napoli Molo Mergellina;napoli-molo-mergellina;8386708;;14.218626022338867;40.83158961661274;22184;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8386708;t;;f;;f;;Naples;Naples;Neapel;;Nápoles;Neapol;;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 22388;Ladispoli-Cerveteri;ladispoli-cerveteri;8308021;;12.0815;41.9534;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8308021;t;;f;;f;;;;;;;;;;;;;;;;;;
 22389;Sellia Marina;sellia-marina;8311831;;16.7647;38.9039;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311831;t;;f;;f;;;;;;;;;;;;;;;;;;
-22390;Milano Porta Venezia;milano-porta-venezia;8301664;;9.20917;45.4756;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301664;t;;f;;f;;;;;;;;;;;;;;;;;;
+22390;Milano Porta Venezia;milano-porta-venezia;8301664;;9.20917;45.4756;8483;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301664;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 22391;Remedello Sopra;remedello-sopra;8301845;;10.379;45.2785;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301845;t;;f;;f;;;;;;;;;;;;;;;;;;
 22392;Baggiovara;baggiovara;8330005;;10.862045288085938;44.59936000096433;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8330005;t;;f;;f;;;;;;;;;;;;;;;;;;
 22393;Soleto;soleto;8341085;;18.2110848;40.1858346;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341085;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20899,7 +20899,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22444;Reggio di Calabria Bocale;reggio-di-calabria-bocale;8311866;;15.638888889;38.004166667;22399;;IT;f;Europe/Rome;t;ITAXZ;;f;;f;;f;;f;;f;8311866;t;;f;;f;;Reggio de Calabre;;;;;;;;レッジョ・ディ・カラブリア;;;;;Реджо-ди-Калабрия;;;
 22445;Milano Nord Domodossola;milano-nord-domodossola;8325750;;9.16183590888977;45.48147576906232;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325750;t;;f;;f;;;;;;;;;;;;;;;;;;
 22446;Milano Nord Bovisa;milano-nord-bovisa;8301642;;9.159166667;45.502777778;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301642;t;;f;;f;;;;;;;;;;;;;;;;;;
-22447;Milano Porta Romana;milano-porta-romana;8301632;;9.21314;45.4459;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301632;t;;f;;f;;;;;;;;;;;;;;;;;;
+22447;Milano Porta Romana;milano-porta-romana;8301632;;9.21314;45.4459;8483;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301632;t;;f;;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 22448;Dolianova-Serdiana;dolianova-serdiana;8342108;;9.16889;39.3767;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342108;t;;f;;f;;;;;;;;;;;;;;;;;;
 22449;Ponte D’Arbia;ponte-darbia;8306873;;11.4570864;43.1614206;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306873;t;;f;;f;;;;;;;;;;;;;;;;;;
 22450;Gesso;gesso;8312051;;7.555868625640869;44.394258542983614;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312051;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -21463,7 +21463,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23018;Auch Hôpital;auch-hopital;8766846;;0.57897;43.63068;;f;FR;f;Europe/Paris;t;FRLJX;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23019;Flughafen Wien;flughafen-wien;8102924;;16.563056;48.120833;;f;AT;f;Europe/Berlin;t;;;f;;f;8100353;t;;f;;f;;f;;f;;f;;Vienne Aéroport;Vienna Airport;;Vienna Aeroporto;Viena Aeropuerto;;;;;;;;;;;;
 23020;La Barasse;la-barasse;8763558;87635581;5.4845101;43.2858384;4790;f;FR;f;Europe/Paris;t;FRSSA;;t;;f;;f;;f;;f;;f;;f;;f;;Marseille;Marseille;Marseille;Marsiglia;Marsella;Marseille;Marseille;Marseille;マルセイユ;마르세유;Marseille;Marsylia;Marselha;Марсель;Marseille;Marsilya;马赛
-23021;bari-policlinico;bari-policlinico;8311517;;16.855000000;41.109444444;22157;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8311517;f;;f;;f;;;;;;;;;;;;;;;;;;
+23021;bari-policlinico;bari-policlinico;8311517;;16.855000000;41.109444444;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8311517;f;;f;;f;;;;;;;;;;;;;;;;;;
 23022;Torino di Sangro-Paglieta;torino-di-sangro-paglieta;8307820;;14.552500000;42.228055556;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8307820;f;;f;;f;;;;;;;;;;;;;;;;;;
 23023;Villabate-Ficarazzelli;villabate-ficarazzelli;8312006;;13.451388889;38.086388889;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8312006;f;;f;;f;;;;;;;;;;;;;;;;;;
 23024;Torino Smistamento Nord;torino-smistamento-nord;8300450;;7.666666667;45.033333333;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8300450;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -21478,7 +21478,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23033;Indicatore;indicatore;8306914;;11.803055556;43.479722222;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8306914;f;;f;;f;;;;;;;;;;;;;;;;;;
 23034;Livorno Calambrone;livorno-calambrone;8306724;;10.324722222;43.580555556;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8306724;f;;f;;f;;;;;;;;;;;;;;;;;;
 23035;Alseno;alseno;8305008;;9.990833333;44.892777778;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8305008;f;;f;;f;;;;;;;;;;;;;;;;;;
-23036;Bari San Giorgio;bari-san-giorgio;8311150;;16.949722222;41.097222222;22157;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8311150;f;;f;;f;;;;;;;;;;;;;;;;;;
+23036;Bari San Giorgio;bari-san-giorgio;8311150;;16.949722222;41.097222222;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8311150;f;;f;;f;;;;;;;;;;;;;;;;;;
 23037;Margherita di Savoia-Ofantino;margherita di savoia-ofantino;8311107;;16.135833333;41.343055556;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8311107;f;;f;;f;;;;;;;;;;;;;;;;;;
 23038;Le Mans Porte Océane;Le-mans-porte-oceane;;;0.17077624797821045;48.04957240819931;172;f;FR;f;Europe/Paris;f;;;f;;f;;f;XMS;t;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 23039;Tannheim (Württ) Busbahnhof;tannheim-wurtt-busbahnhof;;;10.09735;47.99484;13578;f;DE;f;Europe/Berlin;f;;;f;;f;802121;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
