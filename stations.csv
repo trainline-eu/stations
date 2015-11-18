@@ -18498,7 +18498,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20038;Hone-Bard;hone-bard;8300147;;7.741492;45.613873;;;IT;f;Europe/Rome;t;;;f;;f;8301599;f;;f;;f;8300147;t;;f;;f;;;;;;;;;;;;;;;;;;
 20039;Igea Marina;igea-marina;8305818;;12.482852;44.130653;;;IT;f;Europe/Rome;t;;;f;;f;8300203;f;;f;;f;8305818;t;;f;;f;;;;;;;;;;;;;;;;;;
 20040;Il Neto;il-neto;8306424;;11.182733;43.839726;;;IT;f;Europe/Rome;t;;;f;;f;8301604;f;;f;;f;8306424;t;;f;;f;;;;;;;;;;;;;;;;;;
-20041;Imperatore Federico;imperatore-federico;8312136;;13.349107;38.145248;;;IT;f;Europe/Rome;t;;;f;;f;8302533;f;;f;;f;8312136;t;;f;;f;;;;;;;;;;;;;;;;;;
+20041;Imperatore Federico;imperatore-federico;8312136;;13.349107;38.145248;22186;;IT;f;Europe/Rome;t;;;f;;f;8302533;f;;f;;f;8312136;t;;f;;f;;Palerme;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;パレルモ;Palermo;Palermo;Palermo;Palermo;Палермо;Palermo;Palermo;巴勒莫市
 20042;Este;este;8302396;;11.662919;45.220954;;;IT;f;Europe/Rome;t;;;f;;f;8300684;f;;f;;f;8302396;t;;f;;f;;;;;;;;;;エステ;;;;;Эсте;;;埃斯泰
 20043;Nera Montoro;nera-montoro;8307229;;12.476632;42.497951;;;IT;f;Europe/Rome;t;;;f;;f;8301809;f;;f;;f;8307229;t;;f;;f;;;;;;;;;;;;;;;;;;
 20044;Nettuno;nettuno;8308710;;12.662106;41.459571;;;IT;f;Europe/Rome;t;;;f;;f;8302607;f;;f;;f;8308710;t;;f;;f;;;;;;;;;;ネットゥーノ;네투노;;;;Неттуно;;;聶圖諾
@@ -18542,8 +18542,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20082;Ghemme;ghemme;8300110;;8.417813;45.595742;;;IT;f;Europe/Rome;t;;;f;;f;8301562;f;;f;;f;8300110;t;;f;;f;;;;;;;;;;;;;;;;;;
 20083;Ghislarengo;ghislarengo;8300974;;8.379222;45.526147;;;IT;f;Europe/Rome;t;;;f;;f;8301560;f;;f;;f;8300974;t;;f;;f;;;;;;;;;;;;;;;;;;
 20084;Ghivizzano-Coreglia;ghivizzano-coreglia;8306306;;10.510691;44.02743;;;IT;f;Europe/Rome;t;;;f;;f;8300751;f;;f;;f;8306306;t;;f;;f;;;;;;;;;;;;;;;;;;
-20086;Giachery;giachery;8312138;;13.358069;38.135243;;;IT;f;Europe/Rome;t;;;f;;f;8302551;f;;f;;f;8312138;t;;f;;f;;;;;;;;;;;;;;;;;;
 20085;Genova Quarto dei Mille;genova-quarto-dei-mille;8304704;;8.995793;44.38858;8450;;IT;f;Europe/Rome;t;ITAKB;;f;;f;8300981;f;;f;;f;8304704;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
+20086;Giachery;giachery;8312138;;13.358069;38.135243;22186;;IT;f;Europe/Rome;t;;;f;;f;8302551;f;;f;;f;8312138;t;;f;;f;;Palerme;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;パレルモ;Palermo;Palermo;Palermo;Palermo;Палермо;Palermo;Palermo;巴勒莫市
 20087;Genova Rivarolo;genova-rivarolo;8304219;;8.890942;44.436205;8450;;IT;f;Europe/Rome;t;;;f;;f;8300983;f;;f;;f;8304219;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 20088;Genova Sampierdarena;genova-sampierdarena;8304220;;8.887248;44.412869;8450;;IT;f;Europe/Rome;t;ITGSA;;f;;f;8300158;f;;f;;f;8304220;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
 20089;Genova Sestri Ponente;genova-sestri-ponente;8304537;;8.847956;44.422326;8450;;IT;f;Europe/Rome;t;ITAKF;;f;;f;8300408;f;;f;;f;8304537;t;;f;;f;;Gênes;Genoa;Genua;;;Janov;;;ジェノヴァ;제노바;Genua;Genua;;Генуя;Genua;Cenova;
@@ -19164,7 +19164,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20706;Cusano;cusano;8302700;;12.757329;45.945458;;;IT;f;Europe/Rome;t;;;f;;f;8300629;f;;f;;f;8302700;t;;f;;f;;;;;;;;;;;;;;;;;;
 20707;Ploaghe;ploaghe;8312816;;8.728067;40.661356;;;IT;f;Europe/Rome;t;;;f;;f;8301906;f;;f;;f;8312816;t;;f;;f;;;;;;;;;;;;;;;;;;
 20708;Giarre-Riposto;giarre-riposto;8312324;;15.193567;37.730207;;;IT;f;Europe/Rome;t;ITAXJ;;f;;f;8300311;f;;f;;f;8312324;t;;f;;f;;;;;;;;;;;;;;;;;;
-20709;Fiera;fiera;8312137;;13.35361;38.141032;;;IT;f;Europe/Rome;t;;;f;;f;8302534;f;;f;;f;8312137;t;;f;;f;;;;;;;;;;;;;;;;;;
+20709;Fiera;fiera;8312137;;13.35361;38.141032;22186;;IT;f;Europe/Rome;t;;;f;;f;8302534;f;;f;;f;8312137;t;;f;;f;;Palerme;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;Palermo;パレルモ;Palermo;Palermo;Palermo;Palermo;Палермо;Palermo;Palermo;巴勒莫市
 20710;Filiano;filiano;8311211;;15.752319;40.837194;;;IT;f;Europe/Rome;t;;;f;;f;8302536;f;;f;;f;8311211;t;;f;;f;;;;;;;;;;;;;;;;;;
 20711;Marano Ticino;marano-ticino;8300983;;8.626471;45.629424;;;IT;f;Europe/Rome;t;;;f;;f;8301661;f;;f;;f;8300983;t;;f;;f;;;;;;;;;;;;;;;;;;
 20712;Castel Gandolfo;castel-gandolfo;8308703;;12.65229;41.746902;;;IT;f;Europe/Rome;t;;;f;;f;8302509;f;;f;;f;8308703;t;;f;;f;;;;;;;;;;;;;;;;;;
