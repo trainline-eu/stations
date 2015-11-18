@@ -18948,7 +18948,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20489;Volterra Saline-Pomarance;volterra-saline-pomarance;8306753;;10.809924;43.36034;;;IT;f;Europe/Rome;t;;;f;;f;8300748;f;;f;;f;8306753;t;;f;;f;;;;;;;;;;;;;;;;;;
 20490;Zagarolo;zagarolo;8308652;;12.826932;41.821836;;;IT;f;Europe/Rome;t;;;f;;f;8301022;f;;f;;f;8308652;t;;f;;f;;;;;;;;;;ザガローロ;;;;;;;;
 20491;Zambra;zambra;8306425;;11.205952;43.825918;;;IT;f;Europe/Rome;t;;;f;;f;8302377;f;;f;;f;8306425;t;;f;;f;;;;;;;;;;;;;;;;;;
-20492;Rimini Fiera;rimini-fiera;8305070;;12.487535;44.084385;22533;;IT;f;Europe/Rome;t;ITRIM;;f;;f;8361210;f;;f;;f;8305070;t;;f;;f;;;;;;;;;;リミニ;;;;;Римини;;;
+20492;Rimini Fiera;rimini-fiera;8305070;;12.487535;44.084385;;;IT;f;Europe/Rome;t;ITRIM;;f;;f;8361210;f;;f;;f;8305070;t;;f;;f;;;;;;;;;;リミニ;;;;;Римини;;;
 20493;Venafro;venafro;8309060;;14.048863;41.482673;;;IT;f;Europe/Rome;t;;;f;;f;8302723;f;;f;;f;8309060;t;;f;;f;;;;;;;;;;;;;;;;;;
 20494;Zambrone;zambrone;8311758;;15.976114;38.712809;;;IT;f;Europe/Rome;t;;;f;;f;8301054;f;;f;;f;8311758;t;;f;;f;;;;;;;;;;;;;;;;;;
 20495;Ipogeo degli Ottavi;ipogeo-degli-ottavi;8308331;;12.408871;41.968711;;;IT;f;Europe/Rome;t;;;f;;f;8302831;f;;f;;f;8308331;t;;f;;f;;;;;;;;;;;;;;;;;;
