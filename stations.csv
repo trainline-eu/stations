@@ -17608,7 +17608,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19142;Amendolara-Oriolo;amendolara-oriolo;8311807;;16.602941;39.93385;;;IT;f;Europe/Rome;t;;;f;;f;8301147;f;;f;;f;8311807;t;;f;;f;;;;;;;;;;;;;;;;;;
 19143;Amorosi Melizzano;amorosi-melizzano;8309306;;14.479257;41.192798;;;IT;f;Europe/Rome;t;;;f;;f;8300873;f;;f;;f;8309306;t;;f;;f;;;;;;;;;;;;;;;;;;
 19144;Anagni-Fiuggi;anagni-fiuggi;8308658;;13.095988;41.710316;;;IT;f;Europe/Rome;t;;;f;;f;8301122;f;;f;;f;8308658;t;;f;;f;;;;;;;;;;;;;;;;;;
-19145;Ancona;ancona;8307113;;13.497797;43.607597;;t;IT;t;Europe/Rome;t;ITAOI;;f;;f;8300186;f;;f;;f;8307113;t;FF_;f;;f;;Ancône;;;;;;;;アンコーナ;;;Ankona;;Анкона;;;安科纳
+19145;Ancona stazione;ancona-stazione;8307113;;13.497797;43.607597;22189;t;IT;t;Europe/Rome;t;ITAOI;;f;;f;8300186;f;;f;;f;8307113;t;FF_;f;;f;;Ancône;;;;;;;;アンコーナ;;;Ankona;;Анкона;;;安科纳
 19146;Aragona-Caldare;aragona-caldare;8312370;;13.63686;37.381057;;;IT;f;Europe/Rome;t;;;f;;f;8300300;f;;f;;f;8312370;t;;f;;f;;;;;;;;;;;;;;;;;;
 19147;Arbia;arbia;8306811;;11.406151;43.29444;;;IT;f;Europe/Rome;t;;;f;;f;8301151;f;;f;;f;8306811;t;;f;;f;;;;;;;;;;;;;;;;;;
 19148;Arce;arce;8308861;;13.572551;41.583442;;;IT;f;Europe/Rome;t;;;f;;f;8302457;f;;f;;f;8308861;t;;f;;f;;;;;;;;;;アルチェ;;;;;Арче;;;阿尔切
@@ -19460,7 +19460,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21005;Brescello-Viadana;brescello-viadana;8328314;;10.519;44.8981;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8328314;t;;f;;f;;;;;;;;;;;;;;;;;;
 21006;Airuno;airuno;8301515;;9.4222;45.7555;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301515;t;;f;;f;;;;;;;;;;;;;;;;;;
 21007;Alife;alife;8352007;;14.3392;41.3237;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8352007;t;;f;;f;;;;;;;;;;アリーフェ;알리페;;;;Алифе;;;阿利费
-21008;Ancona Marittima;ancona-marittima;8307116;;13.5073;43.6175;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307116;t;;f;;f;;Ancône;;;;;;;;アンコーナ;;;Ankona;;Анкона;;;安科纳
+21008;Ancona Marittima;ancona-marittima;8307116;;13.5073;43.6175;22189;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307116;t;;f;;f;;Ancône;;;;;;;;アンコーナ;;;Ankona;;Анкона;;;安科纳
 21009;Andrano Castiglione;andrano-castiglione;8341107;;18.3398318;39.9794597;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341107;t;;f;;f;;;;;;;;;;;;;;;;;;
 21010;Anela;anela;8342607;;9.056682586669922;40.442048049496236;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342607;t;;f;;f;;;;;;;;;;;;;;;;;;
 21011;Bosco Redole;bosco-redole;8309473;;14.5879;41.4593;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309473;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20641,7 +20641,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22186;Palermo;palermo;8312792;;13.35789442062378;38.12074922665;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312792;t;;f;;f;;Palerme;;;;;;;;パレルモ;;;;;Палермо;;;巴勒莫市
 22187;Pisa;pisa;8306993;;10.398817062377928;43.71089730436839;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306993;t;;f;;f;;Pise;;;;;;;;ピサ;;;Piza;;Пиза;;;
 22188;Segrate;segrate;8301715;;9.29855;45.4808;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301715;t;;f;;f;;;;;;;;;;セグラーテ;;;;;;;;
-22189;Ancona Centroide;ancona-centroide;8307120;;13.4977126121521;43.607602432787104;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307120;t;;f;;f;;;;;;;;;;;;;;;;;;
+22189;Ancona;ancona;8307120;;13.4977126121521;43.607602432787104;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307120;t;;f;;f;;;;;;;;;;;;;;;;;;
 22190;Duomo - Via Vernieri;duomo-via-vernieri;8309820;;14.762777778;40.680833333;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309820;t;;f;;f;;;;;;;;;;;;;;;;;;
 22191;Vezzola;vezzola;8329203;;10.698;44.8058;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8329203;t;;f;;f;;;;;;;;;;;;;;;;;;
 22192;Viadana Bresciana;viadana-bresciana;8301842;;10.332;45.3738;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301842;t;;f;;f;;;;;;;;;;;;;;;;;;
