@@ -20817,7 +20817,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22362;Casarano;casarano;8341059;;18.1589071;40.0031833;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341059;t;;f;;f;;;;;;;;;;;;;;;;;;
 22363;Capodacqua-Pieve Fanonica;capodacqua-pieve-fanonica;8307215;;12.7541;43.0268;;;IT;t;Europe/Rome;t;;;f;;f;;f;;f;;f;8307215;t;;f;;f;;;;;;;;;;;;;;;;;;
 22364;Tradate;tradate;8325227;;8.90695;45.7104;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325227;t;;f;;f;;;;;;;;;;;;;;;;;;
-22365;Napoli Molo Beverello;napoli-molo-beverello;8386707;;14.254406690597532;40.83752752831728;22184;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8386707;t;;f;;f;;Naples;Naples;Neapel;;Nápoles;Neapol;;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
+22365;Napoli Molo Beverello;napoli-molo-beverello;8386707;;14.254406690597532;40.83752752831728;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8386707;t;;f;;f;;Naples;Naples;Neapel;;Nápoles;Neapol;;Nápoly;ナポリ;나폴리;Napels;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 22366;Rescaldina;rescaldina;8325622;;8.94662;45.6223;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325622;t;;f;;f;;;;;;;;;;レスカルディーナ;;;;;;;;
 22367;Revere Scalo;revere-scalo;8305306;;11.129444444;45.040277778;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8305306;t;;f;;f;;;;;;;;;;;;;;;;;;
 22368;Ribera;ribera;8312608;;13.267707824707031;37.501010429493284;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312608;t;;f;;f;;;;;;;;;;;;;;;;;;
