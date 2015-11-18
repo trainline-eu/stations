@@ -19500,8 +19500,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21045;Castellina in Chianti-Monteriggioni;castellina-in-chianti-monteriggioni;8306808;;11.2123;43.4087;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306808;t;;f;;f;;;;;;;;;;;;;;;;;;
 21046;Bibbiano;bibbiano;8329104;;10.4692262;44.6640627;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8329104;t;;f;;f;;;;;;;;;;;;;;;;;;
 21047;Colico;colico;8301420;;9.37529;46.138;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301420;t;;f;;f;;;;;;;;;;;;;;;;;;
-21048;Bologna San Vitale;bologna-san-vitale;8327204;;11.3728;44.4961;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327204;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
-21049;Bologna Via Larga;bologna-via-larga;8327297;;11.3925;44.4967;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327297;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21048;Bologna San Vitale;bologna-san-vitale;8327204;;11.3728;44.4961;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327204;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21049;Bologna Via Larga;bologna-via-larga;8327297;;11.3925;44.4967;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327297;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
 21050;Bolognina;bolognina;8305315;;11.144166667;44.765277778;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8305315;t;;f;;f;;;;;;;;;;;;;;;;;;
 21051;Bolotana;bolotana;8342515;;8.9624703;40.3103635;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342515;t;;f;;f;;;;;;;;;;;;;;;;;;
 21052;Bomba;bomba;8351007;;14.347729;42.032974;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8351007;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19612,9 +19612,9 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21157;Bono;bono;8342606;;9.0299928;40.4168302;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342606;t;;f;;f;;;;;;;;;;;;;;;;;;
 21158;Boretto;boretto;8328316;;10.5534;44.9034;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8328316;t;;f;;f;;;;;;;;;;;;;;;;;;
 21159;Borghetto Parmense;borghetto-parmense;8306100;;10.1176;44.8371;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306100;t;;f;;f;;;;;;;;;;;;;;;;;;
-21160;Bologna Panigale Scala;bologna-panigale-scala;8305323;;11.28467559814453;44.51511398458795;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8305323;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
-21161;Bologna Rimesse;bologna-rimesse;8327207;;11.3735;44.494;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327207;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
-21162;Bologna Santa Rita;bologna-santa-rita;8327295;;11.3835;44.4957;22159;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327295;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21160;Bologna Panigale Scala;bologna-panigale-scala;8305323;;11.28467559814453;44.51511398458795;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8305323;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21161;Bologna Rimesse;bologna-rimesse;8327207;;11.3735;44.494;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327207;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
+21162;Bologna Santa Rita;bologna-santa-rita;8327295;;11.3835;44.4957;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8327295;t;;f;;f;;Bologne;;;;Bolonia;;;;ボローニャ;볼로냐;;Bolonia;Bolonha;Болонья;;Bolonya;博洛尼亚
 21163;Castellino sul Biferno;castellino-sul-biferno;8309472;;14.6995;41.6213;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309472;t;;f;;f;;;;;;;;;;;;;;;;;;
 21164;Castellino Tanaro;castellino-tanaro;8300741;;7.98124;44.427835;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300741;t;;f;;f;;;;;;;;;;;;;;;;;;
 21165;Calciano;calciano;8311455;;16.202500000;40.594722222;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311455;t;;f;;f;;;;;;;;;;;;;;;;;;
