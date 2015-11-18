@@ -18180,11 +18180,11 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19719;Gatteo a Mare;gatteo-a-mare;8305816;;12.432333;44.170556;;;IT;f;Europe/Rome;t;;;f;;f;8300405;f;;f;;f;8305816;t;;f;;f;;;;;;;;;;;;;;;;;;
 19720;Rometta-Messinese;rometta-messinese;8312049;;15.405865;38.228434;;;IT;f;Europe/Rome;t;;;f;;f;8300917;f;;f;;f;8312049;t;;f;;f;;;;;;;;;;;;;;;;;;
 19721;Roncegno Bagni-Marter;roncegno-bagni-marter;8302312;;11.398501;46.03597;;;IT;f;Europe/Rome;t;;;f;;f;8300579;f;;f;;f;8302312;t;;f;;f;;;;;;;;;;;;;;;;;;
-19722;Roma Prenestina;roma-prenestina;8308500;;12.545974;41.897777;;;IT;f;Europe/Rome;t;;;f;;f;8300566;f;;f;;f;8308500;t;;f;;f;;;;;;;;;;;;;;;;;;
+19722;Roma Prenestina;roma-prenestina;8308500;;12.545974;41.897777;8542;;IT;f;Europe/Rome;t;;;f;;f;8300566;f;;f;;f;8308500;t;;f;;f;;Rome;Rome;Rom;;;Řím;Rom;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
 19723;Ronciglione;ronciglione;8308109;;12.218758;42.281994;;;IT;f;Europe/Rome;t;;;f;;f;8302003;f;;f;;f;8308109;t;;f;;f;;;;;;;;;;;;;;;;;;
 19724;Ronta;ronta;8306606;;11.431528;44.00653;;;IT;f;Europe/Rome;t;;;f;;f;8302041;f;;f;;f;8306606;t;;f;;f;;;;;;;;;;;;;;;;;;
 19725;Rosa;rosa;8302521;;11.775761;45.720548;;;IT;f;Europe/Rome;t;;;f;;f;8300707;f;;f;;f;8302521;t;;f;;f;;;;;;;;;;;;;;;;;;
-19726;Roma Trastevere;roma-trastevere;8308405;;12.46615;41.872356;;;IT;f;Europe/Rome;t;ITRTV;;f;;f;8300479;f;;f;;f;8308405;t;;f;;f;;;;;;;;;;;;;;;;;;
+19726;Roma Trastevere;roma-trastevere;8308405;;12.46615;41.872356;8542;;IT;f;Europe/Rome;t;ITRTV;;f;;f;8300479;f;;f;;f;8308405;t;;f;;f;;Rome;Rome;Rom;;;Řím;Rom;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
 19727;Roseto degli Abruzzi;roseto-degli-abruzzi;8307804;;14.015225;42.677807;;;IT;f;Europe/Rome;t;;;f;;f;8300560;f;;f;;f;8307804;t;;f;;f;;;;;;;;;;;;;;;;;;
 19728;Pozzuoli Solfatara;pozzuoli-solfatara;8309101;;14.126161;40.827566;;;IT;f;Europe/Rome;t;;;f;;f;8302643;f;;f;;f;8309101;t;;f;;f;;;;;;;;;;;;;;;;;;
 19729;Pracchia;pracchia;8305113;;10.907223;44.055035;;;IT;f;Europe/Rome;t;;;f;;f;8300740;f;;f;;f;8305113;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -19179,7 +19179,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20721;Piana Bella di Montelibretti;piana-bella-di-montelibretti;8308222;;12.632397;42.103432;;;IT;f;Europe/Rome;t;;;f;;f;8301861;f;;f;;f;8308222;t;;f;;f;;;;;;;;;;;;;;;;;;
 20722;Mestrino;mestrino;8302580;;11.77399;45.457829;;;IT;f;Europe/Rome;t;;;f;;f;8301694;f;;f;;f;8302580;t;;f;;f;;;;;;;;;;;;;;;;;;
 20723;Roma San Filippo Neri;roma-san-filippo-neri;8308328;;12.416296;41.946696;;;IT;f;Europe/Rome;t;;;f;;f;8302752;f;;f;;f;8308328;t;;f;;f;;;;;;;;;;;;;;;;;;
-20724;Roma Tuscolana;roma-tuscolana;8308408;;12.523654;41.87925;;;IT;f;Europe/Rome;t;ITRTU;;f;;f;8300429;f;;f;;f;8308408;t;;f;;f;;;;;;;;;;;;;;;;;;
+20724;Roma Tuscolana;roma-tuscolana;8308408;;12.523654;41.87925;8542;;IT;f;Europe/Rome;t;ITRTU;;f;;f;8300429;f;;f;;f;8308408;t;;f;;f;;Rome;Rome;Rom;;;Řím;Rom;;ローマ;로마;Rome;Rzym;;Рим;Rom;;罗马市
 20725;Niscemi;niscemi;8312392;;14.403505;37.144992;;;IT;f;Europe/Rome;t;;;f;;f;8300423;f;;f;;f;8312392;t;;f;;f;;;;;;;;;;;;;;;Нишеми;;;
 20726;Mola di Bari;mola-di-bari;8311127;;17.081032;41.057376;;;IT;f;Europe/Rome;t;;;f;;f;8300279;f;;f;;f;8311127;t;;f;;f;;;;;;;;;;;;;;;;;;
 20727;Ragusa;ragusa;8312414;;14.725427;36.919209;;;IT;f;Europe/Rome;t;;;f;;f;8300336;f;;f;;f;8312414;t;;f;;f;;Raguse;;;;;;;;ラグーザ;;;;;Рагуза;;;
