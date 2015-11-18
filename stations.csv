@@ -18975,7 +18975,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20516;Travedona-Biandronno;travedona-biandronno;8301142;;8.700524;45.799383;;;IT;f;Europe/Rome;t;;;f;;f;8302237;f;;f;;f;8301142;t;;f;;f;;;;;;;;;;;;;;;;;;
 20517;Roviano;roviano;8308515;;12.991336;42.026503;;;IT;f;Europe/Rome;t;;;f;;f;8302051;f;;f;;f;8308515;t;;f;;f;;;;;;;;;;ロヴィアーノ;;;;;;;;
 20518;Rovigo;rovigo;8305706;;11.781064;45.076983;;;IT;f;Europe/Rome;t;ITBGP;;f;;f;8300238;f;;f;;f;8305706;t;;f;;f;;;;;;;;;;ロヴィーゴ;;;;;Ровиго;;;
-20519;Venezia Porto Marghera;venezia-porto-marghera;8302592;;12.256027;45.472589;;;IT;f;Europe/Rome;t;;;f;;f;8302355;f;;f;;f;8302592;t;;f;;f;;;;;;;;;;;;;;;;;;
+20519;Venezia Porto Marghera;venezia-porto-marghera;8302592;;12.256027;45.472589;8573;;IT;f;Europe/Rome;t;;;f;;f;8302355;f;;f;;f;8302592;t;;f;;f;;Venise;Venice;Venedig;;Venecia;Benátky;Venedig;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 20520;Venosa-Maschito;venosa-maschito;8311302;;15.84195;40.979997;;;IT;f;Europe/Rome;t;;;f;;f;8302724;f;;f;;f;8311302;t;;f;;f;;;;;;;;;;;;;;;;;;
 20521;Villa San Giovanni;villa-san-giovanni;8311774;;15.634003;38.219733;;;IT;f;Europe/Rome;t;;;f;;f;8300342;f;;f;;f;8311774;t;;f;;f;;;;;;;;;;;;;;;;;;
 20522;Villa San Giovanni-Cannitello;villa-san-giovanni-cannitello;8311773;;15.653653;38.234376;;;IT;f;Europe/Rome;t;;;f;;f;8301075;f;;f;;f;8311773;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20567,7 +20567,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22112;Villa Raverio;villa-raverio;8301487;;9.26173;45.6904;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301487;t;;f;;f;;;;;;;;;;;;;;;;;;
 22113;Villa Sant’Angelo;villa-santangelo;8307419;;13.537095;42.270434;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307419;t;;f;;f;;;;;;;;;;;;;;;;;;
 22114;Zollino;zollino;8341084;;18.2372308;40.1990496;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341084;t;;f;;f;;;;;;;;;;;;;;;;;;
-22115;Venezia Asseggiano;venezia-asseggiano;8302513;;12.182;45.4974;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302513;t;;f;;f;;;;;;;;;;;;;;;;;;
+22115;Venezia Asseggiano;venezia-asseggiano;8302513;;12.182;45.4974;8573;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302513;t;;f;;f;;Venise;Venice;Venedig;;Venecia;Benátky;Venedig;Velence;ヴェネツィア;베네치아;Venetië;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 22116;Colle Val D’Elsa;colle-val-delsa;8306840;;11.127777778;43.421666667;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306840;t;;f;;f;;;;;;;;;;;;;;;;;;
 22117;Milano Repubblica;milano-repubblica;8301663;;9.1989;45.4804;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301663;t;;f;;f;;;;;;;;;;;;;;;;;;
 22118;Milano Dateo;milano-dateo;8301665;;9.21737;45.4678;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301665;t;;f;;f;;;;;;;;;;;;;;;;;;
