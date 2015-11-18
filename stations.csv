@@ -7010,7 +7010,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8424;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8425;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8426;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-8427;Firenze Campo di Marte;firenze-campo-di-marte;8306900;;11.27659;43.777574;;;IT;f;Europe/Rome;t;ITFCM;;f;;f;8300180;f;;f;;f;8306900;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+8427;Firenze Campo di Marte;firenze-campo-di-marte;8306900;;11.27659;43.777574;8433;;IT;f;Europe/Rome;t;ITFCM;;f;;f;8300180;f;;f;;f;8306900;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 8428;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8429;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 8430;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
@@ -18452,13 +18452,13 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19992;Fagnano-Campana;fagnano-campana;8307420;;13.567796;42.248554;;;IT;f;Europe/Rome;t;;;f;;f;8300795;f;;f;;f;8307420;t;;f;;f;;;;;;;;;;;;;;;;;;
 19993;Dossobuono;dossobuono;8302330;;10.914621;45.392154;;;IT;f;Europe/Rome;t;;;f;;f;8300685;f;;f;;f;8302330;t;;f;;f;;;;;;;;;;;;;;;;;;
 19994;Druogno;druogno;8314002;;8.433913;46.133153;;;IT;f;Europe/Rome;t;;;f;;f;8302809;f;;f;;f;8314002;t;;f;;f;;;;;;;;;;;;;;;;;;
-19995;Firenze Rovezzano;firenze-rovezzano;8306901;;11.308699;43.768855;;;IT;f;Europe/Rome;t;;;f;;f;8302795;f;;f;;f;8306901;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
-19996;Firenze Statuto;firenze-statuto;8306430;;11.249703;43.787319;;;IT;f;Europe/Rome;t;;;f;;f;8301531;f;;f;;f;8306430;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+19995;Firenze Rovezzano;firenze-rovezzano;8306901;;11.308699;43.768855;8433;;IT;f;Europe/Rome;t;;;f;;f;8302795;f;;f;;f;8306901;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+19996;Firenze Statuto;firenze-statuto;8306430;;11.249703;43.787319;8433;;IT;f;Europe/Rome;t;;;f;;f;8301531;f;;f;;f;8306430;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 19997;Fisciano;fisciano;8309519;;14.77565;40.761082;;;IT;f;Europe/Rome;t;;;f;;f;8302537;f;;f;;f;8309519;t;;f;;f;;;;;;;;;;;;;;;;;;
 19998;Nozzano;nozzano;8306351;;10.407935;43.830026;;;IT;f;Europe/Rome;t;;;f;;f;8301814;f;;f;;f;8306351;t;;f;;f;;;;;;;;;;;;;;;;;;
 19999;Fiorenzuola;fiorenzuola;8305007;;9.916827;44.929021;;;IT;f;Europe/Rome;t;;;f;;f;8300235;f;;f;;f;8305007;t;;f;;f;;;;;;;;;;;;;;;;;;
 20000;;;;;;;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
-20001;Firenze Castello;firenze-castello;8306419;;11.218313;43.8195;;;IT;f;Europe/Rome;t;;;f;;f;8301503;f;;f;;f;8306419;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+20001;Firenze Castello;firenze-castello;8306419;;11.218313;43.8195;8433;;IT;f;Europe/Rome;t;;;f;;f;8301503;f;;f;;f;8306419;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 20002;;;;;;;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 20003;Galliera Veneta-Tombolo;galliera-veneta-tombolo;8302541;;11.827718;45.652787;;;IT;f;Europe/Rome;t;;;f;;f;8301598;f;;f;;f;8302541;t;;f;;f;;;;;;;;;;;;;;;;;;
 20004;Genova Sturla;genova-sturla;8304703;;8.981473;44.397875;;;IT;f;Europe/Rome;t;;;f;;f;8301594;f;;f;;f;8304703;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20113,7 +20113,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21658;;;;;;;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 21659;Fiumelatte;fiumelatte;8301412;;9.29277;45.9991;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301412;t;;f;;f;;;;;;;;;;;;;;;;;;
 21660;Fiumetorto;fiumetorto;8312015;;13.7749;37.9666;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312015;t;;f;;f;;;;;;;;;;;;;;;;;;
-21661;Firenze Cascine;firenze-cascine;8306515;;11.2278;43.7824;;;IT;f;Europe/Rome;t;ITFCA;;f;;f;;f;;f;;f;8306515;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
+21661;Firenze Cascine;firenze-cascine;8306515;;11.2278;43.7824;8433;;IT;f;Europe/Rome;t;ITFCA;;f;;f;;f;;f;;f;8306515;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 21662;Gamberale;gamberale;8351003;;14.207315;41.906031;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8351003;t;;f;;f;;;;;;;;;;;;;;;;;;
 21663;Gallipoli;gallipoli;8341091;;17.9911;40.0583;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341091;t;;f;;f;;;;;;;;;;;;;;;Галлиполи;;;
 21664;Gallitello;gallitello;8312115;;12.9489;37.8579;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312115;t;;f;;f;;;;;;;;;;;;;;;;;;
@@ -20575,7 +20575,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22120;Venusio;venusio;8354010;;16.5657;40.7303;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354010;t;;f;;f;;;;;;;;;;;;;;;;;;
 22121;Villa Santa Maria;villa-santa-maria;8351005;;14.351818;41.952433;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8351005;t;;f;;f;;;;;;;;;;;;;;;;;;
 22122;Villabassa-Braies Niederdorf-Prags;villabassa-braies-niederdorf-prags;8302112;;12.166666667;46.736388889;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302112;t;;f;;f;;;;;;;;;;;;;;;;;;
-22123;Firenze Porta a Prato;firenze-porta-a-prato;8306518;;11.2378704;43.7783962;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306518;t;;f;;f;;;;;;;;;;;;;;;;;;
+22123;Firenze Porta a Prato;firenze-porta-a-prato;8306518;;11.2378704;43.7783962;8433;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306518;t;;f;;f;;Florence;Florence;Florenz;;Florencia;Florencie;;;フィレンツェ;피렌체;Florence;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 22124;Venetico;venetico;8312047;;15.3671;38.2182;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312047;t;;f;;f;;;;;;;;;;;;;;;;;;
 22125;Milano Porta Vittoria;milano-porta-vittoria;8301633;;9.22401;45.4595;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301633;t;;f;;f;;;;;;;;;;;;;;;;;;
 22126;Paratico Sarnico;paratico-sarnico;8301620;;9.961388889;45.662500000;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301620;t;;f;;f;;;;;;;;;;;;;;;;;;
