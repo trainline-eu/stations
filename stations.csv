@@ -21488,3 +21488,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23043;Toulouse Gironis;toulouse-gironis;8768814;;1.417999;43.563604;5306;f;FR;f;Europe/Paris;f;FRXTO;;t;;f;;f;;f;;f;;f;;f;;f;;;;;Tolosa;;;;;トゥールーズ;툴루즈;;Tuluza;;Тулуза;;;圖盧茲
 23044;Liège;liege;;;5.566667;50.633333;;t;BE;f;Europe/Brussels;t;BEFAA;;t;;f;;f;;f;;f;;f;;f;;f;;;;Lüttich;Liegi;Lieja;Lutych;;;リエージュ;리에주;Luik;;;Льеж;;;列日
 23045;Reggio Emilia;reggio-emilia;;;10.63052;44.69784;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8313550;t;;f;;f;;;;;;;;;;;;;;;Реджо-Эмилия;;;
+23046;Meinerzhagen;meinerzhagen;8003950;;7.634105;51.108306;;;DE;f;Europe/Berlin;t;;;f;;f;8003950;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
