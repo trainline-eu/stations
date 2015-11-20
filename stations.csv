@@ -21563,3 +21563,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23118;Torino Dora Gtt;torino-dora-gtt;8382332;;7.6772699;45.0908027;;f;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8382332;t;;f;;f;;;;;;;;;;;;;;;;;;
 23119;Versciaco Elmo/Vierschach Helm;versciaco-elmo-vierschach-helm;8302115;;12.32814;46.7324725;;f;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302115;t;;f;;f;;;;;;;;;;;;;;;;;;
 23120;Sorbello L.;sorbello-l;8328330;;13.9285387;41.2160275;;f;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8328330;t;;f;;f;;;;;;;;;;;;;;;;;;
+23121;Viernheim Bahnhof OEG;viernheim-bahnhof-oeg;510147;;8.582579;49.535651;;;DE;f;Europe/Berlin;t;;;f;;f;510147;t;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
