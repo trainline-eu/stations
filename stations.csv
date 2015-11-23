@@ -3540,7 +3540,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4715;Longwy;longwy;8719400;87194001;5.769281387329102;49.51320053249328;5702;f;FR;t;Europe/Paris;t;FRLWY;LWY;t;;f;8700162;f;;f;;f;;f;;f;;f;;;;;;;;;;ロンウィ;롱위;;;;Лонгви;;;隆格维
 4716;St-Lyé-la-Forêt Mairie;st-lye-la-foret-mairie;8720853;;1.9833330000;48.0500000000;;f;FR;f;Europe/Paris;t;FRLYE;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4717;Lyon Gorge de Loup;lyon-gorge-de-loup;8772117;87721175;4.804743;45.766051;4718;f;FR;f;Europe/Paris;t;FRLYL;LYL;t;;f;8703871;f;;f;;f;;f;;f;;f;;;;;Lione;;;;;リヨン;리옹;;;;Лион;;;里昂
-4718;Lyon;lyon;9919001;;4.834907054901123;45.76765767630457;;t;FR;f;Europe/Paris;t;FRLYS;;t;;f;8796002;t;;f;;f;;f;;f;;f;;;;;Lione;;;;;リヨン;리옹;;;;Лион;;;里昂
+4718;Lyon;lyon;9919001;;4.834907054901123;45.76765767630457;;t;FR;f;Europe/Paris;t;FRLYS;;t;;f;8796002;t;;f;LTG;t;;f;;f;;f;;;;;Lione;;;;;リヨン;리옹;;;;Лион;;;里昂
 4719;Millau;millau;8778300;87783001;3.074476718902588;44.10248709022126;;f;FR;f;Europe/Paris;t;FRMAU;MAU;t;;f;8700093;f;;f;;f;;f;;f;;f;;;;;;;;;;ミヨー;;;;;Мийо;;;米约
 4720;Meymac;meymac;;;2.1666670000;45.5333330000;;t;FR;f;Europe/Paris;f;FRMAY;;t;;f;;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
 4721;Meymac;meymac;8759427;87594275;2.164099;45.530237;4720;f;FR;t;Europe/Paris;t;FRMYC;MYC;t;;f;8701641;f;;f;;f;;f;;f;;f;;;;;;;;;;;;;;;;;;
