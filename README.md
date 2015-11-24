@@ -35,6 +35,7 @@ Column Name | Notes
 `is_main_station` | This value is unreliable.
 `time_zone` | [Continent/Country ISO codes](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
 `is_suggestable` | Can the user input this station.
+`sncf_self_service_machine` | Presence of a SNCF self-service machine at the station.
 `same_as` | Some systems allow stations to be split in two, with two `id` values. If provided, the station identified by the given value should be considered as the actual station.
 
 #### Operator Specific
