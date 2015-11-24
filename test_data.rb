@@ -70,7 +70,7 @@ end
 class StationsTest < Minitest::Test
 
   def test_number_columns
-    nb_columns = 48
+    nb_columns = 49
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Wrong number of columns #{row["size"]} for station #{row["id"]}" }
   end
@@ -343,4 +343,12 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_sncf_self_service_machine
+    STATIONS.each do |row|
+      if row["sncf_self_service_machine"] == "t"
+        assert_equal "t", row["is_suggestable"], "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine and is not suggestable."
+        assert_equal "FR", row["country"], "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine and is not in France."
+      end
+    end
+  end
 end
