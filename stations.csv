@@ -7076,7 +7076,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8490;Milano Centrale;milano-centrale;8301700;83017004;9.204828;45.487143;8483;f;IT;t;Europe/Rome;t;ITBGE;;t;;f;8300046;t;;f;;f;8301700;t;MC_;t;;f;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 8491;Milano Rogoredo;milano-rogoredo;8301820;83018200;9.2390140000;45.4336660000;8483;f;IT;f;Europe/Rome;t;ITMRO;;f;;f;8300418;t;;f;;f;8301820;t;RG_;t;;f;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
 8492;Milano Porta Garibaldi;milano-porta-garibaldi;8301645;83016451;9.187299;45.484437;8483;f;IT;f;Europe/Rome;t;ITMPG;;t;;f;8300047;t;;f;;f;8301645;t;MPG;t;;f;f;;Milan;Milan;Mailand;;Milán;Milán;;;ミラノ;밀라노;Milaan;Mediolan;Milão;Милан;;;
-8493;Modena;modena;8305032;;10.929948;44.654616;;;IT;f;Europe/Rome;t;ITMOD;;f;;f;8300214;f;;f;;f;8305032;t;;f;;f;f;;Modène;;;;;;;;モデナ;;;;;Модена;;;
+8493;Modena;modena;8305032;;10.929948;44.654616;;;IT;f;Europe/Rome;t;ITMOD;;f;;f;8300214;f;;f;;f;8305032;t;Q__;t;;f;f;;Modène;;;;;;;;モデナ;;;;;Модена;;;
 8494;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8495;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8496;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -7097,7 +7097,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8511;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8512;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8513;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8514;Parma;parma;8305014;;10.328569;44.810219;;f;IT;f;Europe/Rome;t;ITPMF;;f;;f;8300215;f;;f;;f;8305014;t;;f;;f;f;;Parme;;;;;;;;パルマ;;;;;Парма;;;
+8514;Parma;parma;8305014;;10.328569;44.810219;;f;IT;f;Europe/Rome;t;ITPMF;;f;;f;8300215;f;;f;;f;8305014;t;Y__;t;;f;f;;Parme;;;;;;;;パルマ;;;;;Парма;;;
 8515;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8516;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8517;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -7112,7 +7112,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8526;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8527;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8528;Padova;padova;8302581;;11.8806200000;45.4178270000;;f;IT;f;Europe/Rome;t;ITQPA;;f;;f;8300098;t;;f;;f;8302581;t;PD_;t;;f;f;;Padoue;Padua;Padua;;Padua;;;;パドヴァ;파도바;Padua;Padwa;Pádua;Падуя;Padua;;帕多瓦
-8529;Piacenza;piacenza;8305000;;9.706363;45.052101;;f;IT;f;Europe/Rome;t;ITQPZ;;f;;f;8300230;f;;f;;f;8305000;t;;f;;f;f;;Plaisance;;;;Plasencia;;;;ピアチェンツァ;;;;Placência;Пьяченца;;;
+8529;Piacenza;piacenza;8305000;;9.706363;45.052101;;f;IT;f;Europe/Rome;t;ITQPZ;;f;;f;8300230;f;;f;;f;8305000;t;P__;t;;f;f;;Plaisance;;;;Plasencia;;;;ピアチェンツァ;;;;Placência;Пьяченца;;;
 8530;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8531;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8532;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -18308,7 +18308,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 19848;Prata-Pratola;prata-pratola;8309513;;14.842673;40.988536;;;IT;f;Europe/Rome;t;;;f;;f;8302644;f;;f;;f;8309513;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 19849;Pratignone;pratignone;8306423;;11.16026;43.84992;;;IT;f;Europe/Rome;t;;;f;;f;8301935;f;;f;;f;8306423;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 19850;Prato Centrale;prato-centrale;8306416;;11.109309;43.879063;;;IT;f;Europe/Rome;t;ITALB;;f;;f;8300170;f;;f;;f;8306416;t;;f;;f;f;;;;;;;;;;;;;;;;;;
-19851;Mantova;mantova;8302336;;10.783405;45.158875;;;IT;f;Europe/Rome;t;;;f;;f;8300541;f;;f;;f;8302336;t;;f;;f;f;;Mantoue;;Mantua;;Mantua;;;;マントヴァ県;만토바 현;Mantua;Mantua;Mântua;Мантуя;;;曼托瓦省
+19851;Mantova;mantova;8302336;;10.783405;45.158875;;;IT;f;Europe/Rome;t;;;f;;f;8300541;f;;f;;f;8302336;t;MAV;t;;f;f;;Mantoue;;Mantua;;Mantua;;;;マントヴァ県;만토바 현;Mantua;Mantua;Mântua;Мантуя;;;曼托瓦省
 19852;Mantova Frassine;mantova-frassine;8302380;;10.831093;45.150542;;;IT;f;Europe/Rome;t;;;f;;f;8301698;f;;f;;f;8302380;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 19853;Manziana-Canale Monterano;manziana-canale-monterano;8308314;;12.134385;42.125195;;;IT;f;Europe/Rome;t;;;f;;f;8301795;f;;f;;f;8308314;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 19854;Montoro-Forino;montoro-forino;8309518;;14.757438;40.820006;;;IT;f;Europe/Rome;t;;;f;;f;8302599;f;;f;;f;8309518;t;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -19219,7 +19219,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 20761;Tarcento;tarcento;8303022;;13.19282;46.209723;;;IT;f;Europe/Rome;t;;;f;;f;8300627;f;;f;;f;8303022;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 20762;Carpane-Valstagna;carpane-valstagna;8302502;;11.661193;45.860123;;;IT;f;Europe/Rome;t;;;f;;f;8300704;f;;f;;f;8302502;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 20763;Sant’Anna di Chioggia;santanna-di-chioggia;8305426;;12.266095;45.145103;;;IT;f;Europe/Rome;t;;;f;;f;8302090;f;;f;;f;8305426;t;;f;;f;f;;;;;;;;;;;;;;;;;;
-20764;Cremona;cremona;8301915;;10.01828;45.143306;;;IT;f;Europe/Rome;t;;;f;;f;8300532;f;;f;;f;8301915;t;;f;;f;f;;Crémone;;;;;;;;クレモナ;크레모나;;;;Кремона;;;克雷莫納
+20764;Cremona;cremona;8301915;;10.01828;45.143306;;;IT;f;Europe/Rome;t;;;f;;f;8300532;f;;f;;f;8301915;t;CRN;t;;f;f;;Crémone;;;;;;;;クレモナ;크레모나;;;;Кремона;;;克雷莫納
 20765;Scafa-San Valentino-Caramanico Terme;scafa-san-valentino-caramanico-terme;8307707;;13.998487;42.267351;;;IT;f;Europe/Rome;t;;;f;;f;8300930;f;;f;;f;8307707;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 20766;Savigliano;savigliano;8300604;;7.663708;44.651218;;;IT;f;Europe/Rome;t;;;f;;f;8300009;f;;f;;f;8300604;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 20767;Spinazzola Citta;spinazzola-citta;8311311;;16.08661;40.95818;;;IT;f;Europe/Rome;t;;;f;;f;8302772;f;;f;;f;8311311;t;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -20381,7 +20381,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 21926;Bassano in Teverina;bassano-in-teverina;8308208;;12.333333333;42.483333333;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8308208;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 21927;San Michele in Bosco;san-michele-in-bosco;8301924;;10.5735;45.1225;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301924;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 21928;San Nicandro Garganico;san-nicandro-garganico;8337002;;15.5758934;41.8304811;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8337002;t;;f;;f;f;;;;;;;;;;;;;;;;;;
-21929;Sassuolo;sassuolo;8329305;;10.78424;44.54458;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8329305;t;;f;;f;f;;;;;;;;;;;;;;;Сассуоло;;;
+21929;Sassuolo;sassuolo;8329305;;10.78424;44.54458;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8329305;t;SXX;t;;f;f;;;;;;;;;;;;;;;Сассуоло;;;
 21930;Sava;sava;8341035;;17.609882354736328;40.43884717005281;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8341035;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21931;Spezzano Della Sila;spezzano-della-sila;8354231;;16.338273882865906;39.2971732743326;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354231;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 21932;Spezzano Piccolo;spezzano-piccolo;8354249;;16.341025829315186;39.29077572088738;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354249;t;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21564,3 +21564,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23119;Versciaco Elmo/Vierschach Helm;versciaco-elmo-vierschach-helm;8302115;;12.32814;46.7324725;;f;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302115;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 23120;Sorbello L.;sorbello-l;8328330;;13.9285387;41.2160275;;f;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8328330;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 23121;Viernheim Bahnhof OEG;viernheim-bahnhof-oeg;510147;;8.582579;49.535651;;;DE;f;Europe/Berlin;t;;;f;;f;510147;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23122;Carpi Peruzzi Autostazione;carpi-peruzzi-autostazione;;;10.875993;44.78287;20223;;IT;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;CRP;t;;f;f;;;;;;;;;;カルピ;;;;;Карпи;;;
