@@ -9189,7 +9189,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 10682;;;;;;;;t;FR;f;Europe/Paris;f;FRJED;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10683;Issoire;issoire;;;;;;t;FR;f;Europe/Paris;f;FRIIO;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10684;;;;;;;;t;FR;f;Europe/Paris;f;FRIGA;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10685;;;8733851;;;;;f;FR;f;Europe/Paris;f;FRHOA;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10685;Hœnheim-Tram;hoenheim-tram;8733851;;7.75791;48.628715;;f;FR;f;Europe/Paris;t;FRHOA;;t;;f;8705312;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10686;;;;;;;;t;FR;f;Europe/Paris;f;FRWBZ;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10687;;;;;;;;t;FR;f;Europe/Paris;f;FRWCA;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10688;;;;;;;;t;FR;f;Europe/Paris;f;FRDSS;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
