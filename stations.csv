@@ -3727,7 +3727,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4953;Dives;dives;;;;;;t;FR;f;Europe/Paris;f;FRPGE;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4954;Dives-sur-Mer—Port-Guillaume;dives-sur-mer-port-guillaume;8733737;87337378;-0.10087251663208008;49.291090802259674;4953;f;FR;f;Europe/Paris;t;FRPGU;;t;;f;8705264;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4955;Perpignan;perpignan;8778400;87784009;2.87940502166748;42.69607053922139;;f;FR;f;Europe/Paris;t;FRPGF;PPN;t;PGF;t;8700164;f;;f;;f;;f;;f;;f;t;;;;Perpiñán;;Perpignano;;;;;ペルピニャン;페르피냥;;Perpinhã;Перпиньян;;;佩皮尼昂
-4956;Poitiers Gare Routière;poitiers-gare-routiere;8720248;87202481;0.3333330000;46.5833330000;4964;f;FR;f;Europe/Paris;f;FRPGR;;t;;f;8705079;f;XOP;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+4956;Poitiers Gare Routière;poitiers-gare-routiere;8720248;87202481;0.3333330000;46.5833330000;4964;f;FR;f;Europe/Paris;f;FRPGR;;f;;f;8705079;f;XOP;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4957;Périgueux;perigueux;;;0.7166670000;45.1833330000;;t;FR;f;Europe/Paris;f;FRPGX;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4958;Perrigny-sur-Loire;perrigny-sur-loire;8728233;87282335;3.8333330000;46.5333330000;;f;FR;f;Europe/Paris;t;FRPGY;;t;;f;8705220;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4959;Phalsbourg;phalsbourg;8731912;87319129;7.2666670000;48.7666670000;;f;FR;f;Europe/Paris;t;FRPHB;;t;;f;8706540;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
