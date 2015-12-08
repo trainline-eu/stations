@@ -7250,7 +7250,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8665;Eijsden maastricht grens;eijsden-maastricht-grens;8400220;;;;;f;NL;f;Europe/Amsterdam;f;NLEIJ;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8666;Eindhoven;eindhoven;8400206;;5.4799500000;51.4430630000;;f;NL;f;Europe/Amsterdam;t;NLEIN;;f;;f;8400206;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;アイントホーフェン;에인트호번;;;Эйндховен;;;埃因霍温
 8667;Haarlem;haarlem;8400285;;4.6364650000;52.3871100000;;f;NL;f;Europe/Amsterdam;t;NLGRZ;;f;;f;8400285;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ハールレム;하를럼;;;Харлем;;;哈勒姆
-8668;Maastricht;maastricht;8400424;;5.705875;50.849811;;f;NL;f;Europe/Amsterdam;f;NLMST;;f;;f;8400424;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8668;Maastricht;maastricht;8400424;;5.705875;50.849811;;f;NL;f;Europe/Amsterdam;t;NLMST;;f;;f;8400424;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8669;Roosendaal;roosendaal;8400526;;4.4566360000;51.5398590000;;f;NL;f;Europe/Amsterdam;t;NLROO;;f;;f;8400526;t;;f;;f;;f;;f;;f;f;;;;;Rosendael;;;;;;ローゼンダール;;;;Розендал;;;罗森达尔
 8670;Rotterdam Centraal;rotterdam-centraal;8400530;84005306;4.468839168548584;51.925068244603146;;f;NL;f;Europe/Amsterdam;t;NLRTA;;t;;f;8400530;f;QRH;t;;f;;f;;f;;f;f;;Hauptbahnhof;Main station;Róterdam Estación central;Gare centrale;Stazione centrale;;;;;ロッテルダム;로테르담;;Roterdão;Роттердам;;;鹿特丹
 8671;;;;;;;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
