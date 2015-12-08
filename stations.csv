@@ -4396,7 +4396,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5774;Château-Thierry;chateau-thierry;8711658;87116582;3.4095382690429683;49.037924212467836;;f;FR;f;Europe/Paris;t;FRXCY;CTH;t;;f;8700261;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;シャトー＝ティエリ;;;;Шато-Тьерри;;;蒂耶里堡
 5775;Charleville-Mézières;charleville-mezieres;8717200;87172007;4.725322723388671;49.76779475895682;;f;FR;f;Europe/Paris;t;FRXCZ;CMZ;t;;f;8700050;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;シャルルヴィル＝メジエール;샤를빌메지에르;;;Шарлевиль-Мезьер;;;沙勒维尔-梅济耶尔
 5776;Dax;dax;;;-1.0536580000;43.7103230000;;t;FR;f;Europe/Paris;f;FRXDA;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5777;Douai;douai;8734500;87345009;3.0900871753692627;50.371799139044754;;f;FR;f;Europe/Paris;t;FRXDN;DOI;t;;f;8700007;f;;f;;f;;f;;f;;f;t;;;;;;;Dowaai;;;;ドゥエー;두에;;;Дуэ;;;杜埃
+5777;Douai;douai;8734500;87345009;3.0900871753692627;50.371799139044754;;f;FR;f;Europe/Paris;t;FRXDN;DOI;t;;f;8700007;f;XDO;t;;f;;f;;f;;f;t;;;;;;;Dowaai;;;;ドゥエー;두에;;;Дуэ;;;杜埃
 5778;Évian-les-Bains;evian-les-bains;8774567;87745679;6.577699184417725;46.39791639609017;;f;FR;f;Europe/Paris;t;FRXEB;EVI;t;;f;8700090;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;エヴィアン＝レ＝バン;;;;Эвьян-ле-Бен;;;埃維昂萊班
 5779;Épernay;epernay;8717155;87171553;3.959857821464538;49.046289724740205;;f;FR;f;Europe/Paris;t;FRXEP;EPR;t;;f;8700053;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;エペルネー;;;;Эперне;;;埃佩尔奈
 5780;Foix;foix;8761161;87611616;1.6068470478057861;42.97032707409799;;f;FR;f;Europe/Paris;t;FRXFX;FXE;t;;f;8700191;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
