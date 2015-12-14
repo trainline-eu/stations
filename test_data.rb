@@ -287,7 +287,7 @@ class StationsTest < Minitest::Test
         assert !parent["name"].nil?, "The station #{parent_id} has no name (parent of station #{row["id"]})"
         LOCALES.each do |locale|
           if !parent["info:#{locale}"].nil?
-            assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent (#{parent["name"]}) has."
+            assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent (#{parent["name"]}) has"
           end
         end
       end
@@ -315,7 +315,7 @@ class StationsTest < Minitest::Test
     CHILDREN_COUNT.each do |id, children_count|
       station = STATIONS_BY_ID[id]
       if station["is_suggestable"] == "t"
-        assert children_count >= 2, "The meta station #{id} is suggestable and has only #{children_count} child."
+        assert children_count >= 2, "The meta station #{id} is suggestable and has only #{children_count} child"
       end
     end
   end
@@ -345,9 +345,16 @@ class StationsTest < Minitest::Test
 
   def test_sncf_self_service_machine
     STATIONS.each do |row|
+      parent_id = row["parent_station_id"]
+      if parent_id
+        parent = STATIONS_BY_ID[parent_id]
+        if row["name"] == parent["name"]
+          assert_equal row["sncf_self_service_machine"], parent["sncf_self_service_machine"], "Station #{row["name"]} (#{row["id"]}) has no SNCF self-service machine while its parent (#{parent["name"]}) has"
+        end
+      end
+
       if row["sncf_self_service_machine"] == "t"
-        assert_equal "t", row["is_suggestable"], "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine and is not suggestable."
-        assert_equal "FR", row["country"], "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine and is not in France."
+        assert_equal "FR", row["country"], "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine and is not in France"
       end
     end
   end
