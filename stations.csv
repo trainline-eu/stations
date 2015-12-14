@@ -149,7 +149,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 189;Péronne Centre;peronne-centre;8731341;87313411;2.938987;49.934997;188;f;FR;t;Europe/Paris;t;FRCRJ;;t;;f;8701752;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 190;Péronne La Chapelette;peronne-la-chapelette;8731386;87313866;2.933359;49.924488;188;f;FR;f;Europe/Paris;t;FRCSU;;t;;f;8701770;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 191;Albi Ville;albi-ville;8761500;87615005;2.13785;43.922472;4604;f;FR;t;Europe/Paris;t;FRAFJ;ALB;t;;f;8704917;f;;f;;f;;f;;f;;f;t;;;;Albé;;Albé;Albé;;;;アルビ;알비;Albé;Albé;Альбе;;;阿尔比
-192;Orléans;orleans;8754300;87543009;1.9047331809997559;47.90807935070001;4894;f;FR;t;Europe/Paris;f;FRAFK;ORL;t;;f;8700404;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;オルレアン;오를레앙;Orlean;Orleães;Орлеан;;;奥尔良
+192;Orléans;orleans;8754300;87543009;1.9047331809997559;47.90807935070001;4894;f;FR;t;Europe/Paris;f;FRAFK;ORL;t;;f;8700404;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;オルレアン;오를레앙;Orlean;Orleães;Орлеан;;;奥尔良
 194;Vendôme;vendome;8757455;87574558;1.067837;47.802198;5846;f;FR;f;Europe/Paris;t;FRAFM;;t;;f;8702203;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 195;Fréjus;frejus;8775750;87757500;6.7329078912734985;43.43200708149751;4583;f;FR;t;Europe/Paris;t;FRAFN;FRJ;t;;f;8700472;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;フレジュス;;;;Фрежюс;;;弗雷瑞斯
 196;Fontenay-le-Comte;fontenay-le-comte;8748561;87485615;-0.809592604637146;46.46785957735252;2776;f;FR;t;Europe/Paris;t;FRAFQ;;t;;f;8702433;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
