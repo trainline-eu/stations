@@ -21040,7 +21040,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22585;Marne-la-Vallée—Chessy Eurostar;marne-la-vallee-chessy-eurostar;;;2.782853;48.870737;4819;f;FR;f;Europe/Paris;f;;;f;;f;8798948;t;;f;;f;;f;;f;;f;f;4757;;;;;;;;;;;;;;;;;
 22586;Lille Europe Eurostar;lille-europe-eurostar;;;3.074877;50.639229;4652;f;FR;f;Europe/Paris;f;;;f;;f;8798949;t;;f;;f;;f;;f;;f;f;4653;;;;;;;;;;;;;;;;;
 22587;Kołobrzeg;kolobrzeg;5100410;;15.569649;54.182310;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100025;t;;f;;f;;f;;f;;f;f;;;;;;;;Kolobřeh;;;;코워브제크;;;Колобжег;;;科沃布热格
-22598;Montpellier;montpellier;;;3.8961821794509888;43.599448798154995;;t;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;モンペリエ;몽펠리에;;;Монпелье;;;蒙彼利埃
+22598;Montpellier;montpellier;;;3.8961821794509888;43.599448798154995;;t;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;モンペリエ;몽펠리에;;;Монпелье;;;蒙彼利埃
 22599;Montpellier Les Sabines – Gare Routière;montpellier-les-sabines-gare-routiere;;;3.860406875610351;43.58409023914171;22598;f;FR;f;Europe/Paris;t;;;f;;f;;f;XMT;t;;f;;f;;f;;f;f;;;;;;;;;;;モンペリエ;몽펠리에;;;Монпелье;;;蒙彼利埃
 22600;Nîmes;nimes;;;4.360021948814392;43.836678232954476;;f;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ニーム;님;;;Ним;;;尼姆
 22601;Nîmes Parnasse – Gare Routière;nimes-parnasse-gare-routiere;;;4.362017512321472;43.817711064991435;22600;f;FR;f;Europe/Paris;t;;;f;;f;;f;XNS;t;;f;;f;;f;;f;f;;;;;;;;;;;ニーム;님;;;Ним;;;尼姆
