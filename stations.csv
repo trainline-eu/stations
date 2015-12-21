@@ -150,7 +150,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 190;Péronne La Chapelette;peronne-la-chapelette;8731386;87313866;2.933359;49.924488;188;f;FR;f;Europe/Paris;t;FRCSU;;t;;f;8701770;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 191;Albi Ville;albi-ville;8761500;87615005;2.13785;43.922472;4604;f;FR;t;Europe/Paris;t;FRAFJ;ALB;t;;f;8704917;f;;f;;f;;f;;f;;f;t;;;;Albé;;Albé;Albé;;;;アルビ;알비;Albé;Albé;Альбе;;;阿尔比
 192;Orléans;orleans;8754300;87543009;1.9047331809997559;47.90807935070001;4894;f;FR;t;Europe/Paris;f;FRAFK;ORL;t;;f;8700404;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;オルレアン;오를레앙;Orlean;Orleães;Орлеан;;;奥尔良
-194;Vendôme;vendome;8757455;87574558;1.067837;47.802198;5846;f;FR;f;Europe/Paris;t;FRAFM;;t;;f;8702203;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
+194;Vendôme;vendome;8757455;87574558;1.067837;47.802198;5846;f;FR;f;Europe/Paris;t;FRAFM;;t;;f;8702203;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 195;Fréjus;frejus;8775750;87757500;6.7329078912734985;43.43200708149751;4583;f;FR;t;Europe/Paris;t;FRAFN;FRJ;t;;f;8700472;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;フレジュス;;;;Фрежюс;;;弗雷瑞斯
 196;Fontenay-le-Comte;fontenay-le-comte;8748561;87485615;-0.809592604637146;46.46785957735252;2776;f;FR;t;Europe/Paris;t;FRAFQ;;t;;f;8702433;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 197;Acheux-Franleu;acheux-franleu;8731674;87316745;1.65761;50.082689;;f;FR;f;Europe/Paris;t;FRAFR;;t;;f;8700573;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -2779,7 +2779,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 3658;Quincieux;quincieux;8772129;87721290;4.7786664962768555;45.90673323808819;;f;FR;f;Europe/Paris;t;FRHCK;QUX;t;;f;8701826;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3659;Anse;anse;8772132;87721324;4.719754457473755;45.93929907870687;;f;FR;f;Europe/Paris;t;FRHCM;ANS;t;;f;8700614;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3660;St-Georges-de-Reneins;st-georges-de-reneins;8772134;87721340;4.7166670000;46.0666670000;;f;FR;f;Europe/Paris;t;FRHCN;SDI;t;;f;8701978;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-3661;Belleville-sur-Saône;belleville-sur-saone;8772135;87721357;4.729013442993164;46.11189093223572;;f;FR;f;Europe/Paris;t;FRHCO;BVL;t;;f;8702331;f;;f;;f;;f;;f;;f;t;;;;Belleville sobre Saona;;;;;;;;;;;;;;
+3661;Belleville-sur-Saône;belleville-sur-saone;8772135;87721357;4.729013442993164;46.11189093223572;;f;FR;f;Europe/Paris;t;FRHCO;BVL;t;;f;8702331;f;;f;;f;;f;;f;;f;f;;;;Belleville sobre Saona;;;;;;;;;;;;;;
 3663;Chazay—Marcilly;chazay-marcilly;8772141;87721415;4.725215;45.87296;;f;FR;f;Europe/Paris;t;FRHCQ;CZM;t;;f;8703081;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3664;St-Romain-de-Popey;st-romain-de-popey;8772145;87721456;4.5333330000;45.8500000000;;f;FR;f;Europe/Paris;t;FRHCR;SNP;t;;f;8704426;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3665;Pontcharra—St-Forgeux;pontcharra-st-forgeux;8772146;87721464;4.492772;45.871486;;f;FR;f;Europe/Paris;t;FRHCS;PNF;t;;f;8704278;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4462,7 +4462,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5843;Thonon-les-Bains;thonon-les-bains;8774564;87745646;6.481977;46.368958;;f;FR;f;Europe/Paris;t;FRXTS;THO;t;;f;8700547;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;トノン＝レ＝バン;;;;Тонон-ле-Бен;;;
 5844;Tulle;tulle;8759449;87594499;1.756384;45.258565;9098;f;FR;t;Europe/Paris;t;FRXTU;TUL;t;;f;8700204;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;チュール;튈;;;Тюль;Tyll;;蒂勒
 5845;Auray;auray;8747620;87476200;-2.999417781829834;47.68021184001663;;f;FR;f;Europe/Paris;t;FRXUY;ARY;t;XUY;t;8700206;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;オーレー;오레;;;Оре;;;
-5846;Vendôme;vendome;;;;;;t;FR;f;Europe/Paris;f;FRXVD;;t;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
+5846;Vendôme;vendome;;;;;;t;FR;f;Europe/Paris;f;FRXVD;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5847;Villefranche-sur-Saône;villefranche-sur-saone;8772133;87721332;4.721143;45.98448;;f;FR;f;Europe/Paris;t;FRXVF;VIS;t;;f;8702170;f;;f;;f;;f;;f;;f;t;;;;Villefranche sobre Saona;;;;;;;ヴィルフランシュ＝シュル＝ソーヌ;;;;Вильфранш-сюр-Сон;;;
 5848;Vienne;vienne;8772258;87722587;4.8744;45.521023;;f;FR;f;Europe/Paris;t;FRXVI;VIE;t;;f;8700095;f;;f;;f;;f;;f;;f;t;;Frankreich;France;Francia;France;Francia;;;;;;;;;Вьенн;;;
 5849;Buxières-Les-Villiers;buxieres-les-villiers;8721522;87215228;5.0333330000;48.1000000000;;f;FR;f;Europe/Paris;t;FRXVL;;t;;f;8705159;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
