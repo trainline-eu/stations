@@ -1793,7 +1793,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 2390;Voves;voves;8754570;87545707;1.621968;48.275039;;f;FR;f;Europe/Paris;t;FRERM;;t;;f;8702232;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2391;Bonneval;bonneval;8754573;87545731;1.4000000000;48.1833330000;;f;FR;f;Europe/Paris;t;FRERO;;t;;f;8700746;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2394;Err;err;8778484;87784843;2.0292305946350098;42.4427976546067;;f;FR;f;Europe/Paris;t;FRERR;;t;;f;8703279;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-2406;Vendôme—Villiers-sur-Loir;vendome-villiers-sur-loir;8757121;87571216;1.0214602947;47.8219005964;5846;f;FR;f;Europe/Paris;t;FRESL;VDT;t;;f;8702205;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+2406;Vendôme—Villiers-sur-Loir;vendome-villiers-sur-loir;8757121;87571216;1.0214602947;47.8219005964;5846;f;FR;f;Europe/Paris;t;FRESL;VDT;t;;f;8702205;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 2407;Montbazon;montbazon;8757140;87571406;0.7166670000;47.2833330000;;f;FR;f;Europe/Paris;t;FRESO;;t;;f;8704021;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2408;Veigné;veigne;8757141;87571414;0.734976;47.291404;;f;FR;f;Europe/Paris;t;FRESP;;t;;f;8704795;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2409;Esvres-sur-Indre;esvres-sur-indre;8757142;87571422;0.78171;47.284015;;f;FR;f;Europe/Paris;t;FRESQ;;t;;f;8703288;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -2576,7 +2576,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 3407;St-Léger-des-Vignes;st-leger-des-vignes;8769162;87691626;3.4569382667541504;46.838310089634184;;f;FR;f;Europe/Paris;t;FRGPU;;t;;f;8703749;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3408;Verneuil;verneuil;8769167;87691675;3.557596206665039;46.86096864442277;;f;FR;f;Europe/Paris;t;FRGPV;;t;;f;8702202;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3409;Avrée;avree;8769172;87691725;3.8666670000;46.8166670000;;f;FR;f;Europe/Paris;t;FRGPW;;t;;f;8702744;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-3410;Le Creusot;le-creusot;8769400;87694000;4.430376291275024;46.80777784231953;;f;FR;f;Europe/Paris;t;FRGPX;;t;;f;8700254;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ル＝クルーゾ;;;;Ле-Крёзо;;;
+3410;Le Creusot;le-creusot;8769400;87694000;4.430376291275024;46.80777784231953;;f;FR;f;Europe/Paris;t;FRGPX;;t;;f;8700254;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ル＝クルーゾ;;;;Ле-Крёзо;;;
 3411;St-Didier-sur-Arroux;st-didier-sur-arroux;8769413;;4.115645885467529;46.83311371124671;;f;FR;f;Europe/Paris;t;FRGPY;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3412;Mesvres;mesvres;8769415;87694158;4.2500000000;46.8666670000;;f;FR;f;Europe/Paris;t;FRGPZ;;t;;f;8703981;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3413;Broye;broye;8769416;87694166;4.3000000000;46.8666670000;;f;FR;f;Europe/Paris;t;FRGQA;;t;;f;8702930;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4383,7 +4383,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5761;Bernay;bernay;8744429;87444299;0.5957293510437012;49.08697196091214;;f;FR;f;Europe/Paris;t;FRXBX;BEY;t;;f;8700221;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 5762;Bayonne;bayonne;8767300;87673004;-1.4703547954559326;43.49709463180589;;f;FR;f;Europe/Paris;t;FRXBY;BYE;t;XBY;t;8700257;f;;f;;f;;f;;f;;f;t;;;;Baiona;;;;;;;バイヨンヌ;바욘;Bajonna;Baiona;Байонна;;;巴约讷
 5763;Bandol;bandol;8775522;87755223;5.750162601470947;43.14046747767621;;f;FR;f;Europe/Paris;t;FRXBZ;;t;;f;8700665;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Бандоль;;;邦多
-5764;Le Creusot TGV;le-creusot-tgv;8769410;87694109;4.500071;46.765364;;f;FR;f;Europe/Paris;t;FRXCC;LCM;t;;f;8700167;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ル＝クルーゾ;;;;Ле-Крёзо;;;
+5764;Le Creusot TGV;le-creusot-tgv;8769410;87694109;4.500071;46.765364;;f;FR;f;Europe/Paris;t;FRXCC;LCM;t;;f;8700167;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ル＝クルーゾ;;;;Ле-Крёзо;;;
 5765;Chalon-sur-Saône;chalon-sur-saone;8772500;87725002;4.84371542930603;46.781034125625254;;f;FR;f;Europe/Paris;t;FRXCD;CSS;t;;f;8700091;t;;f;;f;;f;;f;;f;t;;;;;;;;;;;シャロン＝シュル＝ソーヌ;;;;Шалон-сюр-Сон;;;索恩河畔沙隆
 5766;Cerbère;cerbere;8778500;87785006;3.163187;42.441661;;f;FR;f;Europe/Paris;t;FRXCE;CER;t;;f;8700147;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 5767;Chamonix Mont Blanc;chamonix-mont-blanc;8774678;87746784;6.866669654846191;45.91990069246709;;f;FR;f;Europe/Paris;t;FRXCF;CHX;t;;f;8700299;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
