@@ -3695,7 +3695,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4913;Oyonnax;oyonnax;8774353;87743534;5.6532275676727295;46.259548444849344;;f;FR;f;Europe/Paris;t;FROYO;OYO;t;;f;8704166;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4914;Port-d’Atelier-Amance;port-datelier-amance;8718510;87185108;6.0396;47.75922;;f;FR;f;Europe/Paris;t;FRPAA;;t;;f;8700054;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4915;Longchamp-sur-Aujon;longchamp-sur-aujon;8721557;87215574;4.8333330000;48.1500000000;;f;FR;f;Europe/Paris;t;FRPAJ;;t;;f;8705153;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-4916;Paris;paris;9903001;;2.3488000000;48.8534100000;;t;FR;f;Europe/Paris;t;FRPAR;;t;PAR;t;8796001;t;;f;;f;;f;;f;;f;f;;;;;;Parigi;Parijs;Paříž;;Párizs;パリ;파리;Paryż;;Париж;;;巴黎
+4916;Paris;paris;9903001;;2.3488000000;48.8534100000;;t;FR;f;Europe/Paris;t;FRPA;;t;PAR;t;8796001;t;;f;;f;;f;;f;;f;f;;;;;;Parigi;Parijs;Paříž;;Párizs;パリ;파리;Paryż;;Париж;;;巴黎
 4917;Paris-Gare-de-Bercy;paris-gare-de-bercy;8768666;87686667;2.382887;48.839131;4916;f;FR;f;Europe/Paris;t;FRPBE;PBY;t;;f;8702455;t;XPB;t;;f;;f;;f;;f;t;;;;;;Parigi;Parijs;Paříž;;Párizs;パリ;파리;Paryż;;Париж;;;巴黎
 4919;Paris-Gare-de-l’Est;paris-gare-de-lest;8711300;87113001;2.35912;48.876975;4916;f;FR;f;Europe/Paris;t;FRPST;PES;t;PST;f;8700011;t;;f;;f;;f;;f;;f;t;;;;;;Parigi;Parijs;Paříž;;Párizs;パリ;파리;Paryż;;Париж;;;巴黎
 4920;Paris-Gare-Montparnasse;paris-gare-montparnasse;8739100;87391003;2.319576;48.840488;4916;f;FR;f;Europe/Paris;t;FRPMO;PMP;t;PMO;t;8700013;f;;f;;f;;f;;f;;f;t;;;;;;Parigi;Parijs;Paříž;;Párizs;パリ;파리;Paryż;;Париж;;;巴黎
@@ -15355,7 +15355,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 16849;Fouesnant Beg Meil;fouesnant-beg-meil;8734628;;;;16860;f;FR;f;Europe/Paris;f;FRFBX;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16850;Villiers-sur-Marne Friedberg;villiers-sur-marne-friedberg;8798693;;;;;f;FR;f;Europe/Paris;f;FRFDG;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16851;Fourchette de Bry;fourchette-de-bry;8798691;;;;;f;FR;f;Europe/Paris;f;FRFDH;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-16852;Charles-de-Gaulle Friedland ;charles-de-gaulle-friedland;8798745;;2.298065;48.873946;;f;FR;f;Europe/Paris;f;FRFDN;;f;;f;8705521;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+16852;"Charles-de-Gaulle Friedland ";charles-de-gaulle-friedland;8798745;;2.298065;48.873946;;f;FR;f;Europe/Paris;f;FRFDN;;f;;f;8705521;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16853;;;8740758;;;;1557;f;FR;f;Europe/Paris;f;FRFDP;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16854;Fret Centre;fret-centre;8798180;;;;;f;FR;f;Europe/Paris;f;FRFDR;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16855;La Ferté-Gaucher;la-ferte-gaucher;;;;;;t;FR;f;Europe/Paris;f;FRFDU;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
