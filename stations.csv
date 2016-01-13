@@ -769,7 +769,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 967;Uberach;uberach;8721254;87212548;7.631374;48.8491;;f;FR;f;Europe/Paris;t;FRBVP;;t;;f;8702139;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 970;Kaltenhouse;kaltenhouse;8721262;87212621;7.8333330000;48.8000000000;;f;FR;f;Europe/Paris;t;FRBVS;;t;;f;8701337;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 971;Volgelsheim;volgelsheim;;;;;;f;FR;f;Europe/Paris;f;FRBVT;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-972;Kehl Grenze;kehl-grenze;8721291;;;;7659;f;DE;f;Europe/Paris;f;FRBVU;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+972;Kehl Grenze;kehl-grenze;8721291;;;;7659;f;DE;f;Europe/Paris;f;FRBVU;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 973;Neubourg;neubourg;8721312;87213124;7.679943;48.838537;;f;FR;f;Europe/Paris;t;FRBVV;;t;;f;8701656;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 974;Pfaffenhoffen;pfaffenhoffen;8721313;87213132;7.6166670000;48.8500000000;;f;FR;f;Europe/Paris;t;FRBVW;;t;;f;8701733;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;普法方奥方
 975;Bouxwiller;bouxwiller;8721317;87213173;7.478808760643005;48.82655254803982;;f;FR;f;Europe/Paris;t;FRBVX;;t;;f;8700812;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Боуксвилер;;;
