@@ -53,7 +53,32 @@ LOCALES = [
   "ru",
   "sv",
   "tr",
-  "zh"]
+  "zh"
+]
+
+VIRTUAL_STATIONS = [
+  "811",   # Basel SBB
+  "972",   # Kehl Grenze
+  "1354",  # Quevy Frontière
+  "3600",  # Vallorbe Frontière
+  "4089",  # Genève Voyageurs
+  "4185",  # Limone Confine
+  "4551",  # Le Châtelard Frontière
+  "4930",  # Port-Bou
+  "5671",  # Ventimiglia Frontière
+  "9045",  # Les Verrières Frontière
+  "9209",  # Bettembourg Frontière
+  "9232",  # Jeumont Frontière
+  "9282",  # Apach Frontière
+  "9367",  # Blandain Frontière
+  "9370",  # Tourcoing Frontière
+  "9414",  # Modane Frontière
+  "9619",  # Wannehain Frontière
+  "10220", # Hendaye Frontière
+  "10431", # Forbach Frontière
+  "10433", # Hanweiler Grenze
+  "10439"  # Rodange Frontière
+]
 
 def slugify(name)
   name.gsub(/[\/\.]/,"-").to_url
@@ -357,6 +382,13 @@ class StationsTest < Minitest::Test
         assert_equal "FR", row["country"], "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine but is not located in France"
         assert !row["sncf_id"].nil?, "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine but is without SNCF id"
       end
+    end
+  end
+
+  def test_sncf_virtual_station
+    VIRTUAL_STATIONS.each do |id|
+      station = STATIONS_BY_ID[id]
+      assert_equal "t", station["sncf_is_enabled"], "Virtual station #{station["name"]} (#{station["id"]}) should be enabled for SNCF"
     end
   end
 end
