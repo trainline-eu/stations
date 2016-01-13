@@ -2465,7 +2465,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 3177;Maubourguet Centre;maubourguet-centre;8767165;87671651;0.034221;43.462502;;f;FR;f;Europe/Paris;t;FRGEI;;t;;f;8703942;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3178;Caussade (Hautes Pyrénées);caussade-hautes-pyrenees;8767166;87671669;0.0333330000;43.5166670000;;f;FR;f;Europe/Paris;t;FRGEJ;;t;;f;8702988;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3179;Hères;heres;8767167;87671677;0.0000000000;43.5500000000;;f;FR;f;Europe/Paris;t;FRGEK;;t;;f;8703465;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-3190;Genève Eaux-Vives;geneve-eaux-vives;8774592;87745927;6.166044473648071;46.2007119952184;5335;f;CH;f;Europe/Paris;t;FRGEV;;t;;f;8500007;t;;f;;f;;f;;f;;f;f;;Genf;Geneva;Ginebra;;Ginevra;;Ženeva;;Genf;ジュネーヴ;제네바;Genewa;Genebra;Женева;;Cenevre;日内瓦
+3190;Genève Eaux-Vives;geneve-eaux-vives;8774592;87745927;6.166044473648071;46.2007119952184;5335;f;CH;f;Europe/Paris;f;FRGEV;;t;;f;8500007;t;;f;;f;;f;;f;;f;f;;Genf;Geneva;Ginebra;;Ginevra;;Ženeva;;Genf;ジュネーヴ;제네바;Genewa;Genebra;Женева;;Cenevre;日内瓦
 3192;Gex Centre;gex-centre;8774527;87745273;6.058391332626343;46.33204691423479;4647;f;FR;t;Europe/Paris;t;FRGEX;;t;;f;8703392;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3193;Montaut—Bétharram;montaut-betharram;8767211;87672113;-0.198302;43.126989;;f;FR;f;Europe/Paris;t;FRGEZ;;t;;f;8701586;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3195;Coarraze—Nay;coarraze-nay;8767213;87672139;-0.241594;43.18185;;f;FR;f;Europe/Paris;t;FRGFB;CZN;t;;f;8700919;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
