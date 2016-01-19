@@ -6157,7 +6157,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 7570;Donaueschingen;donaueschingen;8014529;;8.498923;47.947787;;f;DE;f;Europe/Berlin;t;DEDNE;;f;;f;8000077;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ドナウエッシンゲン;;;;Донауэшинген;;;多瑙艾辛根
 7571;Dillingen (Donau);dillingen-donau;8002078;;10.48917;48.581257;;f;DE;f;Europe/Berlin;t;DEDON;;f;;f;8001463;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7572;Darmstadt Hbf;darmstadt-hbf;8011336;;8.629635;49.872503;;f;DE;f;Europe/Berlin;t;DEDST;;f;;f;8000068;t;;f;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ダルムシュタット;다름슈타트;;;Дармштадт;;;达姆施塔特
-7573;Dortmund Hbf;dortmund-hbf;8010053;;7.459293;51.517898;;f;DE;f;Europe/Berlin;t;DEDTM;;f;;f;8000080;t;;f;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ドルトムント;도르트문트;;;Дортмунд;;;多特蒙德
+7573;Dortmund Hbf;dortmund-hbf;8010053;;7.459293;51.517898;;f;DE;f;Europe/Berlin;t;DEDTM;;t;;f;8000080;t;;f;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ドルトムント;도르트문트;;;Дортмунд;;;多特蒙德
 7574;Düsseldorf-Benrath;dusseldorf-benrath;8008117;;6.87904;51.162375;7578;f;DE;f;Europe/Berlin;t;DEDUB;;f;;f;8001584;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Дюссельдорф-Бенрат;;;
 7575;Düsseldorf Flughafen;dusseldorf-flughafen;8039904;;6.786837;51.292008;7578;f;DE;f;Europe/Berlin;t;DEDUF;;t;;f;8000082;t;;f;;f;;f;;f;;f;f;;;Airport;Aeropuerto;Aéroport;Aeroporto;;;;;デュッセルドルフ;뒤셀도르프;;;Дюссельдорф;;;
 7576;Duisburg Hbf;duisburg-hbf;8010316;;6.775906;51.429786;;f;DE;f;Europe/Berlin;t;DEDUI;;t;;f;8000086;t;;f;;f;;f;;f;108010316;t;f;;;Main station;Duisburgo Estación central;Duisbourg Gare centrale;Stazione centrale;;;;;デュイスブルク;뒤스부르크;;Duisburgo;Дуйсбург;;;杜伊斯堡
