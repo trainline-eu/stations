@@ -3774,14 +3774,14 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5017;Pyrénées-2000;pyrenees-2000;8700349;87003491;2.0600008964538574;42.514744891509814;;f;FR;f;Europe/Paris;t;FRPYR;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5018;Pouzauges;pouzauges;;;-0.8333330000;46.7833330000;;t;FR;f;Europe/Paris;f;FRPZG;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5019;Le Pouzin Centre;le-pouzin-centre;8776440;87764407;4.747509956359863;44.75088212314229;;f;FR;f;Europe/Paris;t;FRPZN;;t;;f;8705266;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5021;Aime-la-Plagne;aime-la-plagne;8774176;87741769;6.648394;45.554202;;f;FR;f;Europe/Paris;t;FRQAI;ANJ;t;QAI;t;8700431;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5021;Aime-la-Plagne;aime-la-plagne;8774176;87741769;6.648394;45.554202;;f;FR;f;Europe/Paris;t;FRQAI;ANJ;t;QAI;t;8700431;f;XAI;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5022;Amiens;amiens;8731387;87313874;2.3081427812576294;49.89055645889729;10605;f;FR;f;Europe/Paris;t;FRQAM;AMS;t;;f;8700001;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;アミアン;아미앵;;;Амьен;;;亞眠
 5023;Lasseran;lasseran;8761719;87617191;0.5333330000;43.5833330000;;f;FR;f;Europe/Paris;t;FRQBB;;t;;f;8706172;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5024;St-Jean-le-Comtal;st-jean-le-comtal;8761718;87617183;0.5166670000;43.5833330000;;f;FR;f;Europe/Paris;t;FRQBC;;t;;f;8706173;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5025;Labejan;labejan;8761717;87617175;0.447204;43.540133;;f;FR;f;Europe/Paris;t;FRQBD;;t;;f;8706174;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5026;Miramont-d’Astarac;miramont-dastarac;8761716;87617167;0.421288;43.532403;;f;FR;f;Europe/Paris;t;FRQBE;;t;;f;8706175;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5027;Joyeuse;joyeuse;8755580;87555805;4.2333330000;44.4833330000;;f;FR;f;Europe/Paris;t;FRQBG;;t;;f;8703513;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5028;Bourg-St-Maurice;bourg-st-maurice;8774179;87741793;6.771526336669922;45.618765169916266;;f;FR;f;Europe/Paris;t;FRQBM;BSM;t;QBM;t;8700130;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;Бур-Сен-Морис;;;
+5028;Bourg-St-Maurice;bourg-st-maurice;8774179;87741793;6.771526336669922;45.618765169916266;;f;FR;f;Europe/Paris;t;FRQBM;BSM;t;QBM;t;8700130;f;XBM;t;;f;;f;;f;;f;t;;;;;;;;;;;;;;;Бур-Сен-Морис;;;
 5029;Besançon;besancon;;;6.02432;47.23792;;t;FR;f;Europe/Paris;t;FRQBQ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;Besanzón;;;;;;;ブザンソン;브장송;;;Безансон;;;贝桑松
 5030;La Courtine;la-courtine;8744525;87445254;2.2666670000;45.7000000000;;f;FR;f;Europe/Paris;t;FRQCD;;t;;f;8704913;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5031;Moutier-Rozeille;moutier-rozeille;8744504;87445049;2.19157;45.916477;;f;FR;f;Europe/Paris;t;FRQCE;;t;;f;8704069;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -3791,7 +3791,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5035;Langres Bel Air;langres-bel-air;8721610;87216101;5.34859;47.852726;5032;f;FR;f;Europe/Paris;t;FRWGS;;t;;f;8705134;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5036;Langres Boulière;langres-bouliere;8721607;87216077;5.332931;47.845229;5032;f;FR;f;Europe/Paris;t;FRVGS;;t;;f;8705135;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5037;Les Cauquillous;les-cauquillous;8732802;87328021;1.754685;43.734013;;f;FR;f;Europe/Paris;t;FRQLS;;t;;f;8705267;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5038;Moûtiers—Salins;moutiers-salins;8774172;87741728;6.531454;45.486693;;f;FR;f;Europe/Paris;t;FRQMU;MOS;t;QMU;t;8700129;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
+5038;Moûtiers—Salins;moutiers-salins;8774172;87741728;6.531454;45.486693;;f;FR;f;Europe/Paris;t;FRQMU;MOS;t;QMU;t;8700129;f;XMO;t;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 5039;Annemasse;annemasse;8774549;87745497;6.236371994018555;46.19928993718554;;f;FR;f;Europe/Paris;t;FRQNJ;ANE;t;QNJ;t;8700131;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;アヌマッス;;;;;;;安纳马斯
 5041;Mâcon;macon;;;4.8333330000;46.3000000000;;t;FR;f;Europe/Paris;t;FRQNX;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;マコン;마콩;;;Макон;;;马孔
 5042;Arras;arras;8734201;87342014;2.781364917755127;50.286933167844474;;f;FR;f;Europe/Paris;t;FRQRV;ARR;t;;f;8700071;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;アラス;아라스;;;Аррас-сюр-Рон;;;罗讷河畔阿尔拉
@@ -21574,3 +21574,5 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23129;Châteauroux Lycée Giraudoux;chateauroux-lycee-giraudoux;8768998;;;;1503;f;FR;f;Europe/Paris;f;FRJKU;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23130;Châteauroux Médiathèque;chateauroux-mediatheque;8768951;;;;1503;f;FR;f;Europe/Paris;f;FRJLR;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23131;Châteauroux Préfecture;chateauroux-prefecture;8769015;;;;1503;f;FR;f;Europe/Paris;f;FRJKX;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23132;L’Alpe d’Huez;lalpe-dhuez;;;6.06531;45.09043;;f;FR;f;Europe/Paris;t;;;f;;f;;f;XAZ;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23133;Les Deux Alpes;les-deux-alpes;;;6.12415;45.01098;;f;FR;f;Europe/Paris;t;;;f;;f;;f;XLA;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
