@@ -21423,7 +21423,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22978;Neubourg;neubourg;8767871;;;;;f;FR;f;Europe/Paris;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;973;;;;;;;;;;;;;;;;;
 22979;Buswiller;buswiller;8793698;;;;;f;FR;f;Europe/Paris;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;5259;;;;;;;;;;;;;;;;;
 22980;London;london;9900007;;;;;f;GB;f;Europe/London;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;8267;;;;;;;;;;;;;;;;;
-22981;Carpentras;carpentras;8776573;;5.04500;44.04877;;f;FR;f;Europe/Paris;t;FRIIM;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;カルパントラ;;;;Карпантрас;;;卡庞特拉
+22981;Carpentras;carpentras;8776573;;5.04500;44.04877;;f;FR;f;Europe/Paris;t;FRIIM;;t;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;カルパントラ;;;;Карпантрас;;;卡庞特拉
 22982;Entraigues Sur la Sorgue;entraigues-sur-la-sorgue;8776582;;4.92315;44.00533;;f;FR;f;Europe/Paris;t;FRTNF;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22983;Monteux;monteux;8776581;;4.99331;44.0371;;f;FR;f;Europe/Paris;t;FRTNB;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22984;Strasbourg gare Bd M;strasbourg-gare-bd-m;;;;;5260;f;FR;f;Europe/Paris;f;;;f;;f;8789023;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
