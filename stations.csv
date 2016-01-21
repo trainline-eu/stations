@@ -21576,3 +21576,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23131;Châteauroux Préfecture;chateauroux-prefecture;8769015;;;;1503;f;FR;f;Europe/Paris;f;FRJKX;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23132;L’Alpe d’Huez;lalpe-dhuez;;;6.06531;45.09043;;f;FR;f;Europe/Paris;t;;;f;;f;;f;XAZ;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23133;Les Deux Alpes;les-deux-alpes;;;6.12415;45.01098;;f;FR;f;Europe/Paris;t;;;f;;f;;f;XLA;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23134;Nice Pont Michel;nice-pont-michel;8759029;87590299;7.29143;43.722216;4836;f;FR;f;Europe/Paris;t;FRTMU;;t;;f;;f;;f;;f;;f;;f;;f;f;;Nizza;;Niza;;Nizza;;;;Nizza;ニース;니스;Nicea;;Ницца;;;尼斯
