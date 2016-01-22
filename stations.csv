@@ -16203,11 +16203,11 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17736;Schaerbeek;schaerbeek;8811007;;4.3786540000;50.8784050000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800001;t;;f;;f;;f;;f;;f;f;;;;;;;Schaarbeek;;;;スカールベーク;;;;Схарбек;;;斯哈尔贝克
 17737;Bruxelles-Central;bruxelles-central;8813003;;4.3570620000;50.8454960000;;f;BE;f;Europe/Brussels;t;BEBCE;;f;;f;8800003;t;;f;;f;;f;;f;;f;f;;Brüssel;Brussels;Bruselas;;;Brussel;Brusel;;Brüsszel;ブリュッセル;브뤼셀;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 17738;Bruxelles-Luxembourg;bruxelles-luxembourg;8811304;;4.3739980000;50.8388080000;5974;f;BE;f;Europe/Brussels;t;BEBQL;;f;;f;8800005;t;;f;;f;;f;;f;;f;f;;Brüssel;Brussels;Bruselas;;;Brussel;Brusel;;Brüsszel;ブリュッセル;브뤼셀;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
-17739;Halle;halle;8814308;;4.2400850000;50.7333730000;;f;BE;f;Europe/Brussels;t;BEHAB;;f;;f;8800006;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Hal, Belgique;Belgio;;;;;;;;;;;;
+17739;Halle;halle;8814308;;4.2400850000;50.7333730000;;f;BE;f;Europe/Brussels;t;BEHAB;;f;;f;8800006;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Hal, Belgique;Belgio;België;;;;;;;;;;;
 17740;Antwerpen-Berchem;antwerpen-berchem;8821121;;4.4324640000;51.1995270000;;f;BE;f;Europe/Brussels;t;BEBHM;;f;;f;8800008;t;;f;;f;;f;;f;;f;f;;;Antwerp;;Anvers;Anversa;;;;;;;;;;;;
-17741;Essen;essen;8821402;;4.4509990000;51.4626410000;;f;BE;f;Europe/Brussels;t;BEESS;;f;;f;8800009;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17741;Essen;essen;8821402;;4.4509990000;51.4626410000;;f;BE;f;Europe/Brussels;t;BEESS;;f;;f;8800009;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17742;Mechelen;mechelen;8822004;;4.4834680000;51.0175040000;;f;BE;f;Europe/Brussels;t;BEAAH;;f;;f;8800010;t;;f;;f;;f;;f;;f;f;;Mecheln;;Malinas;Malines;Malines;;;;;メヘレン;메헬렌;;;Мехелен;;;梅赫伦
-17743;Ans;ans;8841202;;5.5096860000;50.6610280000;;f;BE;f;Europe/Brussels;t;BEAAK;;f;;f;8800013;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;アンス;;;;Анс;;;昂斯
+17743;Ans;ans;8841202;;5.5096860000;50.6610280000;;f;BE;f;Europe/Brussels;t;BEAAK;;f;;f;8800013;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;アンス;;;;Анс;;;昂斯
 17744;Rivage;rivage;8842705;;5.5859680000;50.4850370000;;f;BE;f;Europe/Brussels;t;BEAAL;;f;;f;8800014;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17745;Flemalle-Haute;flemalle-haute;8843208;;5.4562270000;50.5947150000;;f;BE;f;Europe/Brussels;t;BEAAM;;f;;f;8800015;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17746;Andenne;andenne;8863404;;5.0946630000;50.4968400000;;f;BE;f;Europe/Brussels;t;BEAAS;;f;;f;8800019;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Анден;;;昂代讷
@@ -16251,7 +16251,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17784;Jemeppe-sur-Sambre;jemeppe-sur-sambre;8874724;;4.6641520000;50.4516520000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800069;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17785;Jette;jette;8812047;;4.3285930000;50.8808860000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800070;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ジェット;;;;Жет;;;热特
 17786;Jurbise;jurbise;8881166;;3.9101180000;50.5302350000;;f;BE;f;Europe/Brussels;t;BEJBS;;f;;f;8800071;t;;f;;f;;f;;f;;f;f;;;;;;;Jurbeke;;;;;;;;;;;
-17787;Kapellen;kapellen;8821535;;4.4326520000;51.3133750000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800072;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17787;Kapellen;kapellen;8821535;;4.4326520000;51.3133750000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800072;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17788;Knokke;knokke;8891660;;3.2848830000;51.3398310000;;f;BE;f;Europe/Brussels;t;BEKKK;;f;;f;8800074;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17789;Koksijde;koksijde;8892320;;2.6530850000;51.0790900000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800075;t;;f;;f;;f;;f;;f;f;;;;;Coxyde;;;;;;;;;;Коксейде;;;科克赛德
 17790;Kortemark;kortemark;8892403;;3.0431900000;51.0250550000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800076;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -16317,15 +16317,15 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17850;Bokrijk;bokrijk;8831781;;5.4084400000;50.9556680000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800210;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17851;Bruxelles-Chapelle;bruxelles-chapelle;8813037;;4.3486300000;50.8412260000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800211;t;;f;;f;;f;;f;;f;f;;Brüssel;Brussels;Bruselas;;;Brussel;Brusel;;Brüsszel;ブリュッセル;브뤼셀;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 17852;Bruxelles-Congrès;bruxelles-congres;8813045;;4.3622040000;50.8515190000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800212;t;;f;;f;;f;;f;;f;f;;Brüssel;Brussels;Bruselas;;;Brussel;Brusel;;Brüsszel;ブリュッセル;브뤼셀;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
-17853;Buda;buda;8811148;;4.4178830000;50.9084200000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800213;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17853;Buda;buda;8811148;;4.4178830000;50.9084200000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800213;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17854;Weerde;weerde;8822251;;4.4708380000;50.9775110000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800216;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17855;Duffel;duffel;8822210;;4.4928080000;51.0916300000;;f;BE;f;Europe/Brussels;t;BEDUF;;f;;f;8800218;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17856;Kontich;kontich;8821311;;4.4766010000;51.1342380000;;f;BE;f;Europe/Brussels;t;BEKTK;;f;;f;8800219;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17857;Hove;hove;8821337;;4.4657330000;51.1531070000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800220;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17857;Hove;hove;8821337;;4.4657330000;51.1531070000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800220;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17858;Mortsel-Oude God;mortsel-oude-god;8821238;;4.4557640000;51.1711840000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800221;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17859;Mortsel-Deurnesteenweg;mortsel-deurnesteenweg;8821154;;4.4472330000;51.1823400000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800222;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17860;Melkouwen;melkouwen;8821824;;4.6720260000;51.0948120000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800223;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17861;Alken;alken;8831039;;5.2925330000;50.8868190000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800225;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17861;Alken;alken;8831039;;5.2925330000;50.8868190000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800225;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17862;Etterbeek;etterbeek;8811411;;4.3905380000;50.8213600000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800227;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;エテルベーク;;;;Эттербек;;;埃特尔贝克
 17863;Delta;delta;8811205;;4.4039140000;50.8184560000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800228;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17864;Merode;merode;8811197;;4.3999770000;50.8388620000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800229;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -16363,13 +16363,13 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17896;Fraipont;fraipont;8844255;;5.7241860000;50.5650590000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800266;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17897;Nessonvaux;nessonvaux;8844230;;5.7420840000;50.5719630000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800267;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17898;Tilff;tilff;8842630;;5.5841530000;50.5705880000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800270;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17899;Méry;mery;8842648;;5.5872990000;50.5475390000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800271;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17899;Méry;mery;8842648;;5.5872990000;50.5475390000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800271;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17900;Hony;hony;8842655;;5.5735180000;50.5397640000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800272;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17901;Esneux;esneux;8842663;;5.5727810000;50.5305770000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800273;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17902;Vielsalm;vielsalm;8845146;;5.9091310000;50.2788250000;;f;BE;f;Europe/Brussels;t;BEAAP;;f;;f;8800274;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Вьельсальм;;;维尔萨姆
 17903;Comblain-la-Tour;comblain-la-tour;8842838;;5.5671180000;50.4567660000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800276;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17904;Hamoir;hamoir;8842846;;5.5337410000;50.4282260000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800277;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17905;Sy;sy;8842853;;5.5238080000;50.4030650000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800278;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17905;Sy;sy;8842853;;5.5238080000;50.4030650000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800278;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17906;Bomal;bomal;8864469;;5.5194030000;50.3769420000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800279;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17907;Melreux-Hotton;melreux-hotton;8864436;;5.4404510000;50.2839310000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800280;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17908;Marche-en-Famenne;marche-en-famenne;8864410;;5.3458480000;50.2223370000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800281;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -16406,14 +16406,14 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17939;Wespelaar-Tildonk;wespelaar-tildonk;8822525;;4.6388290000;50.9579240000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800324;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17940;Haacht;haacht;8822517;;4.6131920000;50.9661310000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800325;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17941;Boortmeerbeek;boortmeerbeek;8822475;;4.5733960000;50.9821500000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800326;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17942;Hever;hever;8822459;;4.5379520000;50.9975390000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800327;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17942;Hever;hever;8822459;;4.5379520000;50.9975390000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800327;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17943;Gentbrugge;gentbrugge;8893179;;3.7560880000;51.0388090000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800328;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17944;Wondelgem;wondelgem;8893211;;3.7196550000;51.0891930000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800329;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17945;Sleidinge;sleidinge;8893260;;3.6678590000;51.1261750000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800330;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17946;Waarschoot;waarschoot;8893815;;3.6152180000;51.1544190000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800331;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17947;Eeklo;eeklo;8893708;;3.5748840000;51.1809910000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800332;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17948;Nieuwkerken-Waas;nieuwkerken-waas;8894714;;4.1853140000;51.1853420000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800334;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17949;Zwijndrecht;zwijndrecht;8894821;;4.3299600000;51.2141080000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800336;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17949;Zwijndrecht;zwijndrecht;8894821;;4.3299600000;51.2141080000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800336;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17950;Zellik;zellik;8812062;;4.2754400000;50.8896150000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800337;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17951;Asse;asse;8812070;;4.2083350000;50.9064970000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800338;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17952;Mollem;mollem;8812112;;4.2164620000;50.9328530000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800339;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -16435,7 +16435,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17968;Gavere-Asper;gavere-asper;8892643;;3.6399660000;50.9290960000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800362;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17969;Eine;eine;8892627;;3.6237580000;50.8703870000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800364;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17970;Haaltert;haaltert;8895869;;4.0238320000;50.9068470000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800366;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17971;Ede;ede;8895877;;3.9875420000;50.9111440000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800367;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;;;;;;;;;;;;
+17971;Ede;ede;8895877;;3.9875420000;50.9111440000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800367;t;;f;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17972;Terhagen;terhagen;8895448;;3.8964910000;50.9016520000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800368;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17973;Herzele;herzele;8895430;;3.8798340000;50.8971210000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800369;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17974;Hillegem;hillegem;8895422;;3.8581610000;50.8915390000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800370;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
