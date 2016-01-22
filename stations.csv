@@ -16299,7 +16299,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17832;Couvin;couvin;8875127;;4.4920620000;50.0565940000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800182;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;クーヴァン;;;;Кувен;;;库万
 17833;Kalmthout;kalmthout;8821444;;4.4665060000;51.3913750000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800183;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17834;Huy;huy;8843307;;5.2334560000;50.5270260000;;f;BE;f;Europe/Brussels;t;BEHUY;;f;;f;8800185;t;;f;;f;;f;;f;;f;f;;;;;;;Hoei;;;;ユイ;;;;Юи;;;于伊
-17835;Antwerpen-Luchtbal;antwerpen-luchtbal;8821063;;4.4248320000;51.2447340000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800187;t;;f;;f;;f;;f;;f;f;;;;;Anvers;;;;;;;;;;;;;
+17835;Antwerpen-Luchtbal;antwerpen-luchtbal;8821063;;4.4248320000;51.2447340000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800187;t;;f;;f;;f;;f;;f;f;;;Antwerp;;Anvers;;;;;;;;;;;;;
 17836;Antwerpen-Noorderdokken;antwerpen-noorderdokken;8821089;;4.4278340000;51.2616160000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800188;t;;f;;f;;f;;f;;f;f;;;Antwerp;;Anvers;Anversa;;;;;;;;;;;;
 17837;Ekeren;ekeren;8821071;;4.4342610000;51.2815180000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800189;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17838;Sint-Mariaburg;sint-mariaburg;8821543;;4.4349900000;51.2913790000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800190;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
