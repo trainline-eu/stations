@@ -16259,8 +16259,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 17792;Leopoldsburg;leopoldsburg;8832003;;5.2578350000;51.1175000000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800080;t;;f;;f;;f;;f;;f;f;;;;;Bourg-Léopold;;;;;;;;;;;;;
 17793;Lessines;lessines;8886504;;3.8368920000;50.7131840000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800081;t;;f;;f;;f;;f;;f;f;;;;;;;Lessen;;;;;;;;;;;
 17794;Lichtervelde;lichtervelde;8892205;;3.1272120000;51.0250280000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800082;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17795;Tienen;tienen;8833308;;4.9256120000;50.8077590000;;f;BE;f;Europe/Brussels;t;BEAAF;;f;;f;8800085;t;;f;;f;;f;;f;;f;f;;;;;Tirlemont;;;;;;;;;;;;;
-17796;Tongeren;tongeren;8831310;;5.4737560000;50.7840010000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800086;t;;f;;f;;f;;f;;f;f;;;;;Tongres;;;;;;トンヘレン;통에런;;;Тонгерен;;;通厄伦
+17795;Tienen;tienen;8833308;;4.9256120000;50.8077590000;;f;BE;f;Europe/Brussels;t;BEAAF;;f;;f;8800085;t;;f;;f;;f;;f;;f;f;;Thienen;;;Tirlemont;;;;;;;;;;;;;
+17796;Tongeren;tongeren;8831310;;5.4737560000;50.7840010000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800086;t;;f;;f;;f;;f;;f;f;;Tongern;;;Tongres;;;;;;トンヘレン;통에런;;;Тонгерен;;;通厄伦
 17797;Trois-Ponts;trois-ponts;8845203;;5.8730300000;50.3690500000;;f;BE;f;Europe/Brussels;t;BEAAQ;;f;;f;8800088;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17798;Vilvoorde;vilvoorde;8811189;;4.4330390000;50.9245650000;;f;BE;f;Europe/Brussels;t;BEVVD;;f;;f;8800090;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17799;Walcourt;walcourt;8873007;;4.4360230000;50.2592370000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800091;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Валькур;;;瓦尔库尔
