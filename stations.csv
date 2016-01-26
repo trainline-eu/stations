@@ -4550,7 +4550,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5953;Froyennes;froyennes;8885068;;3.354837;50.62989;;f;BE;f;Europe/Brussels;f;BEACB;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5954;Gouvy Frontière;gouvy-frontiere;8800340;;;;;f;BE;f;Europe/Brussels;f;BEACD;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5955;Sterpenich Frontière;sterpenich-frontiere;8800342;;;;;f;BE;f;Europe/Brussels;f;BEACE;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5956;Vise Frontière;vise-frontiere;8800308;;;;;f;BE;f;Europe/Brussels;f;BEACF;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5956;Visé Frontière;vise-frontiere;8800308;;;;;f;BE;f;Europe/Brussels;f;BEACF;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5957;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5958;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5959;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4597,7 +4597,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6000;Mons;mons;8881000;;3.9446711540222164;50.45612423580516;;f;BE;f;Europe/Brussels;t;BEQMO;;t;;f;8800025;t;;f;;f;;f;;f;;f;f;;;;;;;Bergen;;;;モンス;몽스;;;Монс;;;蒙斯
 6001;Namur;namur;8863008;;4.8624990000;50.4689830000;;f;BE;f;Europe/Brussels;t;BEQNM;;t;;f;8800018;t;;f;;f;;f;;f;;f;f;;;;;;;Namen;;;;ナミュール;나무르;;;Намюр;;;那慕爾
 6002;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6003;Quevy Ville;quevy-ville;;;;;;t;BE;f;Europe/Brussels;f;BEQUE;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+6003;Quévy Ville;quevy-ville;;;;;;t;BE;f;Europe/Brussels;f;BEQUE;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6004;;;;;;;5974;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6005;Schaerbeek;schaerbeek;8811015;;;;;f;BE;f;Europe/Brussels;f;BESRB;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6006;Sterpenich Ville;sterpenich-ville;;;;;;t;BE;f;Europe/Brussels;f;BESTP;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
