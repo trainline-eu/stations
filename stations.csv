@@ -21055,7 +21055,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22610;Karlsruhe Hbf Südausgang;karlsruhe-hbf-sudausgang;;;8.401543;48.99219;7665;f;DE;f;Europe/Berlin;f;;;f;;f;8089390;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22611;Düsserldorf Hbf ZOB;dusseldorf-hbf-zob;;;6.794316;51.21996;7578;f;DE;f;Europe/Berlin;f;;;f;;f;8089323;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22612;Nürnberg ZOB;nurnberg-zob;;;11.085524;49.447655;;f;DE;f;Europe/Berlin;f;;;f;;f;8089291;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-22613;Antwerpen Centr. p.7;antwerpen-centr-p-7;;;4.42100465297699;51.21552672202654;5964;f;BE;f;Europe/Brussels;f;;;f;;f;8889007;t;;f;;f;;f;;f;;f;f;;;Antwerp;;Anvers;Anversa;;;;;;;;;;;;
+22613;Antwerpen Centraal (Perron 7, Koningin Astridplein);antwerpen-centraal-perron-7-koningin-astridplein;;;4.420681;51.218445;5964;f;BE;f;Europe/Brussels;f;;;f;;f;8889007;t;;f;;f;;f;;f;;f;f;;;Antwerp;;Anvers;Anversa;;;;;;;;;;;;
 22614;Zürich HB (Car Sihlq);zurich-hb-car-sihlq;8595460;;8.539203;47.378186;6401;f;DE;f;Europe/Berlin;f;;;f;;f;8595460;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22615;Eindhoven Stationsweg;eindhoven-stationsweg;;;5.4799500000;51.4430630000;;f;NL;f;Europe/Amsterdam;f;;;f;;f;8489006;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22616;Luxembourg Centr. 13;luxembourg-centr-13;;;6.134391;49.599717;8731;f;LU;t;Europe/Luxembourg;f;;;f;;f;8289100;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
