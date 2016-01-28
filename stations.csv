@@ -115,7 +115,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 150;Allenc;allenc;8778365;87783654;3.6666670000;44.5333330000;;f;FR;f;Europe/Paris;t;FRAEC;;t;;f;8702645;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 151;Pau;pau;8767200;87672006;-0.3697478771209717;43.29155258667031;5006;f;FR;t;Europe/Paris;t;FRAEE;PAU;t;;f;8700106;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ポー;;;;Пау;;;
 152;Hendaye;hendaye;8767700;87677005;-1.7820382118225098;43.3531128691334;5785;f;FR;t;Europe/Paris;t;FRAEF;HED;t;AEF;t;8700149;f;;f;;f;;f;;f;;f;t;;;;Hendaya;;;;;;;アンダイエ;;;;Андай;;;昂代伊
-153;Strasbourg;strasbourg;8721202;87212027;7.734067;48.585338;5260;f;FR;t;Europe/Paris;t;FRAEG;STG;t;AEG;f;8700023;t;XER;t;;f;;f;;f;;f;t;;Straßburg;;Estrasburgo;;Strasburgo;Straatsburg;Štrasburk;;;ストラスブール;스트라스부르;Strasburg;Estrasburgo;Страсбург;;Strazburg;斯特拉斯堡
+153;Strasbourg;strasbourg;8721202;87212027;7.734067;48.585338;5260;f;FR;t;Europe/Paris;f;FRAEG;STG;t;AEG;f;8700023;t;;f;;f;;f;;f;;f;t;;Straßburg;;Estrasburgo;;Strasburgo;Straatsburg;Štrasburk;;;ストラスブール;스트라스부르;Strasburg;Estrasburgo;Страсбург;;Strazburg;斯特拉斯堡
 154;Mertzwiller;mertzwiller;;;7.6833330000;48.8666670000;;t;FR;f;Europe/Paris;f;FRAEH;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 155;Mertzwiller;mertzwiller;8721320;87213207;7.677704;48.871609;154;f;FR;t;Europe/Paris;t;FRBVY;;t;;f;8701652;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 157;Colmar;colmar;8718201;87182014;7.346677780151368;48.07254485668853;1349;f;FR;t;Europe/Paris;t;FRAEJ;CMR;t;;f;8700178;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;コルマール;콜마르;;;Кольмар;;;科尔马
@@ -3957,7 +3957,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 5257;Les Forges-de-Clairvaux;les-forges-de-clairvaux;8721496;87214965;4.790009;48.164104;;f;FR;f;Europe/Paris;t;FRSVX;;t;;f;8705163;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5258;Schweighouse-sur-Moder;schweighouse-sur-moder;8721310;87213108;7.7333330000;48.8166670000;;f;FR;f;Europe/Paris;t;FRSWG;;t;;f;8701960;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5259;Buswiller;buswiller;8700623;87006239;7.5586800000;48.8196370000;;f;FR;f;Europe/Paris;t;FRSWR;;t;;f;8705742;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5260;Strasbourg;strasbourg;;;;;;t;FR;f;Europe/Paris;f;FRSXB;;t;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
+5260;Strasbourg;strasbourg;;;7.74593;48.58333;;t;FR;f;Europe/Paris;t;FRSXB;;f;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 5261;Cussy-les-Forges;cussy-les-forges;8720467;87204677;4.0333330000;47.4666670000;;f;FR;f;Europe/Paris;t;FRSYF;;t;;f;8705200;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5263;Saincaize;saincaize;8769626;87696260;3.0840680000;46.9076500000;;f;FR;f;Europe/Paris;t;FRSZE;SZE;t;;f;8700035;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5266;Gan;gan;8767261;87672618;-0.3833330000;43.2333330000;;f;FR;f;Europe/Paris;t;FRTAN;;t;;f;8704942;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21678,3 +21678,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23233;Wevelgem;wevelgem;8896370;;3.18352;50.811526;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23234;Wervik;wervik;8896396;;3.046983;50.781861;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23235;Poperinge;poperinge;8896735;;2.736343;50.854449;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23236;Strasbourg Gare Routière;strasbourg-gare-routiere;;;7.75436;48.57428;5260;f;FR;f;Europe/Paris;f;;;f;;f;;f;XER;t;;f;;f;;f;;f;f;;Straßburg;;Estrasburgo;;Strasburgo;Straatsburg;Štrasburk;;;ストラスブール;스트라스부르;Strasburg;Estrasburgo;Страсбург;;Strazburg;斯特拉斯堡
