@@ -20474,7 +20474,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22019;Vanzone-Isolella;vanzone-isolella;8300103;;8.28311;45.7163;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300103;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 22020;Vidalengo;vidalengo;8301709;;9.64007;45.5182;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301709;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 22021;Vigarano Pieve;vigarano-pieve;8332310;;11.506440639495848;44.85810477884712;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8332310;t;;f;;f;f;;;;;;;;;;;;;;;;;;
-22022;Modane Gare;modane-gare;8300253;;6.658873558044434;45.1934396301762;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300253;t;;f;;f;f;;;;;;;;;;;;;;;;;;
+22022;Modane Gare;modane-gare;8300253;;6.658873558044434;45.1934396301762;212;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8300253;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 22023;San Giorgio di Sassari;san-giorgio-di-sassari;8312805;;8.4705858;40.6902102;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312805;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 22024;Ottava;ottava;8313833;;8.471145629882812;40.78340103809933;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8313833;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 22025;Varedo;varedo;8325015;;9.15335;45.5955;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325015;t;;f;;f;f;;;;;;;;;;;ヴァレード;;;;;;;
