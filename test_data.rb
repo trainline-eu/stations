@@ -56,6 +56,14 @@ LOCALES = [
   "zh"
 ]
 
+SUGGESTABLE_LOCALES = [
+  "fr",
+  "en",
+  "de",
+  "it",
+  "es"
+]
+
 VIRTUAL_STATIONS = [
   "811",   # Basel SBB
   "972",   # Kehl Grenze
@@ -78,6 +86,21 @@ VIRTUAL_STATIONS = [
   "10431", # Forbach Frontière
   "10433", # Hanweiler Grenze
   "10439"  # Rodange Frontière
+]
+
+HOMONYM_STATIONS = [
+  "117",   # Forbach (France)
+  "17958", # Comines (Belgium)
+  "17989", # Lens (Belgium)
+  "18164", # Melle (Belgium)
+  "18006", # Leval (Belgium)
+  "18024", # Herne (Belgium)
+  "18894", # Borne (Netherlands)
+  "18937", # Haren (Netherlands)
+  "19016", # Soest (Netherlands)
+  "19053", # Zwijndrecht (Netherlands)
+  "11343", # Burgdorf (Germany)
+  "21261", # Lison (Italy)
 ]
 
 def slugify(name)
@@ -262,11 +285,35 @@ class StationsTest < Minitest::Test
     names = Set.new
 
     STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
+      if row["is_suggestable"] == "t" && !HOMONYM_STATIONS.include?(row["id"])
         assert !names.include?(row["name"]), "Duplicate name '#{row["name"]}'"
 
         names << row["name"]
       end
+    end
+  end
+
+  def test_homonym_suggestable
+    HOMONYM_STATIONS.each do |homonym_id|
+      homonym_station = STATIONS_BY_ID[homonym_id]
+      assert_equal homonym_station["is_suggestable"], "t", "Homonym station #{homonym_station["name"]} (#{homonym_station["id"]}) is not suggestable"
+    end
+  end
+
+  def test_homonym_information
+    HOMONYM_STATIONS.each do |homonym_id|
+      homonym_station = STATIONS_BY_ID[homonym_id]
+      SUGGESTABLE_LOCALES.each do |locale|
+        assert !homonym_station["info:#{locale}"].nil?, "Homonym station #{homonym_station["name"]} (#{homonym_station["id"]}) must have an info in “#{locale}”"
+      end
+    end
+  end
+
+  def test_homonym_exists
+    HOMONYM_STATIONS.each do |homonym_id|
+      homonym_station = STATIONS_BY_ID[homonym_id]
+      assert STATIONS.any? { |station| station["id"] != homonym_station["id"] && station["name"] == homonym_station["name"] && station["is_suggestable"] == "t" },
+              "Station #{homonym_station["name"]} (#{homonym_station["id"]}) does not have a suggestable homonym station"
     end
   end
 
@@ -323,17 +370,27 @@ class StationsTest < Minitest::Test
     assert_equal slugify("Figueras/Figueres Vilafant Esp."), "figueras-figueres-vilafant-esp"
   end
 
-  def test_slugs
+  def test_unique_slugs
     unique_set = Set.new
 
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
-        assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} has not a correct slug"
         assert !unique_set.include?(row["slug"]), "Duplicated slug '#{row["slug"]}' for station #{row["id"]}"
         unique_set << row["slug"]
       end
     end
+  end
 
+  def test_correct_slugs
+    STATIONS.each do |row|
+      if row["is_suggestable"] == "t"
+        if !HOMONYM_STATIONS.include?(row["id"])
+          assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} has not a correct slug"
+        else
+          assert_match(/\A#{slugify(row["name"])}-[a-z]+\z/, row["slug"], "Station #{row["id"]} has not a correct slug")
+        end
+      end
+    end
   end
 
   def test_metastation_have_multiple_children
