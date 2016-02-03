@@ -9029,7 +9029,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 10522;Wien (Vienne) Westbahnhof;wien-vienne-westbahnhof;;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10523;Villach Hbf;villach-hbf;8103654;;13.8485380000;46.6186240000;;f;AT;f;Europe/Vienna;t;ATVIC;;f;;f;8100147;t;;f;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;フィラッハ;필라흐;;;Филлах;;;菲拉赫
 10524;;;8103656;;;;;f;AT;f;Europe/Vienna;f;ATAHD;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10525;Zaragoza Delicias;zaragoza-delicias;7171000;;-0.9099876880645752;41.658384928939746;;f;ES;f;Europe/Madrid;t;ESZAZ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10525;Zaragoza Delicias;zaragoza-delicias;7171000;;;;;f;ES;f;Europe/Madrid;f;ESZAZ;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10526;Cloyes Centre;cloyes-centre;8734315;;1.23014688491821;47.9975107867748;10708;f;FR;f;Europe/Paris;f;FREUU;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10527;;;8745359;;;;;f;FR;f;Europe/Paris;f;FREGM;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10528;Uzel Aire de covoiturage (Berlouze);uzel-aire-de-covoiturage-berlouze;8756293;87562934;-2.786080;48.271138;10789;f;FR;t;Europe/Paris;t;FRUPZ;;t;;f;8706550;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21118,7 +21118,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22673;Ashford International;ashford-international;7050040;;;;;f;GB;f;Europe/London;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;8155;;;;;;;;;;;;;;;;;
 22674;Ebbsfleet International;ebbsfleet-international;7055660;;;;;f;GB;f;Europe/London;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;8224;;;;;;;;;;;;;;;;;
 22675;Tübingen Hbf;tubingen-hbf;8029318;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;7343;;;;;;;;;;;;;;;;;
-22676;Zaragoza Delicias;zaragoza-delicias;7104040;;;;;f;ES;f;Europe/Madrid;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;10525;;;;;;;;;;;;;;;;;
+22676;Zaragoza Delicias;zaragoza-delicias;7104040;;-0.9099876880645752;41.658384928939746;;f;ES;f;Europe/Madrid;t;ESZAA;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22677;Reutlingen Hbf;reutlingen-hbf;8029309;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;7213;;;;;;;;;;;;;;;;;
 22678;Lübeck Hbf;lubeck-hbf;8001631;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;7676;;;;;;;;;;;;;;;;;
 22679;Oldenburg (Oldb);oldenburg-oldb;8021207;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;7178;;;;;;;;;;;;;;;;;
