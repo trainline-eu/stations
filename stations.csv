@@ -168,8 +168,8 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 211;Limoges Bénédictins;limoges-benedictins;8759200;87592006;1.267245;45.836419;4651;f;FR;t;Europe/Paris;t;FRAGQ;LIM;t;;f;8700029;f;XLS;t;;f;;f;;f;;f;t;;;;;;;;;;;リモージュ;리모주;;;Лимож;;;利摩日
 212;Modane;modane;8774200;87742007;6.659023761749268;45.193500116356404;;f;FR;f;Europe/Paris;t;FRAGR;MOD;t;;f;8700127;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 213;Agos;agos;8762007;87620070;-0.0666670000;43.0333330000;;f;FR;f;Europe/Paris;t;FRAGS;;t;;f;8702622;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-214;Argenton-sur-Creuse;argenton-sur-creuse;;;1.5166670000;46.5833330000;;t;FR;f;Europe/Paris;f;FRAGT;;t;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
-215;Argenton-sur-Creuse;argenton-sur-creuse;8759712;87597120;1.518628;46.592394;214;f;FR;t;Europe/Paris;t;FRFMT;AGC;t;;f;8702299;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;Аржантон-сюр-Крёз;;;克勒斯河畔阿尔让通
+214;Argenton-sur-Creuse;argenton-sur-creuse;;;1.5166670000;46.5833330000;;t;FR;f;Europe/Paris;f;FRAGT;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+215;Argenton-sur-Creuse;argenton-sur-creuse;8759712;87597120;1.518628;46.592394;214;f;FR;t;Europe/Paris;t;FRFMT;AGC;t;;f;8702299;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Аржантон-сюр-Крёз;;;克勒斯河畔阿尔让通
 216;Argenton-sur-Creuse Gare Routière;argenton-sur-creuse-gare-routiere;8720156;87201566;1.503158;46.587009;214;f;FR;f;Europe/Paris;f;FRNCR;;t;;f;8705087;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 217;Roye;roye;8731350;87313502;2.7897226810455322;49.69805004945369;17478;f;FR;t;Europe/Paris;t;FRAGU;;t;;f;8701860;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 218;Agay;agay;8775755;87757559;6.856513;43.431382;;f;FR;f;Europe/Paris;t;FRAGY;;t;;f;8700588;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -688,7 +688,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 878;Brettnach;brettnach;8719316;87193169;6.5666670000;49.2500000000;;f;FR;f;Europe/Paris;t;FRBRE;;t;;f;8700766;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 879;Bouzonville;bouzonville;8719317;87193177;6.5333330000;49.3000000000;9042;f;FR;t;Europe/Paris;t;FRBRF;;t;;f;8700333;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 880;Hombourg-Budange Haut;hombourg-budange-haut;8719327;87193276;6.7666670000;49.1333330000;3641;f;FR;f;Europe/Paris;t;FRBRI;;t;;f;8700525;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-881;St-Avold;st-avold;8719331;87193318;6.70741081237793;49.10538487281865;;f;FR;f;Europe/Paris;t;FRBRJ;;t;;f;8700269;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
+881;St-Avold;st-avold;8719331;87193318;6.70741081237793;49.10538487281865;;f;FR;f;Europe/Paris;t;FRBRJ;;t;;f;8700269;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 882;Teting;teting;8719334;87193342;6.66373;49.051707;;f;FR;f;Europe/Paris;t;FRBRK;;t;;f;8700556;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 883;Faulquemont;faulquemont;8719335;87193359;6.604124307632446;49.04545288521868;;f;FR;f;Europe/Paris;t;FRBRL;;t;;f;8700268;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 884;Herny;herny;8719338;87193383;6.4833330000;49.0000000000;;f;FR;f;Europe/Paris;t;FRBRN;;t;;f;8701294;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
