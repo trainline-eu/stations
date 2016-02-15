@@ -21083,7 +21083,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 22638;Sucé-sur-Erdre;suce-sur-erdre;8759082;;-1.52991;47.34335;;f;FR;f;Europe/Paris;t;FRVKU;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22639;La Chapelle Aulnay;la-chapelle-aulnay;8759036;;-1.54143;47.30875;;f;FR;f;Europe/Paris;t;FRVKT;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22640;La Chapelle Centre;la-chapelle-centre;8748156;;-1.54686;47.29711;;f;FR;f;Europe/Paris;t;FREIF;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-22641;La Chapelle Erdre Active;la-chapelle-erdre-active;8763662;;-1.54445;47.28284;;f;FR;f;Europe/Paris;t;FRRPL;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+22641;La Chapelle Erdre Active;la-chapelle-erdre-active;8759035;;-1.54445;47.28284;;f;FR;f;Europe/Paris;t;FRVKS;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22642;Babinière;babiniere;8759034;;-1.54417;47.25878;;f;FR;f;Europe/Paris;t;FRVKR;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22643;Haluchère Batignolles;haluchere-batignolles;8759033;;-1.52264;47.24878;;f;FR;f;Europe/Paris;t;FRVKQ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22644;Wien Hbf;wien-hbf;8101003;;16.375864;48.184923;;f;AT;f;Europe/Vienna;t;ATALV;;f;;f;8103000;t;;f;;f;;f;;f;;f;f;;;Vienna Main station;Viena Estación central;Vienne Gare centrale;Vienna Stazione centrale;Wenen;Vídeň;;Bécs;;빈;Wiedeń;Viena;Вена;;Viyana;
