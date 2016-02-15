@@ -1439,7 +1439,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 1944;Gaillon—Aubevoye;gaillon-aubevoye;8741562;87415620;1.352741;49.174644;;f;FR;f;Europe/Paris;t;FRDQE;GAA;t;;f;8703364;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1945;St-Pierre-du-Vauvray;st-pierre-du-vauvray;8741564;87415646;1.2166670000;49.2333330000;;f;FR;f;Europe/Paris;t;FRDQG;;t;;f;8704639;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1946;Pont-de-l’Arche;pont-de-larche;8741566;87415661;1.1666670000;49.3000000000;;f;FR;f;Europe/Paris;t;FRDQH;;t;;f;8704264;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;蓬德拉尔克
-1948;Louviers;louviers;8741585;87415851;1.1666670000;49.2166670000;;f;FR;t;Europe/Paris;t;FRDQK;;t;;f;8703843;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+1948;Louviers;louviers;8741585;87415851;1.1773449182510376;49.21591516908271;;f;FR;t;Europe/Paris;f;FRDQK;;t;;f;8703843;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1949;Rosny-sur-Seine;rosny-sur-seine;8741588;87415885;1.6302037239074707;48.99739539415905;;f;FR;f;Europe/Paris;t;FRDQL;RSS;t;;f;8704388;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1950;Bonnières;bonnieres;8741589;87415893;1.4833330000;49.0166670000;;f;FR;f;Europe/Paris;t;FRDQM;BNR;t;;f;8702867;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1951;Bures-en-Bray Carrefour;bures-en-bray-carrefour;8741913;87419135;1.3333330000;49.7833330000;;f;FR;f;Europe/Paris;t;FRDQP;;t;;f;8702939;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -9004,7 +9004,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 10497;La Voulte Cité;la-voulte-cite;8733870;;4.793147;44.81457;5667;f;FR;f;Europe/Paris;t;FRVTE;;t;;f;8705299;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10498;Besançon-Franche-Comté TGV;besancon-franche-comte-tgv;8730086;87300863;5.952674;47.307557;5029;f;FR;f;Europe/Paris;t;FRTJB;BFC;t;;f;8730086;t;;f;;f;;f;;f;;f;t;;;;Besanzón;;;;;;;ブザンソン;브장송;;;Безансон;;;贝桑松
 10499;Montauban Gare Routière;montauban-gare-routiere;8744184;87441840;1.339455;43.997756;;f;FR;f;Europe/Paris;f;FRUGA;;t;;f;8706018;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10500;Louviers Porte de l’eau;louviers-porte-de-leau;8740191;87401919;1.172606;49.192443;;f;FR;f;Europe/Paris;t;FRLPL;;t;;f;8705490;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10500;Louviers Porte de l’eau;louviers-porte-de-leau;8740191;87401919;1.1718195676803587;49.215736460009175;;f;FR;f;Europe/Paris;t;FRLPL;;t;;f;8705490;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10501;Montauban Prax;mountauban-prax;8744244;;;;;f;FR;f;Europe/Paris;f;FRUFZ;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10502;Budapest-Keleti;budapest-keleti;5510017;;19.085069;47.500385;18819;f;HU;f;Europe/Budapest;t;HUABU;;f;;f;5500003;t;;f;;f;;f;;f;;f;f;;;;;;;Boedapest;;;;ブダペスト;부다페스트;Budapeszt;Budapeste;Будапешт;;Budapeşte;布达佩斯
 10503;;;2019810;;;;;f;RU;f;Europe/Moscow;f;RUMAA;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
