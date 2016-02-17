@@ -7107,7 +7107,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 8521;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8522;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8523;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8524;Brescia;brescia;8301717;;10.212869;45.532161;;f;IT;f;Europe/Rome;t;ITQBS;;f;;f;8300048;f;;f;;f;8301717;t;;f;;f;f;;;;;;;;;;;ブレシア;;;;Брешия;;;布雷西亚
+8524;Brescia;brescia;8301717;;10.212869;45.532161;;f;IT;f;Europe/Rome;t;ITQBS;;f;;f;8300048;f;;f;;f;8301717;t;BSC;t;;f;f;;;;;;;;;;;ブレシア;;;;Брешия;;;布雷西亚
 8525;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8526;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8527;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
