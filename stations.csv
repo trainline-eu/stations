@@ -21679,3 +21679,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23234;Wervik;wervik;8896396;;3.046983;50.781861;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23235;Poperinge;poperinge;8896735;;2.736343;50.854449;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23236;Strasbourg Gare Routière;strasbourg-gare-routiere;;;7.75436;48.57428;5260;f;FR;f;Europe/Paris;f;;;f;;f;;f;XER;t;;f;;f;;f;;f;f;;Straßburg;;Estrasburgo;;Strasburgo;Straatsburg;Štrasburk;;;ストラスブール;스트라스부르;Strasburg;Estrasburgo;Страсбург;;Strazburg;斯特拉斯堡
+23237;Montgenèvre Gare Routière;montgenevre-gare-routiere;8763536;87635367;6.725900;44.931690;;f;FR;f;Europe/Paris;t;FRQRR;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
