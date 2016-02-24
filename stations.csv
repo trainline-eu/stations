@@ -21680,3 +21680,5 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23235;Poperinge;poperinge;8896735;;2.736343;50.854449;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23236;Strasbourg Gare Routière;strasbourg-gare-routiere;;;7.75436;48.57428;5260;f;FR;f;Europe/Paris;f;;;f;;f;;f;XER;t;;f;;f;;f;;f;f;;Straßburg;;Estrasburgo;;Strasburgo;Straatsburg;Štrasburk;;;ストラスブール;스트라스부르;Strasburg;Estrasburgo;Страсбург;;Strazburg;斯特拉斯堡
 23237;Montgenèvre Gare Routière;montgenevre-gare-routiere;8763536;87635367;6.725900;44.931690;;f;FR;f;Europe/Paris;t;FRQRR;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23238;La Grave Gare Routière;la-grave-gare-routiere;8769311;;6.3073955;45.0462406;;f;FR;f;Europe/Paris;t;FRPPU;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23239;Serre Chevalier Gare Routière;serre-chevalier-gare-routiere;8768604;;6.56;44.9461;;f;FR;f;Europe/Paris;t;FRVSV;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
