@@ -21722,3 +21722,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23277;Tétange;tetange;8200624;;6.034967;49.477429;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23278;Walferdange;walferdange;8200106;;6.13624382;49.66188049;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23279;Wecker;wecker;8200320;;6.386535;49.700013;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23280;Limoges Ciel;limoges-ciel;8769363;;1.2685953;45.8361587;4651;f;FR;f;Europe/Paris;f;FRODR;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;リモージュ;리모주;;;Лимож;;;利摩日
