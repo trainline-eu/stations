@@ -21682,3 +21682,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23237;Montgenèvre Gare Routière;montgenevre-gare-routiere;8763536;87635367;6.725900;44.931690;;f;FR;f;Europe/Paris;t;FRQRR;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23238;La Grave Gare Routière;la-grave-gare-routiere;8769311;;6.3073955;45.0462406;;f;FR;f;Europe/Paris;t;FRPPU;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23239;Serre Chevalier Gare Routière;serre-chevalier-gare-routiere;8768604;;6.56;44.9461;;f;FR;f;Europe/Paris;t;FRVSV;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23240;Eschweiler-St Jöris;eschweiler-st-joris;;;6.201675;50.8348556;;f;DE;f;Europe/Berlin;t;;;f;;f;8001917;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
