@@ -3484,7 +3484,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 4648;Gex Vertes Campagnes;gex-vertes-campagnes;8755691;87556910;6.055754;46.328129;4647;f;FR;f;Europe/Paris;t;FRXVC;;t;;f;8703393;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4649;Angoulins-sur-Mer;angoulins-sur-mer;8748510;87485102;-1.115444;46.108055;;f;FR;f;Europe/Paris;t;FRLHM;;t;;f;8705751;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4650;Libercourt;libercourt;8734525;87345256;3.0087625980377193;50.48021003841322;;f;FR;f;Europe/Paris;t;FRLIB;;t;;f;8701358;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-4651;Limoges;limoges;;;1.2500000000;45.8500000000;;t;FR;f;Europe/Paris;f;FRLIG;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+4651;Limoges;limoges;;;1.2651658058166504;45.83572150763156;;t;FR;f;Europe/Paris;f;FRLIG;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4652;Lille;lille;9901001;;3.0709308385849;50.63040208723645;;t;FR;f;Europe/Paris;t;FRLIL;;t;;f;8796003;f;;f;;f;;f;;f;;f;f;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 4653;Lille-Europe;lille-europe;8722326;87223263;3.0763649940490723;50.63927904928819;4652;f;FR;f;Europe/Paris;t;FRLLE;LEW;t;LLE;f;8704949;f;XDB;t;;f;;f;;f;;f;t;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 4654;Livron;livron;8776124;87761247;4.830545783042908;44.77960372778421;;f;FR;f;Europe/Paris;t;FRLIV;LIV;t;;f;8701404;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
