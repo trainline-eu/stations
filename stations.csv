@@ -4614,7 +4614,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 6017;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6018;Betten;betten;8501675;;;;;f;CH;f;Europe/Zurich;f;CHAAG;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6019;Campocologno;campocologno;8509368;;10.142097;46.233185;;f;CH;f;Europe/Zurich;f;CHAAH;;f;;f;8509368;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6020;Les Verrières;les-verrieres;8500255;;;;;f;CH;f;Europe/Zurich;f;CHAAI;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+6020;Les Verrières;les-verrieres;8500255;;6.479337;46.905269;;f;CH;f;Europe/Zurich;f;CHAAI;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6021;Domat/Ems;domat-slash-ems;8509181;;9.453137;46.833125;;f;CH;f;Europe/Zurich;f;CHAAJ;;f;;f;8509181;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6022;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6023;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21723,3 +21723,11 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23278;Walferdange;walferdange;8200106;;6.13624382;49.66188049;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23279;Wecker;wecker;8200320;;6.386535;49.700013;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23280;Limoges Ciel;limoges-ciel;8769363;;1.2685953;45.8361587;4651;f;FR;f;Europe/Paris;f;FRODR;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;リモージュ;리모주;;;Лимож;;;利摩日
+23281;Luzern SGV;luzern-sgv;118508460;;8.314994;47.047867;6353;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;Lucerne;Lucerna;Lucerne;Lucerna;;Lucern;;;ルツェルン;루체른;Lucerna;Lucerna;Люцерн;;;卢塞恩
+23282;Ascona;ascona;118505850;;8.769735;46.156599;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23283;Churwalden;churwalden;118509763;;9.543731;46.780322;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23284;Maloja;maloja;118509794;;9.695238;46.403645;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;Maloggia;;;;;;;;;;;;
+23285;Melchtal;melchtal;118508771;;8.289446;46.83468;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23286;Sils/Segl. Maria;sils-segl-maria;118509881;;9.765099;46.430233;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23287;Valbella;valbella;118509950;;9.556055;46.74949;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23288;Vitznau;vitznau;118508464;;8.483429;47.009381;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
