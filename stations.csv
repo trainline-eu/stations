@@ -15279,7 +15279,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 16772;Stuttgart Hbf (tief);stuttgart-hbf-tief;8029376;;9.179811;48.783002;;f;DE;f;Europe/Berlin;f;;;f;;f;8098096;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16773;Frankfurt Hbf (tief);frankfurt-hbf-tief;8067016;;8.664136;50.10741;;f;DE;f;Europe/Berlin;f;;;f;;f;8098105;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16774;Hamburg-Harburg (S);hamburg-harburg-s;8001043;;9.991564;53.456431;;f;DE;f;Europe/Berlin;f;;;f;;f;8098147;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-16775;Berlin Hbf (tief);berlin-hbf-tief;8031922;;13.369548;52.525589;7527;f;DE;f;Europe/Berlin;f;;;f;;f;8098160;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+16775;Berlin Hbf (tief);berlin-hbf-tief;8031922;;13.369548;52.525589;7630;f;DE;f;Europe/Berlin;f;;;f;;f;8098160;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16776;Kassel Hbf (tief);kassel-hbf-tief;8010737;;9.489786;51.318194;16766;f;DE;f;Europe/Berlin;f;;;f;;f;8098193;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16777;München Hbf Gl.27-36;munchen-hbf-gl-dot-27-36;8020348;;11.556711;48.141532;;f;DE;f;Europe/Berlin;f;;;f;;f;8098261;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16778;München Hbf Gl.5-10;munchen-hbf-gl-dot-5-10;8069685;;11.555372;48.140093;;f;DE;f;Europe/Berlin;f;;;f;;f;8098262;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
