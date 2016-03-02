@@ -130,7 +130,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 166;Aspach-le-Haut;aspach-le-haut;;;7.2333330000;47.6500000000;;t;FR;f;Europe/Paris;f;FRAEQ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 167;Aspach-le-Haut;aspach-le-haut;8767414;87674143;7.142379;47.769396;166;f;FR;t;Europe/Paris;t;FRGII;;t;;f;8704940;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 168;Aspach-le-Bas;aspach-le-bas;8721537;87215376;7.152375;47.759832;166;f;FR;f;Europe/Paris;t;FRCAQ;;t;;f;8704939;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-171;Avignon Centre;avignon-centre;8776500;87765008;4.8052096366882315;43.941668244510936;489;f;FR;f;Europe/Paris;t;FRAES;AVI;t;;f;8700172;f;;f;;f;;f;;f;;f;t;;;;Aviñón;;Avignone;;;;;アヴィニョン;아비뇽;Awinion;Avinhão;Авиньон;;;亞維農
+171;Avignon Centre;avignon-centre;8776500;87765008;4.8052096366882315;43.941668244510936;489;f;FR;f;Europe/Paris;t;FRAES;AVI;t;AES;t;8700172;f;;f;;f;;f;;f;;f;t;;;;Aviñón;;Avignone;;;;;アヴィニョン;아비뇽;Awinion;Avinhão;Авиньон;;;亞維農
 172;Le Mans;le-mans;8739600;87396002;0.1921534538269043;47.995364119768475;4661;f;FR;t;Europe/Paris;t;FRAET;LEN;t;;f;8700435;f;;f;AET;t;;f;;f;;f;t;;;;;;;;;;;ル・マン;르망;;;Ле-Ман;;;勒芒
 173;Joué-lès-Tours Berthelot;joue-les-tours-berthelot;8711028;87110288;0.6666670000;47.3500000000;4580;f;FR;f;Europe/Paris;t;FRAEV;;t;;f;8703510;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 174;Eu;eu;;;1.4166670000;50.0500000000;;t;FR;f;Europe/Paris;f;FRAEX;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -349,7 +349,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 486;Avail;avail;8730469;87304691;2.05319;46.960187;;f;FR;f;Europe/Paris;t;FRAVI;;t;;f;8700463;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 487;Damblain;damblain;8714249;87142497;5.656414031982422;48.09373173734836;;f;FR;f;Europe/Paris;t;FRAVL;;t;;f;8700997;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 488;Châtillon-sur-Seine;chatillon-sur-seine;8714255;87142554;4.574829339981079;47.86126131518925;;f;FR;f;Europe/Paris;t;FRAVM;;t;;f;8703071;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;シャティヨン＝シュル＝セーヌ;;;;Шатийон-сюр-Сен;;;塞纳河畔沙蒂隆
-489;Avignon;avignon;9900010;;4.8166670000;43.9500000000;;t;FR;f;Europe/Paris;t;FRAVN;;t;;f;8796005;t;;f;;f;;f;;f;;f;f;;;;Aviñón;;Avignone;;;;;アヴィニョン;아비뇽;Awinion;Avinhão;Авиньон;;;亞維農
+489;Avignon;avignon;9900010;;4.8166670000;43.9500000000;;t;FR;f;Europe/Paris;t;FRAVN;;t;AV1;t;8796005;t;;f;;f;;f;;f;;f;f;;;;Aviñón;;Avignone;;;;;アヴィニョン;아비뇽;Awinion;Avinhão;Авиньон;;;亞維農
 493;Aguilcourt—Variscourt;aguilcourt-variscourt;8717170;87171702;3.973106;49.408004;;f;FR;f;Europe/Paris;t;FRAVR;;t;;f;8700652;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 494;Prauthoy;prauthoy;8714261;87142612;5.2833330000;47.6666670000;;f;FR;f;Europe/Paris;t;FRAVS;;t;;f;8705206;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 495;Vaux-sous-Aubigny;vaux-sous-aubigny;8714262;87142620;5.291365;47.657894;;f;FR;f;Europe/Paris;t;FRAVU;;t;;f;8702224;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
