@@ -11814,7 +11814,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 13307;Rupprechtstegen;rupprechtstegen;8022306;;49.597434;11.480483;;f;DE;f;Europe/Berlin;t;;;f;;f;8005231;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13308;Rutesheim;rutesheim;8029445;;48.790013;8.959548;;f;DE;f;Europe/Berlin;t;;;f;;f;8005236;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13309;Saal (Donau);saal-donau;8026317;;48.902424;11.933198;;f;DE;f;Europe/Berlin;t;;;f;;f;8005238;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-13310;Saarbrücken Ost;saarbrucken-ost;8025468;;49.230134;7.019074;;f;DE;f;Europe/Berlin;t;;;f;;f;8005241;t;;f;;f;;f;;f;;f;f;;;;Sarrebruck;Sarrebruck;;;;;;ザールブリュッケン;자르브뤼켄;;;Саарбрюккен;;;萨尔布吕肯
+13310;Saarbrücken Ost;saarbrucken-ost;8025468;;49.23051807163579;7.018686532974243;;f;DE;f;Europe/Berlin;t;DESAO;;f;;f;8005241;t;;f;;f;;f;;f;;f;f;;;;Sarrebruck;Sarrebruck;;;;;;ザールブリュッケン;자르브뤼켄;;;Саарбрюккен;;;萨尔布吕肯
 13311;Saarbrücken-Burbach;saarbrucken-burbach;8025385;;49.242171;6.957084;;f;DE;f;Europe/Berlin;t;;;f;;f;8005243;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13312;Saarhölzbach;saarholzbach;8025353;;49.516441;6.607502;;f;DE;f;Europe/Berlin;t;;;f;;f;8005246;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13313;Saasen;saasen;8011636;;50.593942;8.881917;;f;DE;f;Europe/Berlin;t;;;f;;f;8005249;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
