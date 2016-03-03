@@ -17404,7 +17404,7 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 18937;Haren;haren-station;8400297;;6.6183260000;53.1749880000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400297;t;;f;;f;;f;;f;;f;f;;Niederlande;Netherlands;Países Bajos;Pays-Bas;Paesi Bassi;Nederland;;;;;;;;;;;
 18938;Helmond Brouwhuis;helmond-brouwhuis;8400299;;5.7028280000;51.4703810000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400299;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18939;Helmond ’t Hout;helmond-t-hout;8400300;;5.6313100000;51.4680350000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400300;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18940;Den Helder Zuid;den-helder-zuid;8400303;;4.7643450000;52.9325030000;;f;NL;f;Europe/Amsterdam;t;NLABX;;f;;f;8400303;t;;f;;f;;f;;f;;f;f;;;;;Le Helder;;;;;;デン・ヘルダー;;;;Ден-Хелдер;;;登海尔德
+18940;Den Helder Zuid;den-helder-zuid;8400303;;4.7643450000;52.9325030000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400303;t;;f;;f;;f;;f;;f;f;;;;;Le Helder;;;;;;デン・ヘルダー;;;;Ден-Хелдер;;;登海尔德
 18941;Heerenveen;heerenveen;8400305;;5.9151530000;52.9609360000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400305;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Херенвен;;;
 18942;Heerhugowaard;heerhugowaard;8400306;;4.8235300000;52.6702880000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400306;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Херхюговард;;;海爾許霍瓦德
 18943;Heeze;heeze;8400308;;5.5695900000;51.3850910000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400308;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21731,3 +21731,4 @@ id;name;slug;uic;uic8_sncf;longitude;latitude;parent_station_id;is_city;country;
 23286;Sils/Segl. Maria;sils-segl-maria;118509881;;9.765099;46.430233;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23287;Valbella;valbella;118509950;;9.556055;46.74949;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23288;Vitznau;vitznau;118508464;;8.483429;47.009381;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23289;Roosendaal grens;roosendaal-grens;;;;;;f;NL;f;Europe/Amsterdam;f;NLABX;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
