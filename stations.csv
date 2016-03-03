@@ -1848,7 +1848,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 2458;Pezou;pezou;8757454;87574541;47.8666670000;1.1333330000;;f;FR;f;Europe/Paris;t;FREVB;;t;;f;8701756;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2459;St-Amand-de-Vendôme;st-amand-de-vendome;8757464;87574640;47.6833330000;1.0166670000;5135;f;FR;f;Europe/Paris;t;FREVC;;t;;f;8701918;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2460;Château-Renault;chateau-renault;8757466;87574665;47.58777193064591;0.9016191959381102;5043;f;FR;t;Europe/Paris;t;FREVE;;t;;f;8700873;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-2461;Monnaie;monnaie;8757468;87574681;47.5000000000;0.7833330000;4762;f;FR;t;Europe/Paris;t;FREVF;;t;;f;8701557;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+2461;Monnaie;monnaie;8757468;87574681;47.49879282916992;0.7932579517364502;4762;f;FR;t;Europe/Paris;t;FREVF;;t;;f;8701557;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2462;Notre-Dame-d’Oé;notre-dame-doe;8757469;87574699;47.4500000000;0.7166670000;;f;FR;f;Europe/Paris;t;FREVG;;t;;f;8701693;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2463;Chissay-en-Touraine;chissay-en-touraine;8757484;87574848;47.3333330000;1.1333330000;;f;FR;f;Europe/Paris;t;FREVI;;t;;f;8703101;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2464;Montrichard;montrichard;8757485;87574855;47.34378822623028;1.1717820167541504;;f;FR;f;Europe/Paris;t;FREVJ;;t;;f;8704052;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
