@@ -1941,7 +1941,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 2563;Blanquefort;blanquefort;8758172;87581728;44.9166670000;-0.6333330000;;f;FR;f;Europe/Paris;t;FRFAP;;t;;f;8702842;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2564;Bruges;bruges;8758173;87581736;44.88707329080843;-0.609440803527832;;f;FR;f;Europe/Paris;t;FRFAQ;;t;;f;8702931;f;;f;;f;;f;;f;;f;f;;Frankreich;France;Francia;France;Francia;;;;;;;;;;;;
 2565;Pessac;pessac;8758175;87581751;44.804493622434926;-0.6314241886138916;;f;FR;f;Europe/Paris;t;FRFAR;;t;;f;8701804;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ペサック;;;;Пессак;;;佩萨克
-2566;Alouette;alouette;8758179;87581793;44.79345096061167;-0.6595391035079956;;f;FR;f;Europe/Paris;t;FRFAS;;t;;f;8700602;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+2566;Alouette France;alouette-france;8758179;87581793;44.79345096061167;-0.6595391035079956;;f;FR;f;Europe/Paris;t;FRFAS;;t;;f;8700602;f;;f;;f;;f;;f;;f;f;;Pessac;Pessac;Pessac;Pessac;Pessac;;;;;;;;;;;;
 2567;Bègles;begles;8758180;87581801;44.8000000000;-0.5333330000;;f;FR;f;Europe/Paris;t;FRFAT;;t;;f;8702797;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2568;Villenave-d’Ornon;villenave-dornon;8758183;87581835;44.76869721766271;-0.5473101139068604;;f;FR;f;Europe/Paris;t;FRFAU;;t;;f;8704861;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2569;Bassens;bassens;8758185;87581850;44.901352;-0.522426;;f;FR;f;Europe/Paris;t;FRFAV;;t;;f;8700664;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
