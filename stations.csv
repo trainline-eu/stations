@@ -629,7 +629,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 815;Uckange;uckange;8719113;87191130;49.303432;6.156325;;f;FR;f;Europe/Paris;t;FRBNR;UCK;t;;f;8700377;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 816;Knutange—Nilvange;knutange-nilvange;8719121;87191213;49.340801;6.047762;;f;FR;f;Europe/Paris;t;FRBNS;;t;;f;8700555;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 817;Hayange;hayange;8719123;87191239;49.33056200315637;6.073036193847656;;f;FR;f;Europe/Paris;t;FRBNT;HAY;t;;f;8700350;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;艾昂格
-818;Aubusson Gare Routière;aubusson-gare-routiere;8741778;87417782;45.9500000000;2.1666670000;5604;f;FR;f;Europe/Paris;f;FRBNU;;t;;f;8705654;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+818;Aubusson Gare Routière;aubusson-gare-routiere;8741778;87417782;45.95500608979646;2.1708834171295166;5604;f;FR;f;Europe/Paris;f;FRBNU;;t;;f;8705654;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 819;Metzeresche;metzeresche;8719129;87191296;49.3000000000;6.3166670000;;f;FR;f;Europe/Paris;t;FRBNV;;t;;f;8701648;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 820;Yutz;yutz;8719130;87191304;49.354051;6.170393;;f;FR;f;Europe/Paris;t;FRBNW;;t;;f;8702292;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 821;Kuntzig;kuntzig;8719131;87191312;49.34983843945567;6.234499812126159;9049;f;FR;t;Europe/Paris;t;FRBNX;;t;;f;8701344;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4264,7 +4264,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5601;Rouen Rive Droite;rouen-rive-droite;8741101;87411017;49.44904;1.094113;5603;f;FR;t;Europe/Paris;t;FRURD;RRD;t;;f;8700113;f;XRO;f;;f;;f;;f;;f;t;;;;Ruan;;;;;;;ルーアン;루앙;;Ruão;Руан;;;鲁昂
 5602;Rouen Gare Routière;rouen-gare-routiere;8740189;87401893;49.4431290000;1.0993190000;5601;f;FR;f;Europe/Paris;f;FRURG;;f;;f;8705355;f;XRN;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5603;Rouen;rouen;9919002;;49.4431290000;1.0993190000;;t;FR;f;Europe/Paris;f;FRURL;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5604;Aubusson;aubusson;;;45.9500000000;2.1666670000;;t;FR;f;Europe/Paris;f;FRUSO;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5604;Aubusson;aubusson;;;45.95473010854736;2.1672892570495605;;t;FR;f;Europe/Paris;f;FRUSO;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5605;Ussel;ussel;8759409;87594093;45.557475;2.314353;10657;f;FR;f;Europe/Paris;t;FRUSS;USL;t;;f;8700098;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5606;Eurville;eurville;;;48.5833330000;5.0333330000;;t;FR;f;Europe/Paris;f;FRUVI;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5607;Uzerche;uzerche;;;;;;t;FR;f;Europe/Paris;f;FRUZC;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
