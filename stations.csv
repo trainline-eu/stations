@@ -5684,7 +5684,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7095;Marienhafe;marienhafe;8021105;;53.520964;7.270484;;f;DE;f;Europe/Berlin;t;DEAPM;;f;;f;8003866;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7096;Marsberg;marsberg;8008508;;51.462884;8.854905;;f;DE;f;Europe/Berlin;t;DEAPN;;f;;f;8003896;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Марсберг;;;马尔斯贝格
 7097;Meckenbeuren;meckenbeuren;8029156;;47.699496;9.558526;;f;DE;f;Europe/Berlin;t;DEAPO;;f;;f;8003930;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7098;Appenweier;appenweier;8014289;;48.541462;7.973189;;f;DE;f;Europe/Berlin;t;DEAPP;;f;;f;8000596;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7098;Appenweier;appenweier;8014289;;48.541462;7.973189;;f;DE;f;Europe/Berlin;t;DEAPP;;t;;f;8000596;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7099;Meldorf;meldorf;8001529;;54.088328;9.080408;;f;DE;f;Europe/Berlin;t;DEAPQ;;f;;f;8003954;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Мельдорф;;;梅尔多尔夫
 7100;Melle;melle;8021169;;52.209258;8.343221;;f;DE;f;Europe/Berlin;t;DEAPR;;f;;f;8003956;t;;f;;f;;f;;f;;f;f;;Deutschland;Germany;Alemania;Allemagne;Germania;;;;;;;;;;;;
 7101;Melsungen;melsungen;8005406;;51.126004;9.546076;;f;DE;f;Europe/Berlin;t;DEAPS;;f;;f;8003961;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5702,7 +5702,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7113;Müllheim (Baden);mullheim-baden;8014413;;47.80974;7.599327;;f;DE;f;Europe/Berlin;t;DEAQE;;t;;f;8004124;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Мюльхайм;;;
 7114;Münchberg;munchberg;8026028;;50.189041;11.790665;;f;DE;f;Europe/Berlin;t;DEAQF;;f;;f;8004126;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ミュンヒベルク;;;;Мюнхберг;;;明希贝格
 7115;Murnau;murnau;8020301;;47.682264;11.19263;;f;DE;f;Europe/Berlin;t;DEAQG;;f;;f;8004185;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7116;Kehl;kehl;8014292;;48.576655;7.806556;;f;DE;f;Europe/Berlin;t;DEAQH;;f;;f;8003218;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ケール;;;;Кель;;;凱爾
+7116;Kehl;kehl;8014292;;48.576655;7.806556;;f;DE;f;Europe/Berlin;t;DEAQH;;t;;f;8003218;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ケール;;;;Кель;;;凱爾
 7117;Maria Rain;maria-rain;8002320;;47.632553;10.480271;;f;DE;f;Europe/Berlin;t;DEAQI;;f;;f;8003859;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7118;Meschede;meschede;8008195;;51.349602;8.279056;;f;DE;f;Europe/Berlin;t;DEAQJ;;f;;f;8003993;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7119;Möckmühl;mockmuhl;8029644;;49.32106;9.358211;;f;DE;f;Europe/Berlin;t;DEAQL;;f;;f;8004050;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;メックミュール;;;;Мёкмюль;;;默克米赫尔
@@ -10919,7 +10919,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 12412;Konstanz-Fürstenberg;konstanz-furstenberg;8080251;;47.677482;9.162848;;f;DE;f;Europe/Berlin;t;;;f;;f;8003404;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12413;Korbach Süd;korbach-sud;8005303;;51.270263;8.878816;;f;DE;f;Europe/Berlin;t;;;f;;f;8003406;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12414;Kordel;kordel;8025153;;49.836367;6.634929;;f;DE;f;Europe/Berlin;t;;;f;;f;8003407;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-12415;Kork;kork;8014291;;48.57002;7.874793;;f;DE;f;Europe/Berlin;t;;;f;;f;8003408;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+12415;Kork;kork;8014291;;48.57002;7.874793;;f;DE;f;Europe/Berlin;t;DEKOK;;t;;f;8003408;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12416;Korntal;korntal;8029441;;48.826474;9.121102;;f;DE;f;Europe/Berlin;t;;;f;;f;8003409;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12417;Hamburg Kornweg (Klein Borstel);hamburg-kornweg-klein-borstel;8001116;;53.632377;10.053841;;f;DE;f;Europe/Berlin;t;;;f;;f;8003410;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12418;Korschenbroich;korschenbroich;8015164;;51.195653;6.511884;;f;DE;f;Europe/Berlin;t;;;f;;f;8003412;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -11014,7 +11014,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 12507;Lauterbourg (fr);lauterbourg-fr;8061033;;48.975443;8.183716;;f;DE;f;Europe/Berlin;f;;;f;;f;8003597;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12508;Riedstadt-Wolfskehlen;riedstadt-wolfskehlen;8011245;;49.853941;8.493098;;f;DE;f;Europe/Berlin;t;;;f;;f;8003605;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12509;Legden;legden;8021122;;52.034931;7.088506;;f;DE;f;Europe/Berlin;t;;;f;;f;8003608;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-12510;Legelshurst;legelshurst;8014290;;48.55855;7.913545;;f;DE;f;Europe/Berlin;t;;;f;;f;8003609;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+12510;Legelshurst;legelshurst;8014290;;48.55855;7.913545;;f;DE;f;Europe/Berlin;t;DELEG;;t;;f;8003609;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12511;Lehmen;lehmen;8025097;;50.284749;7.45523;;f;DE;f;Europe/Berlin;t;;;f;;f;8003611;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12512;Lehnheim;lehnheim;8011639;;50.606769;8.992098;;f;DE;f;Europe/Berlin;t;;;f;;f;8003612;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 12513;Leichlingen;leichlingen;8008184;;51.107522;7.005248;;f;DE;f;Europe/Berlin;t;;;f;;f;8003616;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
