@@ -21060,7 +21060,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22615;Eindhoven Stationsweg;eindhoven-stationsweg;;;51.4430630000;5.4799500000;;f;NL;f;Europe/Amsterdam;f;;;f;;f;8489006;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22616;Luxembourg Centr. 13;luxembourg-centr-13;;;49.599717;6.134391;8731;f;LU;t;Europe/Luxembourg;f;;;f;;f;8289100;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22617;Frankfurt (M) Hbf Mannheimer Str.;frankfurt-m-hbf-maannheimer-str;;;50.107149;8.663785;7604;f;DE;f;Europe/Berlin;f;;;f;;f;8089211;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-22618;Trier Hbf (Busst 1);trier-hbf-busst-1;8013468;;49.756848;6.652449;;f;DE;f;Europe/Berlin;f;;;f;;f;8089159;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+22618;Trier Hbf (Bussteig 1);trier-hbf-bussteig-1;8013468;;49.757617;6.651901;10826;f;DE;f;Europe/Berlin;f;;;f;;f;8089159;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22619;Chemnitz Bahnhofstr;chemnitz-bahnhofstr;;;50.839266;12.930299;;f;DE;f;Europe/Berlin;f;;;f;;f;8071738;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22620;Kiel Hbf Kaiserstraße;kiel-hbf-kaiserstasse;;;54.314982;10.131975;;f;DE;f;Europe/Berlin;f;;;f;;f;8071199;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22621;Bad Rappenau Busbf R;bad-rappenau-busbf-r;;;49.237721;9.101308;;f;DE;f;Europe/Berlin;f;;;f;;f;8070924;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
