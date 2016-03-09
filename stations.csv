@@ -21058,7 +21058,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22613;Antwerpen Centraal (Perron 7, Koningin Astridplein);antwerpen-centraal-perron-7-koningin-astridplein;;;51.218445;4.420681;5964;f;BE;f;Europe/Brussels;f;;;f;;f;8889007;t;;f;;f;;f;;f;;f;f;;;Antwerp;;Anvers;Anversa;;;;;;;;;;;;
 22614;Zürich HB (Carpark Sihlquai);zurich-hb-carpark-sihlquai;8595460;;47.378186;8.539203;6245;f;DE;f;Europe/Berlin;f;;;f;;f;8595460;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22615;Eindhoven Stationsweg;eindhoven-stationsweg;;;51.4430630000;5.4799500000;;f;NL;f;Europe/Amsterdam;f;;;f;;f;8489006;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-22616;Luxembourg Centr. 13;luxembourg-centr-13;;;49.599717;6.134391;8731;f;LU;t;Europe/Luxembourg;f;;;f;;f;8289100;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+22616;Luxembourg Gare Centrale (Quai 13);luxembourg-gare-centrale-quai-13;;;49.599138;6.133244;8604;f;LU;t;Europe/Luxembourg;f;;;f;;f;8289100;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22617;Frankfurt (M) Hbf Mannheimer Str.;frankfurt-m-hbf-maannheimer-str;;;50.107149;8.663785;7604;f;DE;f;Europe/Berlin;f;;;f;;f;8089211;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22618;Trier Hbf (Bussteig 1);trier-hbf-bussteig-1;8013468;;49.757617;6.651901;10826;f;DE;f;Europe/Berlin;f;;;f;;f;8089159;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22619;Chemnitz Bahnhofstr;chemnitz-bahnhofstr;;;50.839266;12.930299;;f;DE;f;Europe/Berlin;f;;;f;;f;8071738;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
