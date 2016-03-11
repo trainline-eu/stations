@@ -7212,7 +7212,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8627;Leiden Centraal;leiden-centraal;8400390;;52.1750720000;4.4929970000;;f;NL;f;Europe/Amsterdam;t;NLAAU;;f;;f;8400390;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ライデン;레이던;Lejda;Leida;Лейден;;;莱顿
 8628;;;;;;;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8629;;;;;;;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8630;Nieuwe schans;nieuwe-schans;8400457;;;;;f;NL;f;Europe/Amsterdam;f;NLAAX;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8630;Bad Nieuweschans;bad-nieuweschans;8400457;;53.184656;7.200222;;f;NL;f;Europe/Amsterdam;t;NLAAX;;f;;f;8400457;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8631;Nijmegen;nijmegen;8400470;;51.8418240000;5.8517070000;;f;NL;f;Europe/Amsterdam;t;NLAAY;;f;;f;8400470;t;;f;;f;;f;;f;;f;f;;Nimwegen;;Nimega;Nimègue;Nimega;;;;;ナイメーヘン;네이메헌;;Nimegue;Неймеген;;;奈梅亨
 8632;Oldenzaal;oldenzaal;8484483;;52.306279;6.933137;;f;NL;f;Europe/Amsterdam;f;NLAAZ;;f;;f;8400483;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8633;;;;;;;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21859,7 +21859,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23414;Workum;workum;8400706;;52.9724864;5.4564285;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23415;Zetten-Andelst;zetten-andelst;8400734;;51.920056;5.7228408;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23416;Zevenaar;zevenaar;8400735;;51.9230537414551;6.07194423675537;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23417;Zuidbroek;zuidbroek;8400742;;53.1596122800056;6.8679141998291;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23417;Zuidbroek;zuidbroek;8400742;;53.1596122800056;6.8679141998291;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400742;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23418;Zuidhorn;zuidhorn;8400743;;53.2486292;6.4062361;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23419;Zwaagwesteinde;zwaagwesteinde;8400745;;53.24817;6.03463;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23420;Absdorf-Hippersdorf;absdorf-hippersdorf;118102423;;;;;f;AT;f;Europe-Vienna;f;;;f;;f;8100202;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -22040,3 +22040,18 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23595;Zirl;zirl;118101194;;;;;f;AT;f;Europe-Vienna;f;;;f;;f;8100451;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23596;Erlangen Busbahnhof;erlangen-busbahnhof;;;49.5960354;11.0008411;;f;DE;f;Europe/Berlin;t;;;f;;f;8089292;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;エアランゲン;에를랑겐;;;Эрланген;;;埃尔朗根
 23597;Busa di Vigonza;busa-di-vigonza;8302595;;45.429943;11.951722;;f;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302595;t;;f;;f;f;;;;;;;;;;;;;;;;;;
+23598;Orehoved st;orehoved-st;8601811;;54.939071;11.867738;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8601811;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23599;Paris Porte Maillot;paris-porte-maillot;8789015;;48.880126;2.282485;4916;f;FR;f;Europe/Paris;f;;;f;;f;8789015;t;;f;;f;;f;;f;;f;f;;;;;;Parigi;Parijs;Paříž;;Párizs;パリ;파리;Paryż;;Париж;;;巴黎
+23600;Berlin-Schöneweide;berlin-schoneweide;8089168;;52.455629;13.509506;14255;f;DE;f;Europe/Berlin;f;;;f;;f;8089168;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23601;Bamberg Bahnhof;bamberg-bahnhof;8089478;;49.900547;10.898938;6805;f;DE;f;Europe/Berlin;f;;;f;;f;8089478;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23602;Hamburg Hbf ZOB;hamburg-hbf-zob;8076116;;53.552079;10.011473;7474;f;DE;f;Europe/Berlin;f;;;f;;f;8076116;t;;f;;f;;f;;f;;f;f;;;;Hamburgo;Hambourg;Amburgo;;Hamburk;Hamborg;;ハンブルク;함부르크;;Hamburgo;Гамбург;;;汉堡市
+23603;Thayngen Bf (Bus);thayngen-bf-bus;502488;;47.745782;8.704267;;f;CH;f;Europe/Zurich;f;;;f;;f;502488;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23604;Singen Bf (Bus);singen-bf-bus;501507;;47.759087;8.840383;7292;f;DE;f;Europe/Berlin;f;;;f;;f;501507;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23605;Hegyeshalom;hegyeshalom;5500017;;47.913335;17.146591;;f;HU;f;Europe/Budapest;f;;;f;;f;5500017;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23606;Wien Westbahnhof (Schleife Süd);wien-westbahnhof-schleife-sud;8149094;;48.196496;16.339237;17561;f;AT;f;Europe/Vienna;f;;;f;;f;8149094;t;;f;;f;;f;;f;;f;f;;;Vienna;Viena;Vienne;Vienna;Wenen;;;;;;;;;;;
+23607;Nürnberg Hbf (Nelson-Mandela-Platz/Südausgang);nurnberg-hbf-nelson-mandela-platz-sudausgang;8070977;;49.444039;11.082204;7691;f;DE;f;Europe/Berlin;f;;;f;;f;8070977;t;;f;;f;;f;;f;;f;f;;;Nuremberg;Núremberg;Nuremberg;Norimberga;Neurenberg;Norimberk;;;ニュルンベルク;뉘른베르크;Norymberga;Nuremberga;Нюрнберг;;Nuremberg;纽伦堡
+23608;Jena Paradies (Knebe);jena-paradies-knebe;8089170;;50.924956;11.587501;16753;f;DE;f;Europe/Berlin;f;;;f;;f;8089170;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23609;Wien Rennweg;wien-rennweg;8101433;;48.19581;16.385991;;f;AT;f;Europe/Vienna;f;;;f;;f;8101433;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23610;Tatabanya;tatabanya;5500009;;47.585266;18.393141;;f;HU;f;Europe/Budapest;f;;;f;;f;5500009;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23611;Pforzheim Hbf ZOB;pforzheim-hbf-zob;8089428;;48.893448;8.70416;7695;f;DE;f;Europe/Berlin;f;;;f;;f;8089428;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23612;Chomutov;chomutov;5400005;;50.4566;13.39958;;f;CZ;f;Europe/Prague;f;;;f;;f;5400005;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
