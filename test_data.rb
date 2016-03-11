@@ -9,33 +9,6 @@ parameters = {
   :encoding => 'UTF-8'
 }
 
-STATIONS = CSV.read("stations.csv", parameters)
-STATIONS_BY_ID = STATIONS.inject({}) { |hash, station| hash[station["id"]] = station; hash }
-STATIONS_UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
-
-CHILDREN = {}
-CHILDREN_COUNT = Hash.new(0)
-STATIONS.each { |row| CHILDREN[row["id"]] = [] }
-
-def valid_carrier(row)
-  row["db_is_enabled"] == "t" ||
-    row["idbus_is_enabled"] == "t" ||
-    row["idtgv_is_enabled"] == "t" ||
-    row["ntv_is_enabled"] == "t" ||
-    row["ouigo_is_enabled"] == "t" ||
-    row["sncf_is_enabled"] == "t" ||
-    row["trenitalia_is_enabled"] == "t"
-end
-
-STATIONS.each do |row|
-  if row["parent_station_id"]
-    CHILDREN[row["parent_station_id"]] << row
-    if valid_carrier(row) == "t"
-      CHILDREN_COUNT[row["parent_station_id"]] += 1
-    end
-  end
-end
-
 LOCALES = [
   "fr",
   "en",
@@ -102,6 +75,58 @@ HOMONYM_STATIONS = [
   "11343", # Burgdorf (Germany)
   "21261", # Lison (Italy)
 ]
+
+COUNTRIES = {
+  "AD" => "Europe/Paris",
+  "AT" => "Europe/Vienna",
+  "BE" => "Europe/Brussels",
+  "BY" => "Europe/Minsk",
+  "CH" => "Europe/Zurich",
+  "CZ" => "Europe/Prague",
+  "DE" => "Europe/Berlin",
+  "DK" => "Europe/Copenhagen",
+  "ES" => "Europe/Madrid",
+  "FR" => "Europe/Paris",
+  "GB" => "Europe/London",
+  "HR" => "Europe/Zagreb",
+  "HU" => "Europe/Budapest",
+  "IT" => "Europe/Rome",
+  "LU" => "Europe/Luxembourg",
+  "NL" => "Europe/Amsterdam",
+  "PL" => "Europe/Warsaw",
+  "PT" => "Europe/Lisbon",
+  "RU" => "Europe/Moscow",
+  "SE" => "Europe/Stockholm",
+  "SI" => "Europe/Ljubljana",
+  "SK" => "Europe/Bratislava"
+}
+
+STATIONS = CSV.read("stations.csv", parameters)
+STATIONS_BY_ID = STATIONS.inject({}) { |hash, station| hash[station["id"]] = station; hash }
+STATIONS_UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
+
+CHILDREN = {}
+CHILDREN_COUNT = Hash.new(0)
+STATIONS.each { |row| CHILDREN[row["id"]] = [] }
+
+def valid_carrier(row)
+  row["db_is_enabled"] == "t" ||
+    row["idbus_is_enabled"] == "t" ||
+    row["idtgv_is_enabled"] == "t" ||
+    row["ntv_is_enabled"] == "t" ||
+    row["ouigo_is_enabled"] == "t" ||
+    row["sncf_is_enabled"] == "t" ||
+    row["trenitalia_is_enabled"] == "t"
+end
+
+STATIONS.each do |row|
+  if row["parent_station_id"]
+    CHILDREN[row["parent_station_id"]] << row
+    if valid_carrier(row) == "t"
+      CHILDREN_COUNT[row["parent_station_id"]] += 1
+    end
+  end
+end
 
 def slugify(name)
   name.gsub(/[\/\.]/,"-").to_url
@@ -262,14 +287,16 @@ class StationsTest < Minitest::Test
   end
 
   def test_country
+    countries = COUNTRIES.keys
     STATIONS.each do |row|
-      assert_match(/[A-Z]{2}/, row["country"], "Invalid country for station #{row["id"]}")
+      assert countries.include?(row["country"]), "Invalid value for country for station #{row["id"]}"
     end
   end
 
   def test_time_zone
     STATIONS.each do |row|
-      assert !row["time_zone"].empty? , "No timezone for station #{row["id"]}"
+      timezone = COUNTRIES[row["country"]]
+      assert_equal timezone, row["time_zone"], "Invalid timezone for station #{row["id"]}"
     end
   end
 
