@@ -14452,7 +14452,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 15945;Emden Flugplatz;emden-flugplatz;;;53.390351;7.227695;;f;DE;f;Europe/Berlin;f;;;f;;f;8070177;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 15946;Norddeich Flugplatz;norddeich-flugplatz;;;53.635487;7.190929;;f;DE;f;Europe/Berlin;f;;;f;;f;8070178;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 15947;Wössingen Ost;wossingen-ost;8061546;;49.015787;8.609985;;f;DE;f;Europe/Berlin;t;;;f;;f;8070179;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-15948;Husum Bahnhof;husum-bahnhof;8001552;;54.472724;9.055193;;f;DE;f;Europe/Berlin;t;;;f;;f;8070180;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Хузум;;;胡苏姆
+15948;Husum;husum;8001552;;54.472724;9.055193;6982;f;DE;f;Europe/Berlin;f;;;f;;f;8070180;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Хузум;;;胡苏姆
 15949;Nordstrand (b Husum);nordstrand-b-husum;;;54.496869;8.807388;;f;DE;f;Europe/Berlin;f;;;f;;f;8070182;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 15950;Alveslohe;alveslohe;8040431;;53.791818;9.913501;;f;DE;f;Europe/Berlin;t;;;f;;f;8070185;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 15951;München Hbf Arnulfstraße;munchen-hbf-arnulfstrasse;;;48.141415;11.559085;7480;f;DE;f;Europe/Berlin;f;;;f;;f;8070193;t;;f;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;;;;;;;;
