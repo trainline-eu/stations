@@ -369,14 +369,6 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_idtgv_id
-    STATIONS.each do |row|
-      if row["idtgv_is_enabled"] == "t"
-        assert_equal row["sncf_id"][2..5], row["idtgv_id"], "Station #{row["id"]} mismatched sncf_id and idtgv_id"
-      end
-    end
-  end
-
   def test_parent_station
     STATIONS.each do |row|
       parent_id = row["parent_station_id"]
