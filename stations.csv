@@ -119,7 +119,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 154;Mertzwiller;mertzwiller;;;48.8666670000;7.6833330000;;t;FR;f;Europe/Paris;f;FRAEH;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 155;Mertzwiller;mertzwiller;8721320;87213207;48.871609;7.677704;154;f;FR;t;Europe/Paris;t;FRBVY;;t;;f;8701652;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 157;Colmar;colmar;8718201;87182014;48.07254485668853;7.346677780151368;1349;f;FR;t;Europe/Paris;t;FRAEJ;CMR;t;;f;8700178;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;コルマール;콜마르;;;Кольмар;;;科尔马
-158;Mulhouse;mulhouse;8718206;87182063;47.741952;7.343045;4753;f;FR;t;Europe/Paris;t;FRAEK;MSE;t;AEK;f;8700031;t;;f;;f;8718206;f;;f;;f;t;;Mülhausen;;;;;;Mylhúzy;;;ミュルーズ;뮐루즈;Miluza;;Мюлуз;;;米卢斯
+158;Mulhouse;mulhouse;8718206;87182063;47.741952;7.343045;4753;f;FR;t;Europe/Paris;t;FRAEK;MSE;t;AEK;f;8700031;t;ZDN;t;;f;8718206;f;;f;;f;t;;Mülhausen;;;;;;Mylhúzy;;;ミュルーズ;뮐루즈;Miluza;;Мюлуз;;;米卢斯
 159;St-Louis (Haut Rhin);st-louis-haut-rhin;;;47.5833330000;7.5666670000;;t;FR;f;Europe/Paris;f;FRAEL;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 160;St-Louis La-Chaussée;st-louis-la-chaussee;8718101;87181016;47.609442;7.531252;159;f;FR;f;Europe/Paris;t;FRBIH;SLU;t;;f;8701987;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 161;St-Louis;st-louis;8718213;87182139;47.590178;7.555379;159;f;FR;t;Europe/Paris;t;FRXLI;STL;t;;f;8700133;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
@@ -1640,7 +1640,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 2173;Le Genest;le-genest;8747874;87478743;48.1000000000;-0.8833330000;;f;FR;f;Europe/Paris;t;FREEN;;t;;f;8701187;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2174;Port-Brillet;port-brillet;8747875;87478750;48.11068713707552;-0.973985195159912;;f;FR;f;Europe/Paris;t;FREEO;;t;;f;8701793;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2175;St-Pierre-la-Cour;st-pierre-la-cour;8747876;87478768;48.1166670000;-1.0333330000;;f;FR;f;Europe/Paris;t;FREEP;;t;;f;8701979;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-2178;Bourgneuf-en-Retz Ecole;bourgneuf-en-retz-ecole;8733581;87335810;47.04216; -1.94913;2193;f;FR;t;Europe/Paris;t;FREFB;;t;;f;8705233;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;雷特地区布尔盖于
+2178;Bourgneuf-en-Retz Ecole;bourgneuf-en-retz-ecole;8733581;87335810;47.04216;-1.94913;2193;f;FR;t;Europe/Paris;t;FREFB;;t;;f;8705233;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;雷特地区布尔盖于
 2179;Chantenay;chantenay;8748105;87481051;47.197017;-1.594299;;f;FR;f;Europe/Paris;t;FREFD;;t;;f;8700918;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2180;Basse-Indre—St-Herblain;basse-indre-st-herblain;8748106;87481069;47.20417589221931;-1.6602927446365356;;f;FR;f;Europe/Paris;t;FREFE;;t;;f;8700781;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2181;Thouaré;thouare;8748114;87481143;47.265119;-1.441204;;f;FR;f;Europe/Paris;t;FREFI;;t;;f;8702127;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -3782,7 +3782,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5026;Miramont-d’Astarac;miramont-dastarac;8761716;87617167;43.532403;0.421288;;f;FR;f;Europe/Paris;t;FRQBE;;t;;f;8706175;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5027;Joyeuse;joyeuse;8755580;87555805;44.4833330000;4.2333330000;;f;FR;f;Europe/Paris;t;FRQBG;;t;;f;8703513;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5028;Bourg-St-Maurice;bourg-st-maurice;8774179;87741793;45.618765169916266;6.771526336669922;;f;FR;f;Europe/Paris;t;FRQBM;BSM;t;QBM;t;8700130;f;XBM;t;;f;;f;;f;;f;t;;;;;;;;;;;;;;;Бур-Сен-Морис;;;
-5029;Besançon;besancon;;;47.23792;6.02432;;t;FR;f;Europe/Paris;t;FRQBQ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;Besanzón;;;;;;;ブザンソン;브장송;;;Безансон;;;贝桑松
+5029;Besançon;besancon;;;47.23792;6.02432;;t;FR;f;Europe/Paris;t;FRQBQ;;t;;f;;f;XBN;t;;f;;f;;f;;f;f;;;;Besanzón;;;;;;;ブザンソン;브장송;;;Безансон;;;贝桑松
 5030;La Courtine;la-courtine;8744525;87445254;45.7000000000;2.2666670000;;f;FR;f;Europe/Paris;t;FRQCD;;t;;f;8704913;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5031;Moutier-Rozeille;moutier-rozeille;8744504;87445049;45.916477;2.19157;;f;FR;f;Europe/Paris;t;FRQCE;;t;;f;8704069;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5032;Langres;langres;;;47.8666670000;5.3333330000;;t;FR;f;Europe/Paris;f;FRQGS;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -3800,7 +3800,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5045;Château-Renault Salle des Fêtes;chateau-renault-salle-des-fetes;8742239;87422394;47.587131;0.908117;5043;f;FR;f;Europe/Paris;t;FRTTR;;t;;f;8703735;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5046;La Valbonne;la-valbonne;8772357;87723577;45.8500000000;5.1333330000;;f;FR;f;Europe/Paris;t;FRQVI;VAO;t;;f;8702587;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5047;Aix-en-Provence Centre;aix-en-provence-centre;8775140;87751404;43.522912431040176;5.445291996002197;;f;FR;f;Europe/Paris;t;FRQXB;AXP;t;;f;8700157;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;エクス＝アン＝プロヴァンス;엑상프로방스;;;Экс-ан-Прованс;;;普罗旺斯地区艾克斯
-5048;Troyes;troyes;8711800;87118000;48.295912;4.064571;5342;f;FR;t;Europe/Paris;t;FRQYR;TOY;t;;f;8700273;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;トロワ;트루아;;;Труа;;;特鲁瓦
+5048;Troyes;troyes;8711800;87118000;48.295912;4.064571;5342;f;FR;t;Europe/Paris;t;FRQYR;TOY;t;;f;8700273;f;XTR;t;;f;;f;;f;;f;t;;;;;;;;;;;トロワ;트루아;;;Труа;;;特鲁瓦
 5049;Montlouis;montlouis;8757127;87571273;47.39158028444776;0.8173227310180664;;f;FR;f;Europe/Paris;t;FRQZE;;t;;f;8701615;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5050;La Villeneuve-au-Chêne;la-villeneuve-au-chene;8727993;;48.2333330000;4.3833330000;;f;FR;f;Europe/Paris;t;FRRAP;;t;;f;8705175;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5053;St-André-les-Vergers Reine Blanche;st-andre-les-vergers-reine-blanche;8713968;87139683;48.279174;4.046593;5127;f;FR;t;Europe/Paris;t;FRRBH;;t;;f;8705073;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
