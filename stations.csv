@@ -7254,7 +7254,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8669;Roosendaal;roosendaal;8400526;;51.5398590000;4.4566360000;;f;NL;f;Europe/Amsterdam;t;NLROO;;f;;f;8400526;t;;f;;f;;f;;f;;f;f;;;;;Rosendael;;;;;;ローゼンダール;;;;Розендал;;;罗森达尔
 8670;Rotterdam Centraal;rotterdam-centraal;8400530;84005306;51.925068244603146;4.468839168548584;;f;NL;f;Europe/Amsterdam;t;NLRTA;;t;;f;8400530;f;QRH;t;;f;;f;;f;;f;f;;;;;;;;;;;ロッテルダム;로테르담;;Roterdão;Роттердам;;;鹿特丹
 8671;;;;;;;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8672;Amsterdam-Schiphol;amsterdam-schiphol;8400561;;52.3087870000;4.7614870000;;f;NL;f;Europe/Amsterdam;t;NLSPH;;t;;f;8400561;t;;f;;f;;f;;f;;f;f;;Flughafen;Airport;Aeropuerto;Aéroport;Aeroporto;;;;;;;;;;;;
+8672;Schiphol Airport;schiphol-airport;8400561;;52.3087870000;4.7614870000;;f;NL;f;Europe/Amsterdam;t;NLSPH;;t;;f;8400561;t;;f;;f;;f;;f;;f;f;;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amszterdam;アムステルダム;암스테르담;Amsterdam;Amesterdão;Амстердам;Amsterdam;Amsterdam;阿姆斯特丹
 8673;Utrecht Centraal;utrecht-centraal;8400621;;52.0875800000;5.1111670000;;f;NL;f;Europe/Amsterdam;t;NLUTC;;f;;f;8400621;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ユトレヒト;;;;Утрехт;;;
 8674;Pinhel;pinhel;9448595;;;;;f;PT;f;Europe/Lisbon;f;PTAAA;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8675;Vila franca das naves;vila-franca-das-naves;9448546;;;;;f;PT;f;Europe/Lisbon;f;PTAAB;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -17387,7 +17387,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 18920;Elst;elst;8400207;;51.9171900000;5.8550240000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400207;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18921;Emmen;emmen;8400208;;52.7901140000;6.8996880000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400208;t;;f;;f;;f;;f;;f;f;;Niederlande;Netherlands;Países Bajos;Pays-Bas;Paesi Bassi;;;;;エメン;;;;Эммен;;;埃門
 18922;Enkhuizen;enkhuizen;8400210;;52.6995120000;5.2880300000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400210;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18923;Enschede Drienerlo;enschede-drienerlo;8400221;;52.2372870000;6.8389930000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400213;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18923;Enschede Kennispark;enschede-kennispark;8400221;;52.2372870000;6.8389930000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400213;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18924;Ermelo;ermelo;8400216;;52.3012540000;5.6144820000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400216;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Эрмело;;;
 18925;Etten-Leur;etten-leur;8400218;;51.5751950000;4.6364740000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400218;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18926;Bovenkarspel Flora;bovenkarspel-flora;8400230;;52.6960780000;5.2535200000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400230;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
