@@ -64,9 +64,9 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 84;Angers St-Laud;angers-st-laud;8748400;87484006;47.46440211188047;-0.5568641424179077;344;f;FR;t;Europe/Paris;t;FRACL;ASL;t;;f;8700022;f;QXG;t;ACL;t;;f;;f;;f;t;;;;;;;;;;;アンジェ;앙제;;;Анже;;;昂热
 85;Saumur;saumur;8748760;87487603;47.268433556950825;-0.07103562355041504;5831;f;FR;t;Europe/Paris;t;FRACN;SUD;t;;f;8704969;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ソミュール;소뮈르;;;Сомюр;;;索米尔
 87;Cérences Centre;cerences-centre;8738819;87388199;48.91686;-1.437824;9462;f;FR;f;Europe/Paris;t;FRDGZ;;t;;f;8703000;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-89;Reims;reims;8724856;;49.2500000000;4.0333330000;;t;FR;f;Europe/Paris;t;FRACQ;;t;;f;8796006;f;XIZ;t;;f;;f;;f;;f;t;;;;;;;;Remeš;;;ランス;兰斯;;;Реймс;;;兰斯
+89;Reims;reims;8724856;;49.2500000000;4.0333330000;;t;FR;f;Europe/Paris;t;FRACQ;;t;;f;8796006;f;;f;;f;;f;;f;;f;t;;;;;;;;Remeš;;;ランス;兰斯;;;Реймс;;;兰斯
 90;Reims Maison Blanche;reims-maison-blanche;8717127;87171272;49.233685;4.022484;89;f;FR;f;Europe/Paris;t;FRBBX;;t;;f;8701874;f;;f;;f;;f;;f;;f;f;;;;;;;;Remeš;;;ランス;兰斯;;;Реймс;;;兰斯
-91;Champagne-Ardenne TGV;champagne-ardenne-tgv;8717192;87171926;49.214385;3.994248;89;f;FR;f;Europe/Paris;t;FREAH;CGV;t;;f;8705734;f;;f;;f;;f;;f;;f;t;;8 km von Reims entfernt;8km from Reims;a 8 km de Reims;à 8 km de Reims;8km da Reims;;Remeš;;;ランス;兰斯;;;Реймс;;;兰斯
+91;Champagne-Ardenne TGV;champagne-ardenne-tgv;8717192;87171926;49.214385;3.994248;89;f;FR;f;Europe/Paris;t;FREAH;CGV;t;;f;8705734;f;XIZ;t;;f;;f;;f;;f;t;;8 km von Reims entfernt;8km from Reims;a 8 km de Reims;à 8 km de Reims;8km da Reims;;Remeš;;;ランス;兰斯;;;Реймс;;;兰斯
 92;Reims Ville;reims-ville;8717100;87171009;49.259241;4.024156;89;f;FR;t;Europe/Paris;t;FRRHE;RMS;t;;f;8700081;f;;f;;f;;f;;f;;f;f;;;;;;;;Remeš;;;ランス;兰斯;;;Реймс;;;兰斯
 93;Laval;laval;8747840;87478404;48.076405;-0.761089;4714;f;FR;t;Europe/Paris;t;FRACR;LAL;t;;f;8701470;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 94;Accous;accous;8767278;87672782;42.9833330000;-0.6000000000;;f;FR;f;Europe/Paris;t;FRACS;;t;;f;8702617;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
