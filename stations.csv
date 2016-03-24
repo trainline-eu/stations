@@ -4676,7 +4676,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6079;Biberbrugg;biberbrugg;8503284;;47.156368;8.7227;;f;CH;f;Europe/Zurich;f;CHACQ;;f;;f;8503284;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6080;Muensingen;muensingen;8507006;;;;;f;CH;f;Europe/Zurich;f;CHACR;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6081;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6082;Zofingen;zofingen;8502001;;47.2880240000;7.9431110000;;f;CH;f;Europe/Zurich;t;CHACT;;f;;f;8502001;t;;f;;f;;f;;f;;f;f;;;;;Zofingue;;;;;;ツォフィンゲン;초핑겐;;;Цофинген;;;祖芬根
+6082;Zofingen;zofingen;8502001;;47.2880240000;7.9431110000;;f;CH;f;Europe/Zurich;t;CHACT;;f;;f;8502001;t;;f;;f;8502001;f;;f;;f;f;;;;;Zofingue;;;;;;ツォフィンゲン;초핑겐;;;Цофинген;;;祖芬根
 6083;Schwyz;schwyz;8505006;;47.026366;8.632143;;f;CH;f;Europe/Zurich;t;CHACU;;f;;f;8505006;t;;f;;f;;f;;f;;f;f;;;;;Schwytz;Svitto;;;;;シュヴィーツ;슈비츠;;;Швиц;;;施維茨
 6084;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6085;Lichtensteig;lichtensteig;8506201;;47.319702;9.083195;;f;CH;f;Europe/Zurich;f;CHACW;;f;;f;8506201;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21254,7 +21254,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22809;Lübeck Flughafen;lubeck-flughafen;8016824;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;12597;;;;;;;;;;;;;;;;;
 22810;Mannheim Hbf;mannheim-hbf;8018239;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;7479;;;;;;;;;;;;;;;;;
 22811;Hinterweidenthal Ost;hinterweidenthal-ost;8019693;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;16368;;;;;;;;;;;;;;;;;
-22812;Rosenheim;rosenheim;8020175;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;7231;;;;;;;;;;;;;;;;;
+22812;Rosenheim;rosenheim;8020175;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;8020174;f;;f;;f;f;7231;;;;;;;;;;;;;;;;;
 22813;Waldkraiburg;waldkraiburg;8020193;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;13723;;;;;;;;;;;;;;;;;
 22814;München-Pasing;munchen-pasing;8020332;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;7684;;;;;;;;;;;;;;;;;
 22815;München Hbf;munchen-hbf;8020349;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;7480;;;;;;;;;;;;;;;;;
