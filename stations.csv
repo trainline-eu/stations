@@ -178,7 +178,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 224;Villeneuve-au-Chemin;villeneuve-au-chemin;8711036;87110361;48.082895;3.844281;;f;FR;f;Europe/Paris;t;FRAHC;;t;;f;8702200;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 230;Salvagnac;salvagnac;8711015;87110155;43.9166670000;1.7000000000;;f;FR;f;Europe/Paris;t;FRAHY;;t;;f;8704441;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 232;Maussac;maussac;8715241;;45.4833330000;2.1500000000;;f;FR;f;Europe/Paris;t;FRAIC;;t;;f;8703951;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-233;Aix-en-Provence TGV;aix-en-provence-tgv;8731901;87319012;43.455167;5.317227;;f;FR;f;Europe/Paris;t;FRAIE;AXV;t;AIE;t;8704980;t;;f;AIE;t;8731901;f;;f;;f;t;;;;;;;;;;;エクス＝アン＝プロヴァンス;엑상프로방스;;;Экс-ан-Прованс;;;普罗旺斯地区艾克斯
+233;Aix-en-Provence TGV;aix-en-provence-tgv;8731901;87319012;43.455167;5.317227;23614;f;FR;f;Europe/Paris;t;FRAIE;AXV;t;AIE;t;8704980;t;;f;AIE;t;8731901;f;;f;;f;t;;;;;;;;;;;エクス＝アン＝プロヴァンス;엑상프로방스;;;Экс-ан-Прованс;;;普罗旺斯地区艾克斯
 234;Moustéru;mousteru;8747351;87473512;48.5166670000;-3.2333330000;;f;FR;f;Europe/Paris;t;FRAIG;;t;;f;8704068;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 239;Aillevillers;aillevillers;8718562;87185629;47.9166670000;6.3333330000;;f;FR;f;Europe/Paris;t;FRAIL;;t;;f;8700256;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 241;Ailly-sur-Noye;ailly-sur-noye;8731322;87313221;49.7500000000;2.3666670000;;f;FR;f;Europe/Paris;t;FRAIN;;t;;f;8700605;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -219,7 +219,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 341;Bétoncourt-sur-Mance;betoncourt-sur-mance;8711733;87117333;47.830622;5.759083;;f;FR;f;Europe/Paris;t;FRANB;;t;;f;8702827;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 342;Vernois-sur-Mance;vernois-sur-mance;8711734;87117341;47.851944;5.794042;;f;FR;f;Europe/Paris;t;FRANC;;t;;f;8702217;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 343;Andelot;andelot;8771510;87715102;46.8594671;5.923584;;f;FR;f;Europe/Paris;t;FRAND;;t;;f;8700155;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-344;Angers;angers;;;47.4666670000;-0.5500000000;;t;FR;f;Europe/Paris;f;FRANE;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+344;Angers;angers;;;47.4666670000;-0.5500000000;;t;FR;f;Europe/Paris;t;FRANE;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 345;Angers Maître École;angers-maitre-ecole;8748404;87484048;47.467089;-0.531891;344;f;FR;f;Europe/Paris;t;FREHA;;t;;f;8700610;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 346;Blondefontaine;blondefontaine;8711736;87117366;47.8833330000;5.8666670000;;f;FR;f;Europe/Paris;t;FRANF;;t;;f;8700692;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 347;Angoulême;angouleme;8758300;87583005;45.653603206036394;0.16449451446533203;;f;FR;f;Europe/Paris;t;FRANG;ANG;t;ANG;f;8700063;f;;f;;f;;f;;f;;f;t;;;;Angulema;;;;;;;アングレーム;앙굴렘;;;Ангулем;;;昂古莱姆
@@ -3484,7 +3484,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 4648;Gex Vertes Campagnes;gex-vertes-campagnes;8755691;87556910;46.328129;6.055754;4647;f;FR;f;Europe/Paris;t;FRXVC;;t;;f;8703393;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4649;Angoulins-sur-Mer;angoulins-sur-mer;8748510;87485102;46.108055;-1.115444;;f;FR;f;Europe/Paris;t;FRLHM;;t;;f;8705751;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4650;Libercourt;libercourt;8734525;87345256;50.48021003841322;3.0087625980377193;;f;FR;f;Europe/Paris;t;FRLIB;;t;;f;8701358;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-4651;Limoges;limoges;;;45.83572150763156;1.2651658058166504;;t;FR;f;Europe/Paris;f;FRLIG;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+4651;Limoges;limoges;;;45.83572150763156;1.2651658058166504;;t;FR;f;Europe/Paris;t;FRLIG;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4652;Lille;lille;9901001;;50.63040208723645;3.0709308385849;;t;FR;f;Europe/Paris;t;FRLIL;;t;;f;8796003;f;;f;;f;;f;;f;;f;f;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 4653;Lille-Europe;lille-europe;8722326;87223263;50.63927904928819;3.0763649940490723;4652;f;FR;f;Europe/Paris;t;FRLLE;LEW;t;LLE;f;8704949;f;XDB;t;;f;;f;;f;;f;t;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 4654;Livron;livron;8776124;87761247;44.77960372778421;4.830545783042908;;f;FR;f;Europe/Paris;t;FRLIV;LIV;t;;f;8701404;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -3774,7 +3774,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5017;Pyrénées-2000;pyrenees-2000;8700349;87003491;42.514744891509814;2.0600008964538574;;f;FR;f;Europe/Paris;t;FRPYR;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5018;Pouzauges;pouzauges;;;46.7833330000;-0.8333330000;;t;FR;f;Europe/Paris;f;FRPZG;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5019;Le Pouzin Centre;le-pouzin-centre;8776440;87764407;44.75088212314229;4.747509956359863;;f;FR;f;Europe/Paris;t;FRPZN;;t;;f;8705266;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5021;Aime-la-Plagne;aime-la-plagne;8774176;87741769;45.554202;6.648394;;f;FR;f;Europe/Paris;t;FRQAI;ANJ;t;QAI;t;8700431;f;XAI;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5021;Aime-la-Plagne;aime-la-plagne;8774176;87741769;45.554202;6.648394;23613;f;FR;t;Europe/Paris;t;FRQAI;ANJ;t;QAI;t;8700431;f;XAI;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5022;Amiens;amiens;8731387;87313874;49.89055645889729;2.3081427812576294;10605;f;FR;f;Europe/Paris;t;FRQAM;AMS;t;;f;8700001;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;アミアン;아미앵;;;Амьен;;;亞眠
 5023;Lasseran;lasseran;8761719;87617191;43.5833330000;0.5333330000;;f;FR;f;Europe/Paris;t;FRQBB;;t;;f;8706172;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5024;St-Jean-le-Comtal;st-jean-le-comtal;8761718;87617183;43.5833330000;0.5166670000;;f;FR;f;Europe/Paris;t;FRQBC;;t;;f;8706173;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -3791,7 +3791,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5035;Langres Bel Air;langres-bel-air;8721610;87216101;47.852726;5.34859;5032;f;FR;f;Europe/Paris;t;FRWGS;;t;;f;8705134;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5036;Langres Boulière;langres-bouliere;8721607;87216077;47.845229;5.332931;5032;f;FR;f;Europe/Paris;t;FRVGS;;t;;f;8705135;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5037;Les Cauquillous;les-cauquillous;8732802;87328021;43.734013;1.754685;;f;FR;f;Europe/Paris;t;FRQLS;;t;;f;8705267;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5038;Moûtiers—Salins;moutiers-salins;8774172;87741728;45.486693;6.531454;;f;FR;f;Europe/Paris;t;FRQMU;MOS;t;QMU;t;8700129;f;XMO;t;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
+5038;Moûtiers—Salins;moutiers-salins;8774172;87741728;45.486693;6.531454;23615;f;FR;t;Europe/Paris;t;FRQMU;MOS;t;QMU;t;8700129;f;XMO;t;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 5039;Annemasse;annemasse;8774549;87745497;46.19928993718554;6.236371994018555;;f;FR;f;Europe/Paris;t;FRQNJ;ANE;t;QNJ;t;8700131;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;アヌマッス;;;;;;;安纳马斯
 5041;Mâcon;macon;;;46.3000000000;4.8333330000;;t;FR;f;Europe/Paris;t;FRQNX;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;マコン;마콩;;;Макон;;;马孔
 5042;Arras;arras;8734201;87342014;50.286933167844474;2.781364917755127;;f;FR;f;Europe/Paris;t;FRQRV;ARR;t;;f;8700071;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;アラス;아라스;;;Аррас-сюр-Рон;;;罗讷河畔阿尔拉
@@ -3799,7 +3799,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5044;Château-Renault Place Jean Jaurès;chateau-renault-place-jean-jaures;8742240;87422402;47.60715;0.926931;5043;f;FR;f;Europe/Paris;t;FRRRC;;t;;f;8703698;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5045;Château-Renault Salle des Fêtes;chateau-renault-salle-des-fetes;8742239;87422394;47.587131;0.908117;5043;f;FR;f;Europe/Paris;t;FRTTR;;t;;f;8703735;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5046;La Valbonne;la-valbonne;8772357;87723577;45.8500000000;5.1333330000;;f;FR;f;Europe/Paris;t;FRQVI;VAO;t;;f;8702587;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5047;Aix-en-Provence Centre;aix-en-provence-centre;8775140;87751404;43.522912431040176;5.445291996002197;;f;FR;f;Europe/Paris;t;FRQXB;AXP;t;;f;8700157;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;エクス＝アン＝プロヴァンス;엑상프로방스;;;Экс-ан-Прованс;;;普罗旺斯地区艾克斯
+5047;Aix-en-Provence Centre;aix-en-provence-centre;8775140;87751404;43.522912431040176;5.445291996002197;23614;f;FR;t;Europe/Paris;t;FRQXB;AXP;t;;f;8700157;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;エクス＝アン＝プロヴァンス;엑상프로방스;;;Экс-ан-Прованс;;;普罗旺斯地区艾克斯
 5048;Troyes;troyes;8711800;87118000;48.295912;4.064571;5342;f;FR;t;Europe/Paris;t;FRQYR;TOY;t;;f;8700273;f;XTR;t;;f;;f;;f;;f;t;;;;;;;;;;;トロワ;트루아;;;Труа;;;特鲁瓦
 5049;Montlouis;montlouis;8757127;87571273;47.39158028444776;0.8173227310180664;;f;FR;f;Europe/Paris;t;FRQZE;;t;;f;8701615;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5050;La Villeneuve-au-Chêne;la-villeneuve-au-chene;8727993;;48.2333330000;4.3833330000;;f;FR;f;Europe/Paris;t;FRRAP;;t;;f;8705175;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4015,7 +4015,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5331;Traou-Nez;traou-nez;8732234;87322347;48.748555;-3.13488;;f;FR;f;Europe/Paris;t;FRTRN;;t;;f;8704984;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5333;Toutry;toutry;8713999;87139998;47.503253;4.115225;;f;FR;f;Europe/Paris;t;FRTRY;;t;;f;8705104;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5334;Troyes Delestraint Belgique;troyes-delestraint-belgique;8713965;87139659;48.2883687684885;4.07392680644989;5342;f;FR;f;Europe/Paris;t;FRTSA;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5335;Genève;geneve;8585444;;;;;t;CH;f;Europe/Zurich;f;FRTTX;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5335;Genève;geneve;8585444;;46.208942;6.145262;;t;CH;f;Europe/Zurich;t;FRTTX;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5336;Genève Cornavin;geneve-cornavin;8501008;85010082;46.210208;6.142428;5335;f;CH;t;Europe/Zurich;t;CHGVA;;t;;f;8501008;t;XGC;t;;f;8501008;t;;f;;f;f;;Genf Hauptbahnhof;Geneva Main station;Ginebra Estación central;;Ginevra Stazione centrale;;Ženeva;;Genf;ジュネーヴ;제네바;Genewa;Genebra;Женева;;Cenevre;日内瓦
 5337;Genève;geneve;8585440;;;;5335;f;CH;f;Europe/Zurich;f;CHAFH;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5338;Tours;tours;;;;;;t;FR;f;Europe/Paris;f;FRTUF;;t;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
@@ -4263,7 +4263,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5599;Urt;urt;8767238;87672386;43.499385;-1.300586;5598;f;FR;t;Europe/Paris;t;FRURT;;t;;f;8702144;f;;f;;f;;f;;f;;f;f;;;;Ahurti;;;;;;;;;;;;;;于尔
 5601;Rouen Rive Droite;rouen-rive-droite;8741101;87411017;49.44904;1.094113;5603;f;FR;t;Europe/Paris;t;FRURD;RRD;t;;f;8700113;f;XRO;f;;f;;f;;f;;f;t;;;;Ruan;;;;;;;ルーアン;루앙;;Ruão;Руан;;;鲁昂
 5602;Rouen Gare Routière;rouen-gare-routiere;8740189;87401893;49.4431290000;1.0993190000;5601;f;FR;f;Europe/Paris;f;FRURG;;f;;f;8705355;f;XRN;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5603;Rouen;rouen;9919002;;49.4431290000;1.0993190000;;t;FR;f;Europe/Paris;f;FRURL;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5603;Rouen;rouen;9919002;;49.4431290000;1.0993190000;;t;FR;f;Europe/Paris;t;FRURL;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5604;Aubusson;aubusson;;;45.95473010854736;2.1672892570495605;;t;FR;f;Europe/Paris;f;FRUSO;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5605;Ussel;ussel;8759409;87594093;45.557475;2.314353;10657;f;FR;f;Europe/Paris;t;FRUSS;USL;t;;f;8700098;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5606;Eurville;eurville;;;48.5833330000;5.0333330000;;t;FR;f;Europe/Paris;f;FRUVI;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4558,7 +4558,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5961;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5962;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5963;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5964;Antwerpen (Anvers);antwerpen-anvers;8888210;;;;;t;BE;f;Europe/Brussels;f;BEANC;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5964;Antwerpen (Anvers);antwerpen-anvers;8888210;;51.221722;4.405860;;t;BE;f;Europe/Brussels;t;BEANC;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5965;Antwerpen-Oost;antwerpen-oost;8821022;;51.207357;4.436392;5964;f;BE;f;Europe/Brussels;f;BEAOO;;f;;f;;f;;f;;f;;f;;f;;f;f;;;Antwerp;;Anvers;Anversa;;;;;;;;;;;;
 5966;;;;;;;5964;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5967;;;;;;;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -7252,7 +7252,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8667;Haarlem;haarlem;8400285;;52.3871100000;4.6364650000;;f;NL;f;Europe/Amsterdam;t;NLGRZ;;f;;f;8400285;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ハールレム;하를럼;;;Харлем;;;哈勒姆
 8668;Maastricht;maastricht;8400424;;50.849811;5.705875;;f;NL;f;Europe/Amsterdam;t;NLMST;;f;;f;8400424;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8669;Roosendaal;roosendaal;8400526;;51.5398590000;4.4566360000;;f;NL;f;Europe/Amsterdam;t;NLROO;;f;;f;8400526;t;;f;;f;;f;;f;;f;f;;;;;Rosendael;;;;;;ローゼンダール;;;;Розендал;;;罗森达尔
-8670;Rotterdam Centraal;rotterdam-centraal;8400530;84005306;51.925068244603146;4.468839168548584;;f;NL;f;Europe/Amsterdam;t;NLRTA;;t;;f;8400530;f;QRH;t;;f;;f;;f;;f;f;;;;;;;;;;;ロッテルダム;로테르담;;Roterdão;Роттердам;;;鹿特丹
+8670;Rotterdam Centraal;rotterdam-centraal;8400530;84005306;51.925068244603146;4.468839168548584;23616;f;NL;f;Europe/Amsterdam;t;NLRTA;;t;;f;8400530;f;QRH;t;;f;;f;;f;;f;f;;;;;;;;;;;ロッテルダム;로테르담;;Roterdão;Роттердам;;;鹿特丹
 8671;;;;;;;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8672;Schiphol Airport;schiphol-airport;8400561;;52.3087870000;4.7614870000;;f;NL;f;Europe/Amsterdam;t;NLSPH;;t;;f;8400561;t;;f;;f;;f;;f;;f;f;;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amszterdam;アムステルダム;암스테르담;Amsterdam;Amesterdão;Амстердам;Amsterdam;Amsterdam;阿姆斯特丹
 8673;Utrecht Centraal;utrecht-centraal;8400621;;52.0875800000;5.1111670000;;f;NL;f;Europe/Amsterdam;t;NLUTC;;f;;f;8400621;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;ユトレヒト;;;;Утрехт;;;
@@ -9103,7 +9103,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10596;Saint Germain-lès-Arlay;saint-germain-les-arlay;8749384;;;;;f;FR;f;Europe/Paris;f;FRREW;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10597;;;8750104;;;;;f;FR;f;Europe/Paris;f;FRKAY;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10598;;;8750106;;;;;f;FR;f;Europe/Paris;f;FRKAX;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10599;Aix-en-Provence Gare routière;aix-en-provence-gare-routiere;8754179;;;;5047;f;FR;f;Europe/Paris;f;FRQXC;;f;;f;;f;QXB;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10599;Aix-en-Provence Gare routière;aix-en-provence-gare-routiere;8754179;;;;23614;f;FR;f;Europe/Paris;f;FRQXC;;f;;f;;f;QXB;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10600;Amiens Gare routière;amiens-gare-routiere;8752242;87522425;49.891965;2.308762;5022;f;FR;f;Europe/Paris;f;FRQBU;;f;;f;8706635;f;XAS;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10601;;;;;;;;t;FR;f;Europe/Paris;f;FRXSO;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10602;Aulnat Aéroport;aulnat-aeroport;8756242;87562421;45.792058;3.161547;;f;FR;f;Europe/Paris;t;FRTKN;AUL;t;;f;;f;;f;;f;;f;;f;;f;f;;Flughafen;Airport;Aeropuerto;;Aeroporto;;;;;;;;;;;;
@@ -17459,7 +17459,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 18992;Overveen;overveen;8400501;;52.3909930000;4.6077890000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400501;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18993;Rijswijk;rijswijk;8400505;;52.0393440000;4.3197840000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400505;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18994;Purmerend Overwhere;purmerend-overwhere;8400506;;52.5113230000;4.9674030000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400506;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18995;Rotterdam Alexander;rotterdam-alexander;8400507;;51.9517350000;4.5535210000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400507;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18995;Rotterdam Alexander;rotterdam-alexander;8400507;;51.9517350000;4.5535210000;23616;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400507;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18996;Putten;putten;8400509;;52.2651710000;5.5753340000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400509;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18997;Raalte;raalte;8400513;;52.3913080000;6.2784160000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400513;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Раалт;;;
 18998;Ravenstein;ravenstein;8400515;;51.7944240000;5.6364610000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400515;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -17473,9 +17473,9 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 19006;Rotterdam Noord;rotterdam-noord;8400531;;51.9422790000;4.4815810000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400531;t;;f;;f;;f;;f;;f;f;;;;Róterdam;;;;;;;ロッテルダム;로테르담;;Roterdão;Роттердам;;;鹿特丹
 19007;Rotterdam Zuid;rotterdam-zuid;8400533;;51.9048660000;4.5100310000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400533;t;;f;;f;;f;;f;;f;f;;;;Róterdam;;;;;;;ロッテルダム;로테르담;;Roterdão;Роттердам;;;鹿特丹
 19008;Rijssen;rijssen;8400538;;52.3119780000;6.5196870000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400538;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-19009;Rotterdam Lombardijen;rotterdam-lombardijen;8400542;;51.8803700000;4.5307700000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400542;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-19010;Santpoort Noord;santpoort-noord;8400543;;52.4336470000;4.6324200000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400543;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-19011;Santpoort Zuid;santpoort-zuid;8400544;;52.4197140000;4.6312690000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400544;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+19009;Rotterdam Lombardijen;rotterdam-lombardijen;8400542;;51.8803700000;4.5307700000;23616;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400542;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+19010;Santpoort Noord;santpoort-noord;8400543;;52.4336470000;4.6324200000;23616;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400543;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+19011;Santpoort Zuid;santpoort-zuid;8400544;;52.4197140000;4.6312690000;23616;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400544;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 19012;Landgraaf;landgraaf;8400548;;50.8965280000;6.0198600000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400548;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 19013;Schagen;schagen;8400549;;52.7847480000;4.8053810000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400549;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Схаген;;;斯哈亨
 19014;Schinnen;schinnen;8400554;;50.9390560000;5.8746390000;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400554;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21816,7 +21816,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23371;Opheusden;opheusden;8400494;;51.9261615;5.6371145;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23372;Reuver;reuver;8400518;;51.2832191665301;6.07895851135253;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23373;Roodeschool;roodeschool;8400525;;53.4192128;6.7606167;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23374;Rotterdam Stadion;rotterdam-stadion;8400534;;51.8938903808594;4.51972198486328;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23374;Rotterdam Stadion;rotterdam-stadion;8400534;;51.8938903808594;4.51972198486328;23616;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23375;Ruurlo;ruurlo;8400537;;52.0810888;6.4492656;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23376;Sappemeer Oost;sappemeer-oost;8400545;;53.1589183;6.7955648;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23377;Sauwerd;sauwerd;8400547;;53.29113;6.5404;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -22055,3 +22055,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23610;Tatabanya;tatabanya;5500009;;47.585266;18.393141;;f;HU;f;Europe/Budapest;f;;;f;;f;5500009;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23611;Pforzheim Hbf ZOB;pforzheim-hbf-zob;8089428;;48.893448;8.70416;7695;f;DE;f;Europe/Berlin;f;;;f;;f;8089428;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23612;Chomutov;chomutov;5400005;;50.4566;13.39958;;f;CZ;f;Europe/Prague;f;;;f;;f;5400005;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23613;Aime;aime;;;45.557137;6.6516423;;t;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23614;Aix-en-Provence;aix-en-provence;;;43.5283;5.44973;;t;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23615;Moûtiers;moutiers;;;45.484838;6.5303850;;t;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23616;Rotterdam;rotterdam;;;51.920132;4.461822;;t;NL;f;Europe/Amsterdam;t;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
