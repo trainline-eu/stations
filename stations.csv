@@ -22073,3 +22073,5 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23628;Chatillon Mail;chatillon-mail;8764409;;;;;;FR;f;Europe/Paris;f;FRLMJ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23629;Loudéac ZI Sud;loudeac-zi-sud;8764162;;;;;;FR;f;Europe/Paris;f;FRLOT;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23630;Reignac Bourg du Fau;reignac-bourg-du-fau;8768974;;47.227137;0.915296;10540;;FR;f;Europe/Paris;t;FRJLV;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23631;Pforzheim ZOB;pforzheim-zob;;;48.89354;8.70525;7695;;DE;f;Europe/Berlin;f;;;f;;f;940658;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23632;Karlsruhe Hbf Südausgang;karlsruhe-hbf-sudausgang;;;48.99148;8.40051;7665;;DE;f;Europe/Berlin;f;;;f;;f;421210;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
