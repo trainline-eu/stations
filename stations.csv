@@ -22060,18 +22060,19 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23615;Moûtiers;moutiers;;;45.484838;6.5303850;;t;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23616;Rotterdam;rotterdam;;;51.920132;4.461822;;t;NL;f;Europe/Amsterdam;t;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23617;Milano Forlanini;milano-forlanini;8301492;;45.463706;9.237035;8483;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8301492;f;;f;;f;f;;Mailand;Milan;Milán;Milan;;Milaan;Milán;;;ミラノ;밀라노;Mediolan;Milão;Милан;;;
-23618;Toulouse Chaussee;toulouse-chaussee;8768805;;43.5936097;1.4422667;5306;;FR;f;Europe/Paris;t;FRXTM;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;Tolosa;;;;;トゥールーズ;툴루즈;Tuluza;;Тулуза;;;圖盧茲
+23618;Toulouse Chaussee;toulouse-chaussee;8768805;;43.5936097;1.4422667;5306;;FR;f;Europe/Paris;f;FRXTM;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;Tolosa;;;;;トゥールーズ;툴루즈;Tuluza;;Тулуза;;;圖盧茲
 23619;La Cluse Ville;la-cluse-ville;8769157;;46.170881;5.576279;;;FR;f;Europe/Paris;t;FRXUD;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23620;Aubin Place Monteils;aubin-place-monteils;8760960;;44.528202;2.243719;;;FR;f;Europe/Paris;t;FRLHJ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23621;Aire-sur-l’Adour Avenue des Pyrénées;aire-sur-ladour-avenue-des-pyrenees;8761431;;43.691168;-0.556574;8;;FR;f;Europe/Paris;t;FRUQC;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23622;Felletin Mairie;felletin-mairie;8769344;;45.8847822;2.1734543;2842;;FR;f;Europe/Paris;t;FRODJ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23621;Aire-sur-l’Adour Avenue des Pyrénées;aire-sur-ladour-avenue-des-pyrenees;8761431;;43.691168;-0.556574;8;;FR;f;Europe/Paris;f;FRUQC;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23622;Felletin Mairie;felletin-mairie;8769344;;45.8847822;2.1734543;2842;;FR;f;Europe/Paris;f;FRODJ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23623;Verfeil en Tartays;verfeil-en-tartays;8768815;;43.64466;1.666999;;;FR;f;Europe/Paris;t;FRXTY;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23624;Monnaie Gendarmerie;monnaie-gendarmerie;8768972;;47.494474;0.78472;4762;;FR;f;Europe/Paris;t;FRJLS;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23624;Monnaie Gendarmerie;monnaie-gendarmerie;8768972;;47.494474;0.78472;4762;;FR;f;Europe/Paris;f;FRJLS;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23625;Issoudun Jardin;issoudun-jardin;8768993;;;;2818;;FR;f;Europe/Paris;f;FRJKL;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23626;Buzancais Croissant;buzancais-croissant;8764405;;46.890258;1.423881;2822;;FR;f;Europe/Paris;t;FRLMH;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23627;Aire-sur-l’Adour Place de la Liberté;aire-sur-ladour-place-de-la-liberte;8766849;;43.704553;-0.26004;8;;FR;f;Europe/Paris;t;FRLKP;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23626;Buzancais Croissant;buzancais-croissant;8764405;;46.890258;1.423881;2822;;FR;f;Europe/Paris;f;FRLMH;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23627;Aire-sur-l’Adour Place de la Liberté;aire-sur-ladour-place-de-la-liberte;8766849;;43.704553;-0.26004;8;;FR;f;Europe/Paris;f;FRLKP;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23628;Chatillon Mail;chatillon-mail;8764409;;;;;;FR;f;Europe/Paris;f;FRLMJ;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23629;Loudéac ZI Sud;loudeac-zi-sud;8764162;;;;;;FR;f;Europe/Paris;f;FRLOT;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23630;Reignac Bourg du Fau;reignac-bourg-du-fau;8768974;;47.227137;0.915296;10540;;FR;f;Europe/Paris;t;FRJLV;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23630;Reignac Bourg du Fau;reignac-bourg-du-fau;8768974;;47.227137;0.915296;10540;;FR;f;Europe/Paris;f;FRJLV;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23631;Pforzheim ZOB;pforzheim-zob;;;48.89354;8.70525;7695;;DE;f;Europe/Berlin;f;;;f;;f;940658;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23632;Karlsruhe Hbf Südausgang;karlsruhe-hbf-sudausgang;;;48.99148;8.40051;7665;;DE;f;Europe/Berlin;f;;;f;;f;421210;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23633;Montierchaume Place Couturier;montierchaume-place-couturier;8768965;;46.864279;1.771556;2819;;FR;f;Europe/Paris;f;FRJLU;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
