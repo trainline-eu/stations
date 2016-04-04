@@ -2971,7 +2971,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 3884;Monceaux-le-Comte;monceaux-le-comte;8773497;87734970;47.3333330000;3.6666670000;;f;FR;f;Europe/Paris;t;FRHND;;t;;f;8704006;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3885;St-Loup Place de l’Église;st-loup-place-de-leglise;8773498;;46.3500000000;3.3833330000;;f;FR;f;Europe/Paris;t;FRHNE;;t;;f;8705673;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3887;Le Mans Viaduc;le-mans-viaduc;8746306;87463067;48.0000000000;0.2000000000;4661;f;FR;f;Europe/Paris;t;FRHNG;;t;;f;8706379;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-3889;La Place;la-place;8773986;87739862;48.807857;2.333761;;f;FR;f;Europe/Paris;t;FRHNI;;t;;f;8703593;f;;f;;f;;f;;f;;f;f;;;;Plaza;;;;;;;;;;;;;;
+3889;La Place (Malay);la-place-malay;8773986;87739862;46.575584;4.694008;;f;FR;f;Europe/Paris;t;FRHNI;;t;;f;8703593;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3890;Les Marguerons;les-marguerons;8773987;87739870;46.739044;4.718177;;f;FR;f;Europe/Paris;t;FRHNJ;;t;;f;8703772;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3891;Muse;muse;8773989;;47.74873112290638;7.297512888908385;;f;FR;f;Europe/Paris;t;FRHNK;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3892;Pont-de-Cotte;pont-de-cotte;8773990;87739904;46.463722;4.670723;;f;FR;f;Europe/Paris;t;FRHNL;;t;;f;8704260;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
