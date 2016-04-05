@@ -7127,7 +7127,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8541;;;;;;;8534;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8542;Roma;roma;8308349;;41.8932225;12.4829203;;t;IT;f;Europe/Rome;t;ITRMA;;f;;f;8396004;f;;f;;f;8308349;t;RM0;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
 8543;Roma Tiburtina;roma-tiburtina;8308217;;41.911072;12.531457;8542;f;IT;f;Europe/Rome;t;ITRTB;;f;;f;8300262;f;;f;;f;8308217;t;RTB;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
-8544;Roma Termini;roma-termini;8308409;83084095;41.911072;12.531457;8542;f;IT;t;Europe/Rome;t;ITRTI;;f;;f;8300263;f;;f;;f;8308409;t;RMT;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
+8544;Roma Termini;roma-termini;8308409;83084095;41.900833;12.501944;8542;f;IT;t;Europe/Rome;t;ITRTI;;f;;f;8300263;f;;f;;f;8308409;t;RMT;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
 8545;Roma Ostiense;roma-ostiense;8308406;;41.872275;12.484902;8542;f;IT;f;Europe/Rome;t;ITROS;;f;;f;8300261;f;;f;;f;8308406;t;OST;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
 8546;;;;;;;8542;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8547;;;;;;;8542;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
