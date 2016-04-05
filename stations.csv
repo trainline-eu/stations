@@ -4937,8 +4937,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6347;Morgins Poste;morgins-poste;8501890;;;;;f;CH;f;Europe/Zurich;f;CHMRG;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6348;Monthey;monthey;8501421;;;;;t;CH;f;Europe/Zurich;f;CHMTY;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6349;Neuchâtel;neuchatel;8504244;;46.996728;6.93569;6350;f;CH;f;Europe/Zurich;t;CHNBT;;t;;f;8504221;t;;f;;f;;f;;f;;f;f;;Neuenburg;;;;;;;;;ヌーシャテル;뇌샤텔;;;Невшатель;;;纳沙泰尔
-6350;Neuchâtel;neuchatel;;;;;;t;CH;f;Europe/Zurich;f;CHNLO;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6351;Neuchâtel (Suisse);neuchatel-suisse;8504221;;46.996513;6.935914;6350;f;CH;f;Europe/Zurich;f;CHQNC;;t;;f;8530791;f;;f;;f;;f;;f;;f;f;6349;;;;;;;;;;;;;;;;;
+6350;Neuchâtel;neuchatel;;;;;;t;CH;f;Europe/Zurich;f;CHNLO;;t;;f;;f;;f;;f;;f;;f;;f;f;;Neuenburg;;;;;;;;;ヌーシャテル;뇌샤텔;;;Невшатель;;;纳沙泰尔
+6351;Neuchâtel;neuchatel;8504221;;46.996513;6.935914;6349;f;CH;f;Europe/Zurich;f;CHQNC;;t;;f;8530791;f;;f;;f;;f;;f;;f;f;;Neuenburg;;;;;;;;;ヌーシャテル;뇌샤텔;;;Невшатель;;;纳沙泰尔
 6352;St-Gallen;st-gallen;8506302;;47.423276;9.369303;6358;f;CH;f;Europe/Zurich;t;CHQGL;;f;;f;8506302;t;;f;;f;;f;;f;;f;f;;;;;Saint-Gall;San Gallo;;;;;;;;;Санкт-Галлен;;;
 6353;Luzern;luzern;8505000;;47.050142;8.31068;;f;CH;f;Europe/Zurich;t;CHQLJ;;f;;f;8505000;t;;f;;f;8505000;t;;f;;f;f;;;Lucerne;Lucerna;Lucerne;Lucerna;;Lucern;;;ルツェルン;루체른;Lucerna;Lucerna;Люцерн;;;卢塞恩
 6354;Lausanne;lausanne;;;;;;t;CH;f;Europe/Zurich;f;CHQLS;;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -7127,7 +7127,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8541;;;;;;;8534;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8542;Roma;roma;8308349;;41.8932225;12.4829203;;t;IT;f;Europe/Rome;t;ITRMA;;f;;f;8396004;f;;f;;f;8308349;t;RM0;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
 8543;Roma Tiburtina;roma-tiburtina;8308217;;41.911072;12.531457;8542;f;IT;f;Europe/Rome;t;ITRTB;;f;;f;8300262;f;;f;;f;8308217;t;RTB;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
-8544;Roma Termini;roma-termini;8308409;83084095;41.911072;12.531457;8542;f;IT;t;Europe/Rome;t;ITRTI;;f;;f;8300263;f;;f;;f;8308409;t;RMT;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
+8544;Roma Termini;roma-termini;8308409;83084095;41.900833;12.501944;8542;f;IT;t;Europe/Rome;t;ITRTI;;f;;f;8300263;f;;f;;f;8308409;t;RMT;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
 8545;Roma Ostiense;roma-ostiense;8308406;;41.872275;12.484902;8542;f;IT;f;Europe/Rome;t;ITROS;;f;;f;8300261;f;;f;;f;8308406;t;OST;t;;f;f;;Rom;Rome;;Rome;;Rome;Řím;Rom;;ローマ;로마;Rzym;;Рим;Rom;;罗马市
 8546;;;;;;;8542;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8547;;;;;;;8542;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
