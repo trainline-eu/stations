@@ -9031,7 +9031,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10524;;;8103656;;;;;f;AT;f;Europe/Vienna;f;ATAHD;;f;;f;;f;;f;;f;;f;;f;;f;;;f;;;;;;;;;;;;;;;;;;
 10525;Zaragoza Delicias;zaragoza-delicias;7171000;;;;;f;ES;f;Europe/Madrid;f;ESZAZ;;f;;f;;f;;f;;f;;f;;f;;f;;;f;;;;;;;;;;;;;;;;;;
 10526;Cloyes Centre;cloyes-centre;8734315;;47.9975107867748;1.23014688491821;10708;f;FR;f;Europe/Paris;f;FREUU;;f;;f;;f;;f;;f;;f;;f;;f;;;f;;;;;;;;;;;;;;;;;;
-10527;;;8745359;;;;;f;FR;f;Europe/Paris;f;FREGM;;f;;f;;f;;f;;f;;f;;f;;f;;;f;;;;;;;;;;;;;;;;;;
+10527;St-Florent-sur-Cher Bus;st-florent-sur-cher-bus;8745359;;46.99205781250841;2.25244402885437;2518;f;FR;f;Europe/Paris;f;FREGM;;t;;f;;f;;f;;f;;f;;f;;f;;;f;;;;;;;;;;;;;;;;;;
 10528;Uzel Aire de covoiturage (Berlouze);uzel-aire-de-covoiturage-berlouze;8756293;87562934;48.271138;-2.786080;10789;f;FR;t;Europe/Paris;t;FRUPZ;;t;;f;8706550;f;;f;;f;;f;;f;;f;;;f;;;;;;;;;;;;;;;;;;
 10529;Uzel Centre;uzel-centre;8743236;;48.280199;-2.808733;10789;f;FR;f;Europe/Paris;t;FRUAF;;t;;f;8704759;f;;f;;f;;f;;f;;f;;;f;;;;;;;;;;;;;;;;;;
 10530;;;8713082;;;;10624;f;FR;f;Europe/Paris;f;FRUCR;;f;;f;;f;;f;;f;;f;;f;;f;;;f;;;;;;;;;;;;;;;;;;
