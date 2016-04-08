@@ -74,6 +74,7 @@ HOMONYM_STATIONS = [
   "19053", # Zwijndrecht (Netherlands)
   "11343", # Burgdorf (Germany)
   "21261", # Lison (Italy)
+  "22462", # Lugo (Spain and Italy)
 ]
 
 COUNTRIES = {
@@ -115,6 +116,7 @@ def valid_carrier(row)
     row["idtgv_is_enabled"] == "t" ||
     row["ntv_is_enabled"] == "t" ||
     row["ouigo_is_enabled"] == "t" ||
+    row["renfe_is_enabled"] == "t" ||
     row["sncf_is_enabled"] == "t" ||
     row["trenitalia_is_enabled"] == "t"
 end
@@ -206,6 +208,10 @@ class StationsTest < Minitest::Test
 
   def test_ntv_enabled_and_id_columns
     validate_enabled_and_id_columns("ntv", 3)
+  end
+
+  def test_renfe_enabled_an_id_columns
+    validate_enabled_and_id_columns("renfe", 5)
   end
 
   def test_id_unicity
