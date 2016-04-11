@@ -22076,3 +22076,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23632;Karlsruhe Hbf Südausgang;karlsruhe-hbf-sudausgang;;;48.99148;8.40051;7665;;DE;f;Europe/Berlin;f;;;f;;f;421210;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23633;Montierchaume Place Couturier;montierchaume-place-couturier;8768965;;46.864279;1.771556;2819;;FR;f;Europe/Paris;f;FRJLU;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23634;Valencia;valencia;;;;;;t;ES;f;Europe/Madrid;f;ESVSS;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;Spanien;Spain;;Espagne;Spagna;;;;;;;;;;;;
+23635;Annecy Gare Routière;annecy-gare-routiere;8760049;;45.90169;6.12009;4843;f;FR;f;Europe/Paris;t;FRRJD;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;アヌシー;안시;;;Анси;;;阿讷西
