@@ -5245,7 +5245,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6656;Granada;granada;7105000;;37.183906;-3.609061;;f;ES;f;Europe/Madrid;t;ESGRX;;f;;f;7100182;f;;f;;f;;f;;f;;f;05000;t;f;;;;;Grenade;;;;;;;;;;;;;
 6657;Irún;irun;;;;;;t;ES;f;Europe/Madrid;f;ESIRU;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6658;Jaén;jaen;7103100;;37.780223;-3.790975;;f;ES;f;Europe/Madrid;t;ESJAN;;f;;f;7100204;f;;f;;f;;f;;f;;f;03100;t;f;;;;;;;;;;;;;;;;;;
-6659;A Coruña - San Cristovo;a-la-coruna-san-cristobal;7131412;;43.352681;-8.409651;;f;ES;f;Europe/Madrid;t;ESLCG;;f;;f;7100029;f;;f;;f;;f;;f;;f;31412;t;f;;;;San Cristóbal;La Corogne;;;;;;;;;;;;;
+6659;A Coruña - San Cristovo;a-coruna-san-cristovo;7131412;;43.352681;-8.409651;;f;ES;f;Europe/Madrid;t;ESLCG;;f;;f;7100029;f;;f;;f;;f;;f;;f;31412;t;f;;;;San Cristóbal;La Corogne;;;;;;;;;;;;;
 6660;León;leon;7115100;;42.595888;-5.582382;;f;ES;f;Europe/Madrid;t;ESLEO;;f;;f;7100015;f;;f;;f;;f;;f;;f;15100;t;f;;;;;;;;;;;;;;;;;;
 6661;Lugo;lugo;7120309;;43.015307;-7.55226;;f;ES;f;Europe/Madrid;t;ESLGO;;f;;f;7100186;f;;f;;f;;f;;f;;f;20309;t;f;;Spanien;Spain;España;Espagne;Spagna;;;;;;;;;;;;
 6662;Valdestillas;valdestillas;7110503;;41.489083;-4.772633;;f;ES;f;Europe/Madrid;t;ESLIB;;f;;f;7110503;f;;f;;f;;f;;f;;f;10503;t;f;;;;;;;;;;;;;;;;;;
