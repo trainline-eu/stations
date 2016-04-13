@@ -3755,7 +3755,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 4992;Pradons;pradons;8733693;87336933;44.4666670000;4.3666670000;;f;FR;f;Europe/Paris;t;FRPRA;;t;;f;8705258;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4993;Pradelles;pradelles;8745367;87453670;44.7666670000;3.8833330000;;f;FR;f;Europe/Paris;t;FRPRD;;t;;f;8706414;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4994;Perros-Guirec;perros-guirec;8733830;87338301;48.8166670000;-3.4500000000;9273;f;FR;t;Europe/Paris;f;FRPRR;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-4998;Portet—St-Simon;portet-st-simon;8761140;87611400;43.527971;1.388968;;f;FR;f;Europe/Paris;t;FRPSS;PSS;t;;f;8701801;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+4998;Portet—Saint-Simon;portet-saint-simon;8761140;87611400;43.527971;1.388968;;f;FR;f;Europe/Paris;t;FRPSS;PSS;t;;f;8701801;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4999;Précy-sous-Thil;precy-sous-thil;8700235;87002352;47.3833330000;4.3166670000;;f;FR;f;Europe/Paris;t;FRPTH;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5000;Pontarlier;pontarlier;8771500;87715003;46.90051747821962;6.353300213813782;;f;FR;f;Europe/Paris;t;FRPTL;PTL;t;;f;8700406;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ポンタルリエ;;;;Понтарлье;;;蓬塔尔利耶
 5001;Poitiers;poitiers;;;46.5833330000;0.3333330000;;t;FR;f;Europe/Paris;f;FRPTR;;t;;f;;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
@@ -4241,7 +4241,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5573;Beaumont-sur-Lèze—Vignolles;beaumont-sur-leze-vignolles;8744688;87446880;43.398859;1.363996;;f;FR;f;Europe/Paris;t;FRUOR;;t;;f;8706158;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5575;Moulin-Augé;moulin-auge;8744690;87446906;43.450475;1.393633;;f;FR;f;Europe/Paris;t;FRUOT;;t;;f;8706160;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5578;Pinsaguel Mairie;pinsaguel-mairie;8744693;;43.5166670000;1.3833330000;;f;FR;f;Europe/Paris;t;FRUOW;;t;;f;8706163;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5579;Portet-sur-Garonne;portet-sur-garonne;8744694;87446948;42.8000000000;0.5000000000;;f;FR;f;Europe/Paris;t;FRUOX;;t;;f;8706164;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5579;Portet-sur-Garonne;portet-sur-garonne;8744694;87446948;43.523056;1.406667;;f;FR;f;Europe/Paris;t;FRUOX;;t;;f;8706164;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5580;Verdalle Centre;verdalle-centre;8744905;87449058;43.508374;2.156593;;f;FR;f;Europe/Paris;t;FRUOY;;t;;f;8706165;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5581;Dourgne-en-Calcat;dourgne-en-calcat;8744906;87449066;43.488221;2.140601;;f;FR;f;Europe/Paris;t;FRUOZ;;t;;f;8706166;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5582;Revel République;revel-republique;8744907;87449074;43.4666670000;2.0000000000;17134;f;FR;f;Europe/Paris;t;FRUPA;;t;;f;8706167;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
