@@ -75,6 +75,10 @@ HOMONYM_STATIONS = [
   "11343", # Burgdorf (Germany)
   "21261", # Lison (Italy)
   "22462", # Lugo (Spain and Italy)
+  "23759", # Bellavista (Spain and Italy)
+  "24394", # Santa Lucia (Spain and Italy)
+  "24424", # Silla (Spain and Italy)
+  "24457", # Torralba (Spain and Italy)
 ]
 
 COUNTRIES = {
