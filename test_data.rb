@@ -97,6 +97,7 @@ COUNTRIES = {
   "HU" => "Europe/Budapest",
   "IT" => "Europe/Rome",
   "LU" => "Europe/Luxembourg",
+  "MA" => "Africa/Casablanca",
   "NL" => "Europe/Amsterdam",
   "PL" => "Europe/Warsaw",
   "PT" => "Europe/Lisbon",
