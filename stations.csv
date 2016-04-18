@@ -5044,7 +5044,6 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6454;Alegria de Alava-Dulantzi;alegria-de-alava-dulantzi;7111210;;42.849025;-2.514291;;f;ES;f;Europe/Madrid;t;ESABY;;f;;f;7111210;f;;f;;f;;f;;f;;f;11210;t;f;;;;;;;;;;;;;;;;;;
 6455;Oviedo;oviedo;7115211;;43.366237;-5.855339;;f;ES;f;Europe/Madrid;t;ESABZ;;f;;f;7100152;f;;f;;f;;f;;f;;f;15211;t;f;;;;;;;;;;;;;;;;;;
 6456;Salvatierra de Álava;salvatierra-de-alava;7111212;;42.846319;-2.388748;;f;ES;f;Europe/Madrid;t;ESACA;;f;;f;7111212;f;;f;;f;;f;;f;;f;11212;t;f;;;;;;;;;;;;;;;;;;
-6457;Araya;araya;7111213;;;;;f;ES;f;Europe/Madrid;t;ESACB;;f;;f;;f;;f;;f;;f;;f;;f;11213;t;f;;;;Araia;;;;;;;;;;;;;;
 6458;Valcabado;valcabado;7130214;;;;;f;ES;f;Europe/Madrid;f;ESACC;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6459;Guitiriz;guitiriz;7120314;;43.179019;-7.895108;;f;ES;f;Europe/Madrid;t;ESACD;;f;;f;7100433;f;;f;;f;;f;;f;;f;20314;t;f;;;;;;;;;;;;;;;;;;
 6460;Olazagutia;olazagutia;7111216;;;;;f;ES;f;Europe/Madrid;f;ESACE;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
