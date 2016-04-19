@@ -94,7 +94,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 119;Sarreguemines Poste;sarreguemines-poste;8740690;;49.110155;7.054923;118;f;FR;f;Europe/Paris;t;FRZDB;;t;;f;8705509;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 121;Sarreguemines;sarreguemines;8719361;87193615;49.10741472240868;7.068398594856262;118;f;FR;t;Europe/Paris;t;FRSGS;SGS;t;;f;8700439;f;;f;;f;;f;;f;;f;;f;f;;Saargemünd;;;;;;;;;サルグミーヌ;;;;Саргемин;;;萨尔格米纳
 122;Dunkerque;dunkerque;8728100;87281006;51.03026865635461;2.3686105012893672;;f;FR;f;Europe/Paris;t;FRADI;DKQ;t;;f;8700004;f;XDE;t;;f;;f;;f;;f;;f;t;;Dünkirchen;Dunkirk;;;;Duinkerke;Dunkerk;;;ダンケルク;됭케르크;Dunkierka;Dunquerque;Дюнкерк;;;敦刻尔克
-123;Lille-Flandres;lille-flandres;8728600;87286005;50.637486;3.071128;4652;f;FR;f;Europe/Paris;t;FRADJ;LLF;t;;f;8700030;f;;f;;f;;f;;f;;f;;f;t;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
+123;Lille-Flandres;lille-flandres;8728600;87286005;50.637486;3.071128;4652;f;FR;f;Europe/Paris;t;FRADJ;LLF;t;;f;8700030;f;;f;ADJ;f;;f;;f;;f;;f;t;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 124;Haubourdin;haubourdin;8728609;87286096;50.6069682482955;2.990228533744812;;f;FR;f;Europe/Paris;t;FRADK;;t;;f;8701242;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 125;Tourcoing;tourcoing;8728654;87286542;50.716573;3.168176;5840;f;FR;t;Europe/Paris;t;FRADM;TRG;t;;f;8700121;f;;f;ADM;t;;f;;f;;f;;f;t;;;;;;;Toerkonje;;;;トゥールコワン;;;;Туркуэн;;;图尔宽
 126;Nomain;nomain;;;50.5000000000;3.2500000000;;t;FR;f;Europe/Paris;f;FRADN;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -3485,7 +3485,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 4649;Angoulins-sur-Mer;angoulins-sur-mer;8748510;87485102;46.108055;-1.115444;;f;FR;f;Europe/Paris;t;FRLHM;;t;;f;8705751;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4650;Libercourt;libercourt;8734525;87345256;50.48021003841322;3.0087625980377193;;f;FR;f;Europe/Paris;t;FRLIB;;t;;f;8701358;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4651;Limoges;limoges;;;45.83572150763156;1.2651658058166504;;t;FR;f;Europe/Paris;t;FRLIG;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-4652;Lille;lille;9901001;;50.63040208723645;3.0709308385849;;t;FR;f;Europe/Paris;t;FRLIL;;t;;f;8796003;f;;f;;f;;f;;f;;f;;f;f;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
+4652;Lille;lille;9901001;;50.63040208723645;3.0709308385849;;t;FR;f;Europe/Paris;t;FRLIL;;t;;f;8796003;f;;f;AD1;t;;f;;f;;f;;f;f;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 4653;Lille-Europe;lille-europe;8722326;87223263;50.63927904928819;3.0763649940490723;4652;f;FR;f;Europe/Paris;t;FRLLE;LEW;t;LLE;f;8704949;f;XDB;t;;f;;f;;f;;f;;f;t;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 4654;Livron;livron;8776124;87761247;44.77960372778421;4.830545783042908;;f;FR;f;Europe/Paris;t;FRLIV;LIV;t;;f;8701404;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4655;Le Locle;le-locle;;;;;;t;CH;f;Europe/Zurich;f;FRLLC;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
