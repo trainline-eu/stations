@@ -21117,7 +21117,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22673;Ashford International;ashford-international;7050040;;;;;f;GB;f;Europe/London;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;8155;;;;;;;;;;;;;;;;;
 22674;Ebbsfleet International;ebbsfleet-international;7055660;;;;;f;GB;f;Europe/London;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;8224;;;;;;;;;;;;;;;;;
 22675;Tübingen Hbf;tubingen-hbf;8029318;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;7343;;;;;;;;;;;;;;;;;
-22676;Zaragoza Delicias;zaragoza-delicias;7104040;;41.658439;-0.909906;;f;ES;t;Europe/Madrid;t;ESZAA;;t;;f;7175506;f;;f;;f;;f;;f;;f;04040;t;f;;;;;Saragosse;Saragozza;;;;;;;;Saragoça;;;;
+22676;Zaragoza Delicias;zaragoza-delicias;7104040;;41.658439;-0.909906;24575;f;ES;t;Europe/Madrid;t;ESZAA;;t;;f;7175506;f;;f;;f;;f;;f;;f;04040;t;f;;;;;Saragosse;Saragozza;;;;;;;;Saragoça;;;;
 22677;Reutlingen Hbf;reutlingen-hbf;8029309;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;7213;;;;;;;;;;;;;;;;;
 22678;Lübeck Hbf;lubeck-hbf;8001631;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;7676;;;;;;;;;;;;;;;;;
 22679;Oldenburg (Oldb);oldenburg-oldb;8021207;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;7178;;;;;;;;;;;;;;;;;
