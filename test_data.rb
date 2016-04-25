@@ -63,6 +63,8 @@ VIRTUAL_STATIONS = [
 
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
+  "6661", # Lugo (Spain and Italy)
+  "8720",  # Guarda (Portugal and Italy)
   "17958", # Comines (Belgium)
   "17989", # Lens (Belgium)
   "18164", # Melle (Belgium)
@@ -74,12 +76,22 @@ HOMONYM_STATIONS = [
   "19053", # Zwijndrecht (Netherlands)
   "11343", # Burgdorf (Germany)
   "21261", # Lison (Italy)
-  "22462", # Lugo (Spain and Italy)
   "23759", # Bellavista (Spain and Italy)
   "24394", # Santa Lucia (Spain and Italy)
   "24424", # Silla (Spain and Italy)
   "24457", # Torralba (Spain and Italy)
 ]
+
+HOMONYM_SUFFIXES = {
+  "BE" => ["station", "gare"],
+  "CH" => ["bahnhof", "gare", "stazione"],
+  "DE" => ["bahnhof"],
+  "ES" => ["estacion"],
+  "FR" => ["gare"],
+  "IT" => ["stazione"],
+  "NL" => ["station"],
+  "PT" => ["estacao"],
+}
 
 COUNTRIES = {
   "AD" => "Europe/Paris",
@@ -415,9 +427,10 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
         if !HOMONYM_STATIONS.include?(row["id"])
-          assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} has not a correct slug"
+          assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} has an incorrect slug"
         else
-          assert_match(/\A#{slugify(row["name"])}-[a-z]+\z/, row["slug"], "Station #{row["id"]} has not a correct slug")
+          suffixes = HOMONYM_SUFFIXES[row["country"]].join("|")
+          assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["id"]} has an incorrect slug")
         end
       end
     end
