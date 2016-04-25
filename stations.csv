@@ -21634,7 +21634,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23190;Virton;virton;8866407;;49.560821;5.519125;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23191;Athus;athus;8866605;;49.563346;5.828947;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;Athem;;;;;;;;;;;;;;;;
 23192;Messancy;messancy;8866662;;49.592777;5.818915;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23193;Marchienne-au-Pont;marchienne-au-pont;8871100;;50.412171;4.394223;;f;BE;f;Europe/Brussels;f;;BEMAR;f;;f;8800122;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23193;Marchienne-au-Pont;marchienne-au-pont;8871100;;50.412171;4.394223;;f;BE;f;Europe/Brussels;f;BEMAR;;f;;f;8800122;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23194;Piéton;pieton;8871415;;50.434959;4.288438;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23195;Erquelinnes-Village;erquelinnes-village;8871647;;50.310179;4.132314;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;Dorp;;;;;;;;;;;
 23196;Solre-sur-Sambre;solre-sur-sambre;8871662;;50.312642;4.158427;;f;BE;f;Europe/Brussels;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
