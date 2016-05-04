@@ -3633,7 +3633,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 4832;Château-du-Loir;chateau-du-loir;;;;;;t;FR;f;Europe/Paris;f;FRNAF;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4833;St-Benoît-la-Forêt Hôpital;st-benoit-la-foret-hopital;8745337;87453373;47.2166670000;0.3166670000;;f;FR;f;Europe/Paris;t;FRNBM;;t;;f;8706317;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4834;Benet;benet;;;46.3666670000;-0.6000000000;;t;FR;f;Europe/Paris;f;FRNBT;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-4836;Nice;nice;9921017;;43.69664545590452;7.2719407081603995;;t;FR;f;Europe/Paris;t;FRNCE;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;Nizza;;Niza;;Nizza;;;;Nizza;ニース;니스;Nicea;;Ницца;;;尼斯
+4836;Nice;nice;9921017;;43.69664545590452;7.2719407081603995;;t;FR;f;Europe/Paris;t;FRNCE;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;Nizza;;Niza;;Nizza;;;;Nizza;ニース;니스;Nicea;;Ницца;;;尼斯
 4837;Nice St-Augustin;nice-st-augustin;8775625;87756254;43.670675;7.216351;4836;f;FR;f;Europe/Paris;t;FRNSA;;t;;f;8701667;f;;f;;f;8775625;f;;f;;f;;f;f;;Nizza;;Niza;;Nizza;;;;Nizza;ニース;니스;Nicea;;Ницца;;;尼斯
 4838;Nice Riquier;nice-riquier;8775635;87756353;43.705832;7.290485;4836;f;FR;f;Europe/Paris;t;FRNRI;;t;;f;8700481;f;;f;;f;8775635;f;;f;;f;;f;f;;Nizza;;Niza;;Nizza;;;;Nizza;ニース;니스;Nicea;;Ницца;;;尼斯
 4839;Nice Ville;nice-ville;8775605;87756056;43.704825;7.261764;4836;f;FR;t;Europe/Paris;t;FRNIC;NIC;t;NIC;t;8700171;f;;f;;f;8775605;t;;f;;f;;f;t;;Nizza;;Niza;;Nizza;;;;Nizza;ニース;니스;Nicea;;Ницца;;;尼斯
