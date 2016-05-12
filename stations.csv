@@ -23024,3 +23024,6 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 24580;Zarzalejo;zarzalejo;7110204;;40.53859;-4.15796;;f;ES;f;Europe/Madrid;t;;;f;;f;7113557;f;;f;;f;;f;;f;;f;10204;t;f;;;;;;;;;;;;;;;;;;
 24581;Zuera;zuera;7178100;;41.8773;-0.764147;;f;ES;f;Europe/Madrid;t;;;f;;f;;f;;f;;f;;f;;f;;f;78100;t;f;;;;;;;;;;;;;;;;;;
 24582;Zurita;zurita;7114229;;43.347629;-3.991021;;f;ES;f;Europe/Madrid;t;;;f;;f;7114215;f;;f;;f;;f;;f;;f;14229;t;f;;;;;;;;;;;;;;;;;;
+24583;Parc Astérix;parc-asterix;;;49.136968;2.570626;;f;FR;f;Europe/Paris;t;;;f;;f;;f;771;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+24584;Guérande;guerande;;;47.3281;-2.4297;;t;FR;f;Europe/Paris;t;;;f;;f;;f;772;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+24585;Le Barcarès;le-barcares;;;42.7947;3.0334;;t;FR;f;Europe/Paris;t;;;f;;f;;f;773;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
