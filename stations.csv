@@ -8498,7 +8498,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 9992;Tepina;tepina;8776227;;;;;f;FR;f;Europe/Paris;f;FRIGF;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9993;Gennevilliers;gennevilliers;8727120;;48.9333330000;2.3000000000;;f;FR;f;Europe/Paris;f;FRCCU;;f;;f;8703382;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9994;Lupino;lupino;8776229;;;;;f;FR;f;Europe/Paris;f;FRIGG;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-9995;Deauville;deauville;;;49.3569980000;0.0699520000;;t;FR;f;Europe/Paris;f;FRWZH;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+9995;Deauville;deauville;;;49.3569980000;0.0699520000;;t;FR;f;Europe/Paris;t;FRWZH;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9996;Rivoli;rivoli;8776230;;;;;f;FR;f;Europe/Paris;f;FRIGH;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9997;Orly Aérogares;orly-aerogares;8754613;;48.7500000000;2.4000000000;9037;f;FR;f;Europe/Paris;f;FRERP;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9998;L’Arinella;larinella;8776232;;;;;f;FR;f;Europe/Paris;f;FRIGI;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
