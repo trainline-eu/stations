@@ -22246,7 +22246,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23802;Calafell;calafell;7171601;;41.189499;1.570001;;f;ES;f;Europe/Madrid;t;;;f;;f;7171601;f;;f;;f;;f;;f;;f;71601;t;f;;;;;;;;;;;;;;;;;;
 23803;Calahorra;calahorra;7181108;;42.310634;-1.957392;;f;ES;f;Europe/Madrid;t;;;f;;f;7100413;f;;f;;f;;f;;f;;f;81108;t;f;;;;;;;;;;;;;;;;;;
 23804;Calamonte;calamonte;7140002;;38.887344;-6.382862;;f;ES;f;Europe/Madrid;t;;;f;;f;7140002;f;;f;;f;;f;;f;;f;40002;t;f;;;;;;;;;;;;;;;;;;
-23805;Calatayud;calatayud;7170600;;41.346298;-1.63849;;f;ES;f;Europe/Madrid;t;;;f;;f;7100094;f;;f;;f;;f;;f;;f;70600;t;f;;;;;;;;;;;;;;;;;;
+23805;Calatayud;calatayud;7170600;;41.346298;-1.63849;;f;ES;f;Europe/Madrid;t;ESAHO;;f;;f;7100094;f;;f;;f;;f;;f;;f;70600;t;f;;;;;;;;;;;;;;;;;;
 23806;Calañas;calanas;7142015;;37.652136;-6.876271;;f;ES;f;Europe/Madrid;t;;;f;;f;7142015;f;;f;;f;;f;;f;;f;42015;t;f;;;;;;;;;;;;;;;;;;
 23807;Caldearenas-Aquilue;caldearenas-aquilue;7174209;;42.397982;-0.49944;;f;ES;f;Europe/Madrid;t;;;f;;f;7174209;f;;f;;f;;f;;f;;f;74209;t;f;;;;;;;;;;;;;;;;;;
 23808;Caldelas;caldelas;7122110;;42.055637;-8.566396;;f;ES;f;Europe/Madrid;t;;;f;;f;7122110;f;;f;;f;;f;;f;;f;22110;t;f;;;;;;;;;;;;;;;;;;
