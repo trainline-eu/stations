@@ -115,7 +115,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 150;Allenc;allenc;8778365;87783654;44.5333330000;3.6666670000;;f;FR;f;Europe/Paris;t;FRAEC;;t;;f;8702645;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 151;Pau;pau;8767200;87672006;43.29155258667031;-0.3697478771209717;5006;f;FR;t;Europe/Paris;t;FRAEE;PAU;t;;f;8700106;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ポー;;;;Пау;;;
 152;Hendaye;hendaye;8767700;87677005;43.3531128691334;-1.7820382118225098;5785;f;FR;t;Europe/Paris;t;FRAEF;HED;t;AEF;t;8700149;f;;f;;f;;f;;f;;f;;f;t;;;;Hendaya;;;;;;;アンダイエ;;;;Андай;;;昂代伊
-153;Strasbourg;strasbourg;8721202;87212027;48.585338;7.734067;5260;f;FR;t;Europe/Paris;f;FRAEG;STG;t;AEG;f;8700023;t;;f;;f;;f;;f;;f;;f;t;;Straßburg;;Estrasburgo;;Strasburgo;Straatsburg;Štrasburk;;;ストラスブール;스트라스부르;Strasburg;Estrasburgo;Страсбург;;Strazburg;斯特拉斯堡
+153;Strasbourg;strasbourg;8721202;87212027;48.585338;7.734067;5260;f;FR;t;Europe/Paris;f;FRAEG;STG;t;AEG;f;8700023;t;;f;;f;8721202;f;;f;;f;;f;t;;Straßburg;;Estrasburgo;;Strasburgo;Straatsburg;Štrasburk;;;ストラスブール;스트라스부르;Strasburg;Estrasburgo;Страсбург;;Strazburg;斯特拉斯堡
 154;Mertzwiller;mertzwiller;;;48.8666670000;7.6833330000;;t;FR;f;Europe/Paris;f;FRAEH;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 155;Mertzwiller;mertzwiller;8721320;87213207;48.871609;7.677704;154;f;FR;t;Europe/Paris;t;FRBVY;;t;;f;8701652;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 157;Colmar;colmar;8718201;87182014;48.07254485668853;7.346677780151368;1349;f;FR;t;Europe/Paris;t;FRAEJ;CMR;t;;f;8700178;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;コルマール;콜마르;;;Кольмар;;;科尔马
@@ -130,7 +130,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 166;Aspach-le-Haut;aspach-le-haut;;;47.6500000000;7.2333330000;;t;FR;f;Europe/Paris;f;FRAEQ;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 167;Aspach-le-Haut;aspach-le-haut;8767414;87674143;47.769396;7.142379;166;f;FR;t;Europe/Paris;t;FRGII;;t;;f;8704940;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 168;Aspach-le-Bas;aspach-le-bas;8721537;87215376;47.759832;7.152375;166;f;FR;f;Europe/Paris;t;FRCAQ;;t;;f;8704939;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-171;Avignon Centre;avignon-centre;8776500;87765008;43.941668244510936;4.8052096366882315;489;f;FR;f;Europe/Paris;t;FRAES;AVI;t;AES;t;8700172;f;;f;;f;;f;;f;;f;;f;t;;;;Aviñón;;Avignone;;;;;アヴィニョン;아비뇽;Awinion;Avinhão;Авиньон;;;亞維農
+171;Avignon Centre;avignon-centre;8776500;87765008;43.941668244510936;4.8052096366882315;489;f;FR;f;Europe/Paris;t;FRAES;AVI;t;AES;t;8700172;f;;f;;f;8776501;f;;f;;f;;f;t;;;;Aviñón;;Avignone;;;;;アヴィニョン;아비뇽;Awinion;Avinhão;Авиньон;;;亞維農
 172;Le Mans;le-mans;8739600;87396002;47.995364119768475;0.1921534538269043;4661;f;FR;t;Europe/Paris;t;FRAET;LEN;t;;f;8700435;f;;f;AET;t;;f;;f;;f;;f;t;;;;;;;;;;;ル・マン;르망;;;Ле-Ман;;;勒芒
 173;Joué-lès-Tours Berthelot;joue-les-tours-berthelot;8711028;87110288;47.3500000000;0.6666670000;4580;f;FR;f;Europe/Paris;t;FRAEV;;t;;f;8703510;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 174;Eu;eu;;;50.0500000000;1.4166670000;;t;FR;f;Europe/Paris;f;FRAEX;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -3009,7 +3009,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 3931;Landry;landry;8774177;87741777;45.57427846261418;6.733675003051758;;f;FR;f;Europe/Paris;t;FRHPG;LAY;t;HPG;t;8700444;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3932;Antignac (Cantal);antignac-cantal;8711022;87110221;45.3666670000;2.5500000000;;f;FR;f;Europe/Paris;t;FRHPH;;t;;f;8702668;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3933;Ambilly;ambilly;8774203;87742031;46.1952000000;6.2243000000;;f;FR;f;Europe/Paris;t;FRHPM;;t;;f;8702465;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-3934;St-Jean-de-Maurienne—Arvan;st-jean-de-maurienne-arvan;8774232;87742320;45.277793;6.354573;;f;FR;f;Europe/Paris;t;FRHPN;SJM;t;;f;8702383;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+3934;St-Jean-de-Maurienne—Arvan;st-jean-de-maurienne-arvan;8774232;87742320;45.277793;6.354573;;f;FR;f;Europe/Paris;t;FRHPN;SJM;t;;f;8702383;f;;f;;f;8774232;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3936;Romelfing Route Départementale;romelfing-route-departementale;8747688;87476887;48.8333330000;7.0166670000;;f;FR;f;Europe/Paris;f;FRHPP;;t;;f;8706447;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3938;Gérardmer Les Bas-Rupts;gerardmer-les-bas-rupts;8747680;;48.04475072986582;6.8708109855651855;;f;FR;f;Europe/Paris;t;FRHPR;;t;;f;8706425;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3939;Collonges (Ain);collonges-ain;8774260;87742601;46.1333330000;5.9000000000;;f;FR;f;Europe/Paris;t;FRHPS;;t;;f;8703131;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4369,7 +4369,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5747;Alençon;alencon;8744471;87444711;48.4339;0.0984;;f;FR;f;Europe/Paris;t;FRXAN;ALN;t;;f;8700141;f;;f;;f;;f;;f;;f;;f;t;;;;Alenzón;;;;;;;アランソン;;;;Алансон;;;阿朗松
 5748;Alès;ales;8777528;87775288;44.12793673360334;4.085025787353515;;f;FR;f;Europe/Paris;t;FRXAS;ALS;t;;f;8700126;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 5749;Antibes;antibes;8775767;87757674;43.58569116237965;7.119462490081787;;f;FR;f;Europe/Paris;t;FRXAT;ATB;t;;f;8700146;f;;f;;f;8775767;t;;f;;f;;f;t;;;;;;;;;;;アンティーブ;앙티브;;;Антиб;;;昂蒂布
-5750;Albertville;albertville;8774164;87741645;45.67309824794535;6.383163928985596;;f;FR;f;Europe/Paris;t;FRXAV;ALV;t;XAV;t;8700128;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;アルベールヴィル;알베르빌;;;Альбервиль;;;阿尔贝维尔
+5750;Albertville;albertville;8774164;87741645;45.67309824794535;6.383163928985596;;f;FR;f;Europe/Paris;t;FRXAV;ALV;t;XAV;t;8700128;f;;f;;f;8774164;f;;f;;f;;f;t;;;;;;;;;;;アルベールヴィル;알베르빌;;;Альбервиль;;;阿尔贝维尔
 5751;Barèges;bareges;8762017;87620179;42.9000000000;0.0666670000;;f;FR;f;Europe/Paris;t;FRXBA;;t;;f;8702772;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;巴雷热
 5752;Briançon;briancon;8776360;87763607;44.889969340028685;6.633086800575256;;f;FR;f;Europe/Paris;t;FRXBC;BRI;t;;f;8700158;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ブリアンソン;;;;Бриансон;;;布里昂松
 5753;Bar-le-Duc;bar-le-duc;8717504;87175042;48.773613961208746;5.167179107666016;;f;FR;f;Europe/Paris;t;FRXBD;BLD;t;;f;8700262;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;バル＝ル＝デュック;;;;Бар-ле-Дюк;;;巴勒迪克
@@ -4389,7 +4389,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5767;Chamonix Mont Blanc;chamonix-mont-blanc;8774678;87746784;45.91990069246709;6.866669654846191;;f;FR;f;Europe/Paris;t;FRXCF;CHX;t;;f;8700299;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5768;Cagnes-sur-Mer;cagnes-sur-mer;;;43.6666670000;7.1500000000;;t;FR;f;Europe/Paris;f;FRXCG;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5769;Compiègne;compiegne;8727669;87276691;49.42230471648786;2.823502421379089;;f;FR;f;Europe/Paris;t;FRXCP;CPE;t;;f;8700246;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;コンピエーニュ;콩피에뉴;;;Компьень;;;贡比涅
-5770;La Ciotat;la-ciotat;8775178;87751784;43.19962313634956;5.632821321487426;;f;FR;f;Europe/Paris;t;FRXCT;;t;;f;8700885;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ラ・シオタ;;;;Ла-Сьота;;;拉西奥塔
+5770;La Ciotat;la-ciotat;8775178;87751784;43.19962313634956;5.632821321487426;;f;FR;f;Europe/Paris;t;FRXCT;;t;;f;8700885;f;;f;;f;8775178;f;;f;;f;;f;t;;;;;;;;;;;ラ・シオタ;;;;Ла-Сьота;;;拉西奥塔
 5771;Collioure;collioure;8778425;87784256;42.526905;3.078077;;f;FR;f;Europe/Paris;t;FRXCU;COX;t;;f;8700486;f;;f;;f;;f;;f;;f;;f;f;;;;Colliure;;;;;;;コリウール;;;;Коллиур;;;科利乌尔
 5772;Chantilly—Gouvieux;chantilly-gouvieux;8727611;87276113;49.187624;2.459565;;f;FR;f;Europe/Paris;t;FRXCV;CLY;t;;f;8700820;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 5773;Châtellerault;chatellerault;8757514;87575142;46.818611837291904;0.5497026443481445;;f;FR;f;Europe/Paris;t;FRXCX;CRT;t;;f;8700553;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;シャテルロー;;;;Шательро;;;沙泰勒罗
@@ -4634,7 +4634,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6037;Le Prese;le-prese;8509364;;46.290464;10.078157;;f;CH;f;Europe/Zurich;f;CHAAZ;;f;;f;8509364;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6038;Randa;randa;8501687;;46.100081;7.781503;;f;CH;f;Europe/Zurich;f;CHABA;;f;;f;8501687;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6039;Reckingen;reckingen;8501666;;46.469304;8.243413;;f;CH;f;Europe/Zurich;f;CHABB;;f;;f;8501666;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6040;Winterthur;winterthur;8506000;;47.500331;8.723815;;f;CH;f;Europe/Zurich;t;CHABC;;f;;f;8506000;t;;f;;f;;f;;f;;f;;f;f;;;;;Winterthour;;;;;;ヴィンタートゥール;빈터투어;;;Винтертур;;;温特图尔
+6040;Winterthur;winterthur;8506000;;47.500331;8.723815;;f;CH;f;Europe/Zurich;t;CHABC;;f;;f;8506000;t;;f;;f;8506000;f;;f;;f;;f;f;;;;;Winterthour;;;;;;ヴィンタートゥール;빈터투어;;;Винтертур;;;温特图尔
 6041;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6042;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6043;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4939,7 +4939,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6349;Neuchâtel;neuchatel;8504244;;46.996728;6.93569;6350;f;CH;f;Europe/Zurich;t;CHNBT;;t;;f;8504221;t;;f;;f;;f;;f;;f;;f;f;;Neuenburg;;;;;;;;;ヌーシャテル;뇌샤텔;;;Невшатель;;;纳沙泰尔
 6350;Neuchâtel;neuchatel;;;;;;t;CH;f;Europe/Zurich;f;CHNLO;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;Neuenburg;;;;;;;;;ヌーシャテル;뇌샤텔;;;Невшатель;;;纳沙泰尔
 6351;Neuchâtel;neuchatel;8504221;;46.996513;6.935914;6349;f;CH;f;Europe/Zurich;f;CHQNC;;t;;f;8530791;f;;f;;f;;f;;f;;f;;f;f;;Neuenburg;;;;;;;;;ヌーシャテル;뇌샤텔;;;Невшатель;;;纳沙泰尔
-6352;St-Gallen;st-gallen;8506302;;47.423276;9.369303;6358;f;CH;f;Europe/Zurich;t;CHQGL;;f;;f;8506302;t;;f;;f;;f;;f;;f;;f;f;;;;;Saint-Gall;San Gallo;;;;;;;;;Санкт-Галлен;;;
+6352;St-Gallen;st-gallen;8506302;;47.423276;9.369303;6358;f;CH;f;Europe/Zurich;t;CHQGL;;f;;f;8506302;t;;f;;f;8506302;f;;f;;f;;f;f;;;;;Saint-Gall;San Gallo;;;;;;;;;Санкт-Галлен;;;
 6353;Luzern;luzern;8505000;;47.050142;8.31068;;f;CH;f;Europe/Zurich;t;CHQLJ;;f;;f;8505000;t;;f;;f;8505000;t;;f;;f;;f;f;;;Lucerne;Lucerna;Lucerne;Lucerna;;Lucern;;;ルツェルン;루체른;Lucerna;Lucerna;Люцерн;;;卢塞恩
 6354;Lausanne;lausanne;;;;;;t;CH;f;Europe/Zurich;f;CHQLS;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6355;Arolla poste;arolla-poste;8501750;;;;;f;CH;f;Europe/Zurich;f;CHRLA;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -16073,7 +16073,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17607;Hallein;hallein;8101125;;47.6851670000;13.0994310000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100040;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ハライン;할라인;;;Халлайн;;;哈萊因
 17608;Golling-Abtenau;golling-abtenau;8101128;;47.6005790000;13.1640820000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100041;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17609;St. Johann im Pongau;st-johann-im-pongau;8101136;;47.3481080000;13.1948430000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100043;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17610;Schwarzach-St.Veit;schwarzach-st-veit;8101137;;47.3185330000;13.1544630000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100044;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+17610;Schwarzach-St.Veit;schwarzach-st-veit;8101137;;47.3185330000;13.1544630000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100044;t;;f;;f;8101137;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17611;Taxenbach-Rauris;taxenbach-rauris;8101142;;47.2927520000;12.9471630000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100046;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17612;Bruck-Fusch;bruck-fusch;8101144;;47.2846170000;12.8288110000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100047;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17613;Zell am See;zell-am-see;8101145;;47.3205200000;12.7965670000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100048;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ツェル・アム・ゼー;첼암제;;;Целль-ам-Зе;;;滨湖采尔
@@ -16669,7 +16669,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 18203;Gstaad;gstaad;8501399;;46.4747790000;7.2843900000;;f;CH;f;Europe/Zurich;t;CHZHK;;f;;f;8501399;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18204;Aigle;aigle;8501400;85014001;46.3168560000;6.9636550000;;f;CH;f;Europe/Zurich;t;CHZDC;;t;;f;8501400;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18205;Bex;bex;8501402;;46.2514600000;7.0006730000;;f;CH;f;Europe/Zurich;t;CHBEX;;f;;f;8501402;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18206;St-Maurice;st-maurice;8501403;;46.2163570000;7.0020390000;;f;CH;f;Europe/Zurich;t;CHAGD;;f;;f;8501403;t;;f;;f;;f;;f;;f;;f;f;;Schweiz;Switzerland;Suiza;Suisse;Svizzera;;;;;;;;;;;;
+18206;St-Maurice;st-maurice;8501403;;46.2163570000;7.0020390000;;f;CH;f;Europe/Zurich;t;CHAGD;;f;;f;8501403;t;;f;;f;8501403;f;;f;;f;;f;f;;Schweiz;Switzerland;Suiza;Suisse;Svizzera;;;;;;;;;;;;
 18207;Leysin TLSA;leysin-tlsa;;;46.3475090000;7.0173840000;;f;CH;f;Europe/Zurich;f;;;f;;f;8501467;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18208;Sion;sion;8501506;;46.2274606182505;7.359364628791808;;f;CH;f;Europe/Zurich;t;CHSIR;;t;;f;8501506;t;;f;;f;8501506;t;;f;;f;;f;f;;Sitten;;;;;;;;;シオン;시옹;;;Сьон;;;锡永
 18209;Sierre/Siders;sierre-siders;8501509;;46.2921180000;7.5328070000;;f;CH;f;Europe/Zurich;t;CHZKO;;t;;f;8501509;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
