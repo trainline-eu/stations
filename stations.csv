@@ -15988,7 +15988,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17512;Aalborg St.;aalborg-st;8600020;;57.043127;9.916486;;f;DK;f;Europe/Copenhagen;t;DKAAH;;f;;f;8600004;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;オールボー;올보르;;;Ольборг;Ålborg;;奥尔堡
 17513;Aarhus;aarhus;8600053;;56.150075;10.204995;;f;DK;f;Europe/Copenhagen;t;DKAAO;;f;;f;8600087;t;;f;;f;;f;;f;;f;;f;f;;Århus;;Århus;Århus;Århus;Århus;Århus;Århus;;オーフス;;Århus;;Орхус;Århus;Århus;
 17514;Kolding St.;kolding-st;8600083;;55.490842;9.481525;;f;DK;f;Europe/Copenhagen;t;DKAAU;;f;;f;8601318;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;コリング;콜링;;;Кольдинг;;;科靈
-17515;København;kobenhavn;8600626;;55.672721;12.564618;;f;DK;f;Europe/Copenhagen;t;DKCPH;;f;;f;8601309;t;;f;;f;;f;;f;;f;;f;f;;Kopenhagen;Copenhagen;Copenhague;Copenhague;Copenaghen;Kopenhagen;Kodaň;;Koppenhága;コペンハーゲン;코펜하겐;Kopenhaga;Copenhaga;Копенгаген;Köpenhamn;Kopenhag;哥本哈根
+17515;København;kobenhavn;8600626;;55.672721;12.564618;;f;DK;f;Europe/Copenhagen;t;DKCPH;;f;;f;8601309;t;;f;;f;;f;;f;;f;;f;f;;Kopenhagen;Copenhagen;Copenhague;Copenhague;Copenhagen;Kopenhagen;Kodaň;;Koppenhága;コペンハーゲン;코펜하겐;Kopenhaga;Copenhaga;Копенгаген;Köpenhamn;Kopenhag;哥本哈根
 17516;Odense St.;odense-st;8600512;;55.401777;10.386001;;f;DK;f;Europe/Copenhagen;t;DKACT;;f;;f;8601770;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;オーデンセ;오덴세;;;Оденсе;;;欧登塞
 17517;Roskilde St.;roskilde-st;8600617;;55.639012;12.088855;;f;DK;f;Europe/Copenhagen;t;DKADC;;f;;f;8602026;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ロスキレ;로스킬레;;;Роскилле;;;罗斯基勒
 17518;Gdańsk Główny;gdansk-glowny;5100750;;54.355523;18.643807;;f;PL;f;Europe/Warsaw;t;PLGAW;;f;;f;5100009;t;;f;;f;;f;;f;;f;;f;f;;Danzig;Danzig;Danzig;Dantzig;Danzica;;Gdaňsk;;;グダニスク;그단스크;;Gdańsk;Гданьск;;;格但斯克
