@@ -23027,3 +23027,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 24583;Parc Astérix;parc-asterix;;;49.136968;2.570626;;f;FR;f;Europe/Paris;t;;;f;;f;;f;771;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 24584;Guérande;guerande;;;47.3281;-2.4297;;t;FR;f;Europe/Paris;t;;;f;;f;;f;772;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 24585;Le Barcarès;le-barcares;;;42.7947;3.0334;;t;FR;f;Europe/Paris;t;;;f;;f;;f;773;t;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+24586;Étretat;etretat;8769334;;49.707380;0.205638;;f;FR;f;Europe/Paris;t;FRKGI;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
