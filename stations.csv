@@ -22584,7 +22584,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 24140;Lugones;lugones;7115212;;43.404333;-5.812047;;f;ES;f;Europe/Madrid;t;;;f;;f;7115212;f;;f;;f;;f;;f;;f;15212;t;f;;;;;;;;;;;;;;;;;;
 24141;Méndez Álvaro;mendez-alvaro;7118003;;40.39559;-3.678511;;f;ES;f;Europe/Madrid;t;;;f;;f;7118003;f;;f;;f;;f;;f;;f;18003;t;f;;;;;;;;;;;;;;;;;;
 24142;Madrid - Atocha Cercanías;madrid-atocha-cercanias;7118000;;40.406287;-3.690539;6663;f;ES;f;Europe/Madrid;t;;;f;;f;7100500;f;;f;;f;;f;;f;;f;18000;t;f;;;;;;;;;;;;;;;;;;
-24143;Madrid-Barajas T4;madrid-barajas-t4;7198305;;40.49172;-3.593599;6663;f;ES;f;Europe/Madrid;t;;;f;;f;7198305;f;;f;;f;;f;;f;;f;98305;t;f;;;;;;;;;;;;;;;;;;
+24143;Madrid-Barajas T4;madrid-barajas-t4;7198305;;40.49172;-3.593599;6663;f;ES;f;Europe/Madrid;f;;;f;;f;7198305;f;;f;;f;;f;;f;;f;98305;t;f;;;;;;;;;;;;;;;;;;
 24144;Madrid-Nuevos Ministerios;madrid-nuevos-ministerios;7118002;;40.446613;-3.692418;6663;f;ES;f;Europe/Madrid;t;;;f;;f;7124900;f;;f;;f;;f;;f;;f;18002;t;f;;;;;;;;;;;;;;;;;;
 24145;Madrid-Ramón y Cajal;madrid-ramon-y-cajal;7197201;;40.488242;-3.694701;6663;f;ES;f;Europe/Madrid;t;;;f;;f;7145867;f;;f;;f;;f;;f;;f;97201;t;f;;;;;;;;;;;;;;;;;;
 24146;Madrid-Recoletos;madrid-recoletos;7118001;;40.423286;-3.690907;;f;ES;f;Europe/Madrid;t;;;f;;f;7132797;f;;f;;f;;f;;f;;f;18001;t;f;;;;;;;;;;;;;;;;;;
