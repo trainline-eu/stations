@@ -114,7 +114,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 149;Boulogne-sur-Mer Ville;boulogne-sur-mer-ville;8731758;87317586;50.71549602881634;1.610097885131836;5758;f;FR;t;Europe/Paris;t;FRAEB;BEM;t;;f;8700450;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ブローニュ＝シュル＝メール;불로뉴쉬르메르;;Bolonha-sobre-o-Mar;Булонь-сюр-Мер;;;滨海布洛涅
 150;Allenc;allenc;8778365;87783654;44.5333330000;3.6666670000;;f;FR;f;Europe/Paris;t;FRAEC;;t;;f;8702645;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 151;Pau;pau;8767200;87672006;43.29155258667031;-0.3697478771209717;5006;f;FR;t;Europe/Paris;t;FRAEE;PAU;t;;f;8700106;f;;f;;f;;f;;f;;f;;f;t;;;;;;;;;;;ポー;;;;Пау;;;
-152;Hendaye;hendaye;8767700;87677005;43.3531128691334;-1.7820382118225098;5785;f;FR;t;Europe/Paris;t;FRAEF;HED;t;AEF;t;8700149;f;;f;;f;;f;;f;;f;;f;t;;;;Hendaya;;;;;;;アンダイエ;;;;Андай;;;昂代伊
+152;Hendaye;hendaye;8767700;87677005;43.3531128691334;-1.7820382118225098;5785;f;FR;t;Europe/Paris;t;FRAEF;HED;t;AEF;t;8700149;f;;f;;f;;f;;f;;f;11602;t;t;;;;Hendaya;;;;;;;アンダイエ;;;;Андай;;;昂代伊
 153;Strasbourg;strasbourg;8721202;87212027;48.585338;7.734067;5260;f;FR;t;Europe/Paris;f;FRAEG;STG;t;AEG;f;8700023;t;;f;;f;8721202;f;;f;;f;;f;t;;Straßburg;;Estrasburgo;;Strasburgo;Straatsburg;Štrasburk;;;ストラスブール;스트라스부르;Strasburg;Estrasburgo;Страсбург;;Strazburg;斯特拉斯堡
 154;Mertzwiller;mertzwiller;;;48.8666670000;7.6833330000;;t;FR;f;Europe/Paris;f;FRAEH;;t;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 155;Mertzwiller;mertzwiller;8721320;87213207;48.871609;7.677704;154;f;FR;t;Europe/Paris;t;FRBVY;;t;;f;8701652;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -22584,7 +22584,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 24140;Lugones;lugones;7115212;;43.404333;-5.812047;;f;ES;f;Europe/Madrid;t;;;f;;f;7115212;f;;f;;f;;f;;f;;f;15212;t;f;;;;;;;;;;;;;;;;;;
 24141;Méndez Álvaro;mendez-alvaro;7118003;;40.39559;-3.678511;;f;ES;f;Europe/Madrid;t;;;f;;f;7118003;f;;f;;f;;f;;f;;f;18003;t;f;;;;;;;;;;;;;;;;;;
 24142;Madrid - Atocha Cercanías;madrid-atocha-cercanias;7118000;;40.406287;-3.690539;6663;f;ES;f;Europe/Madrid;t;;;f;;f;7100500;f;;f;;f;;f;;f;;f;18000;t;f;;;;;;;;;;;;;;;;;;
-24143;Madrid-Barajas T4;madrid-barajas-t4;7198305;;40.49172;-3.593599;6663;f;ES;f;Europe/Madrid;t;;;f;;f;7198305;f;;f;;f;;f;;f;;f;98305;t;f;;;;;;;;;;;;;;;;;;
+24143;Madrid-Barajas T4;madrid-barajas-t4;7198305;;40.49172;-3.593599;6663;f;ES;f;Europe/Madrid;f;;;f;;f;7198305;f;;f;;f;;f;;f;;f;98305;t;f;;;;;;;;;;;;;;;;;;
 24144;Madrid-Nuevos Ministerios;madrid-nuevos-ministerios;7118002;;40.446613;-3.692418;6663;f;ES;f;Europe/Madrid;t;;;f;;f;7124900;f;;f;;f;;f;;f;;f;18002;t;f;;;;;;;;;;;;;;;;;;
 24145;Madrid-Ramón y Cajal;madrid-ramon-y-cajal;7197201;;40.488242;-3.694701;6663;f;ES;f;Europe/Madrid;t;;;f;;f;7145867;f;;f;;f;;f;;f;;f;97201;t;f;;;;;;;;;;;;;;;;;;
 24146;Madrid-Recoletos;madrid-recoletos;7118001;;40.423286;-3.690907;;f;ES;f;Europe/Madrid;t;;;f;;f;7132797;f;;f;;f;;f;;f;;f;18001;t;f;;;;;;;;;;;;;;;;;;
