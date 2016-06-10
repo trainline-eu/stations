@@ -6422,7 +6422,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7837;Stroud;stroud;7047710;;51.744358;-2.218673;;f;GB;f;Europe/London;t;GBADR;;f;;f;;f;;f;;f;;f;;f;;f;;f;STD;t;f;;;;;;;;;;;;;;;;;;
 7838;Whitland;whitland;7041110;;51.817989;-4.614454;;f;GB;f;Europe/London;t;GBADS;;f;;f;;f;;f;;f;;f;;f;;f;;f;WTL;t;f;;;;;;;;;;;;;;;;;;
 7839;Norwich;norwich;7073090;;52.627121;1.306879;;f;GB;f;Europe/London;t;GBADT;;f;;f;;f;;f;;f;;f;;f;;f;;f;NRW;t;f;;;;;;;;;;;;;;;;;;
-7840;London Liverpool Street;london-liverpool-street;7069650;;51.517551;-0.08021;8267;f;GB;f;Europe/London;t;GBADU;;f;;f;;f;;f;;f;;f;;f;;f;;f;LST;t;f;;;;;;;;;;;;;;;;;;
+7840;London Liverpool Street;london-liverpool-street;7069650;;51.517551;-0.08021;8267;f;GB;f;Europe/London;t;GBADU;;f;;f;;f;;f;;f;;f;;f;;f;;f;LST;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 7841;Bedford midland;bedford-midland;7015120;;;;;f;GB;f;Europe/London;f;GBADV;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7842;Bradford-On-Avon;bradford-on-avon;7033410;;51.345058;-2.252669;;f;GB;f;Europe/London;t;GBADW;;f;;f;;f;;f;;f;;f;;f;;f;;f;BOA;t;f;;;;;;;;;;;;;;;;;;
 7843;Earlestown;earlestown;7022920;;53.451139;-2.637674;;f;GB;f;Europe/London;t;GBADX;;f;;f;;f;;f;;f;;f;;f;;f;;f;ERL;t;f;;;;;;;;;;;;;;;;;;
@@ -6842,21 +6842,21 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8257;Kilmarnock;kilmarnock;7095120;;55.612835;-4.499048;;f;GB;f;Europe/London;t;GBKMK;;f;;f;;f;;f;;f;;f;;f;;f;;f;KMK;t;f;;;;;;;;;;;;;;;;;;
 8258;Kyle Of Lochalsh;kyle-of-lochalsh;7086570;;57.280567;-5.713067;;f;GB;f;Europe/London;t;GBKOL;;f;;f;;f;;f;;f;;f;;f;;f;;f;KYL;t;f;;;;;;;;;;;;;;;;;;
 8259;Lancaster;lancaster;7026850;;54.048553;-2.807934;;f;GB;f;Europe/London;t;GBLAN;;f;;f;;f;;f;;f;;f;;f;;f;;f;LAN;t;f;;;;;;;;;;;;;;;;;;
-8260;London Charing Cross;london-charing-cross;7051430;;51.508362;-0.123835;8267;f;GB;f;Europe/London;t;GBLCC;;f;;f;;f;;f;;f;;f;;f;;f;;f;CHX;t;f;;;;;;;;;;;;;;;;;;
+8260;London Charing Cross;london-charing-cross;7051430;;51.508362;-0.123835;8267;f;GB;f;Europe/London;t;GBLCC;;f;;f;;f;;f;;f;;f;;f;;f;;f;CHX;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8261;Lincoln Central;lincoln-central;7063400;;53.227089;-0.540922;;f;GB;f;Europe/London;t;GBLCN;;f;;f;;f;;f;;f;;f;;f;;f;;f;LCN;t;f;;;;;;;;;;;;;;;;;;
 8262;Leeds;leeds;7084870;;53.795158;-1.549089;;f;GB;f;Europe/London;t;GBLDS;;f;;f;;f;;f;;f;;f;;f;;f;;f;LDS;t;f;;;;;;;;;;;;;;;;;;
-8263;London Euston;london-euston;7014440;;51.528313;-0.134545;8267;f;GB;f;Europe/London;t;GBLEU;;f;;f;;f;;f;;f;;f;;f;;f;;f;EUS;t;f;;;;;;;;;;;;;;;;;;
+8263;London Euston;london-euston;7014440;;51.528313;-0.134545;8267;f;GB;f;Europe/London;t;GBLEU;;f;;f;;f;;f;;f;;f;;f;;f;;f;EUS;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8264;Liverpool Lime Street;liverpool-lime-street;7022460;;53.407299;-2.977746;;f;GB;f;Europe/London;t;GBLIV;;f;;f;;f;;f;;f;;f;;f;;f;;f;LIV;t;f;;;;;;;;;;;;;;;;;;
-8265;London King’s Cross;london-kings-cross;7061210;;;;8267;f;GB;f;Europe/London;f;GBLKC;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8266;London Kensington Olympia;london-kensington-olympia;7030920;;;;8267;f;GB;f;Europe/London;f;GBLKO;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8265;London King’s Cross;london-kings-cross;7061210;;;;8267;f;GB;f;Europe/London;f;GBLKC;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
+8266;London Kensington Olympia;london-kensington-olympia;7030920;;;;8267;f;GB;f;Europe/London;f;GBLKO;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8267;London;london;9999984;;51.50469232881583;-0.0784599781036377;;t;GB;f;Europe/London;t;GBLON;;t;;f;7096001;t;;f;;f;;f;;f;;f;;f;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
-8268;London Marylebone;london-marylebone;7014750;;51.52248;-0.163605;8267;f;GB;f;Europe/London;t;GBMEI;;f;;f;;f;;f;;f;;f;;f;;f;;f;MYB;t;f;;;;;;;;;;;;;;;;;;
+8268;London Marylebone;london-marylebone;7014750;;51.52248;-0.163605;8267;f;GB;f;Europe/London;t;GBMEI;;f;;f;;f;;f;;f;;f;;f;;f;;f;MYB;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8269;London Victoria;london-victoria;7054260;;51.4966;-0.1448;8267;f;GB;f;Europe/London;t;GBLVI;;f;;f;7000010;t;ZEP;t;;f;;f;;f;;f;;f;VIC;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
-8270;London Waterloo;london-waterloo;7055980;;51.501865;-0.111126;8267;f;GB;f;Europe/London;t;GBLWA;;f;;f;;f;;f;;f;;f;;f;;f;;f;WAT;t;f;;;;;;;;;;;;;;;;;;
+8270;London Waterloo;london-waterloo;7055980;;51.501865;-0.111126;8267;f;GB;f;Europe/London;t;GBLWA;;f;;f;;f;;f;;f;;f;;f;;f;;f;WAT;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8271;London Southern Railway;london-southern-railway;7010720;;;;8267;f;GB;f;Europe/London;f;GBLWB;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8272;Stratford international;stratford-international;7015410;;;;8267;f;GB;f;Europe/London;f;GBSDI;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8273;London Fenchurch Street;london-fenchurch-street;7074900;;51.511234;-0.079039;8267;f;GB;f;Europe/London;t;GBMEH;;f;;f;;f;;f;;f;;f;;f;;f;;f;FST;t;f;;;;;;;;;;;;;;;;;;
-8274;London Paddington;london-paddington;7030870;;51.516014;-0.176049;8267;f;GB;f;Europe/London;t;GBLPA;;f;;f;;f;;f;;f;;f;;f;;f;;f;PAD;t;f;;;;;;;;;;;;;;;;;;
+8273;London Fenchurch Street;london-fenchurch-street;7074900;;51.511234;-0.079039;8267;f;GB;f;Europe/London;t;GBMEH;;f;;f;;f;;f;;f;;f;;f;;f;;f;FST;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
+8274;London Paddington;london-paddington;7030870;;51.516014;-0.176049;8267;f;GB;f;Europe/London;t;GBLPA;;f;;f;;f;;f;;f;;f;;f;;f;;f;PAD;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8275;Luton airport fntr;luton-airport-fntr;7021774;;;;;f;GB;f;Europe/London;f;GBLUT;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8276;Manchester Piccadilly;manchester-piccadilly;7029680;;53.476704;-2.228991;;f;GB;f;Europe/London;t;GBMAN;;f;;f;;f;;f;;f;;f;;f;;f;;f;MAN;t;f;;;;;;;;;;;;;;;;;;
 8277;Manchester Airport;manchester-airport;7029610;;53.361568;-2.268941;;f;GB;f;Europe/London;t;GBMCA;;f;;f;;f;;f;;f;;f;;f;;f;;f;MIA;t;f;;;;;;;;;;;;;;;;;;
