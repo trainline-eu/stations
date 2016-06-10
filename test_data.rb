@@ -128,13 +128,15 @@ CHILDREN_COUNT = Hash.new(0)
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 
 def valid_carrier(row)
-  row["db_is_enabled"] == "t" ||
-    row["idbus_is_enabled"] == "t" ||
-    row["idtgv_is_enabled"] == "t" ||
-    row["ntv_is_enabled"] == "t" ||
-    row["ouigo_is_enabled"] == "t" ||
-    row["renfe_is_enabled"] == "t" ||
-    row["sncf_is_enabled"] == "t" ||
+  row["atoc_is_enabled"]         == "t" ||
+    row["db_is_enabled"]         == "t" ||
+    row["hkx_is_enabled"]        == "t" ||
+    row["idbus_is_enabled"]      == "t" ||
+    row["idtgv_is_enabled"]      == "t" ||
+    row["ntv_is_enabled"]        == "t" ||
+    row["ouigo_is_enabled"]      == "t" ||
+    row["renfe_is_enabled"]      == "t" ||
+    row["sncf_is_enabled"]       == "t" ||
     row["trenitalia_is_enabled"] == "t"
 end
 
