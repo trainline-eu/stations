@@ -63,8 +63,9 @@ VIRTUAL_STATIONS = [
 
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
-  "6661", # Lugo (Spain and Italy)
+  "6661",  # Lugo (Spain and Italy)
   "8720",  # Guarda (Portugal and Italy)
+  "17857", # Hove (Belgium and England)
   "17958", # Comines (Belgium)
   "17989", # Lens (Belgium)
   "18164", # Melle (Belgium)
@@ -76,6 +77,7 @@ HOMONYM_STATIONS = [
   "19053", # Zwijndrecht (Netherlands)
   "11343", # Burgdorf (Germany)
   "21261", # Lison (Italy)
+  "22480", # Derby (Italy and England)
   "23759", # Bellavista (Spain and Italy)
   "24394", # Santa Lucia (Spain and Italy)
   "24424", # Silla (Spain and Italy)
@@ -88,6 +90,7 @@ HOMONYM_SUFFIXES = {
   "DE" => ["bahnhof"],
   "ES" => ["estacion"],
   "FR" => ["gare"],
+  "GB" => ["station"],
   "IT" => ["stazione"],
   "NL" => ["station"],
   "PT" => ["estacao"],
@@ -128,13 +131,15 @@ CHILDREN_COUNT = Hash.new(0)
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 
 def valid_carrier(row)
-  row["db_is_enabled"] == "t" ||
-    row["idbus_is_enabled"] == "t" ||
-    row["idtgv_is_enabled"] == "t" ||
-    row["ntv_is_enabled"] == "t" ||
-    row["ouigo_is_enabled"] == "t" ||
-    row["renfe_is_enabled"] == "t" ||
-    row["sncf_is_enabled"] == "t" ||
+  row["atoc_is_enabled"]         == "t" ||
+    row["db_is_enabled"]         == "t" ||
+    row["hkx_is_enabled"]        == "t" ||
+    row["idbus_is_enabled"]      == "t" ||
+    row["idtgv_is_enabled"]      == "t" ||
+    row["ntv_is_enabled"]        == "t" ||
+    row["ouigo_is_enabled"]      == "t" ||
+    row["renfe_is_enabled"]      == "t" ||
+    row["sncf_is_enabled"]       == "t" ||
     row["trenitalia_is_enabled"] == "t"
 end
 
