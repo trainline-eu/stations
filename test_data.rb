@@ -63,8 +63,9 @@ VIRTUAL_STATIONS = [
 
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
-  "6661", # Lugo (Spain and Italy)
+  "6661",  # Lugo (Spain and Italy)
   "8720",  # Guarda (Portugal and Italy)
+  "17857", # Hove (Belgium and England)
   "17958", # Comines (Belgium)
   "17989", # Lens (Belgium)
   "18164", # Melle (Belgium)
@@ -88,6 +89,7 @@ HOMONYM_SUFFIXES = {
   "DE" => ["bahnhof"],
   "ES" => ["estacion"],
   "FR" => ["gare"],
+  "GB" => ["station"],
   "IT" => ["stazione"],
   "NL" => ["station"],
   "PT" => ["estacao"],
