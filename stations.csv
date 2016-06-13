@@ -5188,7 +5188,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6599;Betanzos – Cidade;betanzos-cidade;7121001;;43.284264;-8.215673;;f;ES;f;Europe/Madrid;t;ESAHU;;f;;f;7100237;f;;f;;f;;f;;f;;f;21001;t;;f;f;;;;Ciudad;;;;;;;;;;;;;;
 6600;Reus;reus;7171400;;41.160644;1.100216;;f;ES;f;Europe/Madrid;t;ESAHV;;f;;f;7100061;f;;f;;f;;f;;f;;f;71400;t;;f;f;;;;;;;;;;;;;;;;;;
 6601;Vic;vic;7177109;;;;;f;ES;f;Europe/Madrid;f;ESAHW;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6602;Alacant-Terminal;alacant-terminal;7160911;;38.344444;-0.494972;;f;ES;f;Europe/Madrid;t;ESALC;;f;;f;;f;;f;;f;;f;;f;;f;60911;t;;f;f;;;;Alicante;;;;;;;;;;;;;;
+6602;Alacant-Terminal;alacant-terminal;7160911;;38.344444;-0.494972;;f;ES;f;Europe/Madrid;t;ESALC;;f;;f;7100051;f;;f;;f;;f;;f;;f;60911;t;;f;f;;;;Alicante;;;;;;;;;;;;;;
 6603;Aguilar de la Frontera;aguilar-de-la-frontera;7154106;;37.5245;-4.66082;;f;ES;f;Europe/Madrid;t;ESALF;;f;;f;;f;;f;;f;;f;;f;;f;54106;t;;f;f;;;;;;;;;;;;;;;;;;
 6604;Algeciras;algeciras;7171554;;;;;t;ES;f;Europe/Madrid;f;ESALG;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6605;Algeciras Puerto;algeciras-puerto;7155021;;;;6604;f;ES;f;Europe/Madrid;f;ESALP;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
