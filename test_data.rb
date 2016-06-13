@@ -82,6 +82,8 @@ HOMONYM_STATIONS = [
   "24394", # Santa Lucia (Spain and Italy)
   "24424", # Silla (Spain and Italy)
   "24457", # Torralba (Spain and Italy)
+  # "25153", # Dormans (England and France)
+  # "25481", # Hever (Belgium and England)
 ]
 
 HOMONYM_SUFFIXES = {
