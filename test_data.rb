@@ -112,6 +112,7 @@ COUNTRIES = {
   "GB" => "Europe/London",
   "HR" => "Europe/Zagreb",
   "HU" => "Europe/Budapest",
+  "IE" => "Europe/Dublin",
   "IT" => "Europe/Rome",
   "LU" => "Europe/Luxembourg",
   "MA" => "Africa/Casablanca",
