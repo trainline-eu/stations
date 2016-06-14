@@ -64,8 +64,9 @@ VIRTUAL_STATIONS = [
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
   "6661",  # Lugo (Spain and Italy)
+  # "8015",  # Hove (Belgium and England)
+  # "8210",  # Derby (Italy and England)
   "8720",  # Guarda (Portugal and Italy)
-  "17857", # Hove (Belgium and England)
   "17958", # Comines (Belgium)
   "17989", # Lens (Belgium)
   "18164", # Melle (Belgium)
@@ -77,7 +78,6 @@ HOMONYM_STATIONS = [
   "19053", # Zwijndrecht (Netherlands)
   "11343", # Burgdorf (Germany)
   "21261", # Lison (Italy)
-  "22480", # Derby (Italy and England)
   "23759", # Bellavista (Spain and Italy)
   "24394", # Santa Lucia (Spain and Italy)
   "24424", # Silla (Spain and Italy)
