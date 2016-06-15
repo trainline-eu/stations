@@ -25131,3 +25131,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 26687;Dublin Heuston;dublin-heuston;;;53.3458329991;-6.2952985;;f;IE;f;Europe/Dublin;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;DHT;t;f;;;;;;;;;;;;;;;;;;
 26688;Cork;cork;;;51.9025229991;-8.4537085;;f;IE;f;Europe/Dublin;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;COK;t;f;;;;;;;;;;;;;;;;;;
 26689;Manulla Junction;manulla-junction;;;53.8270974991;-9.2005205;;f;IE;f;Europe/Dublin;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;MAJ;t;f;;;;;;;;;;;;;;;;;;
+26690;Coimbra-B;coimbra-b;;;40.224733;-8.440337;;f;PT;f;Europe/Lisbon;t;;;f;;f;9400253;f;;f;;f;;f;;f;;f;94452;t;;f;f;;;;;;;;;;;;;;;;;;
