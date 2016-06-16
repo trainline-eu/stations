@@ -6798,7 +6798,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8213;Didcot Parkway;didcot-parkway;7030300;;51.611275;-1.242614;;f;GB;f;Europe/London;f;GBDID;;f;;f;;f;;f;;f;;f;;f;;f;;f;DID;t;f;;;;;;;;;;;;;;;;;;
 8214;Gatwick Airport;gatwick-airport;7054160;;51.156425;-0.161022;;f;GB;f;Europe/London;f;GBDMA;;f;;f;;f;;f;;f;;f;;f;;f;;f;GTW;t;f;;;;;;;;;;;;;;;;;;
 8215;Doncaster;doncaster;7064170;;53.521469;-1.140225;;f;GB;f;Europe/London;f;GBDON;;f;;f;;f;;f;;f;;f;;f;;f;;f;DON;t;f;;;;;;;;;;;;;;;;;;
-8216;Douvres;douvres;;;;;;t;GB;f;Europe/London;f;GBDOV;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8216;Dover;dover;;;;;;t;GB;f;Europe/London;f;GBDOV;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;Douvres;;;;;;;;;;;;;
 8217;Dover western docks;dover-western-docks;7050120;;;;8216;f;GB;f;Europe/London;f;GBDWD;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8218;Tamworth;tamworth;7013220;;52.63737;-1.687083;;f;GB;f;Europe/London;f;GBDPR;;f;;f;;f;;f;;f;;f;;f;;f;;f;TAM;t;f;;;;;;;;;;;;;;;;;;
 8219;Penrhyndeudraeth;penrhyndeudraeth;7044730;;52.928623;-4.064905;;f;GB;f;Europe/London;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;PRH;t;f;;;;;;;;;;;;;;;;;;
