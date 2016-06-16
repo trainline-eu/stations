@@ -6758,7 +6758,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8173;Blackpool North;blackpool-north;7027390;;53.822772;-3.049908;;f;GB;f;Europe/London;f;GBBLN;;f;;f;;f;;f;;f;;f;;f;;f;;f;BPN;t;f;;;;;;;;;;;;;;;;;;
 8174;Blackpool South;blackpool-south;7027400;;53.798611;-3.049081;;f;GB;f;Europe/London;f;GBBLS;;f;;f;;f;;f;;f;;f;;f;;f;;f;BPS;t;f;;;;;;;;;;;;;;;;;;
 8175;Bolton;bolton;7025990;;53.573983;-2.425661;;f;GB;f;Europe/London;f;GBBLT;;f;;f;;f;;f;;f;;f;;f;;f;;f;BON;t;f;;;;;;;;;;;;;;;;;;
-8176;Birmingham;birmingham;;;;;;t;GB;f;Europe/London;f;GBBMG;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8176;Birmingham;birmingham;;;;;;t;GB;f;Europe/London;f;GBBMG;;f;;f;;f;;f;;f;;f;;f;;f;;f;13;t;f;;;;;;;;;;;;;;;;;;
 8177;Bournemouth;bournemouth;7058760;;50.727478;-1.863955;;f;GB;f;Europe/London;f;GBBMH;;f;;f;;f;;f;;f;;f;;f;;f;;f;BMH;t;f;;;;;;;;;;;;;;;;;;
 8178;Burton-On-Trent;burton-on-trent;7016580;;52.805798;-1.64246;;f;GB;f;Europe/London;f;GBBOT;;f;;f;;f;;f;;f;;f;;f;;f;;f;BUT;t;f;;;;;;;;;;;;;;;;;;
 8179;Barnstaple;barnstaple;7057250;;51.073532;-4.064032;;f;GB;f;Europe/London;f;GBBPL;;f;;f;;f;;f;;f;;f;;f;;f;;f;BNP;t;f;;;;;;;;;;;;;;;;;;
@@ -6810,13 +6810,13 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8225;Edinburgh Waverley;edinburgh-waverley;7093280;;55.952442;-3.188236;;f;GB;f;Europe/London;f;GBEDB;;f;;f;;f;;f;;f;;f;;f;;f;;f;EDB;t;f;;;;;;;;;;;;;;;;;;
 8226;Exeter Central;exeter-central;7057550;;50.726471;-3.532973;;f;GB;f;Europe/London;f;GBEXC;;f;;f;;f;;f;;f;;f;;f;;f;;f;EXC;t;f;;;;;;;;;;;;;;;;;;
 8227;Exeter St Davids;exeter-st-davids;7034100;;50.729019;-3.544387;;f;GB;f;Europe/London;f;GBEXD;;f;;f;;f;;f;;f;;f;;f;;f;;f;EXD;t;f;;;;;;;;;;;;;;;;;;
-8228;Exeter;exeter;;;;;;t;GB;f;Europe/London;f;GBEXT;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8229;Folkestone;folkestone;;;;;;t;GB;f;Europe/London;f;GBFOC;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8228;Exeter;exeter;;;;;;t;GB;f;Europe/London;f;GBEXT;;f;;f;;f;;f;;f;;f;;f;;f;;f;74;t;f;;;;;;;;;;;;;;;;;;
+8229;Folkestone;folkestone;;;;;;t;GB;f;Europe/London;f;GBFOC;;f;;f;;f;;f;;f;;f;;f;;f;;f;78;t;f;;;;;;;;;;;;;;;;;;
 8230;Fort William;fort-william;7088270;;56.820625;-5.106721;;f;GB;f;Europe/London;f;GBFTW;;f;;f;;f;;f;;f;;f;;f;;f;;f;FTW;t;f;;;;;;;;;;;;;;;;;;
 8231;Gatwick;gatwick;;;;;;t;GB;f;Europe/London;f;GBGAT;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8232;Gatwick express;gatwick-airport;7057280;;;;8231;f;GB;f;Europe/London;f;GBGWE;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;8214;;;;;;;;;;;;;;;;;
 8233;Gloucester;gloucester;7047600;;51.864799;-2.238141;;f;GB;f;Europe/London;f;GBGCT;;f;;f;;f;;f;;f;;f;;f;;f;;f;GCR;t;f;;;;;;;;;;;;;;;;;;
-8234;Glasgow;glasgow;9900008;;;;;t;GB;f;Europe/London;f;GBGLA;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8234;Glasgow;glasgow;9900008;;;;;t;GB;f;Europe/London;f;GBGLA;;f;;f;;f;;f;;f;;f;;f;;f;;f;81;t;f;;;;;;;;;;;;;;;;;;
 8235;Glasgow Queen Street;glasgow-queen-street;7099500;;55.863003;-4.251385;8234;f;GB;f;Europe/London;f;GBGLQ;;f;;f;;f;;f;;f;;f;;f;;f;;f;GLQ;t;f;;;;;;;;;;;;;;;;;;
 8236;Glasgow Central;glasgow-central;7098130;;55.860157;-4.259208;8234;f;GB;f;Europe/London;f;GBGLC;;f;;f;;f;;f;;f;;f;;f;;f;;f;GLC;t;f;;;;;;;;;;;;;;;;;;
 8237;Guildford Station;guildford-station;7056310;;51.236912;-0.580409;;f;GB;f;Europe/London;f;GBGLD;;f;;f;;f;;f;;f;;f;;f;;f;;f;GLD;t;f;;;;;;;;;;;;;;;;;;
@@ -6849,7 +6849,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8264;Liverpool Lime Street;liverpool-lime-street;7022460;;53.407299;-2.977746;;f;GB;f;Europe/London;f;GBLIV;;f;;f;;f;;f;;f;;f;;f;;f;;f;LIV;t;f;;;;;;;;;;;;;;;;;;
 8265;London Kings Cross;london-kings-cross;7061210;;51.530827;-0.122907;8267;f;GB;f;Europe/London;f;GBLKC;;f;;f;;f;;f;;f;;f;;f;;f;;f;KGX;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8266;Kensington Olympia;kensington-olympia;7030920;;51.497753;-0.210189;8267;f;GB;f;Europe/London;f;GBLKO;;f;;f;;f;;f;;f;;f;;f;;f;;f;KPA;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
-8267;London;london;9999984;;51.50469232881583;-0.0784599781036377;;t;GB;f;Europe/London;t;GBLON;;t;;f;7096001;t;;f;;f;;f;;f;;f;;f;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
+8267;London;london;9999984;;51.50469232881583;-0.0784599781036377;;t;GB;f;Europe/London;t;GBLON;;t;;f;7096001;t;;f;;f;;f;;f;;f;;f;182;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8268;London Marylebone;london-marylebone;7014750;;51.52248;-0.163605;8267;f;GB;f;Europe/London;f;GBMEI;;f;;f;;f;;f;;f;;f;;f;;f;;f;MYB;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8269;London Victoria;london-victoria;7054260;;51.4966;-0.1448;8267;f;GB;f;Europe/London;t;GBLVI;;f;;f;7000010;t;ZEP;t;;f;;f;;f;;f;;f;VIC;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8270;London Waterloo;london-waterloo;7055980;;51.501865;-0.111126;8267;f;GB;f;Europe/London;f;GBLWA;;f;;f;;f;;f;;f;;f;;f;;f;;f;WAT;t;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
@@ -6932,10 +6932,10 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8347;Lymington Town;lymington-town;7058870;;50.760818;-1.537753;;f;GB;f;Europe/London;f;GBMFS;;f;;f;;f;;f;;f;;f;;f;;f;;f;LYT;t;f;;;;;;;;;;;;;;;;;;
 8348;St Albans Abbey;st-albans-abbey;7015620;;51.744675;-0.342422;;f;GB;f;Europe/London;f;GBMFT;;f;;f;;f;;f;;f;;f;;f;;f;;f;SAA;t;f;;;;;;;;;;;;;;;;;;
 8349;Sudbury Hill Harrow;sudbury-hill-harrow;7014840;;51.558423;-0.336092;;f;GB;f;Europe/London;f;GBMFV;;f;;f;;f;;f;;f;;f;;f;;f;;f;SDH;t;f;;;;;;;;;;;;;;;;;;
-8350;Manchester;manchester;;;;;;t;GB;f;Europe/London;f;GBMHT;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8350;Manchester;manchester;;;;;;t;GB;f;Europe/London;f;GBMHT;;f;;f;;f;;f;;f;;f;;f;;f;;f;115;t;f;;;;;;;;;;;;;;;;;;
 8351;Milton Keynes Central;milton-keynes-central;7013780;;52.034357;-0.77341;;f;GB;f;Europe/London;f;GBMKC;;f;;f;;f;;f;;f;;f;;f;;f;;f;MKC;t;f;;;;;;;;;;;;;;;;;;
 8352;Newcastle;newcastle;7077280;;54.968243;-1.617264;;f;GB;f;Europe/London;f;GBNCL;;f;;f;;f;;f;;f;;f;;f;;f;;f;NCL;t;f;;;;;;;;;;;;;;;;;;
-8353;Newhaven;newhaven;;;;;;t;GB;f;Europe/London;f;GBNEV;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8353;Newhaven;newhaven;;;;;;t;GB;f;Europe/London;f;GBNEV;;f;;f;;f;;f;;f;;f;;f;;f;;f;121;t;f;;;;;;;;;;;;;;;;;;
 8354;Newhaven Harbour;newhaven-harbour;7053300;;50.790398;0.054433;8353;f;GB;f;Europe/London;f;GBNEW;;f;;f;;f;;f;;f;;f;;f;;f;;f;NVH;t;f;;;;;;;;;;;;;;;;;;
 8355;Newark Northgate;newark-northgate;7064990;;53.082542;-0.799644;;f;GB;f;Europe/London;f;GBNNG;;f;;f;;f;;f;;f;;f;;f;;f;;f;NNG;t;f;;;;;;;;;;;;;;;;;;
 8356;Nottingham;nottingham;7018260;;52.946905;-1.146441;;f;GB;f;Europe/London;f;GBNOT;;f;;f;;f;;f;;f;;f;;f;;f;;f;NOT;t;f;;;;;;;;;;;;;;;;;;
@@ -6967,7 +6967,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8382;Whitstable;whitstable;7051960;;51.358204;1.033577;;f;GB;f;Europe/London;f;GBWTB;;f;;f;;f;;f;;f;;f;;f;;f;;f;WHI;t;f;;;;;;;;;;;;;;;;;;
 8383;Wolverhampton;wolverhampton;7012180;;52.587818;-2.119529;;f;GB;f;Europe/London;f;GBWVH;;f;;f;;f;;f;;f;;f;;f;;f;;f;WVH;t;f;;;;;;;;;;;;;;;;;;
 8384;Gatwick;gatwick;;;;;;t;GB;f;Europe/London;f;GBYAA;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8385;Heathrow Airport;heathrow-airport;;;;;;t;GB;f;Europe/London;f;GBYAB;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8385;Heathrow Airport;heathrow-airport;;;;;;t;GB;f;Europe/London;f;GBYAB;;f;;f;;f;;f;;f;;f;;f;;f;;f;193;t;f;;;;;;;;;;;;;;;;;;
 8386;London City Airport;london-city-airport;;;;;8267;f;GB;f;Europe/London;f;GBYAC;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8387;York;york;7082630;;53.957966;-1.093159;;f;GB;f;Europe/London;f;GBYRK;;f;;f;;f;;f;;f;;f;;f;;f;;f;YRK;t;f;;;;;;;;;;;;;;;;;;
 8388;;;;;;;;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
