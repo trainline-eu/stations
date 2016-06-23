@@ -21041,7 +21041,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22587;Kołobrzeg;kolobrzeg;5100410;;54.182310;15.569649;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100025;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;Kolobřeh;;;;코워브제크;;;Колобжег;;;科沃布热格
 22598;Montpellier;montpellier;;;43.599448798154995;3.8961821794509888;;t;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;モンペリエ;몽펠리에;;;Монпелье;;;蒙彼利埃
 22599;Montpellier Les Sabines – Gare Routière;montpellier-les-sabines-gare-routiere;;;43.58409023914171;3.860406875610351;22598;f;FR;f;Europe/Paris;t;;;f;;f;;f;XMT;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;モンペリエ;몽펠리에;;;Монпелье;;;蒙彼利埃
-22600;Nîmes;nimes;;;43.836678232954476;4.360021948814392;;f;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ニーム;님;;;Ним;;;尼姆
+22600;Nîmes;nimes;;;43.836678232954476;4.360021948814392;;t;FR;f;Europe/Paris;t;;;f;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ニーム;님;;;Ним;;;尼姆
 22601;Nîmes Parnasse – Gare Routière;nimes-parnasse-gare-routiere;;;43.817711064991435;4.362017512321472;22600;f;FR;f;Europe/Paris;t;;;f;;f;;f;XNS;t;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;ニーム;님;;;Ним;;;尼姆
 22602;Perca/Percha;perca-percha;8302018;;46.790372;11.978521;;f;IT;f;Europe/Rome;t;;;f;;f;8372315;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22603;Alteckendorf Abri;alteckendorf-abri;8763995;;48.7916550000;7.5970460000;;f;FR;f;Europe/Paris;t;FRTMI;;t;;f;8706842;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;阿尔泰康多尔
