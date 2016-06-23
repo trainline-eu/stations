@@ -2162,7 +2162,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 2822;Buzancais;buzancais;8759737;87597377;46.885150209934594;1.4185291528701782;;f;FR;f;Europe/Paris;t;FRFND;;t;;f;8702944;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2823;Clion-sur-Indre;clion-sur-indre;8759740;87597401;46.934811;1.232376;;f;FR;f;Europe/Paris;t;FRFNF;;t;;f;8703123;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2824;Châtillon-sur-Indre;chatillon-sur-indre;8759741;87597419;46.98618834500496;1.172742247581482;;f;FR;f;Europe/Paris;t;FRFNG;;t;;f;8703069;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-2825;Nîmes Gare;nimes-gare;8777500;87775007;43.83233655668918;4.366212487220764;22600;f;FR;f;Europe/Paris;t;FRFNI;NMS;t;FNI;t;8700151;f;;f;FNI;t;;f;;f;;f;;f;;f;t;;;;;;;;;;;ニーム;님;;;Ним;;;尼姆
+2825;Nîmes Gare;nimes-gare;8777500;87775007;43.83233655668918;4.366212487220764;22600;f;FR;f;Europe/Paris;f;FRFNI;NMS;t;FNI;t;8700151;f;;f;FNI;t;;f;;f;;f;;f;;f;t;;;;;;;;;;;ニーム;님;;;Ним;;;尼姆
 2827;Verneuil—St-Germain;verneuil-st-germain;8759744;87597443;47.069964;1.054749;;f;FR;f;Europe/Paris;t;FRFNK;;t;;f;8705197;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2830;Marsac (Creuse);marsac-creuse;8759762;87597625;46.1000000000;1.6000000000;;f;FR;f;Europe/Paris;t;FRFNO;;t;;f;8703921;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2831;Vieilleville;vieilleville;8759763;87597633;46.091092;1.673638;;f;FR;f;Europe/Paris;t;FRFNP;;t;;f;8704836;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
