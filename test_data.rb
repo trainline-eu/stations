@@ -61,6 +61,13 @@ VIRTUAL_STATIONS = [
   "10439"  # Rodange Frontière
 ]
 
+# Stations that are suggestable but have no carrier enabled
+# (because they are linked to a bigger city elsewhere)
+BRIDGED_STATIONS = [
+  "9446",  # La Défense
+  "10047", # Orly Sud
+]
+
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
   "6661",  # Lugo (Spain and Italy)
@@ -137,7 +144,7 @@ def valid_carrier(row)
   row["atoc_is_enabled"]         == "t" ||
     row["db_is_enabled"]         == "t" ||
     row["hkx_is_enabled"]        == "t" ||
-    row["idbus_is_enabled"]      == "t" ||
+    row["busbud_is_enabled"]     == "t" ||
     row["idtgv_is_enabled"]      == "t" ||
     row["ntv_is_enabled"]        == "t" ||
     row["ouigo_is_enabled"]      == "t" ||
@@ -207,8 +214,8 @@ class StationsTest < Minitest::Test
     validate_enabled_and_id_columns("hkx")
   end
 
-  def test_idbus_enabled_and_id_columns
-    validate_enabled_and_id_columns("idbus", 3)
+  def test_busbud_enabled_and_id_columns
+    validate_enabled_and_id_columns("busbud", 6)
   end
 
   def test_idtgv_enabled_and_id_columns
@@ -393,7 +400,7 @@ class StationsTest < Minitest::Test
 
   def test_suggestable_has_carrier
     STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
+      if row["is_suggestable"] == "t" && !BRIDGED_STATIONS.include?(row["id"])
         assert valid_carrier(row) || CHILDREN[row["id"]].any? { |r| valid_carrier(r) },
                "Station #{row["id"]} is suggestable but has no enabled system"
       end
