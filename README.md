@@ -54,8 +54,8 @@ Column Name | Notes
 `db_is_enabled` |
 `hkx_id` |
 `hkx_is_enabled` |
-`idbus_id` |
-`idbus_is_enabled` |
+`busbud_id` |
+`busbud_is_enabled` |
 `ouigo_id` |
 `ouigo_is_enabled` |
 `trenitalia_id` |
