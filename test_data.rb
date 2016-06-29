@@ -71,8 +71,8 @@ BRIDGED_STATIONS = [
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
   "6661",  # Lugo (Spain and Italy)
-  # "8015",  # Hove (Belgium and England)
-  # "8210",  # Derby (Italy and England)
+  "8015",  # Hove (Belgium and England)
+  "8210",  # Derby (Italy and England)
   "8720",  # Guarda (Portugal and Italy)
   "17958", # Comines (Belgium)
   "17989", # Lens (Belgium)
@@ -89,8 +89,10 @@ HOMONYM_STATIONS = [
   "24394", # Santa Lucia (Spain and Italy)
   "24424", # Silla (Spain and Italy)
   "24457", # Torralba (Spain and Italy)
-  # "25153", # Dormans (England and France)
-  # "25481", # Hever (Belgium and England)
+  "25153", # Dormans (England and France)
+  "25481", # Hever (Belgium and England)
+  "26735", # Enfield (England and Ireland)
+  "26759", # Malling (France and England)
 ]
 
 HOMONYM_SUFFIXES = {
