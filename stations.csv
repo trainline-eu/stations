@@ -134,7 +134,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 172;Le Mans;le-mans;8739600;87396002;47.995364119768475;0.1921534538269043;4661;f;FR;t;Europe/Paris;t;FRAET;LEN;t;;f;8700435;f;;f;AET;t;;f;;f;;f;;f;;f;t;;;;;;;;;;;ル・マン;르망;;;Ле-Ман;;;勒芒
 173;Joué-lès-Tours Berthelot;joue-les-tours-berthelot;8711028;87110288;47.3500000000;0.6666670000;4580;f;FR;f;Europe/Paris;t;FRAEV;;t;;f;8703510;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 174;Eu;eu;;;50.0500000000;1.4166670000;;t;FR;f;Europe/Paris;f;FRAEX;;t;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-175;Eu-la-Mouillette;eu-la-mouillette;8731676;87316760;50.04890671485088;1.4253687858581543;174;f;FR;f;Europe/Paris;t;FRCVR;;t;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+175;Eu-la-Mouillette;eu-la-mouillette;8731676;87316760;50.04890671485088;1.4253687858581543;174;f;FR;f;Europe/Paris;f;FRCVR;;t;;f;;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 176;Eu;eu;8731753;87317537;50.054355;1.416771;174;f;FR;t;Europe/Paris;t;FREUX;;t;;f;8701093;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 177;Alleyras;alleyras;8773188;87731885;44.90590260319495;3.6822491884231567;;f;FR;f;Europe/Paris;t;FRAEY;;t;;f;8704935;f;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 178;Le Havre;le-havre;8741301;87413013;49.492800002017034;0.12557029724121094;4630;f;FR;t;Europe/Paris;t;FRAEZ;LHA;t;;f;8700112;f;;f;;f;;f;;f;;f;;f;;f;t;;;;El Havre;;;;;;;ル・アーヴル;르아브르;Hawr;;Гавр;;;勒阿弗尔
