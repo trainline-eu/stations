@@ -25259,3 +25259,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 26815;Worcester;worcester;;;52.19123;-2.22231;;t;GB;f;Europe/London;t;;;f;;f;;f;;f;;f;;f;;f;;f;;f;178;t;f;;;;;;;;;;;;;;;;;;
 26816;Wrexham;wrexham;;;53.046;-2.993;;t;GB;f;Europe/London;t;;;f;;f;;f;;f;;f;;f;;f;;f;;f;180;t;f;;;;;;;;;;;;;;;;;;
 26817;Yeovil;yeovil;;;50.9452;-2.6370;;t;GB;f;Europe/London;t;;;f;;f;;f;;f;;f;;f;;f;;f;;f;181;t;f;;;;;;;;;;;;;;;;;;
+26818;Tullnerfeld;tullnerfeld;;;48.295057;15.996691;;f;AT;f;Europe/Vienna;t;;;f;;f;8102059;t;;f;;f;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
