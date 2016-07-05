@@ -208,6 +208,18 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def validate_id_unicity(column_name)
+    counts = {}
+    STATIONS.each do |row|
+      if row[column_name]
+        counts[row[column_name]] = (counts[row[column_name]] || 0) + 1
+      end
+    end
+
+    bad_counts = counts.select { |_, count| count != 1 }
+    assert_equal 0, bad_counts.length, "#{column_name} duplicated: #{bad_counts.map(&:first).join(', ')}"
+  end
+
   def test_db_enabled_and_id_columns
     validate_enabled_and_id_columns("db")
   end
@@ -255,27 +267,15 @@ class StationsTest < Minitest::Test
   end
 
   def test_uic_unicity
-    counts = {}
-    STATIONS.each do |row|
-      if row["uic"]
-        counts[row["uic"]] = (counts[row["uic"]] || 0) + 1
-      end
-    end
-
-    bad_counts = counts.select { |_, count| count != 1 }
-    assert_equal 0, bad_counts.length, "UIC duplicated: #{bad_counts.map(&:first).join(', ')}"
+    validate_id_unicity("uic")
   end
 
   def test_sncf_tvs_id_unicity
-    counts = {}
-    STATIONS.each do |row|
-      if row["sncf_tvs_id"]
-        counts[row["sncf_tvs_id"]] = (counts[row["sncf_tvs_id"]] || 0) + 1
-      end
-    end
+    validate_id_unicity("sncf_tvs_id")
+  end
 
-    bad_counts = counts.select { |_, count| count != 1 }
-    assert_equal 0, bad_counts.length, "SNCF TVS duplicated: #{bad_counts.map(&:first).join(', ')}"
+  def test_trenitalia_rtvt_id_unicity
+    validate_id_unicity("trenitalia_rtvt_id")
   end
 
   def test_coordinates
