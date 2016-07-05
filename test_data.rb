@@ -61,13 +61,6 @@ VIRTUAL_STATIONS = [
   "10439"  # Rodange Frontière
 ]
 
-# Stations that are suggestable but have no carrier enabled
-# (because they are linked to a bigger city elsewhere)
-BRIDGED_STATIONS = [
-  "9446",  # La Défense
-  "10047", # Orly Sud
-]
-
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
   "6661",  # Lugo (Spain and Italy)
@@ -402,7 +395,7 @@ class StationsTest < Minitest::Test
 
   def test_suggestable_has_carrier
     STATIONS.each do |row|
-      if row["is_suggestable"] == "t" && !BRIDGED_STATIONS.include?(row["id"])
+      if row["is_suggestable"] == "t"
         assert valid_carrier(row) || CHILDREN[row["id"]].any? { |r| valid_carrier(r) },
                "Station #{row["id"]} is suggestable but has no enabled system"
       end
