@@ -5153,7 +5153,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6564;Cartagena;cartagena;7161307;;37.605023;-0.974763;;f;ES;f;Europe/Madrid;t;ESAGH;;f;;f;7100053;f;;f;;f;;f;;;f;;f;61307;t;;f;f;;;;;Carthagène;;;;;;;;;;;;;
 6565;Cambrils;cambrils;7165409;;41.07005;1.052888;;f;ES;f;Europe/Madrid;t;ESAGI;;f;;f;7100197;f;;f;;f;;f;;;f;;f;65409;t;;f;f;;;;;;;;;;;;;;;;;;
 6566;Benicasim;benicasim;7165302;;;;;f;ES;f;Europe/Madrid;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6567;Canfranc;canfranc;7174217;;42.751258;-0.513805;6631;f;ES;f;Europe/Madrid;t;ESAGK;;f;;f;7100066;f;;f;;f;;f;;;f;;f;74217;t;;f;f;;;;;;;;;;;;;;;;;;
+6567;Canfranc;canfranc;7174217;;42.751258;-0.513805;6631;f;ES;f;Europe/Madrid;t;ESAGK;;t;;f;7100066;f;;f;;f;;f;;;f;;f;74217;t;;f;f;;;;;;;;;;;;;;;;;;
 6568;Sevilla Santa Justa;sevilla-santa-justa;7111510;;;;;f;ES;f;Europe/Madrid;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;Seville;;Séville;Siviglia;;;;;;;Sewilla;Sevilha;Севилья;;;
 6569;Águilas;aguilas;7107004;;37.410011;-1.57286;;f;ES;f;Europe/Madrid;t;ESAGO;;f;;f;7107004;f;;f;;f;;f;;;f;;f;07004;t;;f;f;;;;;;;;;;;;;;;;;;
 6570;Málaga-María Zambrano;malaga-maria-zambrano;7154413;;36.711819;-4.43214;;f;ES;f;Europe/Madrid;t;ESAGP;;f;;f;7100045;f;;f;;f;;f;;;f;;f;54413;t;;f;f;;;;;;;;;;;;;;;;;;
