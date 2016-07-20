@@ -25267,3 +25267,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 26823;Praz-sur-Arly;praz-sur-arly;;;45.8375;6.5708;;t;FR;f;Europe/Paris;t;;;f;;f;;f;u0hsv8;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26824;San Sebastián;san-sebastian;;;43.3182;-1.9826;;t;ES;f;Europe/Madrid;t;;;f;;f;;f;ezww7h;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26825;Dardilly;dardilly;;;45.8111;4.7567;;t;FR;f;Europe/Paris;t;;;f;;f;;f;u05ksm;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26826;Bricon BV;bricon-bv;8714202;;48.0868;4.9770;;f;FR;f;Europe/Paris;f;FRURX;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
