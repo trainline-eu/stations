@@ -4811,7 +4811,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6214;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6215;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6216;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6217;Pfaeffikon;pfaeffikon;8503209;;47.203013;8.778101;;f;CH;f;Europe/Zurich;t;CHAIB;;f;;f;8503209;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Пфеффикон;;;普費菲孔
+6217;Pfäffikon SZ;pfaffikon-sz;8503209;;47.203013;8.778101;;f;CH;f;Europe/Zurich;t;CHAIB;;f;;f;8503209;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Пфеффикон;;;普費菲孔
 6218;;;;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6219;Uster;uster;8503125;;47.3503730000;8.7186730000;;f;CH;f;Europe/Zurich;t;CHAID;;f;;f;8503125;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6220;Greifensee;greifensee;8503126;;;;;f;CH;f;Europe/Zurich;f;CHAIE;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
