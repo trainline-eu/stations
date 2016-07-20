@@ -1691,7 +1691,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 2234;Surgères;surgeres;8748522;87485227;46.11336359497748;-0.7620584964752196;;f;FR;f;Europe/Paris;t;FREIP;SGE;t;;f;8702063;f;;f;;f;;f;;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 2235;Mauzé;mauze;8748525;87485250;46.199594401792936;-0.673760175704956;;f;FR;f;Europe/Paris;t;FREIQ;;t;;f;8701646;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2236;Prin-Deyrançon;prin-deyrancon;8748526;87485268;46.2166670000;-0.6333330000;;f;FR;f;Europe/Paris;t;FREIR;;t;;f;8701440;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-2237;Épannes;epannes;8748527;;46.2333330000;-0.5833330000;;f;FR;f;Europe/Paris;t;FREIS;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+2237;Épannes;epannes;8748527;;46.2333330000;-0.5833330000;;f;FR;f;Europe/Paris;f;FREIS;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2238;Fors;fors;8748532;87485326;46.2333330000;-0.4000000000;;f;FR;f;Europe/Paris;t;FREIV;;t;;f;8703339;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2239;Marigny;marigny;8748533;87485334;46.2000000000;-0.4166670000;;f;FR;f;Europe/Paris;t;FREIW;;t;;f;8703911;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2240;Beauvoir-sur-Niort;beauvoir-sur-niort;8748534;87485342;46.1666670000;-0.4666670000;;f;FR;f;Europe/Paris;t;FREIX;;t;;f;8702792;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
