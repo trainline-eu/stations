@@ -20435,7 +20435,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 21981;Sant’Anna;santanna;8354414;;38.32299374805637;15.886579155921936;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8354414;t;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21982;Sanzano-Occhino;sanzano-occhino;8309629;;40.89465121101107;15.228381156921388;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309629;t;S09629;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21983;Sarcidano;sarcidano;8342131;;39.7616141;9.1141864;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342131;t;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-21984;Saronno;saronno;8325119;;45.625;9.03076;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8325119;t;S01933;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+21984;Saronno;saronno;8325119;;45.625;9.03076;;;IT;f;Europe/Rome;t;;;f;;f;8303018;t;;f;;f;8325119;t;S01933;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21985;Sangemini;sangemini;8335109;;42.6243217;12.5489705;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8335109;t;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21986;Serricciolo;serricciolo;8306221;;44.2022;10.0241;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306221;t;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21987;San Cesario Di Lecce;san-cesario-di-lecce;8341080;;40.304076277577565;18.166408538818356;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341080;t;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
