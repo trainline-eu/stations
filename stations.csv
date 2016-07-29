@@ -222,7 +222,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 344;Angers;angers;;;47.4666670000;-0.5500000000;;t;FR;f;Europe/Paris;t;FRANE;;t;;f;;f;gbrw53;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 345;Angers Maître École;angers-maitre-ecole;8748404;87484048;47.467089;-0.531891;344;f;FR;f;Europe/Paris;t;FREHA;;t;;f;8700610;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 346;Blondefontaine;blondefontaine;8711736;87117366;47.8833330000;5.8666670000;;f;FR;f;Europe/Paris;t;FRANF;;t;;f;8700692;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-347;Angoulême;angouleme;8758300;87583005;45.653603206036394;0.16449451446533203;;f;FR;f;Europe/Paris;t;FRANG;ANG;t;ANG;f;8700063;f;;f;;f;;f;;;f;;f;;f;;f;t;;;;Angulema;;;;;;;アングレーム;앙굴렘;;;Ангулем;;;昂古莱姆
+347;Angoulême;angouleme;8758300;87583005;45.653603206036394;0.16449451446533203;;f;FR;f;Europe/Paris;t;FRANG;ANG;t;ANG;f;8700063;f;u005eq;t;;f;;f;;;f;;f;;f;;f;t;;;;Angulema;;;;;;;アングレーム;앙굴렘;;;Ангулем;;;昂古莱姆
 348;Raincourt;raincourt;8711737;87117374;47.859879227409714;5.885946750640868;;f;FR;f;Europe/Paris;t;FRANH;;t;;f;8701836;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 349;Gévigney;gevigney;8711738;87117382;47.8000000000;5.9333330000;;f;FR;f;Europe/Paris;t;FRANI;;t;;f;8701227;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 350;Baulay;baulay;8711739;87117390;47.7833330000;6.0166670000;;f;FR;f;Europe/Paris;t;FRANJ;;t;;f;8700667;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -848,7 +848,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 1063;Igney—Avricourt;igney-avricourt;8721510;87215103;48.647031;6.80531;;f;FR;f;Europe/Paris;t;FRBZO;;t;;f;8701299;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1064;Nouvel-Avricourt;nouvel-avricourt;8721511;87215111;48.646806;6.819252;;f;FR;f;Europe/Paris;t;FRBZP;;t;;f;8701696;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1065;Rechicourt-le-Château;rechicourt-le-chateau;8721512;87215129;48.6666670000;6.8500000000;;f;FR;f;Europe/Paris;t;FRBZQ;;t;;f;8701844;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-1066;Béziers;beziers;8778100;87781005;43.33616601403274;3.2188332080841064;;f;FR;f;Europe/Paris;t;FRBZR;BZS;t;BZR;t;8700064;f;;f;;f;;f;;;f;;f;;f;;f;t;;;;;;;;;;;ベジエ;베지에;;;Безье;;;贝济耶
+1066;Béziers;beziers;8778100;87781005;43.33616601403274;3.2188332080841064;;f;FR;f;Europe/Paris;t;FRBZR;BZS;t;BZR;t;8700064;f;spdq95;t;;f;;f;;;f;;f;;f;;f;t;;;;;;;;;;;ベジエ;베지에;;;Безье;;;贝济耶
 1067;Gondrexange;gondrexange;8721513;;48.6833330000;6.9333330000;;f;FR;f;Europe/Paris;t;FRBZS;;t;;f;8771654;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1068;Heming;heming;8721514;87215145;48.7000000000;6.9500000000;;f;FR;f;Europe/Paris;t;FRBZT;;t;;f;8701267;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1069;Arzviller;arzviller;8721515;;48.7166670000;7.1666670000;17437;f;FR;f;Europe/Paris;t;FRBZU;;t;;f;8700647;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4400,7 +4400,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5778;Évian-les-Bains;evian-les-bains;8774567;87745679;46.39791639609017;6.577699184417725;;f;FR;f;Europe/Paris;t;FRXEB;EVI;t;;f;8700090;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;エヴィアン＝レ＝バン;;;;Эвьян-ле-Бен;;;埃維昂萊班
 5779;Épernay;epernay;8717155;87171553;49.046289724740205;3.959857821464538;;f;FR;f;Europe/Paris;t;FRXEP;EPR;t;;f;8700053;f;;f;;f;;f;;;f;;f;;f;;f;t;;;;;;;;;;;エペルネー;;;;Эперне;;;埃佩尔奈
 5780;Foix;foix;8761161;87611616;42.97032707409799;1.6068470478057861;;f;FR;f;Europe/Paris;t;FRXFX;FXE;t;;f;8700191;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5781;St-Gervais-les-Bains—Le Fayet;st-gervais-les-bains-le-fayet;8774647;87746479;45.906661;6.701862;;f;FR;f;Europe/Paris;t;FRXGF;SGB;t;XGF;t;8704576;f;u0hv0d;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+5781;St-Gervais-les-Bains—Le Fayet;st-gervais-les-bains-le-fayet;8774647;87746479;45.906661;6.701862;26833;f;FR;f;Europe/Paris;t;FRXGF;SGB;t;XGF;t;8704576;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5782;Guéret;gueret;8759760;87597609;46.17412493440401;1.8791556358337402;;f;FR;f;Europe/Paris;t;FRXGT;GTJ;t;;f;8700182;f;;f;;f;;f;;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 5783;St-Gilles-Croix-de-Vie;st-gilles-croix-de-vie;8748657;87486571;46.696459135952594;-1.941409707069397;;f;FR;f;Europe/Paris;t;FRXGV;;t;;f;8704579;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5784;Hyères;hyeres;8775562;87755629;43.10881995697415;6.124212741851807;;f;FR;f;Europe/Paris;t;FRXHE;HYE;t;;f;8702308;f;;f;;f;;f;;;f;;f;;f;;f;t;;;;;;;;;;;イエール;;;;Йер;;;伊埃雷
@@ -25274,3 +25274,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 26830;Le Touquet-Paris-Plage;le-touquet-paris-plage;;;50.5201;1.5894;;t;FR;f;Europe/Paris;t;;;f;;f;;f;u0cpkn;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26831;Parc Bagatelle;parc-bagatelle;;;50.4299;1.6060;;t;FR;f;Europe/Paris;t;;;f;;f;;f;u0cnus;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26832;Saint-Jean-de-Luz;saint-jean-de-luz;;;43.3884;-1.6637;;t;FR;f;Europe/Paris;t;;;f;;f;;f;ezwyf4;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26833;Saint-Gervais-les-Bains;saint-gervais-les-bains;;;45.8931;6.7114;;t;FR;f;Europe/Paris;t;;;f;;f;;f;u0hv0d;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
