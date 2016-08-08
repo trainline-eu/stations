@@ -587,7 +587,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 762;Oderen;oderen;8718263;87182634;47.9166670000;6.9833330000;;f;FR;f;Europe/Paris;t;FRBKT;;t;;f;8701706;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 763;Kruth;kruth;8718264;87182642;47.9333330000;6.9666670000;;f;FR;f;Europe/Paris;t;FRBKU;;t;;f;8701342;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 764;Breitenbach;breitenbach;8718265;87182659;48.0166670000;7.1000000000;;f;FR;f;Europe/Paris;t;FRBKV;BHH;t;;f;8700673;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-765;Richwiller;richwiller;8718267;87182675;47.7833330000;7.2833330000;;f;FR;f;Europe/Paris;t;FRBKW;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+765;Richwiller;richwiller;8718267;87182675;47.7833330000;7.2833330000;;f;FR;f;Europe/Paris;f;FRBKW;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 766;Wittelsheim;wittelsheim;8718268;87182683;47.81733322335348;7.2643232345581055;;f;FR;f;Europe/Paris;t;FRBKX;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 767;Staffelfelden;staffelfelden;8718269;87182691;47.827979;7.265099;;f;FR;f;Europe/Paris;t;FRBKY;;t;;f;8701956;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 768;Bollwiller;bollwiller;8718270;87182709;47.8569637651669;7.267584800720214;;f;FR;f;Europe/Paris;t;FRBKZ;;t;;f;8700293;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
