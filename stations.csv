@@ -2094,7 +2094,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 2750;Aubazine—St-Hilaire;aubazine-st-hilaire;8759446;87594465;45.18168;1.641052;;f;FR;f;Europe/Paris;t;FRFJO;;t;;f;8702703;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2751;Cornil;cornil;8759448;87594481;45.2166670000;1.6833330000;;f;FR;f;Europe/Paris;t;FRFJQ;;t;;f;8703158;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2752;Turenne;turenne;8759455;87594556;45.03779;1.600861;;f;FR;f;Europe/Paris;t;FRFJT;;t;;f;8704751;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-2753;Les Quatre-Routes-de-Saignes;les-quatre-routes-de-saignes;8759456;87594564;45.0000000000;1.6500000000;;f;FR;f;Europe/Paris;t;FRFJU;;t;;f;8703783;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+2753;Les Quatre-Routes-du-Lot;les-quatre-routes-du-lot;8759456;87594564;45.0000000000;1.6500000000;;f;FR;f;Europe/Paris;t;FRFJU;;t;;f;8703783;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2754;Varetz;varetz;8759460;87594606;45.191407;1.447074;;f;FR;f;Europe/Paris;t;FRFJX;;t;;f;8704780;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2755;Le Burg;le-burg;8759461;87594614;45.215624;1.429932;;f;FR;f;Europe/Paris;t;FRFJY;;t;;f;8703694;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2756;St-Aulaire;st-aulaire;8759462;87594622;45.2333330000;1.3666670000;;f;FR;f;Europe/Paris;t;FRFJZ;;t;;f;8702717;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
