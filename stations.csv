@@ -5202,8 +5202,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6613;Astorga;astorga;7120100;;42.459513;-6.047124;;f;ES;f;Europe/Madrid;t;ESATG;;f;;f;7100019;f;;f;;f;;f;;;f;;f;20100;t;;f;f;;;;;;;;;;;;;;;;;;
 6614;Ávila;avila;7110400;;40.657212;-4.682948;;f;ES;f;Europe/Madrid;t;ESAVI;;f;;f;7100001;f;;f;;f;;f;;;f;;f;10400;t;;f;f;;;;;;;;;;;;;;;;;;
 6615;Bilbao Abando;bilbao-abando;7113200;;43.259715;-2.927507;23776;f;ES;f;Europe/Madrid;t;ESBAB;;f;;f;7100011;f;;f;;f;;f;;;f;;f;13200;t;;f;f;;;;Bilbao-Abando Indalecio Prieto;;;;;;;;;;;;;;
-6616;Barcelona Sant Andreu Condal;barcelona-sant-andreu-condal;7179004;;41.435884;2.193529;6617;f;ES;f;Europe/Madrid;t;ESBAC;;f;;f;7100089;f;;f;;f;;f;;;f;;f;79004;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
-6617;Barcelona;barcelona;9900012;;41.38227072942428;2.177385091781616;;t;ES;f;Europe/Madrid;t;ESBCN;;t;;f;;f;sp3e3n;t;;f;;f;;;f;;f;BARCE;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
+6616;Barcelona Sant Andreu Condal;barcelona-sant-andreu-condal;7179004;;41.435884;2.193529;6617;f;ES;f;Europe/Madrid;f;ESBAC;;f;;f;7100089;f;;f;;f;;f;;;f;;f;79004;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
+6617;Barcelona;barcelona;9900012;;41.38227072942428;2.177385091781616;;t;ES;f;Europe/Madrid;t;ESBCN;;f;;f;;f;sp3e3n;t;;f;;f;;;f;;f;BARCE;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
 6618;Benicarló;benicarlo;7165311;;40.427088;0.414753;;f;ES;f;Europe/Madrid;t;ESBCO;;f;;f;7100195;f;;f;;f;;f;;;f;;f;65311;t;;f;f;;;;Benicarlo-Peñiscola;;;;;;;;;;;;;;
 6619;O Barco de Valdeorras;o-barco-de-valdeorras;7120211;;42.4182;-6.98493;;f;ES;f;Europe/Madrid;t;ESBCV;;f;;f;;f;;f;;f;;f;;;f;;f;20211;t;;f;f;;;;;;;;;;;;;;;;;;
 6620;Badajoz;badajoz;7137606;;38.890867;-6.981822;;f;ES;f;Europe/Madrid;t;ESBJZ;;f;;f;7100035;f;eygj1q;t;;f;;f;;;f;;f;37606;t;;f;f;;;;;;;;;;;;;;;;;;
@@ -5211,8 +5211,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6622;Bobadilla;bobadilla;7154400;;37.037445;-4.727831;;f;ES;f;Europe/Madrid;t;ESBOB;;f;;f;7100044;f;;f;;f;;f;;;f;;f;54400;t;;f;f;;;;;;;;;;;;;;;;;;
 6623;Barcelona Plazça de Catalunya;barcelona-plazca-de-catalunya;7178805;;41.387702;2.169285;6617;f;ES;f;Europe/Madrid;t;ESBPC;;f;;f;7100074;f;;f;;f;;f;;;f;;f;78805;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
 6624;Barcelona Paseig de Gracia;barcelona-paseig-de-gracia;7171802;;41.392089;2.164755;6617;f;ES;f;Europe/Madrid;t;ESBPG;;f;;f;7100063;f;;f;;f;;f;;;f;;f;71802;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
-6625;Barcelona Sants;barcelona-sants;7171801;71718010;41.378911;2.140367;6617;f;ES;f;Europe/Madrid;t;ESBST;;t;;f;7100064;f;;f;;f;;f;;;f;;f;71801;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
-6626;Barcelona Estació de França;barcelona-estacio-de-franca;7179400;;41.383657;2.186733;6617;f;ES;t;Europe/Madrid;t;ESBTO;;t;;f;7100067;f;;f;;f;;f;;;f;;f;79400;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
+6625;Barcelona Sants;barcelona-sants;7171801;71718010;41.378911;2.140367;6617;f;ES;f;Europe/Madrid;t;ESBST;;f;;f;7100064;f;;f;;f;;f;;;f;;f;71801;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
+6626;Barcelona Estació de França;barcelona-estacio-de-franca;7179400;;41.383657;2.186733;6617;f;ES;t;Europe/Madrid;t;ESBTO;;f;;f;7100067;f;;f;;f;;f;;;f;;f;79400;t;;f;f;;;;;Barcelone;Barcellona;;;;;バルセロナ;바르셀로나;;;Барселона;;Barselona;巴薩隆拿
 6627;Burgos;burgos;7111100;;;;;f;ES;f;Europe/Madrid;f;ESBUR;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6628;Bustarviejo-Valdemanco;bustarviejo-valdemanco;7117100;;;;;f;ES;f;Europe/Madrid;f;ESBVM;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6629;Cádiz;cadiz;7151405;;36.527945;-6.286893;;f;ES;f;Europe/Madrid;t;ESCAD;;f;;f;7100043;f;ey7xbd;t;;f;;f;;;f;;f;51405;t;;f;f;;;;;;;;;;;;;;;;;;
@@ -5241,7 +5241,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6652;Guadix;guadix;7156200;;37.3178;-3.127284;;f;ES;f;Europe/Madrid;t;ESGDX;;f;;f;7100047;f;;f;;f;;f;;;f;;f;56200;t;;f;f;;;;;;;;;;;;;;;;;;
 6653;Brenes;brenes;7150702;;37.5463;-5.86677;;f;ES;f;Europe/Madrid;t;ESGJR;;f;;f;;f;;f;;f;;f;;;f;;f;50702;t;;f;f;;;;;;;;;;;;;;;;;;
 6654;Granollers Centro;granollers-centro;7179100;;41.599308;2.29162;;f;ES;f;Europe/Madrid;t;ESGLC;;f;;f;7100075;f;;f;;f;;f;;;f;;f;79100;t;;f;f;;;;;;;;;;;;;;;;;;
-6655;Gerona;gerona;7179300;71793000;41.979516;2.816482;;f;ES;f;Europe/Madrid;t;ESGRO;;t;;f;7100077;f;sp6nb6;t;;f;;f;;;f;;f;79300;t;;f;f;;;;Girona;Gérone;;;;;;ジローナ;;;;Жерона;;;
+6655;Gerona;gerona;7179300;71793000;41.979516;2.816482;;f;ES;f;Europe/Madrid;t;ESGRO;;f;;f;7100077;f;sp6nb6;t;;f;;f;;;f;;f;79300;t;;f;f;;;;Girona;Gérone;;;;;;ジローナ;;;;Жерона;;;
 6656;Granada;granada;7105000;;37.183906;-3.609061;;f;ES;f;Europe/Madrid;t;ESGRX;;f;;f;7100182;f;eyt7tc;t;;f;;f;;;f;;f;05000;t;;f;f;;;;;Grenade;;;;;;;;;;;;;
 6657;Irún;irun;;;;;;t;ES;f;Europe/Madrid;f;ESIRU;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6658;Jaén;jaen;7103100;;37.780223;-3.790975;;f;ES;f;Europe/Madrid;t;ESJAN;;f;;f;7100204;f;;f;;f;;f;;;f;;f;03100;t;;f;f;;;;;;;;;;;;;;;;;;
@@ -5249,11 +5249,11 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6660;León;leon;7115100;;42.595888;-5.582382;;f;ES;f;Europe/Madrid;t;ESLEO;;f;;f;7100015;f;ezs437;t;;f;;f;;;f;;f;15100;t;;f;f;;;;;;;;;;;;;;;;;;
 6661;Lugo;lugo-estacion;7120309;;43.015307;-7.55226;;f;ES;f;Europe/Madrid;t;ESLGO;;f;;f;7100186;f;;f;;f;;f;;;f;;f;20309;t;;f;f;;Spanien;Spain;España;Espagne;Spagna;;;;;;;;;;;;
 6662;Valdestillas;valdestillas;7110503;;41.489083;-4.772633;;f;ES;f;Europe/Madrid;t;ESLIB;;f;;f;7110503;f;;f;;f;;f;;;f;;f;10503;t;;f;f;;;;;;;;;;;;;;;;;;
-6663;Madrid;madrid;;;40.416824;-3.703733;;t;ES;f;Europe/Madrid;t;ESMAD;;t;;f;;f;ezjmgt;t;;f;;f;;;f;;f;MADRI;t;;f;f;;;;;;;;;;;;;;;;;;
+6663;Madrid;madrid;;;40.416824;-3.703733;;t;ES;f;Europe/Madrid;t;ESMAD;;f;;f;;f;ezjmgt;t;;f;;f;;;f;;f;MADRI;t;;f;f;;;;;;;;;;;;;;;;;;
 6664;Madrid Príncipe Pio;madrid-principe-pio;7110000;;40.421272;-3.718846;6663;f;ES;f;Europe/Madrid;t;ESMPP;;f;;f;7100188;f;;f;;f;;f;;;f;;f;10000;t;;f;f;;;;;;;;;;;;;;;;;;
 6665;Madrid Vallecas;madrid-vallecas;;;;;;f;ES;f;Europe/Madrid;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6666;Madrid Villaverde;madrid-villaverde;7178608;;;;6663;f;ES;f;Europe/Madrid;f;ESMVV;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6667;Madrid Atocha;madrid-atocha;7160000;;40.405963;-3.689757;6663;f;ES;f;Europe/Madrid;t;ESMAT;;t;;f;7100049;f;;f;;f;;f;;;f;;f;60000;t;;f;f;;;;;;;;;;;;;;;;;;
+6667;Madrid Atocha;madrid-atocha;7160000;;40.405963;-3.689757;6663;f;ES;f;Europe/Madrid;t;ESMAT;;f;;f;7100049;f;;f;;f;;f;;;f;;f;60000;t;;f;f;;;;;;;;;;;;;;;;;;
 6668;Madrid Chamartín;madrid-chamartin;7117000;;40.472151;-3.68235;6663;f;ES;t;Europe/Madrid;t;ESMCH;;f;;f;7100017;f;;f;;f;;f;;;f;;f;17000;t;;f;f;;;;;;;;;;;;;;;;;;
 6669;Medina del Campo Estación;medina-del-campo-estacion;7110500;;41.317676;-4.910474;24164;f;ES;f;Europe/Madrid;t;ESMDC;;f;;f;7100002;f;;f;;f;;f;;;f;;f;10500;t;;f;f;;;;;;;;;;;;;;;;;;
 6670;Miranda de Ebro;miranda-de-ebro;7111200;;42.690554;-2.94091;;f;ES;f;Europe/Madrid;t;ESMEB;;f;;f;7100006;f;;f;;f;;f;;;f;;f;11200;t;;f;f;;;;;;;;;;;;;;;;;;
@@ -5270,7 +5270,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6681;San Fernando de Cádiz;san-fernando-de-cadiz;7151402;;36.4758;-6.19444;;f;ES;f;Europe/Madrid;t;ESSFD;;f;;f;;f;;f;;f;;f;;;f;;f;51402;t;;f;f;;;;;;;;;;;;;;;;;;
 6682;Salamanca;salamanca;7130100;;40.971547;-5.648659;;f;ES;f;Europe/Madrid;t;ESSLM;;f;;f;7100027;f;ez7cp3;t;;f;;f;;;f;;f;30100;t;;f;f;;;;;;;;;;;;;;;;;;
 6683;Sevilla;sevilla;;;37.389254;-5.984458;;t;ES;f;Europe/Madrid;t;ESSVQ;;f;;f;;f;eyesxu;t;;f;;f;;;f;;f;;f;;f;f;;;Seville;;Séville;Siviglia;;;;;;;Sewilla;Sevilha;Севилья;;;
-6684;Camp Tarragona;camp-tarragona;7104104;;41.192025;1.271587;24444;f;ES;f;Europe/Madrid;t;ESTAA;;t;;f;7104104;f;;f;;f;;f;;;f;;f;04104;t;;f;f;;;;;Tarragone;;;;;;;;;;;;;
+6684;Camp Tarragona;camp-tarragona;7104104;;41.192025;1.271587;24444;f;ES;f;Europe/Madrid;t;ESTAA;;f;;f;7104104;f;;f;;f;;f;;;f;;f;04104;t;;f;f;;;;;Tarragone;;;;;;;;;;;;;
 6685;Torremolinos;torremolinos;7154509;;36.6225;-4.49931;;f;ES;f;Europe/Madrid;t;ESTRM;;f;;f;;f;;f;;f;;f;;;f;;f;54509;t;;f;f;;;;;;;;;;;;;;;;;;
 6686;Tui;tui;7122401;;42.0565;-8.64302;;f;ES;f;Europe/Madrid;t;ESTUY;;f;;f;;f;;f;;f;;f;;;f;;f;22401;t;;f;f;;;;Tuy;;;;;;;;;;;;;;
 6687;Valencia de Alcantar;valencia-de-alcantar;;;;;;t;ES;f;Europe/Madrid;f;ESVAL;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -8984,7 +8984,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10478;Autun Lycée technique;autun-lycee-technique;8753642;87536425;46.928761;4.22012;;f;FR;f;Europe/Paris;t;FRJFY;;t;;f;8706513;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;オータン;;;;Отён;;;
 10479;Les Huichards;les-huichards;8753648;;46.5825508386991;5.27094841003418;;f;FR;f;Europe/Paris;t;FRJFZ;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10480;La Chapelle-Glain;la-chapelle-glain;8753705;87537050;47.625865;-1.180175;;f;FR;f;Europe/Paris;t;FRPGC;;t;;f;8706519;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10481;Figueres—Vilafant;figueres-vilafant;7104307;71043075;42.26478;2.943023;10465;f;ES;f;Europe/Madrid;t;ESFIR;;t;;f;7104307;f;;f;;f;;f;;;f;;f;04307;t;;f;f;;;;Figueras;;;;;;;;;;;;;;
+10481;Figueres—Vilafant;figueres-vilafant;7104307;71043075;42.26478;2.943023;10465;f;ES;f;Europe/Madrid;t;ESFIR;;f;;f;7104307;f;;f;;f;;f;;;f;;f;04307;t;;f;f;;;;Figueras;;;;;;;;;;;;;;
 10482;Rzepin;rzepin;5130955;;;;;f;PL;f;Europe/Warsaw;f;PLAAA;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10483;Poznań;poznan;5103060;;52.401996;16.910866;;f;PL;f;Europe/Warsaw;t;PLPOZ;;f;;f;5100081;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10484;Kutno;kutno;5100224;;;;;f;PL;f;Europe/Warsaw;f;PLKNO;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21117,7 +21117,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22673;Ashford International;ashford-international;7050040;;51.143673;0.873628;;f;GB;f;Europe/London;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;8155;;;;;;;;;;;;;;;;;
 22674;Ebbsfleet International;ebbsfleet-international;7055660;;51.442961;0.320921;;f;GB;f;Europe/London;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;8224;;;;;;;;;;;;;;;;;
 22675;Tübingen Hbf;tubingen-hbf;8029318;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;7343;;;;;;;;;;;;;;;;;
-22676;Zaragoza Delicias;zaragoza-delicias;7104040;;41.658439;-0.909906;24575;f;ES;t;Europe/Madrid;t;ESZAA;;t;;f;7175506;f;;f;;f;;f;;;f;;f;04040;t;;f;f;;;;;Saragosse;Saragozza;;;;;;;;Saragoça;;;;
+22676;Zaragoza Delicias;zaragoza-delicias;7104040;;41.658439;-0.909906;24575;f;ES;t;Europe/Madrid;t;ESZAA;;f;;f;7175506;f;;f;;f;;f;;;f;;f;04040;t;;f;f;;;;;Saragosse;Saragozza;;;;;;;;Saragoça;;;;
 22677;Reutlingen Hbf;reutlingen-hbf;8029309;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;7213;;;;;;;;;;;;;;;;;
 22678;Lübeck Hbf;lubeck-hbf;8001631;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;7676;;;;;;;;;;;;;;;;;
 22679;Oldenburg (Oldb);oldenburg-oldb;8021207;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;7178;;;;;;;;;;;;;;;;;
