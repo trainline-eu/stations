@@ -192,7 +192,12 @@ class StationsTest < Minitest::Test
 
       if !id.nil?
         if id_column_size
-          assert_equal id_column_size, row[id_column].size, "Invalid #{id_column}: #{row[id_column]} for station #{row["id"]}"
+          if id_column_size.is_a?(Array)
+
+            assert id_column_size.include?(row[id_column].size), "Invalid #{id_column}: #{row[id_column]} for station #{row["id"]}"
+          else
+            assert_equal id_column_size, row[id_column].size, "Invalid #{id_column}: #{row[id_column]} for station #{row["id"]}"
+          end
         end
 
         assert !unique_set.include?(row[id_column]), "Duplicated #{id_column} #{row[id_column]} for station #{row["id"]}"
@@ -250,7 +255,7 @@ class StationsTest < Minitest::Test
   end
 
   def test_renfe_enabled_an_id_columns
-    validate_enabled_and_id_columns("renfe", 5)
+    validate_enabled_and_id_columns("renfe", [5, 7])
   end
 
   def test_id_unicity
