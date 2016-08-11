@@ -15960,7 +15960,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17455;Mazancourt;mazancourt;;;;;;f;FR;f;Europe/Paris;f;FRZIU;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17456;Boucly;boucly;8758851;;49.935365;3.014244;;f;FR;f;Europe/Paris;t;FRZIV;;t;;f;8706677;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17457;Reichshoffen Usines;reichshoffen-usines;8721323;;48.919431;7.652436;10638;f;FR;f;Europe/Paris;t;FRZMB;;t;;f;8701866;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17458;Salzburg Hbf;salzburg-hbf;8101114;;47.813046443088425;13.045819401741028;;f;AT;f;Europe/Vienna;f;ATSZG;;f;;f;8100002;f;;f;;f;8101114;f;;;f;;f;;f;;f;f;;;Main station;Salzburgo Estación central;Gare centrale;Stazione centrale;;Salcburk;;;ザルツブルク;잘츠부르크;;Salzburgo;Зальцбург;;;萨尔斯堡
+17458;Salzburg Hbf;salzburg-hbf;8101114;;47.813046443088425;13.045819401741028;;f;AT;f;Europe/Vienna;f;ATSZG;;f;;f;8100002;t;;f;;f;8101114;f;;;f;;f;;f;;f;f;;;Main station;Salzburgo Estación central;Gare centrale;Stazione centrale;;Salcburk;;;ザルツブルク;잘츠부르크;;Salzburgo;Зальцбург;;;萨尔斯堡
 17459;Duivendrecht;duivendrecht;8400194;;52.323556;4.936552;;f;NL;f;Europe/Amsterdam;t;NLDAA;;t;;f;8400194;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17476;Montdidier;montdidier;;;;;;f;FR;f;Europe/Paris;f;FRZKG;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17478;Roye;roye;;;;;;t;FR;f;Europe/Paris;f;FRRIY;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
