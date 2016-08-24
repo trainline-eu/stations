@@ -5312,7 +5312,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6723;Landau (Isar);landau-isar;8026420;;48.682889;12.69506;;f;DE;f;Europe/Berlin;t;DEABD;;f;;f;8003506;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;Landau in der Pfalz;;;;;;;;Ландау-на-Изаре;;;伊萨尔河畔兰道
 6724;;;;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6725;Mechernich;mechernich;8015431;;50.591416;6.642506;;f;DE;f;Europe/Berlin;t;DEABF;;f;;f;8003927;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6726;Aschaffenburg Hbf;aschaffenburg-hbf;8022609;;49.980554;9.143692;;f;DE;f;Europe/Berlin;t;DEABG;;f;;f;8000010;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;アシャッフェンブルク;아샤펜부르크;;;Ашаффенбург;;;阿沙芬堡
+6726;Aschaffenburg Hbf;aschaffenburg-hbf;8022609;;49.980554;9.143692;10544;f;DE;t;Europe/Berlin;t;DEABG;;f;;f;8000010;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;アシャッフェンブルク;아샤펜부르크;;;Ашаффенбург;;;阿沙芬堡
 6727;Allensbach;allensbach;8014581;;47.714886;9.068228;;f;DE;f;Europe/Berlin;t;DEABH;;f;;f;8000496;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6728;Morsum Bahnhof;morsum-bahnhof;;;54.872007;8.431917;;f;DE;f;Europe/Berlin;f;DEABI;;f;;f;8007777;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6729;Munster (Örtze);munster-ortze;8013643;;52.993423;10.096072;;f;DE;f;Europe/Berlin;t;DEABJ;;f;;f;8004183;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ミュンスター;뮌스터;;;Мюнстер;;;明斯特
@@ -5436,7 +5436,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6847;Castrop-Rauxel Hbf;castrop-rauxel-hbf;8010036;;51.573694;7.304562;;f;DE;f;Europe/Berlin;t;DEAFY;;f;;f;8001327;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;;;;;;;;
 6848;Calmbach Bahnhof;calmbach-bahnhof;8029457;;48.776485;8.571133;;f;DE;f;Europe/Berlin;t;DEAFZ;;f;;f;8001320;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6849;Cham (Oberpf);cham-oberpf;8026249;;49.221864;12.656829;;f;DE;f;Europe/Berlin;t;DEAGA;;f;;f;8001330;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6850;Augsburg Hbf;augsburg-hbf;8002140;;48.365444;10.885568;;f;DE;f;Europe/Berlin;t;DEAGB;;t;;f;8000013;t;;f;;f;;f;;;f;;f;8086120;f;;f;f;;;Main station;Augsburgo Estación central;Gare centrale;Stazione centrale;;;;;アウクスブルク;아우크스부르크;;Augsburgo;Аугсбург;;;奥格斯堡
+6850;Augsburg Hbf;augsburg-hbf;8002140;;48.365444;10.885568;10782;f;DE;t;Europe/Berlin;t;DEAGB;;t;;f;8000013;t;;f;;f;;f;;;f;;f;8086120;f;;f;f;;;Main station;Augsburgo Estación central;Gare centrale;Stazione centrale;;;;;アウクスブルク;아우크스부르크;;Augsburgo;Аугсбург;;;奥格斯堡
 6851;Öhringen-Cappel;ohringen-cappel;8001594;;49.201917;9.526686;;f;DE;f;Europe/Berlin;t;DEAGC;;f;;f;8004620;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6852;Deggendorf Hbf;deggendorf-hbf;8026450;;48.839436;12.949725;;f;DE;f;Europe/Berlin;t;DEAGD;;f;;f;8001397;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;;;;;Деггендорф;;;德根多尔夫
 6853;Derneburg (Han);derneburg-han;8013377;;52.096848;10.143715;;f;DE;f;Europe/Berlin;t;DEAGE;;f;;f;8000071;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5495,7 +5495,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6907;Fröndenberg;frondenberg;8008205;;51.47119;7.763039;;f;DE;f;Europe/Berlin;t;DEAIG;;f;;f;8000113;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6908;Sigmaringen;sigmaringen;8029254;;48.086985;9.221853;;f;DE;f;Europe/Berlin;t;DEAIH;;f;;f;8000069;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Sigmaringa;;;;;;;;;;;Зигмаринген;;;西格马林根
 6909;Friedrichssegen;friedrichssegen;8019599;;50.311869;7.650665;;f;DE;f;Europe/Berlin;t;DEAII;;f;;f;8002114;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6910;Freudenstadt Hbf;freudenstadt-hbf;8029492;;48.460325;8.428807;7606;f;DE;f;Europe/Berlin;t;DEAIJ;;f;;f;8000110;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;;;;;;;;
+6910;Freudenstadt Hbf;freudenstadt-hbf;8029492;;48.460325;8.428807;7606;f;DE;t;Europe/Berlin;t;DEAIJ;;f;;f;8000110;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;;;;;;;;
 6911;Freudenstadt Stadt;freudenstadt-stadt;8029493;;48.467777;8.410649;7606;f;DE;f;Europe/Berlin;t;DEAIK;;f;;f;8002091;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6912;Friedberg (Hess);friedberg-hess;8011379;;50.332607;8.762055;;f;DE;f;Europe/Berlin;t;DEAIL;;f;;f;8000111;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6913;Feldberg-Bärental;feldberg-barental;8014376;;47.871442;8.098292;;f;DE;f;Europe/Berlin;t;DEAIM;;f;;f;8001971;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5506,7 +5506,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6918;Frankfurt (Main) West;frankfurt-main-west;8011124;;50.118862;8.639334;;f;DE;f;Europe/Berlin;t;DEAIR;;f;;f;8002042;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Fráncfort;Francfort;Francoforte;;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 6919;Gaggenau Bf;gaggenau-bf;8014254;;48.805772;8.319975;;f;DE;f;Europe/Berlin;t;DEAIS;;f;;f;8002167;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6920;Geldern;geldern;8015025;;51.513287;6.319335;;f;DE;f;Europe/Berlin;t;DEAIT;;f;;f;8002222;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6921;Hannover Hbf;hannover-hbf;8013547;;52.376763;9.741016;7623;f;DE;f;Europe/Berlin;t;DEAIU;;f;;f;8000152;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Hanover Main station;Hanóver Estación central;Hanovre Gare centrale;Stazione centrale;;;;;ハノーファー;하노버;Hanower;Hanôver;Ганновер;;;汉诺威
+6921;Hannover Hbf;hannover-hbf;8013547;;52.376763;9.741016;7623;f;DE;t;Europe/Berlin;t;DEAIU;;f;;f;8000152;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Hanover Main station;Hanóver Estación central;Hanovre Gare centrale;Stazione centrale;;;;;ハノーファー;하노버;Hanower;Hanôver;Ганновер;;;汉诺威
 6922;Gerolstein;gerolstein;8025037;;50.224009;6.660368;;f;DE;f;Europe/Berlin;t;DEAIV;;f;;f;8000123;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6923;Gernsbach Bf;gernsbach-bf;8014256;;48.768305;8.336712;;f;DE;f;Europe/Berlin;t;DEAIW;;f;;f;8002248;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6924;Geseke;geseke;8010363;;51.64523;8.510294;;f;DE;f;Europe/Berlin;t;DEAIX;;f;;f;8002262;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Гезеке;;;格塞克
@@ -5547,7 +5547,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6959;Herborn (Dillkr);herborn-dillkr;8011573;;50.6844;8.308136;;f;DE;f;Europe/Berlin;t;DEAKG;;f;;f;8000161;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6960;Haste;haste;8013569;;52.379334;9.388495;;f;DE;f;Europe/Berlin;t;DEAKH;;f;;f;8002634;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6961;Herzogenrath;herzogenrath;8015190;;50.870917;6.094488;;f;DE;f;Europe/Berlin;t;DEAKI;;f;;f;8002806;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6962;Hildesheim Hbf;hildesheim-hbf;8013413;;52.160627;9.953494;;f;DE;f;Europe/Berlin;t;DEAKJ;;f;;f;8000169;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ヒルデスハイム;힐데스하임;;;Хильдесхайм;;;希尔德斯海姆
+6962;Hildesheim Hbf;hildesheim-hbf;8013413;;52.160627;9.953494;10772;f;DE;t;Europe/Berlin;t;DEAKJ;;f;;f;8000169;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ヒルデスハイム;힐데스하임;;;Хильдесхайм;;;希尔德斯海姆
 6963;Hinterzarten;hinterzarten;8014372;;47.906329;8.106256;;f;DE;f;Europe/Berlin;t;DEAKK;;f;;f;8002848;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6964;Hirschau;hirschau;8026195;;;;;f;DE;f;Europe/Berlin;f;DEAKL;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6965;Höfen (Enz) Bf;hofen-enz-bf;8029458;;48.798562;8.581039;;f;DE;f;Europe/Berlin;t;DEAKM;;f;;f;8002891;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5754,7 +5754,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7167;Oberaudorf;oberaudorf;8020179;;47.652788;12.175259;;f;DE;f;Europe/Berlin;t;DEASH;;f;;f;8004507;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7168;Oberkochen;oberkochen;8029698;;48.782346;10.107776;;f;DE;f;Europe/Berlin;t;DEASI;;f;;f;8004549;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7169;Oberkotzau;oberkotzau;8026024;;50.266393;11.9322;;f;DE;f;Europe/Berlin;t;DEASJ;;f;;f;8000287;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7170;Oberhausen Hbf;oberhausen-hbf;8010263;;51.475118;6.852036;;f;DE;f;Europe/Berlin;t;DEASK;;f;;f;8000286;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;オーバーハウゼン;오버하우젠;;;Оберхаузен;;;奥伯豪森
+7170;Oberhausen Hbf;oberhausen-hbf;8010263;;51.475118;6.852036;10776;f;DE;t;Europe/Berlin;t;DEASK;;f;;f;8000286;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;オーバーハウゼン;오버하우젠;;;Оберхаузен;;;奥伯豪森
 7171;Oberndorf (Neckar);oberndorf-neckar;8029406;;48.295382;8.575637;;f;DE;f;Europe/Berlin;t;DEASL;;f;;f;8004563;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7172;Oberstaufen;oberstaufen;8002347;;47.554203;10.025282;;f;DE;f;Europe/Berlin;t;DEASM;;f;;f;8004584;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7173;Uhldingen-Mühlhofen;uhldingen-muhlhofen;8014607;;47.736999;9.248416;;f;DE;f;Europe/Berlin;t;DEASN;;f;;f;8004595;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5773,7 +5773,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7186;Oldenburg (Holst);oldenburg-holst;8001650;;54.283573;10.883222;;f;DE;f;Europe/Berlin;t;DEATA;;f;;f;8004669;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Oldenburgo;Oldenbourg;;;;;;オルデンブルク;올덴부르크;;Oldemburgo;Ольденбург;;;霍尔斯泰因地区奥尔登堡
 7187;Obernburg-Elsenfeld;obernburg-elsenfeld;8022629;;49.840736;9.154218;;f;DE;f;Europe/Berlin;t;DEATB;;f;;f;8004560;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7188;Osterhofen (Oberbay);osterhofen-oberbay;8053415;;47.687657;11.986881;;f;DE;f;Europe/Berlin;t;DEATC;;f;;f;8004701;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7189;Osnabrück Hbf;osnabruck-hbf;8021025;;52.272848;8.061777;;f;DE;f;Europe/Berlin;t;DEATD;;f;;f;8000294;t;;f;;f;;f;;;f;108021025;t;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;オスナブリュック;오스나브뤼크;;;Оснабрюк;;;奥斯纳布吕克
+7189;Osnabrück Hbf;osnabruck-hbf;8021025;;52.272848;8.061777;26860;f;DE;t;Europe/Berlin;t;DEATD;;f;;f;8000294;t;;f;;f;;f;;;f;108021025;t;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;オスナブリュック;오스나브뤼크;;;Оснабрюк;;;奥斯纳布吕克
 7190;Paderborn Hbf;paderborn-hbf;8010358;;51.712982;8.740508;;f;DE;f;Europe/Berlin;t;DEATE;;f;;f;8000297;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;パーダーボルン;파더보른;;;Падерборн;;;帕德博恩
 7191;Übach-Palenberg;ubach-palenberg;8015189;;50.924331;6.097266;;f;DE;f;Europe/Berlin;t;DEATF;;f;;f;8005935;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Ибах-Паленберг;;;于巴赫-帕伦贝格
 7192;Papenburg (Ems);papenburg-ems;8021086;;53.089707;7.386705;;f;DE;f;Europe/Berlin;t;DEATG;;f;;f;8004751;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5782,7 +5782,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7195;Peine;peine;8013252;;52.318801;10.23216;;f;DE;f;Europe/Berlin;t;DEATJ;;f;;f;8004760;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7196;Piding;piding;8020106;;47.759544;12.91153;;f;DE;f;Europe/Berlin;t;DEATK;;f;;f;8004815;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7197;Gummersbach;gummersbach;8008392;;51.023635;7.56631;;f;DE;f;Europe/Berlin;t;DEATL;;f;;f;8002462;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Гуммерсбах;;;古梅尔斯巴赫
-7198;Pforzheim Hbf;pforzheim-hbf;8029500;;48.894154;8.703095;7695;f;DE;f;Europe/Berlin;t;DEATM;;f;;f;8000299;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;プフォルツハイム;포르츠하임;;;Пфорцхайм;;;普福尔茨海姆
+7198;Pforzheim Hbf;pforzheim-hbf;8029500;;48.894154;8.703095;7695;f;DE;t;Europe/Berlin;t;DEATM;;f;;f;8000299;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;プフォルツハイム;포르츠하임;;;Пфорцхайм;;;普福尔茨海姆
 7199;Brötzingen Mitte;brotzingen-mitte;8029464;;48.889461;8.66703;7695;f;DE;f;Europe/Berlin;t;DEATN;;f;;f;8004799;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7200;Pfronten-Steinach;pfronten-steinach;8002325;;47.566114;10.574568;;f;DE;f;Europe/Berlin;t;DEATO;;f;;f;8004807;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7201;Plochingen;plochingen;8029060;;48.713084;9.410807;;f;DE;f;Europe/Berlin;t;DEATP;;f;;f;8000302;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5805,7 +5805,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7218;Regen;regen;8026465;;48.96862;13.136467;;f;DE;f;Europe/Berlin;t;DEAUG;;f;;f;8004981;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7219;Reichenau (Baden);reichenau-baden;8014583;;47.689185;9.126316;;f;DE;f;Europe/Berlin;t;DEAUH;;f;;f;8004997;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7220;Remagen;remagen;8019001;;50.577213;7.229781;;f;DE;f;Europe/Berlin;t;DEAUI;;f;;f;8000310;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7221;Remscheid Hbf;remscheid-hbf;8008453;;51.17727;7.199622;7705;f;DE;f;Europe/Berlin;t;DEAUJ;;f;;f;8005033;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;レムシャイト;렘샤이트;;;Ремшайд;;;雷姆沙伊德
+7221;Remscheid Hbf;remscheid-hbf;8008453;;51.17727;7.199622;7705;f;DE;t;Europe/Berlin;t;DEAUJ;;f;;f;8005033;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;レムシャイト;렘샤이트;;;Ремшайд;;;雷姆沙伊德
 7222;Remscheid-Lennep;remscheid-lennep;8008452;;51.190727;7.252829;7705;f;DE;f;Europe/Berlin;t;DEAUK;;f;;f;8000311;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7223;Rendsburg;rendsburg;8001409;;54.302594;9.670712;;f;DE;f;Europe/Berlin;t;DEAUL;;f;;f;8000312;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;Rendsbourg;;;;Rendsborg;;;;;;Рендсбург;;;伦茨堡
 7224;Retzbach-Zellingen;retzbach-zellingen;8022544;;49.905152;9.814215;;f;DE;f;Europe/Berlin;t;DEAUM;;f;;f;8005049;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5817,7 +5817,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7230;Röthenbach (Allgäu);rothenbach-allgau;8002349;;47.620616;9.953539;;f;DE;f;Europe/Berlin;t;DEAUS;;f;;f;8005138;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7231;Rosenheim;rosenheim;8020174;;47.850128;12.119113;;f;DE;f;Europe/Berlin;t;DEAUT;;f;;f;8000320;t;;f;;f;8020174;f;S03600;;f;;f;;f;;f;f;;;;;;;;;;;ローゼンハイム;로젠하임;;;Розенхайм;;;罗森海姆
 7232;Rot am See;rot-am-see;8029720;;49.249398;10.030388;;f;DE;f;Europe/Berlin;t;DEAUU;;f;;f;8005179;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7233;Regensburg Hbf;regensburg-hbf;8026294;;49.011669;12.099615;;f;DE;f;Europe/Berlin;t;DEAUV;;f;;f;8000309;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Ratisbona Estación central;Gare centrale;Stazione centrale;;Řezno;;;レーゲンスブルク;레겐스부르크;Ratyzbona;Regensburgo;Регенсбург;;;雷根斯堡
+7233;Regensburg Hbf;regensburg-hbf;8026294;;49.011669;12.099615;10771;f;DE;t;Europe/Berlin;t;DEAUV;;f;;f;8000309;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Ratisbona Estación central;Gare centrale;Stazione centrale;;Řezno;;;レーゲンスブルク;레겐스부르크;Ratyzbona;Regensburgo;Регенсбург;;;雷根斯堡
 7234;Bad Schwartau;bad-schwartau;8001672;;53.916148;10.702727;;f;DE;f;Europe/Berlin;t;DEAUW;;f;;f;8000749;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7235;Rotenburg a.d. Fulda;rotenburg-a-d-fulda;8005412;;50.997854;9.733339;;f;DE;f;Europe/Berlin;t;DEAUX;;f;;f;8005182;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7236;Rotenburg (Wümme);rotenburg-wumme;8001239;;53.112351;9.390095;;f;DE;f;Europe/Berlin;t;DEAUY;;f;;f;8000321;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Ротенбург-на-Фульде;;;
@@ -5869,7 +5869,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7282;Scharbeutz;scharbeutz;8001641;;54.019003;10.745777;;f;DE;f;Europe/Berlin;t;DEAWS;;f;;f;8005321;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7283;Schwandorf;schwandorf;8026226;;49.326283;12.104433;;f;DE;f;Europe/Berlin;t;DEAWT;;f;;f;8000027;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7284;Schluchsee;schluchsee;8014379;;47.816868;8.177127;;f;DE;f;Europe/Berlin;t;DEAWU;;f;;f;8005371;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7285;Schweinfurt Hbf;schweinfurt-hbf;8022470;;50.035316;10.212923;7715;f;DE;f;Europe/Berlin;t;DEAWV;;f;;f;8000032;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;;;;;Швайнфурт;;;施韦因富特
+7285;Schweinfurt Hbf;schweinfurt-hbf;8022470;;50.035316;10.212923;7715;f;DE;t;Europe/Berlin;t;DEAWV;;f;;f;8000032;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;;;;;Швайнфурт;;;施韦因富特
 7286;Schweinfurt Stadt;schweinfurt-stadt;8022471;;50.04631;10.243064;7715;f;DE;f;Europe/Berlin;t;DEAWW;;f;;f;8005481;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Швайнфурт;;;施韦因富特
 7287;Schwerte (Ruhr);schwerte-ruhr;8008015;;51.442281;7.558957;;f;DE;f;Europe/Berlin;t;DEAWX;;f;;f;8000037;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7288;Seesen;seesen;8013095;;51.887265;10.173901;;f;DE;f;Europe/Berlin;t;DEAWY;;f;;f;8000043;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5881,7 +5881,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7294;Solingen ohligs;solingen-ohligs;;;;;7711;f;DE;f;Europe/Berlin;f;DEAXE;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7295;Soest;soest;8010373;;51.578422;8.104593;;f;DE;f;Europe/Berlin;t;DEAXF;;f;;f;8000076;t;;f;;f;;f;;;f;;f;;f;;f;f;;Deutschland;Germany;Alemania;Allemagne;Germania;;;;;ゾースト;;;;Зост;;;索斯特
 7296;Sontheim-Brenz;sontheim-brenz;8029709;;48.560159;10.284738;;f;DE;f;Europe/Berlin;t;DEAXG;;f;;f;8005608;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7297;Solingen Hbf;solingen-hbf;8008179;;51.160909;7.004241;7711;f;DE;f;Europe/Berlin;t;DEAXH;;f;;f;8000087;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ゾーリンゲン;졸링겐;;;Золинген;;;索林根
+7297;Solingen Hbf;solingen-hbf;8008179;;51.160909;7.004241;7711;f;DE;t;Europe/Berlin;t;DEAXH;;f;;f;8000087;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ゾーリンゲン;졸링겐;;;Золинген;;;索林根
 7298;Schwelm;schwelm;8008136;;51.290525;7.289685;;f;DE;f;Europe/Berlin;t;DEAXI;;f;;f;8000033;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7299;Speyer Hbf;speyer-hbf;8019092;;49.324117;8.427953;;f;DE;f;Europe/Berlin;t;DEAXJ;;f;;f;8005628;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Espira Estación central;Gare centrale;Stazione centrale;;Špýr;;;シュパイアー;슈파이어;Spira;;Шпайер;;;施派尔
 7300;Stadthagen;stadthagen;8013572;;52.332375;9.188836;;f;DE;f;Europe/Berlin;t;DEAXK;;f;;f;8005662;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -6053,21 +6053,21 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7467;Raisdorf;raisdorf;8001373;;54.280876;10.243567;;f;DE;f;Europe/Berlin;t;DEBDV;;f;;f;8004924;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7468;Neustadt (b Coburg);neustadt-b-coburg;8022824;;50.332814;11.121391;;f;DE;f;Europe/Berlin;t;DEBDW;;f;;f;8004325;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7469;Rödental;rodental;8022822;;50.288362;11.03131;;f;DE;f;Europe/Berlin;t;DEBDX;;f;;f;8004633;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;レーデンタール;;;;Рёденталь;;;勒登塔尔
-7470;Bochum;bochum;;;;;;t;DE;f;Europe/Berlin;f;DEBDZ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7470;Bochum;bochum;;;51.478651;7.224109;;t;DE;f;Europe/Berlin;t;DEBDZ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7471;Bochum-Langendreer;bochum-langendreer;8010114;;51.478031;7.323727;7470;f;DE;f;Europe/Berlin;t;DEBLA;;f;;f;8000358;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7472;Bochum Hbf;bochum-hbf;8010179;;51.478651;7.224109;7470;f;DE;f;Europe/Berlin;t;DEQBO;;f;;f;8000041;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ボーフム;보훔;;;Бохум;;;波鸿
-7473;Bonn Hbf;bonn-hbf;8015485;;50.732007;7.097136;7545;f;DE;f;Europe/Berlin;t;DEBEA;;f;;f;8000044;t;;f;;f;;f;;;f;108000044;t;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ボン;본;;Bona;Бонн;;;波恩
+7472;Bochum Hbf;bochum-hbf;8010179;;51.478651;7.224109;7470;f;DE;t;Europe/Berlin;t;DEQBO;;f;;f;8000041;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ボーフム;보훔;;;Бохум;;;波鸿
+7473;Bonn Hbf;bonn-hbf;8015485;;50.732007;7.097136;7545;f;DE;t;Europe/Berlin;t;DEBEA;;f;;f;8000044;t;;f;;f;;f;;;f;108000044;t;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ボン;본;;Bona;Бонн;;;波恩
 7474;Hamburg Hbf;hamburg-hbf;8001071;;53.552732;10.006908;7626;f;DE;f;Europe/Berlin;t;DEBEB;;f;;f;8002549;t;;f;;f;;f;;;f;108001071;t;;f;;f;f;;;Main station;Hamburgo;Hambourg Gare centrale;Amburgo Stazione centrale;;Hamburk;Hamborg;;ハンブルク;함부르크;;Hamburgo;Гамбург;;;汉堡市
-7475;Düsseldorf Hbf;dusseldorf-hbf;8008094;;51.21996;6.794316;7578;f;DE;f;Europe/Berlin;t;DEBEC;;t;;f;8000085;t;;f;;f;;f;;;f;108008094;t;8040260;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;デュッセルドルフ;뒤셀도르프;;;Дюссельдорф;;;
+7475;Düsseldorf Hbf;dusseldorf-hbf;8008094;;51.21996;6.794316;7578;f;DE;t;Europe/Berlin;t;DEBEC;;t;;f;8000085;t;;f;;f;;f;;;f;108008094;t;8040260;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;デュッセルドルフ;뒤셀도르프;;;Дюссельдорф;;;
 7476;Lindau reutin;lindau-reutin;8000467;;;;;f;DE;f;Europe/Berlin;f;DEBED;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7477;Mittenwald (Gr);mittenwald-gr;8000464;;47.39807;11.267439;7685;f;DE;f;Europe/Berlin;f;DEBEE;;f;;f;8004044;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7478;Mannheim;mannheim;;;;;;t;DE;f;Europe/Berlin;f;DEBEF;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7478;Mannheim;mannheim;;;49.479295999056305;8.469530940055847;;t;DE;f;Europe/Berlin;t;DEBEF;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7479;Mannheim Hbf;mannheim-hbf;8014008;;49.479295999056305;8.469530940055847;7478;f;DE;t;Europe/Berlin;t;DEMHG;;t;;f;8000244;t;;f;;f;8014008;f;;;f;;f;8068585;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;マンハイム;만하임;;;Мангейм;;;曼海姆
-7480;München Hbf;munchen-hbf;8020347;;48.140228;11.558338;;f;DE;f;Europe/Berlin;t;DEBEG;;t;;f;8000261;t;;f;;f;8020347;f;;;f;;f;8080600;f;;f;f;;;Munich Main station;Múnich;Munich Gare centrale;Monaco di Baviera Stazione centrale;;Mnichov;;;ミュンヘン;뮌헨;Monachium;Munique;Мюнхен;;Münih;慕尼黑
-7481;Neustadt;neustadt;;;;;;t;DE;f;Europe/Berlin;f;DEBEH;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7482;Neustadt (Weinstr) Hbf;neustadt-weinstr-hbf;8019403;;49.34961;8.140379;7481;f;DE;f;Europe/Berlin;t;DEQNL;;f;;f;8000275;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ノイシュタット・バイ・コーブルク;;;;Нойштадт-ам-Ренштайг;;;伦斯泰希地区诺伊斯塔特
-7483;Wuppertal;wuppertal;;;;;;t;DE;f;Europe/Berlin;f;DEBEI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7484;Wuppertal Hbf;wuppertal-hbf;8008143;;51.254334;7.149381;7483;f;DE;f;Europe/Berlin;t;DEUWP;;f;;f;8000266;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ヴッパータール;부퍼탈;;;Вупперталь;;;伍珀塔尔
+7480;München Hbf;munchen-hbf;8020347;;48.140228;11.558338;;f;DE;t;Europe/Berlin;t;DEBEG;;t;;f;8000261;t;;f;;f;8020347;f;;;f;;f;8080600;f;;f;f;;;Munich Main station;Múnich;Munich Gare centrale;Monaco di Baviera Stazione centrale;;Mnichov;;;ミュンヘン;뮌헨;Monachium;Munique;Мюнхен;;Münih;慕尼黑
+7481;Neustadt;neustadt;;;49.34961;8.140379;;t;DE;f;Europe/Berlin;t;DEBEH;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7482;Neustadt (Weinstr) Hbf;neustadt-weinstr-hbf;8019403;;49.34961;8.140379;7481;f;DE;t;Europe/Berlin;t;DEQNL;;f;;f;8000275;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ノイシュタット・バイ・コーブルク;;;;Нойштадт-ам-Ренштайг;;;伦斯泰希地区诺伊斯塔特
+7483;Wuppertal;wuppertal;;;51.254334;7.149381;;t;DE;f;Europe/Berlin;t;DEBEI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7484;Wuppertal Hbf;wuppertal-hbf;8008143;;51.254334;7.149381;7483;f;DE;t;Europe/Berlin;t;DEUWP;;f;;f;8000266;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ヴッパータール;부퍼탈;;;Вупперталь;;;伍珀塔尔
 7485;Buebingen;buebingen;8025413;;;;;f;DE;f;Europe/Berlin;f;DEBEJ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7486;Puttgarden (MS);puttgarden-ms;8000023;;54.502047;11.227904;7696;f;DE;f;Europe/Berlin;f;DEBEK;;f;;f;8000079;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7487;Wengerohr;wengerohr;8080916;;;;;f;DE;f;Europe/Berlin;f;DEBEL;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -6101,8 +6101,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7515;Bitterfeld;bitterfeld;8023148;;51.623108;12.316704;;f;DE;f;Europe/Berlin;t;DEBFZ;;f;;f;8010050;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7516;Bautzen;bautzen;8006099;;51.173099;14.428738;;f;DE;f;Europe/Berlin;t;DEBHA;;f;;f;8010026;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;Budyšín;;;バウツェン;;Budziszyn;;Баутцен;;;包岑
 7517;Bühl (Baden);buhl-baden;8014281;;48.696678;8.129295;;f;DE;f;Europe/Berlin;t;DEBHB;;f;;f;8001252;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Бюль;;;
-7518;Dresde;dresde;;;;;;t;DE;f;Europe/Berlin;f;DEBHD;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7519;Dresden Hbf;dresden-hbf;8006050;;51.040562;13.732038;7518;f;DE;f;Europe/Berlin;t;DEDRS;;f;;f;8010085;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Dresde Estación central;Gare centrale;Stazione centrale;;Drážďany;;Drezda;ドレスデン;드레스덴;Drezno;;Дрезден;;;德累斯顿
+7518;Dresden;dresden;;;51.040562;13.732038;;t;DE;f;Europe/Berlin;t;DEBHD;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7519;Dresden Hbf;dresden-hbf;8006050;;51.040562;13.732038;7518;f;DE;t;Europe/Berlin;t;DEDRS;;f;;f;8010085;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Dresde Estación central;Gare centrale;Stazione centrale;;Drážďany;;Drezda;ドレスデン;드레스덴;Drezno;;Дрезден;;;德累斯顿
 7520;Bad Hersfeld;bad-hersfeld;8005647;;50.869632;9.716179;;f;DE;f;Europe/Berlin;t;DEBHF;;f;;f;8000020;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7521;Eisenach;eisenach;8016077;;50.977089;10.332147;;f;DE;f;Europe/Berlin;t;DEBHG;;f;;f;8010097;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;アイゼナハ;아이제나흐;;;Айзенах;;;艾森纳赫
 7522;Buchholz (Nordheide);buchholz-nordheide;8001233;;53.324568;9.876592;;f;DE;f;Europe/Berlin;t;DEBHH;;f;;f;8000056;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -6121,14 +6121,14 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7535;Berlin-Charlottenburg;berlin-charlottenburg;8003034;;52.504725;13.303522;7527;f;DE;f;Europe/Berlin;t;DEBLC;;f;;f;8010403;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;Berlino;Berlijn;;;;ベルリン;베를린;;Berlim;Берлин;;;柏林
 7536;Bielefeld Hbf;bielefeld-hbf;8013597;;52.029258;8.532722;;f;DE;f;Europe/Berlin;t;DEBLF;;f;;f;8000036;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ビーレフェルト;빌레펠트;;;Билефельд;;;比勒费尔德
 7537;Brohl;brohl;8019007;;50.481433;7.332635;;f;DE;f;Europe/Berlin;t;DEBLH;;f;;f;8001186;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7538;Bremerhaven;bremerhaven;;;;;;t;DE;f;Europe/Berlin;f;DEBMH;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7539;Bremerhaven Hbf;bremerhaven-hbf;8013786;;53.534916;8.599557;7538;f;DE;f;Europe/Berlin;t;DEBRH;;f;;f;8000051;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ブレーマーハーフェン;브레머하펜;;;Бремерхафен;;;不来梅哈芬
+7538;Bremerhaven;bremerhaven;;;53.534916;8.599557;;t;DE;f;Europe/Berlin;t;DEBMH;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7539;Bremerhaven Hbf;bremerhaven-hbf;8013786;;53.534916;8.599557;7538;f;DE;t;Europe/Berlin;t;DEBRH;;f;;f;8000051;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ブレーマーハーフェン;브레머하펜;;;Бремерхафен;;;不来梅哈芬
 7540;Berlin Ostbahnhof;berlin-ostbahnhof;8003004;;52.510972;13.434567;7527;f;DE;f;Europe/Berlin;t;DEBML;;f;;f;8010255;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;Berlino;Berlijn;;;;ベルリン;베를린;;Berlim;Берлин;;;柏林
 7541;Bad Münster a Stein;bad-munster-a-stein;8019187;;49.813426;7.846989;;f;DE;f;Europe/Berlin;t;DEBMS;;f;;f;8000726;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7542;Bad Honnef (Rhein);bad-honnef-rhein;8015585;;50.639769;7.219533;;f;DE;f;Europe/Berlin;t;DEBNF;;f;;f;8000713;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7543;Bingen (Rhein) Hbf;bingen-rhein-hbf;8019041;;49.968724;7.884258;;f;DE;f;Europe/Berlin;t;DEBNG;;f;;f;8000039;t;;f;;f;;f;;;f;108000039;t;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ビンゲン・アム・ライン;;;;Бинген-на-Рейне;;;莱茵河畔宾根
 7544;Bad Nauheim;bad-nauheim;8011402;;50.367899;8.749335;;f;DE;f;Europe/Berlin;t;DEBNH;;f;;f;8000728;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7545;Bonn;bonn;;;;;;t;DE;f;Europe/Berlin;f;DEBNJ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7545;Bonn;bonn;;;50.732007;7.097136;;t;DE;f;Europe/Berlin;t;DEBNJ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7546;Buchloe;buchloe;8002181;;48.033724;10.71622;;f;DE;f;Europe/Berlin;t;DEBOE;;f;;f;8000057;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7547;Boppard Hbf;boppard-hbf;8019029;;50.231416;7.586104;;f;DE;f;Europe/Berlin;t;DEBPP;;f;;f;8000045;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;;;;;;;;
 7548;Bremen Hbf;bremen-hbf;8013750;;53.083477;8.813833;;f;DE;f;Europe/Berlin;t;DEBRE;;f;;f;8000050;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;Brémy;;Bréma;ブレーメン;브레멘;Brema;;Бремен;;;不来梅
@@ -6156,12 +6156,12 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7570;Donaueschingen;donaueschingen;8014529;;47.947787;8.498923;;f;DE;f;Europe/Berlin;t;DEDNE;;f;;f;8000077;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ドナウエッシンゲン;;;;Донауэшинген;;;多瑙艾辛根
 7571;Dillingen (Donau);dillingen-donau;8002078;;48.581257;10.48917;;f;DE;f;Europe/Berlin;t;DEDON;;f;;f;8001463;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7572;Darmstadt Hbf;darmstadt-hbf;8011336;;49.872503;8.629635;;f;DE;f;Europe/Berlin;t;DEDST;;f;;f;8000068;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ダルムシュタット;다름슈타트;;;Дармштадт;;;达姆施塔特
-7573;Dortmund Hbf;dortmund-hbf;8010053;;51.517898;7.459293;;f;DE;f;Europe/Berlin;t;DEDTM;;t;;f;8000080;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ドルトムント;도르트문트;;;Дортмунд;;;多特蒙德
+7573;Dortmund Hbf;dortmund-hbf;8010053;;51.517898;7.459293;10781;f;DE;t;Europe/Berlin;t;DEDTM;;t;;f;8000080;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ドルトムント;도르트문트;;;Дортмунд;;;多特蒙德
 7574;Düsseldorf-Benrath;dusseldorf-benrath;8008117;;51.162375;6.87904;7578;f;DE;f;Europe/Berlin;t;DEDUB;;f;;f;8001584;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Дюссельдорф-Бенрат;;;
 7575;Düsseldorf Flughafen;dusseldorf-flughafen;8039904;;51.292008;6.786837;7578;f;DE;f;Europe/Berlin;t;DEDUF;;t;;f;8000082;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Airport;Aeropuerto;Aéroport;Aeroporto;;;;;デュッセルドルフ;뒤셀도르프;;;Дюссельдорф;;;
-7576;Duisburg Hbf;duisburg-hbf;8010316;;51.429786;6.775906;;f;DE;f;Europe/Berlin;t;DEDUI;;t;;f;8000086;t;;f;;f;;f;;;f;108010316;t;8047270;f;;f;f;;;Main station;Duisburgo Estación central;Duisbourg Gare centrale;Stazione centrale;;;;;デュイスブルク;뒤스부르크;;Duisburgo;Дуйсбург;;;杜伊斯堡
+7576;Duisburg Hbf;duisburg-hbf;8010316;;51.429786;6.775906;10780;f;DE;t;Europe/Berlin;t;DEDUI;;t;;f;8000086;t;;f;;f;;f;;;f;108010316;t;8047270;f;;f;f;;;Main station;Duisburgo Estación central;Duisbourg Gare centrale;Stazione centrale;;;;;デュイスブルク;뒤스부르크;;Duisburgo;Дуйсбург;;;杜伊斯堡
 7577;Düren;duren;8015330;;50.809395;6.482031;;f;DE;f;Europe/Berlin;t;DEDUR;;f;;f;8000084;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;뒤렌;;;Дюрен;;;迪伦
-7578;Düsseldorf;dusseldorf;8080260;;;;;t;DE;f;Europe/Berlin;f;DEDUS;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7578;Düsseldorf;dusseldorf;8080260;;51.21996;6.794316;;t;DE;f;Europe/Berlin;t;DEDUS;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7579;Eberbach;eberbach;8014121;;49.465769;8.984152;;f;DE;f;Europe/Berlin;t;DEEBB;;f;;f;8000369;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7580;Eberswalde Hbf;eberswalde-hbf;8028227;;52.834018;13.797057;;f;DE;f;Europe/Berlin;t;DEEBW;;f;;f;8010093;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;エーベルスヴァルデ;에베르스발데;;;Эберсвальде;;;埃贝尔斯瓦尔德
 7581;Elze (Han);elze-han;8013420;;52.120148;9.746895;;f;DE;f;Europe/Berlin;t;DEEHA;;f;;f;8000093;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Эльце;;;埃尔策
@@ -6174,7 +6174,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7588;Erfurt Hbf;erfurt-hbf;8016043;;50.972549;11.038501;;f;DE;f;Europe/Berlin;t;DEERF;;f;;f;8010101;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Érfurt Estación central;Gare centrale;Stazione centrale;;;;;エアフルト;에르푸르트;;;Эрфурт;;;埃尔福特
 7589;Erkelenz;erkelenz;8015183;;51.076564;6.321717;;f;DE;f;Europe/Berlin;t;DEERK;;f;;f;8001839;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7590;Esslingen-am-Neckar;esslingen-am-neckar;8029054;;;;;f;DE;f;Europe/Berlin;f;DEESN;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7591;Essen Hbf;essen-hbf;8010184;;51.451351;7.014795;;f;DE;f;Europe/Berlin;t;DEESS;;t;;f;8000098;t;;f;;f;;f;;;f;108010184;t;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;エッセン;에센;;;Эссен;;;埃森
+7591;Essen Hbf;essen-hbf;8010184;;51.451351;7.014795;10779;f;DE;t;Europe/Berlin;t;DEESS;;t;;f;8000098;t;;f;;f;;f;;;f;108010184;t;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;エッセン;에센;;;Эссен;;;埃森
 7592;Fürth (Bay) Hbf;furth-bay-hbf;8022187;;49.469706;10.989987;;f;DE;f;Europe/Berlin;t;DEFBH;;f;;f;8000114;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;フュルト;퓌르트;;;Фюрт;;;菲尔特
 7593;Plauen (Vogtl) ob Bf;plauen-vogtl-ob-bf;8006712;;50.505937;12.12954;;f;DE;f;Europe/Berlin;t;DEFBS;;f;;f;8010275;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7594;Friedrichshafen Stadt;friedrichshafen-stadt;8029162;;47.65322;9.473902;;f;DE;f;Europe/Berlin;t;DEFDH;;f;;f;8000112;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;フリードリヒスハーフェン;;;;Фридрихсхафен;;;腓特烈港
@@ -6188,7 +6188,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7603;Frankfurt (Main) Süd;frankfurt-main-sud;8011065;;50.09958;8.686303;7602;f;DE;f;Europe/Berlin;t;DEFRS;;f;;f;8002041;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Fráncfort;Francfort;Francoforte;;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 7604;Frankfurt (Main) Hbf;frankfurt-main-hbf;8011068;;50.107149;8.663785;7602;f;DE;t;Europe/Berlin;t;DEFRH;;t;;f;8000105;t;;f;;f;8011068;f;;;f;108000105;t;8060315;f;;f;f;;;Main station;Fráncfort;Francfort Gare centrale;Francoforte Stazione centrale;;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
 7605;Frankfurt-Höchst;frankfurt-hochst;8011100;;50.102636;8.542368;7602;f;DE;f;Europe/Berlin;t;DEFRO;;f;;f;8000106;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Fráncfort;Francfort;Francoforte;;Frankfurt nad Mohanem;;;フランクフルト・アム・マイン;프랑크푸르트;Frankfurt nad Menem;;Франкфурт-на-Майне;;;法兰克福
-7606;Freudenstadt;freudenstadt;;;;;;t;DE;f;Europe/Berlin;f;DEFRE;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7606;Freudenstadt;freudenstadt;;;48.460325;8.428807;;t;DE;f;Europe/Berlin;t;DEFRE;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7607;Gengenbach;gengenbach;8014497;;48.404655;8.010188;;f;DE;f;Europe/Berlin;t;DEGGB;;f;;f;8002235;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7608;Gießen;giessen;8011033;;50.579056;8.661466;;f;DE;f;Europe/Berlin;t;DEGIE;;f;;f;8000124;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ギーセン;기센;;;Гиссен;;;吉森
 7609;Geilenkirchen;geilenkirchen;8015188;;50.961097;6.124368;;f;DE;f;Europe/Berlin;t;DEGLK;;f;;f;8002206;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -6205,7 +6205,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7620;Gutach schwarzwaldb;gutach-schwarzwaldb;8014510;;;;;f;DE;f;Europe/Berlin;f;DEGTC;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7621;Baunatal-Guntershausen;baunatal-guntershausen;8005369;;51.22992;9.466998;;f;DE;f;Europe/Berlin;t;DEGTH;;f;;f;8000140;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7622;Günzburg;gunzburg;8002084;;48.460334;10.278652;;f;DE;f;Europe/Berlin;t;DEGZB;;f;;f;8000139;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Gunzburgo;Guntzbourg;;;;;;ギュンツブルク;;;;Гюнцбург;;;金茨堡
-7623;Hannover;hannover;;;;;;t;DE;f;Europe/Berlin;f;DEHAJ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7623;Hannover;hannover;;;52.376763;9.741016;;t;DE;f;Europe/Berlin;t;DEHAJ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7624;Hannover Messe/Laatzen;hannover-messe-laatzen;8013555;;52.316895;9.792866;7623;f;DE;f;Europe/Berlin;t;DELAA;;f;;f;8003487;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7625;Hamburg-Altona;hamburg-altona;8001093;;53.552696;9.935174;7626;f;DE;f;Europe/Berlin;t;DEHAL;;f;;f;8002553;t;;f;;f;;f;;;f;108001093;t;;f;;f;f;;;;Hamburgo;Hambourg;Amburgo;;Hamburk;Hamborg;;ハンブルク;함부르크;;Hamburgo;Гамбург;;;汉堡市
 7626;Hamburg;hamburg;8001083;;53.563816;9.965836;;t;DE;f;Europe/Berlin;t;DEHAM;;f;;f;8096009;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Hamburgo;Hambourg;Amburgo;;Hamburk;Hamborg;;ハンブルク;함부르크;;Hamburgo;Гамбург;;;汉堡市
@@ -6214,8 +6214,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7629;Hanau Hbf;hanau-hbf;8011051;;50.12128;8.929165;;f;DE;f;Europe/Berlin;t;DEHAU;;f;;f;8000150;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ハーナウ;;;;;;;
 7630;Berlin Hbf;berlin-hbf;8033452;80334524;52.525589;13.369548;7527;f;DE;t;Europe/Berlin;t;DEHBF;;f;;f;8011160;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Berlino Stazione centrale;Berlijn;;;;ベルリン;베를린;;Berlim;Берлин;;;柏林
 7631;Heilbronn Hbf;heilbronn-hbf;8029629;;49.143308;9.207713;;f;DE;f;Europe/Berlin;t;DEHBN;;f;;f;8000157;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ハイルブロン;하일브론;;;Хайльбронн;;;海尔布隆
-7632;Heidelberg;heidelberg;;;;;;t;DE;f;Europe/Berlin;f;DEHEI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7633;Heidelberg Hbf;heidelberg-hbf;8014021;;49.403779;8.675741;7632;f;DE;f;Europe/Berlin;t;DEQHD;;f;;f;8000156;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ハイデルベルク;하이델베르크;;;Гейдельберг;;;海德堡
+7632;Heidelberg;heidelberg;;;49.403779;8.675741;;t;DE;f;Europe/Berlin;t;DEHEI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7633;Heidelberg Hbf;heidelberg-hbf;8014021;;49.403779;8.675741;7632;f;DE;t;Europe/Berlin;t;DEQHD;;f;;f;8000156;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ハイデルベルク;하이델베르크;;;Гейдельберг;;;海德堡
 7634;Hersbruck (Pegnitz);hersbruck-pegnitz;8002712;;49.503928;11.426611;;t;DE;f;Europe/Berlin;f;DEHER;;f;;f;8096017;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7635;Hersbruck (r Pegnitz);hersbruck-r-pegnitz;8022309;;49.510076;11.423824;7634;f;DE;f;Europe/Berlin;t;DEHRP;;f;;f;8002794;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7636;Herford;herford;8013593;;52.119609;8.663641;;f;DE;f;Europe/Berlin;t;DEHFD;;f;;f;8000162;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ヘルフォルト;;;;Херфорд;;;黑爾福德
@@ -6242,12 +6242,12 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7657;Kaufbeuren;kaufbeuren;8002278;;47.875433;10.629492;;f;DE;f;Europe/Berlin;t;DEKBR;;f;;f;8000194;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;カウフボイレン;;;;Кауфбойрен;;;考夫博伊伦
 7658;Karlsruhe-Durlach;karlsruhe-durlach;8014043;;49.001961;8.462364;7665;f;DE;f;Europe/Berlin;t;DEKDR;;f;;f;8003184;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7659;Kehl;kehl;;;;;;t;DE;f;Europe/Berlin;f;DEKEH;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7660;Krefeld;krefeld;;;;;;t;DE;f;Europe/Berlin;f;DEKFL;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7661;Krefeld Hbf;krefeld-hbf;8015035;;51.325772;6.570224;7660;f;DE;f;Europe/Berlin;t;DEKRF;;f;;f;8000211;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;クレフェルト;크레펠트;;;Крефельд;;;
+7660;Krefeld;krefeld;;;51.325772;6.570224;;t;DE;f;Europe/Berlin;t;DEKFL;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7661;Krefeld Hbf;krefeld-hbf;8015035;;51.325772;6.570224;7660;f;DE;t;Europe/Berlin;t;DEKRF;;f;;f;8000211;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;クレフェルト;크레펠트;;;Крефельд;;;
 7662;Kirchhain (Bz Kassel);kirchhain-bz-kassel;8005383;;50.823778;8.921398;;f;DE;f;Europe/Berlin;t;DEKHN;;f;;f;8000435;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7663;Kiel Hbf;kiel-hbf;8001304;;54.314982;10.131975;;f;DE;f;Europe/Berlin;t;DEKIE;;f;;f;8000199;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;Kehl;;;;ケール;킬;Kilonia;Kehl;Кель;;;凱爾
 7664;Kirchenlaibach;kirchenlaibach;8026089;;49.869906;11.776327;;f;DE;f;Europe/Berlin;t;DEKLB;;f;;f;8000201;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7665;Karlsruhe;karlsruhe;;;;;;t;DE;f;Europe/Berlin;f;DEKLS;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7665;Karlsruhe;karlsruhe;;;48.993509649554724;8.401848077774048;;t;DE;f;Europe/Berlin;t;DEKLS;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7666;Karlsruhe Hbf;karlsruhe-hbf;8014228;;48.993509649554724;8.401848077774048;7665;f;DE;t;Europe/Berlin;t;DEQKA;;t;;f;8000191;t;;f;;f;8014231;f;S01800;;f;;f;8076475;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;カールスルーエ;카를스루에;;;Карлсруэ;;;卡尔斯鲁厄
 7667;Kaiserslautern Hbf;kaiserslautern-hbf;8019698;;49.43614;7.768711;;f;DE;f;Europe/Berlin;t;DEKLT;;t;;f;8000189;t;;f;;f;;f;;;f;;f;8067471;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;カイザースラウテルン;카이저슬라우테른;;;Кайзерслаутерн;;;
 7668;Kornwestheim Pbf;kornwestheim-pbf;8029026;;48.862215;9.179964;;f;DE;f;Europe/Berlin;t;DEKOR;;f;;f;8003411;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -6258,8 +6258,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7673;Konstanz;konstanz;8014586;;;;;t;DE;f;Europe/Berlin;f;DEKSZ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;7674;;;;;;;;;;;;;;;;;
 7674;Konstanz;konstanz;8000495;;47.658757;9.177312;7673;f;DE;f;Europe/Berlin;t;DEQKZ;;f;;f;8003400;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Constanza;Constance;Costanza;;Kostnice;;;コンスタンツ;콘스탄츠;Konstancja;Constança;Констанц;;;康斯坦茨
 7675;Kitzingen;kitzingen;8022525;;49.732497;10.155212;;f;DE;f;Europe/Berlin;t;DEKTZ;;f;;f;8000479;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7676;Lübeck Hbf;lubeck-hbf;8000630;;53.867768;10.670348;;f;DE;f;Europe/Berlin;t;DELBC;;f;;f;8000237;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Lubeca Estación central;Gare centrale;Stazione centrale;;;;;リューベック;뤼베크;Lubeka;;Любек;;;吕贝克
-7677;Lubeck;lubeck;;;;;;t;DE;f;Europe/Berlin;f;DELBK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7676;Lübeck Hbf;lubeck-hbf;8000630;;53.867768;10.670348;7677;f;DE;t;Europe/Berlin;t;DELBC;;f;;f;8000237;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Lubeca Estación central;Gare centrale;Stazione centrale;;;;;リューベック;뤼베크;Lubeka;;Любек;;;吕贝克
+7677;Lubeck;lubeck;;;53.867768;10.670348;;t;DE;f;Europe/Berlin;t;DELBK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7678;Leipzig Hbf;leipzig-hbf;8023179;;51.346546;12.383333;16756;f;DE;t;Europe/Berlin;t;DELEJ;;f;;f;8010205;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;Lipsko;;Lipcse;ライプツィヒ;라이프치히;Lipsk;Lípsia;Лейпциг;;;莱比锡
 7679;Lindau Hbf;lindau-hbf;8002371;;47.544738;9.680303;;f;DE;f;Europe/Berlin;t;DELIN;;f;;f;8000230;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;リンダウ;;;;Линдау;;;林道
 7680;Leverkusen;leverkusen;;;;;;t;DE;f;Europe/Berlin;f;DELVK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -6268,45 +6268,45 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7683;München Ost;munchen-ost;8020234;;48.127437;11.604975;;f;DE;f;Europe/Berlin;t;DEMOS;;f;;f;8000262;t;;f;;f;8020234;f;;;f;;f;;f;;f;f;;;Munich;Múnich;Munich;Monaco di Baviera;;Mnichov;;;ミュンヘン;뮌헨;Monachium;Munique;Мюнхен;;Münih;慕尼黑
 7684;München-Pasing;munchen-pasing;8020286;;48.149892;11.461489;;f;DE;f;Europe/Berlin;t;DEMPS;;f;;f;8004158;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7685;Mittenwald;mittenwald;8103332;;;;;t;DE;f;Europe/Berlin;f;DEMTW;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7686;München;munchen;;;;;;t;DE;f;Europe/Berlin;f;DEMUC;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7686;München;munchen;;;48.140228;11.558338;;t;DE;f;Europe/Berlin;t;DEMUC;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7687;Münster (Westf) Hbf;munster-westf-hbf;8021011;;51.956563;7.635716;;f;DE;f;Europe/Berlin;t;DEMUN;;f;;f;8000263;t;;f;;f;;f;;;f;108013643;t;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ミュンスター;뮌스터;;;Мюнстер;;;明斯特
 7688;Neuburg (Donau);neuburg-donau;8002047;;48.727215;11.178373;;f;DE;f;Europe/Berlin;t;DENBG;;f;;f;8004254;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7689;Neu Isenburg;neu-isenburg;8011092;;50.053052;8.66561;;f;DE;f;Europe/Berlin;t;DENEI;;f;;f;8004246;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7690;Neuenmarkt-Wirsberg;neuenmarkt-wirsberg;8022006;;50.093746;11.581306;;f;DE;f;Europe/Berlin;t;DENEM;;f;;f;8000267;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7691;Nürnberg Hbf;nurnberg-hbf;8022193;;49.445615;11.082989;;f;DE;f;Europe/Berlin;t;DENUE;;f;;f;8000284;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Nuremberg Main station;Núremberg;Nuremberg Gare centrale;Norimberga Stazione centrale;Neurenberg;Norimberk;;;ニュルンベルク;뉘른베르크;Norymberga;Nuremberga;Нюрнберг;;Nuremberg;纽伦堡
+7691;Nürnberg Hbf;nurnberg-hbf;8022193;;49.445615;11.082989;10777;f;DE;t;Europe/Berlin;t;DENUE;;f;;f;8000284;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Nuremberg Main station;Núremberg;Nuremberg Gare centrale;Norimberga Stazione centrale;Neurenberg;Norimberk;;;ニュルンベルク;뉘른베르크;Norymberga;Nuremberga;Нюрнберг;;Nuremberg;纽伦堡
 7692;Fribourg-en-Brisgau;fribourg-en-brisgau;;;;;;t;DE;f;Europe/Berlin;f;DEOFB;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7693;Oschatz;oschatz;8006237;;51.311739;13.105742;;f;DE;f;Europe/Berlin;t;DEOSC;;f;;f;8013461;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7694;Pfronten;pfronten;;;;;;t;DE;f;Europe/Berlin;f;DEPFT;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7695;Pforzheim;pforzheim;;;;;;t;DE;f;Europe/Berlin;f;DEPFZ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7695;Pforzheim;pforzheim;;;48.894154;8.703095;;t;DE;f;Europe/Berlin;t;DEPFZ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7696;Puttgarden;puttgarden;;;;;;t;DE;f;Europe/Berlin;f;DEPGD;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7697;Puttgarden;puttgarden;8001669;;54.500941;11.227832;7696;f;DE;f;Europe/Berlin;t;DEPUT;;f;;f;8004903;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7698;Pegnitz;pegnitz;8022298;;49.75834;11.547542;;f;DE;f;Europe/Berlin;t;DEPGN;;f;;f;8004759;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7699;Mayen Ost;mayen-ost;8025074;;50.329263;7.238968;;f;DE;f;Europe/Berlin;t;DEQMZ;;f;;f;8000248;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7700;Ulm Hbf;ulm-hbf;8029103;;48.399432;9.982224;;f;DE;f;Europe/Berlin;t;DEQUL;;t;;f;8000170;t;;f;;f;8029103;f;;;f;;f;8089880;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ウルム;울름;;;Ульм;;;乌尔姆
-7701;Würzburg Hbf;wurzburg-hbf;8022534;;49.801794;9.935777;;f;DE;f;Europe/Berlin;t;DEQWU;;f;;f;8000260;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Wurzburgo Estación central;Gare centrale;Stazione centrale;;;;;ヴュルツブルク;뷔르츠부르크;;Wurtzburgo;Вюрцбург;;;维尔茨堡
+7700;Ulm Hbf;ulm-hbf;8029103;;48.399432;9.982224;10796;f;DE;t;Europe/Berlin;t;DEQUL;;t;;f;8000170;t;;f;;f;8029103;f;;;f;;f;8089880;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ウルム;울름;;;Ульм;;;乌尔姆
+7701;Würzburg Hbf;wurzburg-hbf;8022534;;49.801794;9.935777;10797;f;DE;t;Europe/Berlin;t;DEQWU;;f;;f;8000260;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Wurzburgo Estación central;Gare centrale;Stazione centrale;;;;;ヴュルツブルク;뷔르츠부르크;;Wurtzburgo;Вюрцбург;;;维尔茨堡
 7702;Radolfzell;radolfzell;8014571;;47.735875;8.968987;;f;DE;f;Europe/Berlin;t;DERAD;;f;;f;8000880;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7703;Rastatt;rastatt;8014245;;48.860579;8.215745;;f;DE;f;Europe/Berlin;t;DERAS;;f;;f;8000306;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ラシュタット;;;;Раштатт;;;拉施塔特
 7704;Bad-Reichenhall;bad-reichenhall;;;;;;t;DE;f;Europe/Berlin;f;DEREI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7705;Remscheid;remscheid;;;;;;t;DE;f;Europe/Berlin;f;DEREM;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7705;Remscheid;remscheid;;;51.17727;7.199622;;t;DE;f;Europe/Berlin;t;DEREM;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7706;Ribnitz-Damgarten West;ribnitz-damgarten-west;8027064;;54.239175;12.436962;;f;DE;f;Europe/Berlin;t;DERIB;;f;;f;8012763;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7707;Salzgitter;salzgitter;8033859;;52.106134;10.390649;;t;DE;f;Europe/Berlin;t;DESAL;;f;;f;8096006;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ザルツギッター;잘츠기터;;;Зальцгиттер;;;薩爾茨吉特
-7708;Saarbrücken Hbf;saarbrucken-hbf;8025391;80253914;49.24115221039208;6.990984678268433;;f;DE;f;Europe/Berlin;t;DESBK;;t;;f;8000323;t;;f;;f;;f;;;f;;f;8066800;f;;f;f;;;Main station;Sarrebruck Estación central;Sarrebruck Gare centrale;Stazione centrale;;;;;ザールブリュッケン;자르브뤼켄;;;Саарбрюккен;;;萨尔布吕肯
+7708;Saarbrücken Hbf;saarbrucken-hbf;8025391;80253914;49.24115221039208;6.990984678268433;10495;f;DE;t;Europe/Berlin;t;DESBK;;t;;f;8000323;t;;f;;f;;f;;;f;;f;8066800;f;;f;f;;;Main station;Sarrebruck Estación central;Sarrebruck Gare centrale;Stazione centrale;;;;;ザールブリュッケン;자르브뤼켄;;;Саарбрюккен;;;萨尔布吕肯
 7709;Schirnding;schirnding;8000644;;50.077296;12.228745;;f;DE;f;Europe/Berlin;t;DESCH;;f;;f;8005352;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7710;Stuttgart Hbf;stuttgart-hbf;8029034;80290346;48.784081;9.181636;7714;f;DE;f;Europe/Berlin;t;DESGT;;t;;f;8000096;t;;f;;f;8029034;f;S03800;;f;;f;8070830;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;シュトゥットガルト;슈투트가르트;;Estugarda;Штутгарт;;;斯图加特
-7711;Solingen;solingen;;;;;;t;DE;f;Europe/Berlin;f;DESLG;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7710;Stuttgart Hbf;stuttgart-hbf;8029034;80290346;48.784081;9.181636;7714;f;DE;t;Europe/Berlin;t;DESGT;;t;;f;8000096;t;;f;;f;8029034;f;S03800;;f;;f;8070830;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;シュトゥットガルト;슈투트가르트;;Estugarda;Штутгарт;;;斯图加特
+7711;Solingen;solingen;;;51.160909;7.004241;;t;DE;f;Europe/Berlin;t;DESLG;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7712;Schnabelwaid;schnabelwaid;8022297;;49.810451;11.595662;;f;DE;f;Europe/Berlin;t;DESNW;;f;;f;8000328;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7713;Sulzbach rosenberg;sulzbach-rosenberg;;;;;;t;DE;f;Europe/Berlin;f;DESRB;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7714;Stuttgart;stuttgart;8080830;;;;;t;DE;f;Europe/Berlin;f;DESTT;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7715;Schweinfurt;schweinfurt;;;;;;t;DE;f;Europe/Berlin;f;DESWF;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7714;Stuttgart;stuttgart;8080830;;48.784081;9.181636;;t;DE;f;Europe/Berlin;t;DESTT;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7715;Schweinfurt;schweinfurt;;;50.035316;10.212923;;t;DE;f;Europe/Berlin;t;DESWF;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7716;Tantow;tantow;8028359;;53.269275;14.347925;;f;DE;f;Europe/Berlin;t;DETTW;;f;;f;8013090;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7717;Unna;unna;8010381;;51.538906;7.693381;;f;DE;f;Europe/Berlin;t;DEUNN;;f;;f;8000171;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Унна;;;
-7718;Wiesbaden Hbf;wiesbaden-hbf;8011018;;50.070788;8.243728;;f;DE;f;Europe/Berlin;t;DEUWE;;f;;f;8000250;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ヴィースバーデン;비스바덴;;;Висбаден;;;威斯巴登
+7718;Wiesbaden Hbf;wiesbaden-hbf;8011018;;50.070788;8.243728;7721;f;DE;t;Europe/Berlin;t;DEUWE;;f;;f;8000250;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ヴィースバーデン;비스바덴;;;Висбаден;;;威斯巴登
 7719;Velgast;velgast;8028518;;54.277317;12.803138;;f;DE;f;Europe/Berlin;t;DEVLG;;f;;f;8010355;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7720;Berlin Wannsee;berlin-wannsee;8003037;;52.421053;13.179336;7527;f;DE;f;Europe/Berlin;t;DEWAN;;f;;f;8010405;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;Berlino;Berlijn;;;;ベルリン;베를린;;Berlim;Берлин;;;柏林
-7721;Wiesbaden;wiesbaden;;;;;;t;DE;f;Europe/Berlin;f;DEWBD;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7722;Potsdam;potsdam;;;;;;t;DE;f;Europe/Berlin;f;DEXXN;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7721;Wiesbaden;wiesbaden;;;50.070788;8.243728;;t;DE;f;Europe/Berlin;t;DEWBD;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7722;Potsdam;potsdam;;;52.391703;13.066782;;t;DE;f;Europe/Berlin;t;DEXXN;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7723;Potsdam stadt;potsdam-stadt;;;;;7722;f;DE;f;Europe/Berlin;f;DEXXO;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7724;Potsdam Hbf;potsdam-hbf;8003479;;52.391703;13.066782;7722;f;DE;f;Europe/Berlin;t;DEXXP;;f;;f;8012666;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;Postupim;;;ポツダム;포츠담;Poczdam;;Потсдам;;;波茨坦
+7724;Potsdam Hbf;potsdam-hbf;8003479;;52.391703;13.066782;7722;f;DE;t;Europe/Berlin;t;DEXXP;;f;;f;8012666;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;Postupim;;;ポツダム;포츠담;Poczdam;;Потсдам;;;波茨坦
 7725;Arenshausen;arenshausen;8016543;;51.375167;9.968641;;f;DE;f;Europe/Berlin;t;DEZAS;;f;;f;8011054;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7726;Baden-Baden;baden-baden;8014277;;48.790085;8.190467;;f;DE;f;Europe/Berlin;t;DEZCC;;t;;f;8000774;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;バーデン＝バーデン;바덴바덴;;;Баден-Баден;;;巴登-巴登
 7727;Fulda;fulda;8005637;;50.554722;9.68398;;f;DE;f;Europe/Berlin;t;DEZEE;;f;;f;8000115;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;フルダ;풀다;;;Фульда;;;富尔达
@@ -8998,7 +8998,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10492;Warszawa-Wschodnia;warszawa-wschodnia;5103865;;52.251544;21.052332;10491;f;PL;f;Europe/Warsaw;t;PLWWW;;f;;f;5100066;t;;f;;f;;f;;;f;;f;;f;;f;f;;Warschau;Warsaw;;Varsovie;Varsavia;;;;;;;;;;;;
 10493;Warszawa-Centralna;warszawa-centralna;5118788;;52.228864;21.003233;10491;f;PL;f;Europe/Warsaw;t;PLWCE;;f;;f;5100065;t;;f;;f;;f;;;f;;f;;f;;f;f;;Warschau;Warsaw;;Varsovie;Varsavia;;;;;;;;;;;;
 10494;Moskva-Belorusskaya;moskva-belorusskaya;2018828;;;;;f;RU;f;Europe/Moscow;f;RUDME;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10495;Saarbrücken;saarbrucken;;;;;;t;DE;f;Europe/Berlin;f;DESAK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10495;Saarbrücken;saarbrucken;;;49.24115221039208;6.990984678268433;;t;DE;f;Europe/Berlin;t;DESAK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10496;Belfort—Montbéliard TGV;belfort-montbeliard-tgv;8730082;87300822;47.585935;6.897629;10610;f;FR;f;Europe/Paris;t;FRTJA;BFB;t;;f;8730082;t;;f;;f;;f;;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
 10497;La Voulte Cité;la-voulte-cite;8733870;;44.81457;4.793147;5667;f;FR;f;Europe/Paris;t;FRVTE;;t;;f;8705299;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10498;Besançon-Franche-Comté TGV;besancon-franche-comte-tgv;8730086;87300863;47.307557;5.952674;5029;f;FR;f;Europe/Paris;t;FRTJB;BFC;t;;f;8730086;t;;f;;f;;f;;;f;;f;;f;;f;t;;;;Besanzón;;;;;;;ブザンソン;브장송;;;Безансон;;;贝桑松
@@ -9047,7 +9047,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10541;;;;;;;;t;FR;f;Europe/Paris;f;FRWBX;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10542;;;8753404;;;;;f;FR;f;Europe/Paris;f;FRPFI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10543;;;;;;;;t;FR;f;Europe/Paris;f;FRWBR;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10544;Aschaffenburg;aschaffenburg;;;;;;t;DE;f;Europe/Berlin;f;DEFAA;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10544;Aschaffenburg;aschaffenburg;;;49.980554;9.143692;;t;DE;f;Europe/Berlin;t;DEFAA;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10545;;;8749990;;;;;f;FR;f;Europe/Paris;f;FRKAM;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10546;;;8752485;;;;10539;f;FR;f;Europe/Paris;f;FRKAZ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10547;;;8749995;;;;;f;FR;f;Europe/Paris;f;FRKAQ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -9274,18 +9274,18 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10768;;;8751461;;;;2335;f;FR;f;Europe/Paris;f;FRTIT;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10769;;;8744190;;;;10663;f;FR;f;Europe/Paris;f;FRUFU;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10770;;;;;;;;f;FR;f;Europe/Paris;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10771;Regensburg;regensburg;;;;;;t;DE;f;Europe/Berlin;f;DEFAN;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10772;Hildesheim;hildesheim;;;;;;t;DE;f;Europe/Berlin;f;DEFAI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10771;Regensburg;regensburg;;;49.011669;12.099615;;t;DE;f;Europe/Berlin;t;DEFAN;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10772;Hildesheim;hildesheim;;;52.160627;9.953494;;t;DE;f;Europe/Berlin;t;DEFAI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10773;;;;;;;;t;FR;f;Europe/Paris;f;DEFAC;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10774;;;;;;;;t;FR;f;Europe/Paris;f;DEFAJ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10775;Passau;passau;;;;;;t;DE;f;Europe/Berlin;f;DEFAM;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10776;Oberhausen;oberhausen;;;;;;t;DE;f;Europe/Berlin;f;DEFAL;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10777;Nürnberg;nurnberg;8022198;;;;;t;DE;f;Europe/Berlin;f;DEFAK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10777;Nürnberg;nurnberg;8022198;;49.445615;11.082989;;t;DE;f;Europe/Berlin;t;DEFAK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10778;Limburg Süd;limburg-sud;8032572;;50.382498;8.096107;;f;DE;f;Europe/Berlin;t;DEKAC;;f;;f;8003680;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10779;Essen;essen;;;;;;t;DE;f;Europe/Berlin;f;DEFAG;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10780;Duisburg;duisburg;;;;;;t;DE;f;Europe/Berlin;f;DEFAF;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10781;Dortmund;dortmund;;;;;;t;DE;f;Europe/Berlin;f;DEFAE;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10782;Ausburg;ausburg;;;;;;t;DE;f;Europe/Berlin;f;DEFAB;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10779;Essen;essen;;;51.451351;7.014795;;t;DE;f;Europe/Berlin;t;DEFAG;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10780;Duisburg;duisburg;;;51.429786;6.775906;;t;DE;f;Europe/Berlin;t;DEFAF;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10781;Dortmund;dortmund;;;51.517898;7.459293;;t;DE;f;Europe/Berlin;t;DEFAE;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10782;Augsburg;augsburg;;;48.365444;10.885568;;t;DE;f;Europe/Berlin;t;DEFAB;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10783;Esslingen (Neckar);esslingen-neckar;8029055;;48.738811;9.300077;;f;DE;f;Europe/Berlin;t;DEEAA;;f;;f;8001920;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Эсслинген-на-Неккаре;;;
 10784;Lutherstadt Wittenberg;lutherstadt-wittenberg;8023141;;51.867533;12.662016;;f;DE;f;Europe/Berlin;t;DELUT;;f;;f;8010222;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10785;;;8752486;;;;10539;f;FR;f;Europe/Paris;f;FRKBB;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -9299,8 +9299,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10793;;;8750099;;;;;f;FR;f;Europe/Paris;f;FRKAH;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10794;;;8738280;;48.903305;2.072858;10742;f;FR;f;Europe/Paris;f;FRDFD;;f;;f;8705480;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10795;;;8740575;;;;;f;FR;f;Europe/Paris;f;FRZAV;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10796;Ulm;ulm;;;;;;t;DE;f;Europe/Berlin;f;DEQAA;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10797;Wuerzburg;wuerzburg;;;;;;t;DE;f;Europe/Berlin;f;DEQWV;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10796;Ulm;ulm;;;48.399432;9.982224;;t;DE;f;Europe/Berlin;t;DEQAA;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10797;Würzburg;wurzburg;;;49.801794;9.935777;;t;DE;f;Europe/Berlin;t;DEQWV;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10798;Limburg;limburg;;;;;;t;DE;f;Europe/Berlin;f;DELAB;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10799;Aéroport-Lyon-Saint-Exupéry;aeroport-lyon-saint-exupery;;;;;;t;FR;f;Europe/Paris;f;FRJEW;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10800;Loudéac Aire de covoiturage;loudeac-aire-de-covoiturage;8756294;87562942;48.1975290000;-2.7532450000;;f;FR;f;Europe/Paris;t;FRLFQ;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -11549,8 +11549,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 13043;Oppenau;oppenau;8014301;;48.472002;8.15976;;f;DE;f;Europe/Berlin;t;;;f;;f;8004679;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13044;Oppenweiler (Württ);oppenweiler-wurtt;8029580;;48.98152;9.462782;;f;DE;f;Europe/Berlin;t;;;f;;f;8004681;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13045;Orschweier;orschweier;8014324;;48.274194;7.790276;;f;DE;f;Europe/Berlin;t;;;f;;f;8004683;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-13046;Osnabrück Altstadt;osnabruck-altstadt;8021031;;52.280938;8.045902;;f;DE;f;Europe/Berlin;t;;;f;;f;8004689;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;オスナブリュック;오스나브뤼크;;;Оснабрюк;;;奥斯纳布吕克
-13047;Osnabrück-Sutthausen;osnabruck-sutthausen;8084998;;52.232262;8.021092;;f;DE;f;Europe/Berlin;t;;;f;;f;8004690;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+13046;Osnabrück Altstadt;osnabruck-altstadt;8021031;;52.280938;8.045902;26860;f;DE;f;Europe/Berlin;t;;;f;;f;8004689;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;オスナブリュック;오스나브뤼크;;;Оснабрюк;;;奥斯纳布吕克
+13047;Osnabrück-Sutthausen;osnabruck-sutthausen;8084998;;52.232262;8.021092;26860;f;DE;f;Europe/Berlin;t;;;f;;f;8004690;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13048;Meerbusch-Osterath;meerbusch-osterath;8015057;;51.269014;6.625984;;f;DE;f;Europe/Berlin;t;;;f;;f;8004694;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13049;Osterhofen (Nby);osterhofen-nby;8026485;;48.695474;13.018708;;f;DE;f;Europe/Berlin;t;;;f;;f;8004700;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 13050;Ostermünchen;ostermunchen;8020196;;47.942151;12.04159;;f;DE;f;Europe/Berlin;t;;;f;;f;8004703;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -15259,7 +15259,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 16753;Jena;jena;8036672;;50.924008;11.582726;;f;DE;f;Europe/Berlin;t;;;f;;f;8096004;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;Iéna;;;;;;イェーナ;예나;;;Йена;;;耶拿
 16754;Plauen;plauen;8031734;;50.506755;12.12723;;f;DE;f;Europe/Berlin;t;;;f;;f;8096005;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;Plavno;;;プラウエン;플라우엔;;;Плауэн;;;普劳恩
 16755;Pößneck;possneck;8002758;;50.690441;11.588443;;f;DE;f;Europe/Berlin;t;;;f;;f;8096007;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Пёснек;;;珀斯内克
-16756;Leipzig;leipzig;;;51.346546;12.383333;;t;DE;f;Europe/Berlin;f;;;f;;f;8096008;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+16756;Leipzig;leipzig;;;51.346546;12.383333;;t;DE;f;Europe/Berlin;t;;;f;;f;8096008;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16757;Elsterwerda;elsterwerda;;;51.459666;13.516827;;f;DE;f;Europe/Berlin;f;;;f;;f;8096010;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16758;Hiddensee;hiddensee;;;54.565178;13.103845;;f;DE;f;Europe/Berlin;t;;;f;;f;8096011;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16759;Hannover Messe;hannover-messe;8002760;;52.323161;9.798206;;f;DE;f;Europe/Berlin;t;;;f;;f;8096012;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -15970,7 +15970,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17491;Feldkirch;feldkirch;8101236;;47.2414060000;9.6037600000;;f;AT;f;Europe/Vienna;t;ATFEL;;f;;f;8101902;t;;f;;f;8101236;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Фельдкирх;;;
 17494;Kampen;kampen;8400353;;52.5606020000;5.9245740000;;f;NL;t;Europe/Amsterdam;t;NLKAF;;f;;f;8400353;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17495;Bratislava hl.st.;bratislava-hl-st;5613206;;48.158908;17.106463;;f;SK;t;Europe/Bratislava;t;SKABI;;f;;f;5600207;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17496;Zagreb Glavni Kolod.;zagreb-glavni-kolod;7872480;;45.804453;15.978478;;f;HR;t;Europe/Zagreb;t;HRZAG;;f;;f;7800020;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+17496;Zagreb Glavni Kolodvor;zagreb-glavni-kolodvor;7872480;;45.804453;15.978478;;f;HR;t;Europe/Zagreb;t;HRZAG;;f;;f;7800020;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17497;Graz Hbf;graz-hbf;8103171;;47.0678420000;15.4156640000;;f;AT;f;Europe/Vienna;t;ATGRZ;;f;;f;8100173;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;Štýrský Hradec;;Grác;グラーツ;그라츠;;;Грац;;;格拉茨
 17498;Judenburg;judenburg;8103615;;47.1737260000;14.6657480000;;f;AT;f;Europe/Vienna;t;ATJUD;;f;;f;8100073;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17499;Klagenfurt Hbf;klagenfurt-hbf;8103642;;46.6158020000;14.3123910000;;f;AT;f;Europe/Vienna;t;ATKLG;;f;;f;8100085;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;クラーゲンフルト;;;;Клагенфурт;;;
@@ -16204,7 +16204,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17738;Bruxelles-Luxembourg;bruxelles-luxembourg;8811304;;50.8388080000;4.3739980000;5974;f;BE;f;Europe/Brussels;t;BEBQL;;f;;f;8800005;t;;f;;f;;f;;;f;;f;;f;;f;f;;Brüssel;Brussels;Bruselas;;;Brussel;Brusel;;Brüsszel;ブリュッセル;브뤼셀;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 17739;Halle;halle;8814308;;50.7333730000;4.2400850000;;f;BE;f;Europe/Brussels;t;BEHAB;;f;;f;8800006;t;;f;;f;;f;;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Hal, Belgique;Belgio;België;;;;;;;;;;;
 17740;Antwerpen-Berchem;antwerpen-berchem;8821121;;51.1995270000;4.4324640000;;f;BE;f;Europe/Brussels;t;BEBHM;;f;;f;8800008;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Antwerp;;Anvers;Anversa;;;;;;;;;;;;
-17741;Essen;essen;8821402;;51.4626410000;4.4509990000;;f;BE;f;Europe/Brussels;t;BEESS;;f;;f;8800009;t;;f;;f;;f;;;f;;f;8045292;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
+17741;Essen;essen-station;8821402;;51.4626410000;4.4509990000;;f;BE;f;Europe/Brussels;t;BEESS;;f;;f;8800009;t;;f;;f;;f;;;f;;f;8045292;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 17742;Mechelen;mechelen;8822004;;51.0175040000;4.4834680000;;f;BE;f;Europe/Brussels;t;BEAAH;;f;;f;8800010;t;;f;;f;;f;;;f;;f;;f;;f;f;;Mecheln;;Malinas;Malines;Malines;;;;;メヘレン;메헬렌;;;Мехелен;;;梅赫伦
 17743;Ans;ans;8841202;;50.6610280000;5.5096860000;;f;BE;f;Europe/Brussels;t;BEAAK;;f;;f;8800013;t;;f;;f;;f;;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;アンス;;;;Анс;;;昂斯
 17744;Rivage;rivage;8842705;;50.4850370000;5.5859680000;;f;BE;f;Europe/Brussels;t;BEAAL;;f;;f;8800014;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21065,8 +21065,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22621;Bad Rappenau Busbf R;bad-rappenau-busbf-r;;;49.237721;9.101308;;f;DE;f;Europe/Berlin;f;;;f;;f;8070924;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22622;Neckarsulm Bhf West;neckarsulm-bhf-west;;;49.188973;9.220064;;f;DE;f;Europe/Berlin;f;;;f;;f;8070923;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22623;Hahn Flughafen Terminal 2;hahn-flughafen-terminal-2;8013370;;49.946853;7.270996;;f;DE;f;Europe/Berlin;t;;;f;;f;8002518;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Airport;Aeropuerto;Aéroport;Aeroporto;;;;;;;;;;;;
-22624;Ljubljana Avtobus po;ljubljana-avtobus-po;;;46.05777;14.50960;;f;SI;f;Europe/Ljubljana;f;;;f;;f;7989003;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-22625;Zagreb Autobusni kol;zagreb-autobusni-kol;;;45.804453;15.978478;;f;HR;t;Europe/Zagreb;f;;;f;;f;7889051;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+22624;Ljubljana Avtobusna Postaja;ljubljana-avtobus-po;;;46.05777;14.50960;19094;f;SI;f;Europe/Ljubljana;f;;;f;;f;7989003;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+22625;Zagreb Autobusni Kolodvor;zagreb-autobusni-kolodvor;;;45.803778;15.993229;17496;f;HR;t;Europe/Zagreb;f;;;f;;f;7889051;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22626;Budapest-Kelenföld;budapest-kelenfold;5501024;;47.464356;19.020455;;f;HU;t;Europe/Budapest;t;HUAAE;;f;;f;5500008;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22627;Klatovy;klatovy;5473745;;49.401487;13.27411;;f;CZ;f;Europe/Prague;t;;;f;;f;5400213;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22628;Břeclav;breclav;5433425;;48.753904;16.893239;;f;CZ;f;Europe/Prague;t;;;f;;f;5400202;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -25275,4 +25275,29 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 26831;Parc Bagatelle;parc-bagatelle;;;50.4299;1.6060;;t;FR;f;Europe/Paris;t;;;f;;f;;f;u0cnus;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26832;Saint-Jean-de-Luz;saint-jean-de-luz;;;43.3884;-1.6637;;t;FR;f;Europe/Paris;t;;;f;;f;;f;ezwyf4;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26833;Saint-Gervais-les-Bains;saint-gervais-les-bains;;;45.8931;6.7114;;t;FR;f;Europe/Paris;t;;;f;;f;;f;u0hv0d;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-26834;Guadiana Del Caudillo;guadiana-del-caudillo;7137604;;38.921844;-6.690275;;f;ES;f;Europe/Madrid;t;ESMVA;;f;;f;7137604;f;;f;;f;;f;;;f;;f;37604;t;;f;f;;;;;;;;;;;;;;;;;;
+26834;Guadiana del Caudillo;guadiana-del-caudillo;7137604;;38.921844;-6.690275;;f;ES;f;Europe/Madrid;t;ESMVA;;f;;f;7137604;f;;f;;f;;f;;;f;;f;37604;t;;f;f;;;;;;;;;;;;;;;;;;
+26836;Zadar Autobusni Kolodvor;zadar-autobusni-kolodvor;;;44.106298;15.241312;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889094;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26837;Biograd na Moru Autobusni Kolodvor;biograd-na-moru-autobusni-kolodvor;;;43.937696;15.444132;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889052;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26838;Vodice Autobusni Kolodvor;vodice-autobusni-kolodvor;;;43.759213;15.778478;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889053;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26839;Sibenik Autobusni Kolodvor;sibenik-autobusni-kolodvor;;;43.732217;15.893064;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889037;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26840;Trogir Autobusni Kolodvor;trogir-autobusni-kolodvor;;;43.518345;16.251995;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889042;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26841;Split Autobusni Kolodvor;split-autobusni-kolodvor;;;43.504056;16.442809;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889040;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26842;Ptuj Avtobusna Postaja;ptuj-avtobusna-postaja;;;46.421194;15.876302;;f;SI;f;Europe/Ljubljana;t;;;f;;f;7900027;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26843;Varazdin Autobusni Kolodvor;varazdin-autobusni-kolodvor;;;46.3042;16.334398;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889044;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26844;Koprivnica Autobusni Kolodvor;koprivnica-autobusni-kolodvor;;;46.16487;16.817468;;f;HR;f;Europe/Zagreb;t;;;f;;f;7800007;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26845;Djurdjevac Autobusni Kolodvor;djurdjevac-autobusni-kolodvor;;;46.03072;17.065283;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889008;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26846;Virovitica Autobusni Kolodvor;virovitica-autobusni-kolodvor;;;45.835641;17.387764;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889045;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26847;Slatina Autobusni Kolodvor;slatina-autobusni-kolodvor;;;45.706386;17.704483;;f;HR;f;Europe/Zagreb;t;;;f;;f;7800083;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26848;Donji Miholjac Autobusni Kolodvor;donji-miholjac-autobusni-kolodvor;;;45.759286;18.16614;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889011;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26849;Valpovo Autobusni Kolodvor;valpovo-autobusni-kolodvor;;;45.65743;18.418174;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889043;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26850;Osijek Autobusni Kolodvor;osijek-autobusni-kolodvor;;;45.553327;18.679953;;f;HR;f;Europe/Zagreb;t;;;f;;f;7800011;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26851;Djakovo Autobusni Kolodvor;djakovo-autobusni-kolodvor;;;45.306633;18.416419;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889007;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26852;Vinkovci Autobusni Kolodvor;vinkovci-autobusni-kolodvor;;;45.29911;18.802039;;f;HR;f;Europe/Zagreb;t;;;f;;f;7800018;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26853;Rijeka Autobusni Kolodvor;rijeka-autobusni-kolodvor;;;45.327996;14.437021;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889034;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26854;Opatija Autobusni Kolodvor;opatija-autobusni-kolodvor;;;45.332921;14.302365;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889002;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26855;Porec Autobusni Kolodvor;porec-autobusni-kolodvor;;;45.224458;13.597644;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889030;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26856;Rovinj Autobusni Kolodvor;rovinj-autobusni-kolodvor;;;45.080685;13.638815;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889035;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26857;Pula Autobusni Kolodvor;pula-autobusni-kolodvor;;;44.876155;13.854958;;f;HR;f;Europe/Zagreb;t;;;f;;f;7889033;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26858;Milano Lampugnano;milano-lampugnano;;;45.489023;9.126845;8483;f;IT;f;Europe/Rome;f;;;f;;f;8389414;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26859;Como San Giovanni Autobus;como-san-giovanni-autobus;;;45.809341;9.073139;18821;f;IT;f;Europe/Rome;f;;;f;;f;8389056;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26860;Osnabrück;osnabruck;;;52.272848;8.061777;;f;DE;f;Europe/Berlin;t;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;

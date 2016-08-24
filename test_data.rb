@@ -86,6 +86,7 @@ HOMONYM_STATIONS = [
   "25481", # Hever (Belgium and England)
   "26735", # Enfield (England and Ireland)
   "26759", # Malling (France and England)
+  "17741", # Essen (Belgium and Germany)
 ]
 
 HOMONYM_SUFFIXES = {
