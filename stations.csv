@@ -21946,7 +21946,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23502;Lend;lend;8101139;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100045;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23503;Leobersdorf;leobersdorf;8103121;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8101163;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23504;Liesing;liesing;8103110;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8101150;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23505;Lindau;lindau;8100467;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23505;Lindau;lindau;;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23506;Linz Wegscheid;linz-wegscheid;8101600;;48.247829;14.275238;;f;AT;f;Europe/Vienna;f;;;f;;f;8101195;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23507;Lochau-Hörbranz;lochau-horbranz;8102339;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100124;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23508;Ludesch;ludesch;8101232;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100066;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -22050,7 +22050,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23606;Wien Westbahnhof (Schleife Süd);wien-westbahnhof-schleife-sud;8149094;;48.196496;16.339237;17561;f;AT;f;Europe/Vienna;f;;;f;;f;8149094;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Vienna;Viena;Vienne;Vienna;Wenen;;;;;;;;;;;
 23607;Nürnberg Hbf (Nelson-Mandela-Platz/Südausgang);nurnberg-hbf-nelson-mandela-platz-sudausgang;8070977;;49.444039;11.082204;7691;f;DE;f;Europe/Berlin;f;;;f;;f;8070977;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Nuremberg;Núremberg;Nuremberg;Norimberga;Neurenberg;Norimberk;;;ニュルンベルク;뉘른베르크;Norymberga;Nuremberga;Нюрнберг;;Nuremberg;纽伦堡
 23608;Jena Paradies (Knebe);jena-paradies-knebe;8089170;;50.924956;11.587501;16753;f;DE;f;Europe/Berlin;f;;;f;;f;8089170;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23609;Wien Rennweg;wien-rennweg;8101433;;48.19581;16.385991;;f;AT;f;Europe/Vienna;f;;;f;;f;8101433;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23609;Wien Rennweg;wien-rennweg;;;48.19581;16.385991;;f;AT;f;Europe/Vienna;f;;;f;;f;8101433;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23610;Tatabanya;tatabanya;5500009;;47.585266;18.393141;;f;HU;f;Europe/Budapest;f;;;f;;f;5500009;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23611;Pforzheim Hbf ZOB;pforzheim-hbf-zob;8089428;;48.893448;8.70416;7695;f;DE;f;Europe/Berlin;f;;;f;;f;8089428;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23612;Chomutov;chomutov;5400005;;50.4566;13.39958;;f;CZ;f;Europe/Prague;f;;;f;;f;5400005;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
