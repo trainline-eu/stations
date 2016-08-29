@@ -1583,7 +1583,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 2115;Roscoff;roscoff;8747463;87474635;48.72075397941156;-3.9833593368530273;2126;f;FR;t;Europe/Paris;t;FREBR;;t;;f;8704384;f;;f;;f;;f;;;f;;f;8700736;f;;f;f;;;;;;;;;;;;;;;Роскоф;;;罗斯科
 2116;Kernevel;kernevel;8747466;87474668;47.9500000000;-3.7833330000;;f;FR;f;Europe/Paris;t;FREBS;;t;;f;8703524;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 2117;Scaër;scaer;8747467;87474676;48.0333330000;-3.7000000000;;f;FR;f;Europe/Paris;t;FREBT;;t;;f;8704470;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;斯卡厄
-2118;St-Étienne;st-etienne;;;45.44348229750384;4.399509429931641;;t;FR;f;Europe/Paris;t;FREBU;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;サン＝テティエンヌ;생테티엔;;;Сент-Этьен;;;圣艾蒂安
+2118;St-Étienne;st-etienne;;;45.44348229750384;4.399509429931641;;t;FR;f;Europe/Paris;t;FREBU;;t;;f;;f;u054kn;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;サン＝テティエンヌ;생테티엔;;;Сент-Этьен;;;圣艾蒂安
 2119;St-Étienne Bellevue;st-etienne-bellevue;8772619;87726190;45.41713371236035;4.392707347869873;2118;f;FR;f;Europe/Paris;t;FRHHI;SEB;t;;f;8704554;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;サン＝テティエンヌ;생테티엔;;;Сент-Этьен;;;圣艾蒂安
 2120;St-Étienne Le Clapier;st-etienne-le-clapier;8772617;87726174;45.437118;4.378232;2118;f;FR;f;Europe/Paris;t;FRHHH;SEC;t;;f;8704558;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;サン＝テティエンヌ;생테티엔;;;Сент-Этьен;;;圣艾蒂安
 2121;St-Étienne La Terrasse;st-etienne-la-terrasse;8772615;87726158;45.464715;4.379562;2118;f;FR;f;Europe/Paris;t;FRHHG;SET;t;;f;8704557;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;サン＝テティエンヌ;생테티엔;;;Сент-Этьен;;;圣艾蒂安
@@ -5284,7 +5284,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6695;Blankenheim (Wald);blankenheim-wald;8015631;;50.441871;6.593506;;f;DE;f;Europe/Berlin;t;DEAAE;;f;;f;8001008;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6696;Bodenheim;bodenheim;8019058;;49.930088;8.311651;;f;DE;f;Europe/Berlin;t;DEAAF;;f;;f;8000359;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6697;Neckarsulm;neckarsulm;8029635;;49.188973;9.220064;;f;DE;f;Europe/Berlin;t;DEAAG;;f;;f;8004220;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6698;Aachen;aachen;;;50.77607;6.08378;;t;DE;f;Europe/Berlin;t;DEAAH;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;Aquisgrán;Aix-la-Chapelle;Aquisgrana;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
+6698;Aachen;aachen;;;50.77607;6.08378;;t;DE;f;Europe/Berlin;t;DEAAH;;t;;f;;f;u1h2fe;t;;f;;f;;;f;;f;;f;;f;f;;;;Aquisgrán;Aix-la-Chapelle;Aquisgrana;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
 6699;Aachen-Rothe Erde;aachen-rothe-erde;8015342;;50.770202;6.116476;6698;f;DE;f;Europe/Berlin;t;DEACP;;f;;f;8000406;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Aquisgrán;Aix-la-Chapelle;Aquisgrana;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
 6700;Aachen Hbf;aachen-hbf;8015345;;50.767802;6.091495;6698;f;DE;t;Europe/Berlin;t;DEBDY;;t;;f;8000001;t;;f;;f;;f;;;f;;f;8052101;f;;f;f;;;Main station;Aquisgrán;Aix-la-Chapelle Gare centrale;Aquisgrana Stazione centrale;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
 6701;Aachen Süd (Gr);aachen-sud-gr;8000452;;50.731917;6.045407;6698;f;DE;f;Europe/Berlin;f;DEAQK;;f;;f;8000403;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -6141,7 +6141,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7555;Butzbach;butzbach;8011407;;50.431156;8.66952;;f;DE;f;Europe/Berlin;t;DEBZB;;f;;f;8001312;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7556;Bützow;butzow;8027021;;53.836809;11.997749;;f;DE;f;Europe/Berlin;t;DEBZW;;f;;f;8010066;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Бютцов;;;比措
 7557;Cottbus;cottbus;8004019;;51.750952;14.324158;;f;DE;f;Europe/Berlin;t;DECBU;;f;;f;8010073;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;Chotěbuz;;;コトブス;콧부스;Chociebuż;;Котбус;;;科特布斯
-7558;Köln;koln;;;50.941312;6.967206;;t;DE;f;Europe/Berlin;t;DECGN;;t;;f;8096022;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Cologne;Colonia;Cologne;Colonia;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
+7558;Köln;koln;;;50.941312;6.967206;;t;DE;f;Europe/Berlin;t;DECGN;;t;;f;8096022;t;u1hcy0;t;;f;;f;;;f;;f;;f;;f;f;;;Cologne;Colonia;Cologne;Colonia;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
 7559;Köln-Mülheim;koln-mulheim;8015541;;50.957987;7.013294;7558;f;DE;f;Europe/Berlin;t;DEKOM;;f;;f;8000209;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Cologne;Colonia;Cologne;Colonia;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
 7560;Köln Messe/Deutz;koln-messe-deutz;8015561;;50.940871;6.975;7558;f;DE;f;Europe/Berlin;t;DEKOD;;f;;f;8003368;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Cologne;Colonia;Cologne;Colonia;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
 7561;Köln Hbf;koln-hbf;8015458;80154583;50.943029;6.958729;7558;f;DE;t;Europe/Berlin;t;DEKOH;;t;;f;8000207;t;;f;;f;8015458;f;S02100;;f;108015458;t;8050500;f;;f;f;;;Cologne Main station;Colonia Estación central;Cologne Gare centrale;Colonia Stazione centrale;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
