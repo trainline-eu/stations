@@ -25301,3 +25301,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 26858;Milano Lampugnano;milano-lampugnano;;;45.489023;9.126845;8483;f;IT;f;Europe/Rome;f;;;f;;f;8389414;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26859;Como San Giovanni Autobus;como-san-giovanni-autobus;;;45.809341;9.073139;18821;f;IT;f;Europe/Rome;f;;;f;;f;8389056;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26860;Osnabrück;osnabruck;;;52.272848;8.061777;;f;DE;f;Europe/Berlin;t;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+26861;Heinsberg (Rheinl);heinsberg-rheinl;;;51.065036;6.098877;;f;DE;f;Europe/Berlin;t;;;f;;f;8002721;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
