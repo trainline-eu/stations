@@ -6,7 +6,7 @@ require 'json'
 # A script to create a mappable edition of the stations.csv database.
 # To create GeoJSON from `stations.csv` download the stations.csv file and pipe through
 # this script:
-#	curl https://raw.githubusercontent.com/capitainetrain/stations/master/stations.csv > stations.csv
+#	curl https://raw.githubusercontent.com/trainline-eu/stations/master/stations.csv > stations.csv
 #	stations2geojson.rb < stations.csv > stations.geojson
 # This script is designed to be short and simple. No error or conformance checking is
 # performed.
@@ -37,7 +37,7 @@ puts({
 #
 # The MIT License (MIT)
 #
-# Copyright (c) 2015 Graham Miln, http://miln.eu and https://www.capitainetrain.com
+# Copyright (c) 2015 Graham Miln, http://miln.eu and https://www.trainline.eu
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy of
 # this software and associated documentation files (the "Software"), to deal in
