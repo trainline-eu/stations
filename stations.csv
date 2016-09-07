@@ -4384,7 +4384,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5762;Bayonne;bayonne;8767300;87673004;43.49709463180589;-1.4703547954559326;;f;FR;f;Europe/Paris;t;FRXBY;BYE;t;XBY;t;8700257;f;ezwzq5;t;;f;;f;;;f;;f;8700900;f;;f;t;;;;Baiona;;;;;;;バイヨンヌ;바욘;Bajonna;Baiona;Байонна;;;巴约讷
 5763;Bandol;bandol;8775522;87755223;43.14046747767621;5.750162601470947;;f;FR;f;Europe/Paris;t;FRXBZ;;t;;f;8700665;f;;f;;f;;f;;;f;;f;8700279;f;;f;f;;;;;;;;;;;;;;;Бандоль;;;邦多
 5764;Le Creusot TGV;le-creusot-tgv;8769410;87694109;46.765364;4.500071;;f;FR;f;Europe/Paris;t;FRXCC;LCM;t;;f;8700167;f;;f;;f;;f;;;f;;f;;f;;f;t;;;;;;;;;;;ル＝クルーゾ;;;;Ле-Крёзо;;;
-5765;Chalon-sur-Saône;chalon-sur-saone;8772500;87725002;46.781034125625254;4.84371542930603;;f;FR;f;Europe/Paris;t;FRXCD;CSS;t;;f;8700091;t;;f;;f;8772500;f;;;f;;f;8700130;f;;f;t;;;;;;;;;;;シャロン＝シュル＝ソーヌ;;;;Шалон-сюр-Сон;;;索恩河畔沙隆
+5765;Chalon-sur-Saône;chalon-sur-saone;8772500;87725002;46.781034125625254;4.84371542930603;;f;FR;f;Europe/Paris;t;FRXCD;CSS;t;;f;8700091;t;u076nk;t;;f;8772500;f;;;f;;f;8700130;f;;f;t;;;;;;;;;;;シャロン＝シュル＝ソーヌ;;;;Шалон-сюр-Сон;;;索恩河畔沙隆
 5766;Cerbère;cerbere;8778500;87785006;42.441661;3.163187;;f;FR;f;Europe/Paris;t;FRXCE;CER;t;;f;8700147;f;;f;;f;;f;;;f;;f;8700290;f;;f;t;;;;;;;;;;;;;;;;;;
 5767;Chamonix Mont Blanc;chamonix-mont-blanc;8774678;87746784;45.91990069246709;6.866669654846191;;f;FR;f;Europe/Paris;t;FRXCF;CHX;t;;f;8700299;f;u0hvk2;t;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5768;Cagnes-sur-Mer;cagnes-sur-mer;;;43.6666670000;7.1500000000;;t;FR;f;Europe/Paris;f;FRXCG;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
