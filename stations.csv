@@ -6855,7 +6855,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8637;Venlo;venlo;8484644;;51.364407;6.17184;;f;NL;f;Europe/Amsterdam;t;NLABE;;f;;f;8400644;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8640;Weesp;weesp;8400685;;52.3128500000;5.0385250000;;f;NL;f;Europe/Amsterdam;t;NLABH;;f;;f;8400685;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8641;Winschoten;winschoten;8400696;;53.139237;7.034886;;f;NL;f;Europe/Amsterdam;t;NLABI;;f;;f;8400696;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8643;Amsterdam amstel;amsterdam-amstel;8400057;;;;8657;f;NL;f;Europe/Amsterdam;f;NLABK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8643;Amsterdam Amstel;amsterdam-amstel;8400057;;52.346389;4.917778;8657;f;NL;f;Europe/Amsterdam;t;NLABK;;f;;f;8400057;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;Amszterdam;アムステルダム;암스테르담;;Amesterdão;Амстердам;;;阿姆斯特丹
 8644;Den Haag HS;den-haag-hs;8400280;;52.069584;4.322669;;f;NL;f;Europe/Amsterdam;t;NLABL;;f;;f;8400280;t;;f;;f;;f;;;f;;f;;f;;f;f;;;The Hague;;La Haye;L’Aia;;;;;;;;;;;;
 8645;Zwolle;zwolle;8400747;;52.5063790000;6.0898410000;;f;NL;f;Europe/Amsterdam;t;NLABM;;f;;f;8400747;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ズヴォレ;즈볼러;;;Зволле;;;兹沃勒
 8646;Zutphen;zutphen;8484744;;;;;f;NL;f;Europe/Amsterdam;f;NLABN;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21322,7 +21322,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23288;Vitznau;vitznau;8508464;;47.009381;8.483429;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23289;Roosendaal grens;roosendaal-grens;;;;;;f;NL;f;Europe/Amsterdam;f;NLABX;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23290;Aalten;aalten;8400045;;51.9213265245505;6.57862722873687;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23291;Amsterdam Muiderpoort;amsterdam-muiderpoort;8400060;;52.3605537414551;4.93111133575439;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23291;Amsterdam Muiderpoort;amsterdam-muiderpoort;8400060;;52.3605537414551;4.93111133575439;;f;NL;f;Europe/Amsterdam;t;;;f;;f;8400060;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23292;Apeldoorn De Maten;apeldoorn-de-maten;8400233;;52.2052764892578;6.00055551528931;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23293;Appingedam;appingedam;8400067;;53.3258135;6.8619577;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23294;Arkel;arkel;8400068;;51.8719444274902;4.99277782440186;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
