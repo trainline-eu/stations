@@ -6849,18 +6849,18 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8627;Leiden Centraal;leiden-centraal;8400390;;52.1750720000;4.4929970000;;f;NL;f;Europe/Amsterdam;t;NLAAU;;f;;f;8400390;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ライデン;레이던;Lejda;Leida;Лейден;;;莱顿
 8630;Bad Nieuweschans;bad-nieuweschans;8400457;;53.184656;7.200222;;f;NL;f;Europe/Amsterdam;t;NLAAX;;f;;f;8400457;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8631;Nijmegen;nijmegen;8400470;;51.8418240000;5.8517070000;;f;NL;f;Europe/Amsterdam;t;NLAAY;;f;;f;8400470;t;;f;;f;;f;;;f;;f;;f;;f;f;;Nimwegen;;Nimega;Nimègue;Nimega;;;;;ナイメーヘン;네이메헌;;Nimegue;Неймеген;;;奈梅亨
-8632;Oldenzaal;oldenzaal;8484483;;52.306279;6.933137;;f;NL;f;Europe/Amsterdam;f;NLAAZ;;f;;f;8400483;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8635;Sittard;sittard;8400564;;51.001603;5.858512;;f;NL;f;Europe/Amsterdam;f;NLABC;;f;;f;8400564;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8632;Oldenzaal;oldenzaal;8484483;;52.306279;6.933137;;f;NL;f;Europe/Amsterdam;t;NLAAZ;;f;;f;8400483;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8635;Sittard;sittard;8400564;;51.001603;5.858512;;f;NL;f;Europe/Amsterdam;t;NLABC;;f;;f;8400564;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8636;Tilburg;tilburg;8400597;;51.5609380000;5.0811160000;;f;NL;f;Europe/Amsterdam;t;NLABD;;f;;f;8400597;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;Tilburgo;;;;;;;ティルブルフ;틸뷔르흐;;Tilburgo;Тилбург;;;蒂尔堡
-8637;Venlo;venlo;8484644;;51.364407;6.17184;;f;NL;f;Europe/Amsterdam;f;NLABE;;f;;f;8400644;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8640;Weesp;weesp;8400685;;52.3128500000;5.0385250000;;f;NL;f;Europe/Amsterdam;f;NLABH;;f;;f;8400685;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8641;Winschoten;winschoten;8400696;;53.139237;7.034886;;f;NL;f;Europe/Amsterdam;f;NLABI;;f;;f;8400696;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8637;Venlo;venlo;8484644;;51.364407;6.17184;;f;NL;f;Europe/Amsterdam;t;NLABE;;f;;f;8400644;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8640;Weesp;weesp;8400685;;52.3128500000;5.0385250000;;f;NL;f;Europe/Amsterdam;t;NLABH;;f;;f;8400685;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8641;Winschoten;winschoten;8400696;;53.139237;7.034886;;f;NL;f;Europe/Amsterdam;t;NLABI;;f;;f;8400696;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8643;Amsterdam amstel;amsterdam-amstel;8400057;;;;8657;f;NL;f;Europe/Amsterdam;f;NLABK;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8644;Den Haag HS;den-haag-hs;8400280;;52.069584;4.322669;;f;NL;f;Europe/Amsterdam;t;NLABL;;f;;f;8400280;t;;f;;f;;f;;;f;;f;;f;;f;f;;;The Hague;;La Haye;L’Aia;;;;;;;;;;;;
 8645;Zwolle;zwolle;8400747;;52.5063790000;6.0898410000;;f;NL;f;Europe/Amsterdam;t;NLABM;;f;;f;8400747;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ズヴォレ;즈볼러;;;Зволле;;;兹沃勒
 8646;Zutphen;zutphen;8484744;;;;;f;NL;f;Europe/Amsterdam;f;NLABN;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8647;Oss;oss;8484495;;;;;f;NL;f;Europe/Amsterdam;f;NLABO;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8648;Leeuwarden;leeuwarden;8484387;;53.19622;5.791686;;f;NL;f;Europe/Amsterdam;f;NLABP;;f;;f;8400387;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+8648;Leeuwarden;leeuwarden;8484387;;53.19622;5.791686;;f;NL;f;Europe/Amsterdam;t;NLABP;;f;;f;8400387;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8649;Heerlen;heerlen;8484307;;;;;f;NL;f;Europe/Amsterdam;f;NLABQ;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8650;Heerenveen;heerenveen;8484305;;;;;f;NL;f;Europe/Amsterdam;f;NLABR;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8651;Enschede;enschede;8484212;;52.2225620000;6.8902220000;;f;NL;f;Europe/Amsterdam;t;NLABS;;f;;f;8400212;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;エンスヘーデ;엔스헤더;;;Энсхеде;;;恩斯赫德
@@ -6879,7 +6879,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8667;Haarlem;haarlem;8400285;;52.3871100000;4.6364650000;;f;NL;f;Europe/Amsterdam;t;NLGRZ;;f;;f;8400285;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ハールレム;하를럼;;;Харлем;;;哈勒姆
 8668;Maastricht;maastricht;8400424;;50.849811;5.705875;;f;NL;f;Europe/Amsterdam;t;NLMST;;f;;f;8400424;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8669;Roosendaal;roosendaal;8400526;;51.5398590000;4.4566360000;;f;NL;f;Europe/Amsterdam;t;NLROO;;f;;f;8400526;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;Rosendael;;;;;;ローゼンダール;;;;Розендал;;;罗森达尔
-8670;Rotterdam Centraal;rotterdam-centraal;8400530;84005306;51.925068244603146;4.468839168548584;23616;f;NL;f;Europe/Amsterdam;t;NLRTA;;t;;f;8400530;f;;f;;f;;f;;;f;;f;8400530;f;;f;f;;;;;;;;;;;ロッテルダム;로테르담;;Roterdão;Роттердам;;;鹿特丹
+8670;Rotterdam Centraal;rotterdam-centraal;8400530;84005306;51.925068244603146;4.468839168548584;23616;f;NL;t;Europe/Amsterdam;t;NLRTA;;t;;f;8400530;t;;f;;f;;f;;;f;;f;8400530;f;;f;f;;;;;;;;;;;ロッテルダム;로테르담;;Roterdão;Роттердам;;;鹿特丹
 8672;Schiphol Airport;schiphol-airport;8400561;;52.3087870000;4.7614870000;;f;NL;f;Europe/Amsterdam;t;NLSPH;;t;;f;8400561;t;;f;;f;;f;;;f;;f;8400561;f;;f;f;;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amsterdam;Amszterdam;アムステルダム;암스테르담;Amsterdam;Amesterdão;Амстердам;Amsterdam;Amsterdam;阿姆斯特丹
 8673;Utrecht Centraal;utrecht-centraal;8400621;;52.0875800000;5.1111670000;;f;NL;f;Europe/Amsterdam;t;NLUTC;;f;;f;8400621;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;ユトレヒト;;;;Утрехт;;;
 8674;Pinhel;pinhel;9448595;;;;;f;PT;f;Europe/Lisbon;f;PTAAA;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -15585,7 +15585,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17456;Boucly;boucly;8758851;;49.935365;3.014244;;f;FR;f;Europe/Paris;t;FRZIV;;t;;f;8706677;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17457;Reichshoffen Usines;reichshoffen-usines;8721323;;48.919431;7.652436;10638;f;FR;f;Europe/Paris;t;FRZMB;;t;;f;8701866;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17458;Salzburg Hbf;salzburg-hbf;8101114;;47.813046443088425;13.045819401741028;;f;AT;f;Europe/Vienna;t;ATSZG;;f;;f;8100002;t;;f;;f;8101114;f;;;f;;f;;f;;f;f;;;Main station;Salzburgo Estación central;Gare centrale;Stazione centrale;;Salcburk;;;ザルツブルク;잘츠부르크;;Salzburgo;Зальцбург;;;萨尔斯堡
-17459;Duivendrecht;duivendrecht;8400194;;52.323556;4.936552;;f;NL;f;Europe/Amsterdam;t;NLDAA;;t;;f;8400194;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+17459;Duivendrecht;duivendrecht;8400194;;52.323556;4.936552;;f;NL;f;Europe/Amsterdam;t;NLDAA;;t;;f;8400194;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17476;Montdidier;montdidier;;;;;;f;FR;f;Europe/Paris;f;FRZKG;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17478;Roye;roye;;;;;;t;FR;f;Europe/Paris;f;FRRIY;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17481;Rozoy-sur-Serre;rozoy-sur-serre;;;;;;t;FR;f;Europe/Paris;f;FRRJA;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21430,7 +21430,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23396;Varsseveld;varsseveld;8400635;;51.937257;6.458839;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23397;Veendam;veendam;8400636;;53.10324;6.88475;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23398;Veenwouden;veenwouden;8400638;;53.2351834;5.9886615;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23399;Venlo;venlo;8400644;;51.3636093139648;6.17277765274048;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23399;Venlo;venlo;8400644;;51.3636093139648;6.17277765274048;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;8637;;;;;;;;;;;;;;;;;
 23400;Venray;venray;8400646;;51.526568099007;6.01417779922485;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23401;Vierlingsbeek;vierlingsbeek;8400647;;51.59193;5.99714;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23402;Vlaardingen Centrum;vlaardingen-centrum;8400650;;51.9030570983887;4.34416675567627;;f;NL;f;Europe/Amsterdam;f;;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
