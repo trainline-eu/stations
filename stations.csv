@@ -5868,7 +5868,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7477;Mittenwald (Gr);mittenwald-gr;8000464;;47.39807;11.267439;7685;f;DE;f;Europe/Berlin;f;DEBEE;;f;;f;8004044;t;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7478;Mannheim;mannheim;;;49.479295999056305;8.469530940055847;;t;DE;f;Europe/Berlin;t;DEBEF;;t;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7479;Mannheim Hbf;mannheim-hbf;8014008;;49.479295999056305;8.469530940055847;7478;f;DE;t;Europe/Berlin;t;DEMHG;;t;;f;8000244;t;;f;;f;8014008;f;;;f;;f;8068585;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;マンハイム;만하임;;;Мангейм;;;曼海姆
-7480;München Hbf;munchen-hbf;8020347;;48.140228;11.558338;;f;DE;t;Europe/Berlin;t;DEBEG;;t;;f;8000261;t;;f;;f;8020347;f;;;f;;f;8080600;f;;f;f;;;Munich Main station;Múnich;Munich Gare centrale;Monaco di Baviera Stazione centrale;;Mnichov;;;ミュンヘン;뮌헨;Monachium;Munique;Мюнхен;;Münih;慕尼黑
+7480;München Hbf;munchen-hbf;8020347;;48.140228;11.558338;7686;f;DE;t;Europe/Berlin;t;DEBEG;;t;;f;8000261;t;;f;;f;8020347;f;;;f;;f;8080600;f;;f;f;;;Munich Main station;Múnich;Munich Gare centrale;Monaco di Baviera Stazione centrale;;Mnichov;;;ミュンヘン;뮌헨;Monachium;Munique;Мюнхен;;Münih;慕尼黑
 7481;Neustadt;neustadt;;;49.34961;8.140379;;t;DE;f;Europe/Berlin;t;DEBEH;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7482;Neustadt (Weinstr) Hbf;neustadt-weinstr-hbf;8019403;;49.34961;8.140379;7481;f;DE;t;Europe/Berlin;t;DEQNL;;f;;f;8000275;t;;f;;f;;f;;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ノイシュタット・バイ・コーブルク;;;;Нойштадт-ам-Ренштайг;;;伦斯泰希地区诺伊斯塔特
 7483;Wuppertal;wuppertal;;;51.254334;7.149381;;t;DE;f;Europe/Berlin;t;DEBEI;;f;;f;;f;;f;;f;;f;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
