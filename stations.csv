@@ -18366,7 +18366,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 20298;Scordia;scordia;8312278;;37.290922;14.848031;;;IT;f;Europe/Rome;t;;;f;;f;8302696;f;;f;;f;8312278;t;S12278;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 20299;Santa Maria Maggiore;santa-maria-maggiore;8314003;;46.137405;8.461168;;;IT;f;Europe/Rome;t;;;f;;f;8302808;f;;f;;f;8314003;t;;;f;;f;;f;;f;f;;;;;;;;;;;サンタ・マリーア・マッジョーレ;;;;;;;
 20300;Santa Marinella;santa-marinella;8308015;;42.035968;11.862812;;;IT;f;Europe/Rome;t;;;f;;f;8300590;f;;f;;f;8308015;t;S08015;;f;;f;;f;;f;f;;;;;;;;;;;サンタ・マリネッラ;;;;;;;
-20301;San Marino;san-marino;8302501;;45.89795;11.692511;;;IT;f;Europe/Rome;t;;;f;;f;8302187;f;;f;;f;8302501;t;S02501;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+20301;San Marino;san-marino;8302501;;45.89795;11.692511;;;IT;f;Europe/Rome;t;;;f;;f;8302187;f;;f;;f;8302501;t;S02501;;f;;f;;f;;f;f;;Provinz Vincenza;Province of Vicenza;Provincia de Vicenza;Province de Vicence;Provincia di Vicenza;;;;;;;;;;;;
 20302;Cassine;cassine;8300864;;44.751502;8.533684;;;IT;f;Europe/Rome;t;;;f;;f;8301435;f;;f;;f;8300864;t;S00864;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 20303;Santa Maria Capua Vetere;santa-maria-capua-vetere;8309209;;41.073781;14.254194;;;IT;f;Europe/Rome;t;;;f;;f;8300903;f;;f;;f;8309209;t;S09209;;f;;f;;f;;f;f;;;;;;;;;;;サンタ・マリーア・カープア・ヴェーテレ;산타마리아카푸아베테레;;;Санта-Мария-Капуа-Ветере;;;圣马里亚卡普阿韦泰雷
 20304;Sant’Agata di Militello;santagata-di-militello;8312027;;38.073343;14.640812;;;IT;f;Europe/Rome;t;ITGTM;;f;;f;8300431;f;;f;;f;8312027;t;S12027;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
