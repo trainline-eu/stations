@@ -159,7 +159,7 @@ STATIONS.each do |row|
 end
 
 def slugify(name)
-  name.gsub(/[\/\.]/,"-").to_url
+  name.gsub(/[\/\.]/,"-").to_ascii.to_url
 end
 
 def fold(name)
@@ -443,7 +443,7 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
         if !HOMONYM_STATIONS.include?(row["id"])
-          assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} has an incorrect slug"
+          assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} (#{row["name"]}) has an incorrect slug"
         else
           suffixes = HOMONYM_SUFFIXES[row["country"]].join("|")
           assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["id"]} has an incorrect slug")
