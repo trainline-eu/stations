@@ -87,13 +87,16 @@ HOMONYM_STATIONS = [
   "26735", # Enfield (England and Ireland)
   "26759", # Malling (France and England)
   "17741", # Essen (Belgium and Germany)
+  "27486", # Arce (Spain and Italy),
+  "27488", # Breda (Spain and Netherlands)
+  "27489", # Pau (Spain and France)
 ]
 
 HOMONYM_SUFFIXES = {
   "BE" => ["station", "gare"],
   "CH" => ["bahnhof", "gare", "stazione"],
   "DE" => ["bahnhof"],
-  "ES" => ["estacion"],
+  "ES" => ["estacion", "ciudad"],
   "FR" => ["gare"],
   "GB" => ["station"],
   "IT" => ["stazione"],
