@@ -3442,7 +3442,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 4594;Les Aubrais;les-aubrais;8754301;87543017;47.926630803480734;1.9066965579986572;;f;FR;f;Europe/Paris;t;FRLAB;LAB;t;;f;8700003;f;;f;;f;;f;;;;f;;f;87004;f;;f;t;;;;;;;;;;;;;;;;;;
 4595;Langres;langres;8714209;87142091;47.87695838214019;5.344414114952087;5032;f;FR;t;Europe/Paris;t;FRLAG;LAG;t;;f;8700272;f;;f;;f;;f;;;;f;;f;8700932;f;;f;f;;;;;;;;;;;ラングル;;;;Лангр;;;朗格勒
 4596;Lannion;lannion;8747322;87473223;48.72753437053021;-3.460264205932617;;f;FR;f;Europe/Paris;t;FRLAI;LNI;t;;f;8703647;f;;f;;f;;f;;;;f;;f;8700776;f;;f;t;;;;;;;;;;;ランニオン;;;;Ланьон;;;拉尼翁
-4597;La Frayère;la-frayere;8740509;;43.558103;6.972087;;f;FR;f;Europe/Paris;t;FRLAJ;FYS;t;;f;8706480;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+4597;La Frayère;la-frayere;8740509;;43.558103;6.972087;;f;FR;f;Europe/Paris;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;10553;;;;;;;;;;;;;;;;;
 4598;Lamballe;lamballe;8747310;87473108;48.46587541754351;-2.511454224586487;;f;FR;f;Europe/Paris;t;FRLAM;LAM;t;;f;8701413;f;;f;;f;;f;;;;f;;f;8700729;f;;f;t;;;;;;;;;;;ランバル;;;;Ламбаль;;;朗巴尔
 4600;Laqueuille;laqueuille;8764127;87641274;45.646809;2.704683;;f;FR;f;Europe/Paris;t;FRLAQ;LAQ;t;;f;8700101;f;;f;;f;;f;;;;f;;f;8700177;f;;f;f;;;;;;;;;;;;;;;;;;
 4602;Troyes Lombards;troyes-lombards;8713966;87139667;48.27824;4.067241;5342;f;FR;f;Europe/Paris;t;FRLBD;;t;;f;8705068;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -8681,7 +8681,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10550;Le Bosquet;le-bosquet;8775775;87757757;43.551532;6.981669;;f;FR;f;Europe/Paris;t;FRLSB;BQJ;t;;f;8706479;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10551;Laroquebrou;laroquebrou;;;;;;t;FR;f;Europe/Paris;f;FRLBQ;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10552;Lauterbourg;lauterbourg;;;;;;t;FR;f;Europe/Paris;f;FRLAT;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10553;La Frayère;la-frayere;8775774;87757740;43.558103;6.972087;;f;FR;f;Europe/Paris;f;FRLSH;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;4597;;;;;;;;;;;;;;;;;
+10553;La Frayère;la-frayere;8775774;87757740;43.558103;6.972087;;f;FR;f;Europe/Paris;t;FRLSH;FYS;t;;f;8706480;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10554;;;;;;;;t;FR;f;Europe/Paris;f;FRLEP;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10555;;;8752484;;;;10539;f;FR;f;Europe/Paris;f;FRKBA;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10556;;;;;;;;t;FR;f;Europe/Paris;f;FRMAJ;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
