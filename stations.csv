@@ -15272,7 +15272,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17144;Romorantin Plaisance;romorantin-plaisance;8743708;;47.355542;1.73881;;f;FR;f;Europe/Paris;t;FRRBG;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17145;;;8743737;;;;5673;f;FR;f;Europe/Paris;f;FRRBI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17146;;;8771529;;;;;f;FR;f;Europe/Paris;f;FRRBM;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17147;Vaudagne;vaudagne;8774672;87746727;45.9088517;6.7726673;;f;FR;f;Europe/Paris;t;FRRBP;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+17147;Vaudagne;vaudagne;8774672;87746727;45.9088517;6.7726673;;f;FR;f;Europe/Paris;f;FRRBP;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17148;Balard;balard;8741470;;;;;f;FR;f;Europe/Paris;f;FRRDB;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17149;;;8746496;;;;;f;FR;f;Europe/Paris;f;FRRDF;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17150;;;8711156;;;;8606;f;FR;f;Europe/Paris;f;FRRDG;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
