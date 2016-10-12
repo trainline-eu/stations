@@ -4526,7 +4526,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5973;Brugge;brugge;8891009;;51.19722998626312;3.217062950134277;;f;BE;f;Europe/Brussels;t;BEBRG;;t;;f;8800029;t;;f;;f;;f;;;;f;;f;8800910;f;;f;f;;;Bruges;Brujas;Bruges;Bruges;;Bruggy;;;ブルッヘ;브뤼허;Brugia;Bruges;Брюгге;Brygge;;布鲁日
 5974;Bruxelles;bruxelles;9900009;;50.84651957961837;4.351739287376404;;t;BE;f;Europe/Brussels;t;BEBRU;;t;;f;;f;u1516c;t;;f;;f;;;;f;;f;;f;;f;f;;Brüssel;Brussels;Bruselas;;;Brussel;Brusel;;Brüsszel;ブリュッセル;브뤼셀;Bruksela;Bruxelas;Брюссель;Bryssel;Brüksel;布鲁塞尔
 5976;Charleroi-Sud;charleroi-sud;8872009;;50.4044220000;4.4387740000;;f;BE;f;Europe/Brussels;t;BECRL;;t;;f;8800024;t;;f;;f;;f;;;;f;;f;8800720;f;;f;f;;;South;;;;Zuid;;;;シャルルロワ;샤를루아;;;Шарлеруа;;;沙勒罗瓦
-5985;Gent-Sint-Pieters;gent-sint-pieters;8892007;;51.0356270000;3.7106120000;;f;BE;f;Europe/Brussels;t;BEGNT;;t;;f;8800031;t;;f;;f;;f;;;;f;;f;8800920;f;;f;f;;;Ghent;;Gand;Gand;;;;;;;;;;;;
+5985;Gent-Sint-Pieters;gent-sint-pieters;8892007;;51.0356270000;3.7106120000;26863;f;BE;t;Europe/Brussels;t;BEGNT;;t;;f;8800031;t;;f;;f;;f;;;;f;;f;8800920;f;;f;f;;;Ghent;Gante;Gand;Gand;;;;;;;;;;;;
 5988;Herseaux;herseaux;8885753;;50.713723;3.24604;;f;BE;f;Europe/Brussels;f;BEHER;;f;;f;8800064;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5995;Liège-Guillemins;liege-guillemins;8841004;88410040;50.6242970000;5.5666670000;23044;f;BE;t;Europe/Brussels;t;BELGG;;t;;f;8800012;t;;f;;f;;f;;;;f;;f;8800410;f;;f;f;;Lüttich;;Lieja;;Liegi;Luik;Lutych;;;リエージュ;리에주;;;Льеж;;;列日
 5998;Oostende;oostende;8891702;;51.2284900000;2.9268240000;;f;BE;f;Europe/Brussels;t;BEOST;;t;;f;8800030;t;;f;;f;;f;;;;f;;f;8800917;f;;f;f;;Ostende;Ostend;Ostende;Ostende;Ostenda;;Ostende;Ostende;;オーステンデ;오스텐더;Ostenda;Ostende;Остенде;;;奥斯滕德
@@ -15862,7 +15862,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17773;Diksmuide;diksmuide;8892452;;51.0327230000;2.8691140000;;f;BE;f;Europe/Brussels;t;BEDIK;;f;;f;8800053;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;Dixmude;;;;;;;;;;;;;
 17774;Fleurus;fleurus;8872413;;50.4822060000;4.5439390000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800055;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17775;Gembloux;gembloux;8861200;;50.5706600000;4.6913620000;;f;BE;f;Europe/Brussels;t;BEABQ;;f;;f;8800057;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;Gembloers;;;;ジャンブルー;;;;Жамблу;;;让布卢
-17776;Gent-Dampoort;gent-dampoort;8893120;;51.0558520000;3.7406090000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800058;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;Ghent;;Gand;Gand;;;;;;;;;;;;
+17776;Gent-Dampoort;gent-dampoort;8893120;;51.0558520000;3.7406090000;26863;f;BE;f;Europe/Brussels;t;;;f;;f;8800058;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;Ghent;Gante;Gand;Gand;;;;;;;;;;;;
 17777;Geraardsbergen;geraardsbergen;8895505;;50.7705170000;3.8717970000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800059;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;Grammont;;;;;;;;;;;;;
 17778;Gouvy;gouvy;8845005;;50.1897240000;5.9537350000;;f;BE;f;Europe/Brussels;t;BEGVY;;f;;f;8800060;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17779;Grupont;grupont;8864337;;50.0908070000;5.2806860000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800061;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -16004,7 +16004,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17915;Lede;lede;8895067;;50.9705810000;3.9857900000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800291;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17916;Serskamp;serskamp;8893583;;50.9851970000;3.9584980000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800292;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17917;Kwatrecht;kwatrecht;8893567;;50.9917320000;3.8286040000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800294;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;Quatrecht;;;;;;;;;;;;;
-17918;Drongen;drongen;8892031;;51.0472680000;3.6547710000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800296;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+17918;Drongen;drongen;8892031;;51.0472680000;3.6547710000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800296;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;Tronchiennes;;;;;;;;;;;;;
 17919;Landegem;landegem;8892056;;51.0645900000;3.5753600000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800297;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17920;Hansbeke;hansbeke;8891165;;51.0731930000;3.5357630000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800298;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17921;Bellem;bellem;8891157;;51.0835840000;3.4881200000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800299;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -16029,7 +16029,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17940;Haacht;haacht;8822517;;50.9661310000;4.6131920000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800325;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17941;Boortmeerbeek;boortmeerbeek;8822475;;50.9821500000;4.5733960000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800326;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17942;Hever;hever;8822459;;50.9975390000;4.5379520000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800327;t;;f;;f;;f;;;;f;;f;;f;;f;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
-17943;Gentbrugge;gentbrugge;8893179;;51.0388090000;3.7560880000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800328;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+17943;Gentbrugge;gentbrugge;8893179;;51.0388090000;3.7560880000;26863;f;BE;f;Europe/Brussels;t;;;f;;f;8800328;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;Ghent;Gante;Gand;Gand;;;;;;;;;;;;
 17944;Wondelgem;wondelgem;8893211;;51.0891930000;3.7196550000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800329;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17945;Sleidinge;sleidinge;8893260;;51.1261750000;3.6678590000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800330;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17946;Waarschoot;waarschoot;8893815;;51.1544190000;3.6152180000;;f;BE;f;Europe/Brussels;t;;;f;;f;8800331;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -24892,6 +24892,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 26860;Osnabrück;osnabruck;;;52.272848;8.061777;;f;DE;f;Europe/Berlin;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26861;Heinsberg (Rheinl);heinsberg-rheinl;;;51.065036;6.098877;;f;DE;f;Europe/Berlin;t;;;f;;f;8002721;t;;f;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 26862;Wien;wien;;;48.2082;16.3738;;t;AT;f;Europe/Vienna;t;ATVIE;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;Vienna;Viena;Vienne;Vienna;Wenen;;;;;;;;;;;
+26863;Gent;gent;;;51.05;3.733333;;t;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;f;;;Ghent;Gante;Gand;Gand;;;;;;;;;;;;
 27000;Abarán;abaran;;;38.208324;-1.393915;;t;ES;f;Europe/Madrid;t;;;f;;f;;f;eyz127;t;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 27001;Albatera;albatera;;;38.17902;-0.87059;;t;ES;f;Europe/Madrid;t;;;f;;f;;f;eyz3hn;t;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 27002;Alginet;alginet;;;39.26667;-0.46667;;t;ES;f;Europe/Madrid;t;;;f;;f;;f;eyzxmk;t;;f;;f;;;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
