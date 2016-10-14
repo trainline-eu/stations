@@ -21219,7 +21219,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23186;Bastogne-Nord;bastogne-nord;8865128;;50.006919;5.720744;;f;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BEBAN;t;f;;;;;;;Bastenaken-Noord;;;;;;;;;;;
 23187;Poix-Saint-Hubert;poix-saint-hubert;8865227;;50.019504;5.292641;;f;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BEPOI;t;f;;;;;;;;;;;;;;;;;;
 23188;Paliseul;paliseul;8865540;;49.895408;5.118349;;f;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BEPLS;t;f;;;;;;;;;;;;;;;;;;
-23189;Neufchâteau;neufchateau;8866258;;49.854318;5.452559;;f;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BENEU;t;f;;;;;;;;;;;;;;;;;;
+23189;Neufchâteau;neufchateau-gare;8866258;;49.854318;5.452559;;f;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BENEU;t;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 23190;Virton;virton;8866407;;49.560821;5.519125;;f;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BEVIR;t;f;;;;;;;;;;;;;;;;;;
 23191;Athus;athus;8866605;;49.563346;5.828947;;f;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUATH;t;f;;Athem;;;;;;;;;;;;;;;;
 23192;Messancy;messancy;8866662;;49.592777;5.818915;;f;BE;f;Europe/Brussels;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BEMES;t;f;;;;;;;;;;;;;;;;;;
