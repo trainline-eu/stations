@@ -21286,7 +21286,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23253;Dudelange-Burange;dudelange-burange;8200611;;49.49284363;6.08643579;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUDDB;t;f;;;;;;;;;;;;;;;;;;
 23254;Dudelange-Centre;dudelange-centre;8200614;;49.478911;6.082247;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUDDC;t;f;;;;;;;;;;;;;;;;;;
 23255;Dudelange-Usines;dudelange-usines;8200615;;49.472575;6.07942;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUDDU;t;f;;;;;;;;;;;;;;;;;;
-23256;Goebelsmühle;goebelsmühle;8200129;;49.92104;6.053335;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUGOB;t;f;;;;;;;;;;;;;;;;;;
+23256;Goebelsmühle;goebelsmuhle;8200129;;49.92104;6.053335;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUGOB;t;f;;;;;;;;;;;;;;;;;;
 23257;Heisdorf;heisdorf;8200112;;49.675359;6.13938;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUHDF;t;f;;;;;;;;;;;;;;;;;;
 23258;Hollerich;hollerich;8200710;;49.595526;6.121037;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUHLR;t;f;;;;;;;;;;;;;;;;;;
 23259;Kayl;kayl;8200622;;49.486944;6.033889;;f;LU;f;Europe/Luxembourg;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUKAY;t;f;;;;;;;;;;;;;;;;;;
