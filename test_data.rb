@@ -141,9 +141,10 @@ STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 
 def valid_carrier(row)
   row["atoc_is_enabled"]         == "t" ||
+    row["benerail_is_enabled"]   == "t" ||
+    row["busbud_is_enabled"]     == "t" ||
     row["db_is_enabled"]         == "t" ||
     row["hkx_is_enabled"]        == "t" ||
-    row["busbud_is_enabled"]     == "t" ||
     row["idtgv_is_enabled"]      == "t" ||
     row["ntv_is_enabled"]        == "t" ||
     row["ouigo_is_enabled"]      == "t" ||
