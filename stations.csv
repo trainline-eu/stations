@@ -6824,7 +6824,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8593;Esch sur alzette;esch-sur-alzette;8200236;;;;;f;LU;f;Europe/Luxembourg;f;LUAAE;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8594;Differdange;differdange;8200920;;49.528325;5.891952;;f;LU;f;Europe/Luxembourg;f;LUAAF;;f;;f;8200920;f;;f;;f;;f;;;;f;;f;;f;;f;LUDIF;t;f;;;;;;;;;;;;;;;;;;
 8595;Wiltz;wiltz;8200142;;49.966719;5.928448;;f;LU;f;Europe/Luxembourg;f;LUAAG;;f;;f;8200142;f;;f;;f;;f;;;;f;;f;;f;;f;LUWIL;t;f;;;;;;;;;;;;;;;;;;
-8596;Dudelange-Ville;dudelange-Ville;8200613;;49.483377;6.083014;;f;LU;f;Europe/Luxembourg;f;LUAAH;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUDUD;t;f;;;;;;;;;;;;;;;;;;
+8596;Dudelange-Ville;dudelange-ville;8200613;;49.483377;6.083014;;f;LU;f;Europe/Luxembourg;f;LUAAH;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUDUD;t;f;;;;;;;;;;;;;;;;;;
 8597;Diekirch;diekirch;8200126;;49.864755;6.153314;;f;LU;f;Europe/Luxembourg;f;LUAAI;;f;;f;8200126;f;;f;;f;;f;;;;f;;f;;f;;f;LUDIE;t;f;;;;;;;;;;;;;;;;;;
 8599;Rodange;rodange;8200237;;;;8606;f;LU;f;Europe/Luxembourg;f;LUAAK;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8600;Bettembourg;bettembourg;;;;;;t;LU;f;Europe/Luxembourg;f;LUBET;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
