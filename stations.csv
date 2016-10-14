@@ -4500,7 +4500,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5904;Lembeek;lembeek;8814332;;50.714334;4.220687;;f;BE;f;Europe/Brussels;t;BEAAD;;f;;f;8800401;f;;f;;f;;f;;;;f;;f;;f;;f;BEAAD;t;f;;;;;;;;;;;;;;;;;;
 5909;Leuven;leuven;8833001;;50.8790890000;4.7123880000;;f;BE;f;Europe/Brussels;t;BEAAI;;f;;f;8800011;t;;f;;f;;f;;;;f;;f;;f;;f;BELEU;t;f;;Löwen;;Lovaina;Louvain;Lovanio;;Lovaň;;;レーヴェン;;;Lovaina;Лёвен;;;鲁汶
 5910;Sterpenich;sterpenich;8866068;;;;;f;BE;f;Europe/Brussels;f;BEAAJ;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-5914;Statte;statte;8843406;;50.528132;5.22;;f;BE;f;Europe/Brussels;t;BEAAN;;f;;f;8800169;f;;f;;f;;f;;;;f;;f;;f;;f;BESTA;t;f;;;;;;;;;;;;;;;;;;
+5914;Statte;statte-gare;8843406;;50.528132;5.22;;f;BE;f;Europe/Brussels;t;BEAAN;;f;;f;8800169;f;;f;;f;;f;;;;f;;f;;f;;f;BESTA;t;f;;Belgien;Belgium;Bélgica;Belgique;Belgio;België;;;;;;;;;;;
 5915;Welkenraedt;welkenraedt;8844503;;50.6595090000;5.9750210000;;f;BE;f;Europe/Brussels;t;BEAAO;;f;;f;8800017;f;;f;;f;;f;;;;f;;f;;f;;f;BEWEL;t;f;;;;;;;;;;;;;;;;;;
 5927;La Louvière Centre;la-louviere-centre;8882107;;50.478161;4.179858;;f;BE;f;Europe/Brussels;t;BEABA;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BELAZ;t;f;;;;;;;Centrum;;;;;;;;;;;
 5929;Antwerpen-Centraal;antwerpen-centraal;8821006;88210060;51.21552672202654;4.42100465297699;5964;f;BE;t;Europe/Brussels;t;BEABC;;t;;f;8800007;t;;f;;f;;f;;;;f;;f;8800210;f;;f;BEABC;t;f;;;Antwerp;;Anvers;Anversa;;;;;;;;;;;;
@@ -19945,7 +19945,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 21894;Sciacca;sciacca;8312605;;37.50972584293751;13.08021068572998;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312605;t;;;;f;;f;;f;;f;ITAYL;t;f;;;;;;;;;;;;;;;;;;
 21895;Scigliano-Pedivigliano;scigliano-pedivigliano;8354211;;39.1285857;16.3117418;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354211;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21896;Cassano Allo Jonio;cassano-allo-jonio;8311900;;39.726388889;16.351944444;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311900;t;S11900;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-21897;Statte;statte;8341019;;40.565687615671614;17.21257209777832;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341019;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+21897;Statte;statte;8341019;;40.565687615671614;17.21257209777832;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341019;t;;;;f;;f;;f;;f;;f;f;;Italien;Italy;Italia;Italie;Italia;Italië;;;;;;;;;;;
 21898;Anzano del Parco;anzano-del-parco;8301453;;45.7651;9.20272;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301453;t;S01453;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21899;Scoppito;scoppito;8307433;;42.373034;13.254888;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8307433;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21900;Scala Ruia;scala-ruia;8343922;;40.8692942319402;8.955960273742676;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8343922;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;

@@ -64,6 +64,7 @@ VIRTUAL_STATIONS = [
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
   "780",   # Ch[eè]vremont (France & the Netherlands)
+  "5914",  # Statte (Belgium and Italy)
   "6661",  # Lugo (Spain and Italy)
   "8015",  # Hove (Belgium and England)
   "8210",  # Derby (Italy and England)
