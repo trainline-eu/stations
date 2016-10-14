@@ -63,6 +63,7 @@ VIRTUAL_STATIONS = [
 
 HOMONYM_STATIONS = [
   "117",   # Forbach (France)
+  "780",   # Ch[eè]vremont (France & the Netherlands)
   "6661",  # Lugo (Spain and Italy)
   "8015",  # Hove (Belgium and England)
   "8210",  # Derby (Italy and England)
@@ -380,10 +381,24 @@ class StationsTest < Minitest::Test
   end
 
   def test_homonym_exists
+    stations = STATIONS.map do |station|
+      {
+        "id"           => station["id"],
+        "folded_name"  => fold(station["name"] || ""),
+        "suggestable?" => (station["is_suggestable"] == "t")
+      }
+    end
+
     HOMONYM_STATIONS.each do |homonym_id|
       homonym_station = STATIONS_BY_ID[homonym_id]
-      assert STATIONS.any? { |station| station["id"] != homonym_station["id"] && station["name"] == homonym_station["name"] && station["is_suggestable"] == "t" },
-              "Station #{homonym_station["name"]} (#{homonym_station["id"]}) does not have a suggestable homonym station"
+      folded_homonym_name = fold(homonym_station["name"] || "")
+      has_homonym = stations.any? do |station|
+        station["id"] != homonym_station["id"] &&
+          station["folded_name"] == folded_homonym_name &&
+          station["suggestable?"]
+        end
+        assert has_homonym,
+          "Station #{homonym_station["name"]} (#{homonym_station["id"]}) does not have a suggestable homonym station"
     end
   end
 
