@@ -4536,7 +4536,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6005;Schaerbeek;schaerbeek;8811015;;;;;f;BE;f;Europe/Brussels;f;BESRB;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6006;Sterpenich Ville;sterpenich-ville;;;;;;t;BE;f;Europe/Brussels;f;BESTP;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6008;Verviers-Central;verviers-central;8844008;;50.588135;5.854917;;f;BE;f;Europe/Brussels;t;BEVEV;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BEVEC;t;f;;;;;;;;;;;;;;;;;;
-6012;Vallorbe;vallorbe;8500254;;47.577306;7.591588;6367;f;CH;f;Europe/Zurich;f;CHAAA;;f;;f;8500254;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAA;t;f;;;;;;;;;;;;;;;;;;
+6012;Vallorbe;vallorbe;8500254;;;;6367;f;CH;f;Europe/Zurich;f;CHAAA;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;6176;;;;;;;;;;;;;;;;;
 6013;Sarnen;sarnen;8508314;;46.8945840000;8.2474860000;;f;CH;f;Europe/Zurich;t;CHAAB;;f;;f;8508314;t;;f;;f;;f;;;;f;;f;;f;;f;CHSAN;t;f;;;;;;;;;;;ザルネン;자르넨;;;Зарнен;;;薩爾嫩
 6014;Maienfeld;maienfeld;8509003;;47.003839;9.529203;;f;CH;f;Europe/Zurich;f;CHAAC;;f;;f;8509003;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAC;t;f;;;;;;;;;;;;;;;;;;
 6015;Saas-Fee Post;saas-fee-post;8501782;;;;;f;CH;f;Europe/Zurich;f;CHAAD;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -4654,7 +4654,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6171;Finhaut;finhaut;8501565;;46.082319;6.976366;6371;f;CH;f;Europe/Zurich;f;CHAGG;;f;;f;8501565;f;;f;;f;;f;;;;f;;f;;f;;f;CHAGG;t;f;;;;;;;;;;;;;;;;;;
 6172;La-Neuveville;la-neuveville;8504226;;;;;f;CH;f;Europe/Zurich;f;CHAGH;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6174;Le Chable;le-chable;8501579;;46.078732;7.215047;;f;CH;f;Europe/Zurich;f;CHAGJ;;f;;f;8501579;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6176;Vallorbe;vallorbe;8501103;85011031;46.712427;6.370529;6367;f;CH;f;Europe/Zurich;t;CHAGL;;t;;f;8501103;f;;f;;f;;f;;;;f;;f;8500990;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+6176;Vallorbe;vallorbe;8501103;85011031;46.712427;6.370529;6367;f;CH;f;Europe/Zurich;t;CHAGL;;t;;f;8501103;f;;f;;f;;f;;;;f;;f;8500990;f;;f;CHAAA;t;f;;;;;;;;;;;;;;;;;;
 6177;Rheinfelden;rheinfelden;8500301;;47.5512100000;7.7921550000;;f;CH;f;Europe/Zurich;t;CHAGM;;f;;f;8500301;t;;f;;f;;f;;;;f;;f;;f;;f;CHAGM;t;f;;;;;;;;;;;;;;;;;;
 6178;Pratteln;pratteln;8500021;;47.5226600000;7.6908200000;;f;CH;f;Europe/Zurich;t;CHAGN;;f;;f;8500021;t;;f;;f;;f;;;;f;;f;;f;;f;CHAGN;t;f;;;;;;;;;;;;;;;;;;
 6179;Arth;arth;8505004;;47.0491630000;8.5494780000;;f;CH;f;Europe/Zurich;t;CHAGO;;f;;f;8505004;t;;f;;f;8505004;t;;;;f;;f;;f;;f;CHAGO;t;f;;;;;;;;;;;;;;;;;;
