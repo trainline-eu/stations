@@ -4798,7 +4798,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6391;Martigny;martigny;;;;;;t;CH;f;Europe/Zurich;f;CHZJM;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6392;Montreux;montreux;8501300;85013003;46.4358640000;6.9104300000;;f;CH;f;Europe/Zurich;t;CHZJP;;t;;f;8501300;t;;f;;f;8501300;t;S01235;;;f;;f;8500116;f;;f;;f;f;;;;;;;;;;;モントルー;몽트뢰;;;Монтрё;;Montrö;蒙特勒
 6393;Olten;olten;8500218;;47.3520090000;7.9076210000;;f;CH;f;Europe/Zurich;t;CHZJU;;t;;f;8500218;t;;f;;f;8500218;t;S01150;;;f;;f;;f;;f;CHZJU;t;f;;;;;;;;;;;オルテン;올텐;;;Ольтен;;;奧爾滕
-6395;Schaffhausen;schaffhausen;8503424;;47.6982830000;8.6327360000;;f;CH;f;Europe/Zurich;t;CHZKJ;;f;;f;8503424;t;;f;;f;;f;;;;f;;f;;f;;f;CHSCH;t;f;;;;;Schaffhouse;Sciaffusa;;;;;シャフハウゼン;샤프하우젠;Szafuza;Sciaffusa;Шаффхаузен;;;沙夫豪森
+6395;Schaffhausen;schaffhausen;8503424;;47.6982830000;8.6327360000;;f;CH;f;Europe/Zurich;t;CHZKJ;;f;;f;8503424;t;;f;;f;;f;;;;f;;f;;f;;f;DESCN;t;f;;;;;Schaffhouse;Sciaffusa;;;;;シャフハウゼン;샤프하우젠;Szafuza;Sciaffusa;Шаффхаузен;;;沙夫豪森
 6396;Sierre;sierre;8585242;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6399;Porrentruy;porrentruy;8500126;;47.4214690000;7.0796340000;;f;CH;f;Europe/Zurich;t;CHZLN;;f;;f;8500126;t;;f;;f;;f;;;;f;;f;;f;;f;CHZLN;t;f;;;;;;;;;;;;;;;;;;
 6400;Anzere poste;anzere-poste;8570797;;;;;f;CH;f;Europe/Zurich;f;CHZRE;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
