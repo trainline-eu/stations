@@ -4543,7 +4543,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6018;Betten;betten;8501675;;;;;f;CH;f;Europe/Zurich;f;CHAAG;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAG;t;f;;;;;;;;;;;;;;;;;;
 6019;Campocologno;campocologno;8509368;;46.233185;10.142097;;f;CH;f;Europe/Zurich;f;CHAAH;;f;;f;8509368;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAH;t;f;;;;;;;;;;;;;;;;;;
 6020;Les Verrières;les-verrieres;8500255;;46.905269;6.479337;;f;CH;f;Europe/Zurich;f;CHAAI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAI;t;f;;;;;;;;;;;;;;;;;;
-6021;Domat/Ems;domat-slash-ems;8509181;;46.833125;9.453137;;f;CH;f;Europe/Zurich;f;CHAAJ;;f;;f;8509181;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAJ;t;f;;;;;;;;;;;;;;;;;;
+6021;Domat/Ems;domat-ems;8509181;;46.833125;9.453137;;f;CH;f;Europe/Zurich;f;CHAAJ;;f;;f;8509181;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAJ;t;f;;;;;;;;;;;;;;;;;;
 6024;Jenaz;jenaz;8509062;;46.930703;9.718399;;f;CH;f;Europe/Zurich;f;CHAAM;;f;;f;8509062;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAM;t;f;;;;;;;;;;;;;;;;;;
 6025;La-Chaux-de-Fonds;la-chaux-de-fonds;8504314;;47.0992770000;6.8262640000;;f;CH;f;Europe/Zurich;t;CHAAN;;f;;f;8504314;t;;f;;f;;f;;;;f;;f;;f;;f;CHAAN;t;f;;;;;;;;;;;;;;;;;;
 6026;Klosters-Dorf;klosters-dorf;8509067;;;;6338;f;CH;f;Europe/Zurich;f;CHAAO;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;CHAAO;t;f;;;;;;;;;;;;;;;;;;
