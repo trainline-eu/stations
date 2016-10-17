@@ -15637,7 +15637,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17538;Bruxelles-Midi Eurostar;bruxelles-midi-eurostar;;;50.8358950000;4.3353170000;5974;f;BE;f;Europe/Brussels;f;;;f;;f;8898004;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;5893;;;;;;;;;;;;;;;;;
 17540;Amstetten NÖ;amstetten-no;8101049;;48.1219080000;14.8774440000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100012;t;;f;;f;;f;;;;f;;f;;f;;f;ATATT;t;f;;;;;;;;;;;;;;;;;;
 17541;Bad Ischl;bad-ischl;8101934;;47.7119550000;13.6270980000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100157;t;;f;;f;;f;;;;f;;f;;f;;f;ATAHZ;t;f;;;;;;;;;;;バート・イシュル;바트이슐;;;Бад-Ишль;;;巴德伊舍
-17542;Bad Gastein;bad-gastein;8102117;;47.1197730000;13.1455640000;;f;AT;f;Europe/Vienna;f;;;f;;f;8100095;f;;f;;f;;f;;;;f;;f;;f;;f;ATAEU;t;f;;;;;;;;;;;;;;;;;;
+17542;Bad Gastein;bad-gastein;8102117;;47.1197730000;13.1455640000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100095;f;;f;;f;;f;;;;f;;f;;f;;f;ATAEU;t;f;;;;;;;;;;;;;;;;;;
 17544;Bregenz;bregenz;8100467;;47.5030010000;9.7396230000;;f;AT;f;Europe/Vienna;t;ATBGZ;;f;;f;8100090;t;;f;;f;;f;;;;f;;f;;f;;f;ATBRE;t;f;;;;;Brégence;;;;;;ブレゲンツ;브레겐츠;Bregencja;;Брегенц;;;布雷根茨
 17545;Dornbirn;dornbirn;8102329;;47.4176930000;9.7388050000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100122;t;;f;;f;;f;;;;f;;f;;f;;f;ATDRN;t;f;;;;;;;;;;;ドルンビルン;도른비른;;;Дорнбирн;;;多恩比恩
 17547;Gmunden;gmunden;8101924;;47.9250350000;13.7825390000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100151;t;;f;;f;;f;;;;f;;f;;f;;f;ATAHM;t;f;;;;;;;;;;;;;;;;;;
