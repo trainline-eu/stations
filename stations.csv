@@ -94,16 +94,16 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 119;Sarreguemines Poste;sarreguemines-poste;8740690;;49.110155;7.054923;118;f;FR;f;Europe/Paris;t;FRZDB;;t;;f;8705509;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 121;Sarreguemines;sarreguemines;8719361;87193615;49.10741472240868;7.068398594856262;118;f;FR;t;Europe/Paris;t;FRSGS;SGS;t;;f;8700439;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;Saargemünd;;;;;;;;;サルグミーヌ;;;;Саргемин;;;萨尔格米纳
 122;Dunkerque;dunkerque;8728100;87281006;51.03026865635461;2.3686105012893672;;f;FR;f;Europe/Paris;t;FRADI;DKQ;t;;f;8700004;f;u11dmf;t;;f;;f;;;;f;;f;8700005;f;;f;FRADI;f;t;;Dünkirchen;Dunkirk;;;;Duinkerke;Dunkerk;;;ダンケルク;됭케르크;Dunkierka;Dunquerque;Дюнкерк;;;敦刻尔克
-123;Lille-Flandres;lille-flandres;8728600;87286005;50.637486;3.071128;4652;f;FR;f;Europe/Paris;t;FRADJ;LLF;t;;f;8700030;f;;f;ADJ;f;;f;;;;f;;f;;f;;f;FRADJ;f;t;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
+123;Lille-Flandres;lille-flandres;8728600;87286005;50.637486;3.071128;4652;f;FR;f;Europe/Paris;t;FRADJ;LLF;t;;f;8700030;f;;f;ADJ;f;;f;;;;f;;f;;f;;f;FRADJ;t;t;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 124;Haubourdin;haubourdin;8728609;87286096;50.6069682482955;2.990228533744812;;f;FR;f;Europe/Paris;t;FRADK;;t;;f;8701242;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-125;Tourcoing;tourcoing;8728654;87286542;50.716573;3.168176;5840;f;FR;t;Europe/Paris;t;FRADM;TRG;t;;f;8700121;f;;f;ADM;t;;f;;;;f;;f;8700221;f;;f;FRADM;f;t;;;;;;;Toerkonje;;;;トゥールコワン;;;;Туркуэн;;;图尔宽
+125;Tourcoing;tourcoing;8728654;87286542;50.716573;3.168176;5840;f;FR;t;Europe/Paris;t;FRADM;TRG;t;;f;8700121;f;;f;ADM;t;;f;;;;f;;f;8700221;f;;f;FRADM;t;t;;;;;;;Toerkonje;;;;トゥールコワン;;;;Туркуэн;;;图尔宽
 126;Nomain;nomain;;;50.5000000000;3.2500000000;;t;FR;f;Europe/Paris;f;FRADN;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 127;Nomain-Ouvignies;nomain-ouvignies;8728681;87286815;50.506063;3.230831;126;f;FR;f;Europe/Paris;f;FRCKM;;t;;f;8701679;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 128;Nomain;nomain;8728660;87286609;50.502423;3.206362;126;f;FR;t;Europe/Paris;t;FRCKC;;t;;f;8701678;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 129;Croix;croix;;;;;;t;FR;f;Europe/Paris;f;FRADO;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-130;Croix—Wasquehal;croix-wasquehal;8728671;87286716;50.678521;3.137765;129;f;FR;t;Europe/Paris;t;FRCKH;CRW;t;;f;8700512;f;;f;;f;;f;;;;f;;f;8700839;f;;f;FRCKH;f;t;;;;;;;;;;;;;;;;;;
-131;Croix-l’Allumette;croix-lallumette;8728105;87281055;50.687115;3.151564;129;f;FR;f;Europe/Paris;t;FRCID;;t;;f;8700511;f;;f;;f;;f;;;;f;;f;;f;;f;FRCID;f;f;;;;;;;;;;;;;;;;;;
-132;Roubaix;roubaix;8728673;87286732;50.6957168696774;3.1631076335906982;;f;FR;f;Europe/Paris;t;FRADP;RXB;t;;f;8700236;f;;f;;f;;f;;;;f;;f;8700838;f;;f;FRADP;f;t;;;;;;;Robaais;;;;ルーベ;루베;;;Рубе;;;鲁贝
+130;Croix—Wasquehal;croix-wasquehal;8728671;87286716;50.678521;3.137765;129;f;FR;t;Europe/Paris;t;FRCKH;CRW;t;;f;8700512;f;;f;;f;;f;;;;f;;f;8700839;f;;f;FRCKH;t;t;;;;;;;;;;;;;;;;;;
+131;Croix-l’Allumette;croix-lallumette;8728105;87281055;50.687115;3.151564;129;f;FR;f;Europe/Paris;t;FRCID;;t;;f;8700511;f;;f;;f;;f;;;;f;;f;;f;;f;FRCID;t;f;;;;;;;;;;;;;;;;;;
+132;Roubaix;roubaix;8728673;87286732;50.6957168696774;3.1631076335906982;;f;FR;f;Europe/Paris;t;FRADP;RXB;t;;f;8700236;f;;f;;f;;f;;;;f;;f;8700838;f;;f;FRADP;t;t;;;;;;;Robaais;;;;ルーベ;루베;;;Рубе;;;鲁贝
 136;Jeumont;jeumont;;;50.3000000000;4.1000000000;;t;FR;f;Europe/Paris;f;FRADR;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 137;Jeumont;jeumont;8729501;87295014;50.296237;4.086271;136;f;FR;t;Europe/Paris;t;FRCMA;JTJ;t;;f;8700118;f;;f;;f;;f;;;;f;;f;8700216;f;;f;FRCMA;f;f;;;;;;;;;;;;;;;;;;
 139;Bellegarde-sur-Valserine;bellegarde-sur-valserine;;;46.1078740000;5.8242130000;;t;FR;f;Europe/Paris;f;FRADS;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;t;;;;;;;;;;;;;;;;;;
@@ -293,7 +293,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 427;Moyen;moyen;8714124;87141242;48.4833330000;6.5666670000;;f;FR;f;Europe/Paris;t;FRARX;;t;;f;8701504;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 428;Soulosse;soulosse;8714125;87141259;48.40923;5.739127;;f;FR;f;Europe/Paris;t;FRARY;;t;;f;8701993;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 429;Magnières;magnieres;8714126;87141267;48.4500000000;6.5666670000;9107;f;FR;f;Europe/Paris;t;FRARZ;;t;;f;8701476;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-430;Ascq;ascq;8728686;87286864;50.6166870000;3.1666370000;;f;FR;f;Europe/Paris;t;FRASC;;t;;f;8700509;f;;f;;f;;f;;;;f;;f;;f;;f;FRASC;f;f;;;;;;;;;;;;;;;;;;
+430;Ascq;ascq;8728686;87286864;50.6166870000;3.1666370000;;f;FR;f;Europe/Paris;t;FRASC;;t;;f;8700509;f;;f;;f;;f;;;;f;;f;;f;;f;FRASC;t;f;;;;;;;;;;;;;;;;;;
 432;Coussey;coussey;8714134;;48.4166670000;5.6833330000;;f;FR;f;Europe/Paris;t;FRASE;;t;;f;8700966;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 433;Domremy-la-Pucelle;domremy-la-pucelle;8714136;;48.4500000000;5.6833330000;;f;FR;f;Europe/Paris;t;FRASF;;t;;f;8701041;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 434;Auxerre-St-Gervais;auxerre-st-gervais;8768357;87683573;47.797618310856116;3.5852980613708496;26819;f;FR;f;Europe/Paris;t;FRASG;AUX;t;;f;8702732;f;;f;;f;;f;;;;f;;f;8700397;f;;f;FRASG;f;f;;;;;;;;;;;;;;;;;;
@@ -966,7 +966,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 1274;Watten-Éperlecques;watten-eperlecques;8728143;87281436;50.825806296414086;2.2078120708465576;;f;FR;f;Europe/Paris;t;FRCIQ;;t;;f;8702281;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1275;Renescure;renescure;8728145;87281451;50.7333330000;2.3666670000;;f;FR;f;Europe/Paris;t;FRCIR;;t;;f;8701884;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1276;Ebblinghem;ebblinghem;8728146;87281469;50.7333330000;2.4000000000;;f;FR;f;Europe/Paris;t;FRCIS;;t;;f;8701053;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-1281;Hellemmes;hellemmes;8728606;87286062;50.6166670000;3.1166670000;;f;FR;f;Europe/Paris;t;FRCJA;;t;;f;8700513;f;;f;;f;;f;;;;f;;f;;f;;f;FRCJA;f;f;;;;;;;;;;;;;;;;;;
+1281;Hellemmes;hellemmes;8728606;87286062;50.6166670000;3.1166670000;;f;FR;f;Europe/Paris;t;FRCJA;;t;;f;8700513;f;;f;;f;;f;;;;f;;f;;f;;f;FRCJA;t;f;;;;;;;;;;;;;;;;;;
 1282;Loos-les-Lille;loos-les-lille;8728611;87286112;50.61281;3.017049;;f;FR;f;Europe/Paris;t;FRCJB;;t;;f;8701424;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1283;Steenwerck;steenwerck;8728616;87286161;50.713471;2.785613;;f;FR;f;Europe/Paris;t;FRCJC;;t;;f;8701929;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1284;Bailleul;bailleul;8728617;87286179;50.72901253513248;2.7345657348632812;;f;FR;f;Europe/Paris;t;FRCJD;;t;;f;8700731;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -988,12 +988,12 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 1303;Tressin;tressin;8728674;87286740;50.611839;3.189525;;f;FR;f;Europe/Paris;t;FRCKI;;t;;f;8702115;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1304;Cysoing;cysoing;8728678;87286781;50.5666670000;3.2166670000;;f;FR;f;Europe/Paris;t;FRCKK;;t;;f;8700883;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1305;Genech;genech;8728680;87286807;50.5333330000;3.2166670000;;f;FR;f;Europe/Paris;t;FRCKL;;t;;f;8701185;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-1306;Pont-de-Bois;pont-de-bois;8728683;87286831;50.624235;3.128048;;f;FR;f;Europe/Paris;t;FRCKN;;t;;f;8700515;f;;f;;f;;f;;;;f;;f;;f;;f;FRCKN;f;f;;;;;;;;;;;;;;;;;;
+1306;Pont-de-Bois;pont-de-bois;8728683;87286831;50.624235;3.128048;;f;FR;f;Europe/Paris;t;FRCKN;;t;;f;8700515;f;;f;;f;;f;;;;f;;f;;f;;f;FRCKN;t;f;;;;;;;;;;;;;;;;;;
 1307;Lesquin;lesquin;8728684;87286849;50.5833330000;3.1166670000;;f;FR;f;Europe/Paris;t;FRCKO;;t;;f;8701450;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-1308;Annappes;annappes;8728685;87286856;50.622833;3.14759;;f;FR;f;Europe/Paris;t;FRCKP;;t;;f;8700508;f;;f;;f;;f;;;;f;;f;;f;;f;FRCKP;f;f;;;;;;;;;;;;;;;;;;
-1309;Baisieux;baisieux;8728687;87286872;50.6000000000;3.2500000000;;f;FR;f;Europe/Paris;t;FRCKQ;;t;;f;8700510;f;;f;;f;;f;;;;f;;f;8700220;f;;f;FRCKQ;f;f;;;;;;;;;;;;;;;;;;
+1308;Annappes;annappes;8728685;87286856;50.622833;3.14759;;f;FR;f;Europe/Paris;t;FRCKP;;t;;f;8700508;f;;f;;f;;f;;;;f;;f;;f;;f;FRCKP;t;f;;;;;;;;;;;;;;;;;;
+1309;Baisieux;baisieux;8728687;87286872;50.6000000000;3.2500000000;;f;FR;f;Europe/Paris;t;FRCKQ;;t;;f;8700510;f;;f;;f;;f;;;;f;;f;8700220;f;;f;FRCKQ;t;f;;;;;;;;;;;;;;;;;;
 1313;Mouscron;mouscron;8728698;;;;;f;BE;f;Europe/Brussels;f;FRCKU;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;Moeskroen;;;;;;;;;;;
-1314;Lezennes;lezennes;8728710;87287102;50.6166670000;3.1166670000;;f;FR;f;Europe/Paris;t;FRCKY;;t;;f;8700514;f;;f;;f;;f;;;;f;;f;;f;;f;FRLZN;f;f;;;;;;;;;;;;;;;;;;
+1314;Lezennes;lezennes;8728710;87287102;50.6166670000;3.1166670000;;f;FR;f;Europe/Paris;t;FRCKY;;t;;f;8700514;f;;f;;f;;f;;;;f;;f;;f;;f;FRLZN;t;f;;;;;;;;;;;;;;;;;;
 1315;Mont-de-Terre;mont-de-terre;8728712;87287128;50.632766;3.070706;;f;FR;f;Europe/Paris;t;FRCLA;;t;;f;8701502;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1316;Chambourg;chambourg;;;47.1833330000;0.9666670000;;t;FR;f;Europe/Paris;f;FRCLC;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 1317;Chambourg;chambourg;8757146;87571463;47.182185;0.964785;1316;f;FR;t;Europe/Paris;t;FRESU;;t;;f;8703021;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5099,7 +5099,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6697;Neckarsulm;neckarsulm;8029635;;49.188973;9.220064;;f;DE;f;Europe/Berlin;t;DEAAG;;f;;f;8004220;t;;f;;f;;f;;;;f;;f;;f;;f;DEAAG;f;f;;;;;;;;;;;;;;;;;;
 6698;Aachen;aachen;;;50.77607;6.08378;;t;DE;f;Europe/Berlin;t;DEAAH;;t;;f;;f;u1h2fe;t;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Aquisgrán;Aix-la-Chapelle;Aquisgrana;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
 6699;Aachen-Rothe Erde;aachen-rothe-erde;8015342;;50.770202;6.116476;6698;f;DE;f;Europe/Berlin;t;DEACP;;f;;f;8000406;t;;f;;f;;f;;;;f;;f;;f;;f;DEARE;f;f;;;;Aquisgrán;Aix-la-Chapelle;Aquisgrana;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
-6700;Aachen Hbf;aachen-hbf;8015345;;50.767802;6.091495;6698;f;DE;t;Europe/Berlin;t;DEBDY;;t;;f;8000001;t;;f;;f;;f;;;;f;;f;8052101;f;;f;DEBDY;f;f;;;Main station;Aquisgrán;Aix-la-Chapelle Gare centrale;Aquisgrana Stazione centrale;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
+6700;Aachen Hbf;aachen-hbf;8015345;;50.767802;6.091495;6698;f;DE;t;Europe/Berlin;t;DEBDY;;t;;f;8000001;t;;f;;f;;f;;;;f;;f;8052101;f;;f;DEBDY;t;f;;;Main station;Aquisgrán;Aix-la-Chapelle Gare centrale;Aquisgrana Stazione centrale;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
 6701;Aachen Süd (Gr);aachen-sud-gr;8000452;;50.731917;6.045407;6698;f;DE;f;Europe/Berlin;f;DEAQK;;f;;f;8000403;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6702;Aachen West;aachen-west;8015199;;50.78036;6.070712;6698;f;DE;f;Europe/Berlin;t;DEAAW;;f;;f;8000404;t;;f;;f;;f;;;;f;;f;;f;;f;DEAAW;f;f;;;;Aquisgrán;Aix-la-Chapelle;Aquisgrana;Aken;Cáchy;;;アーヘン;아헨;Akwizgran;Aquisgrano;Ахен;;;亚琛
 6703;Buxtehude;buxtehude;8001188;;53.47049;9.688313;;f;DE;f;Europe/Berlin;t;DEAAI;;f;;f;8001315;t;;f;;f;;f;;;;f;;f;;f;;f;DEAAI;f;f;;;;;;;;;;;;;;;;;;
