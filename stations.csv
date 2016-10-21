@@ -4421,7 +4421,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 5801;Monaco—Monte-Carlo;monaco-monte-carlo;8775640;87756403;43.738211;7.419606;;f;FR;f;Europe/Paris;t;FRXMM;MNA;t;;f;8700174;f;;f;;f;8775640;t;;;;f;;f;8700427;f;;f;FRXMM;f;t;;;;;;;;;;;;;;;;;;
 5802;Marmande;marmande;8758654;87586545;44.50319349975489;0.1682603359222412;;f;FR;f;Europe/Paris;t;FRXMR;MMD;t;;f;8703918;f;;f;;f;;f;;;;f;;f;8700621;f;;f;FRXMR;f;t;;;;;;;;;;;マルマンド;;;;Марманд;;;马尔芒德
 5803;Moulins-sur-Allier;moulins-sur-allier;8769632;87696328;46.561255;3.339267;;f;FR;f;Europe/Paris;t;FRXMU;MSA;t;;f;8700041;f;;f;;f;;f;;;;f;;f;8700050;f;;f;FRXMU;f;t;;;;;;;;;;;;;;;;;;
-5804;Montauban Ville Bourbon;montauban-ville-bourbon;8761124;87611244;44.014287656042015;1.341281533241272;;f;FR;f;Europe/Paris;t;FRXMW;MBN;t;;f;8700057;f;;f;;f;;f;;;;f;;f;8700068;f;;f;FRXMW;f;t;;;;;;;;;;;モントーバン;;;;Монтобан;;;蒙托邦
+5804;Montauban Ville Bourbon;montauban-ville-bourbon;8761124;87611244;44.014287656042015;1.341281533241272;26867;f;FR;t;Europe/Paris;t;FRXMW;MBN;t;;f;8700057;f;;f;;f;;f;;;;f;;f;8700068;f;;f;FRXMW;f;t;;;;;;;;;;;モントーバン;;;;Монтобан;;;蒙托邦
 5805;Mazamet;mazamet;8761554;87615542;43.49782621031005;2.374849319458008;9221;f;FR;t;Europe/Paris;t;FRXMZ;;t;;f;8703960;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 5806;Narbonne;narbonne;8778110;87781104;43.19059308540353;3.0056780576705933;;f;FR;f;Europe/Paris;t;FRXNA;NBN;t;;f;8700073;f;;f;;f;;f;;;;f;;f;8700088;t;;f;FRXNA;f;t;;;;Narbona;;Narbona;;;;;ナルボンヌ;나르본;Narbona;Narbona;Нарбонна;;;纳博讷
 5807;Le Blanc;le-blanc;8720160;87201608;46.630784969862106;1.0635709762573242;;f;FR;f;Europe/Paris;t;FRXNC;;t;;f;8705084;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -8628,7 +8628,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10496;Belfort—Montbéliard TGV;belfort-montbeliard-tgv;8730082;87300822;47.585935;6.897629;10610;f;FR;f;Europe/Paris;t;FRTJA;BFB;t;;f;8730082;t;;f;;f;;f;;;;f;;f;;f;;f;FRTJA;f;t;;;;;;;;;;;;;;;;;;
 10497;La Voulte Cité;la-voulte-cite;8733870;;44.81457;4.793147;5667;f;FR;f;Europe/Paris;t;FRVTE;;t;;f;8705299;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10498;Besançon-Franche-Comté TGV;besancon-franche-comte-tgv;8730086;87300863;47.307557;5.952674;5029;f;FR;f;Europe/Paris;t;FRTJB;BFC;t;;f;8730086;t;;f;;f;;f;;;;f;;f;;f;;f;;f;t;;;;Besanzón;;;;;;;ブザンソン;브장송;;;Безансон;;;贝桑松
-10499;Montauban Gare Routière;montauban-gare-routiere;8744184;87441840;43.997756;1.339455;;f;FR;f;Europe/Paris;f;FRUGA;;t;;f;8706018;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+10499;Montauban Gare Routière;montauban-gare-routiere;8744184;87441840;43.997756;1.339455;26867;f;FR;f;Europe/Paris;f;FRUGA;;t;;f;8706018;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10500;Louviers Porte de l’eau;louviers-porte-de-leau;8740191;87401919;49.215736460009175;1.1718195676803587;;f;FR;f;Europe/Paris;t;FRLPL;;t;;f;8705490;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10501;Montauban Prax;mountauban-prax;8744244;;;;;f;FR;f;Europe/Paris;f;FRUFZ;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10502;Budapest-Keleti;budapest-keleti;5510017;;47.500385;19.085069;18819;f;HU;f;Europe/Budapest;t;HUABU;;f;;f;5500003;t;;f;;f;;f;;;;f;;f;;f;;f;HUABU;f;f;;;;;;;Boedapest;;;;ブダペスト;부다페스트;Budapeszt;Budapeste;Будапешт;;Budapeşte;布达佩斯
