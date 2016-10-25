@@ -6656,7 +6656,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8267;London;london;9999984;;51.50469232881583;-0.0784599781036377;;t;GB;f;Europe/London;t;GBLON;;t;;f;7096001;t;gcpvj0;t;;f;;f;;;;f;;f;;f;182;t;GBLWB;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8268;London Marylebone;london-marylebone;7014750;;51.52248;-0.163605;8267;f;GB;f;Europe/London;t;GBMEI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;MYB;t;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8269;London Victoria;london-victoria;7054260;;51.4966;-0.1448;8267;f;GB;f;Europe/London;t;GBLVI;;f;;f;7000010;t;;f;;f;;f;;;;f;;f;;f;VIC;t;GBLVI;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
-8270;London Waterloo;london-waterloo;7055980;;51.501865;-0.111126;8267;f;GB;f;Europe/London;t;GBLWA;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;WAT;t;GBLWA;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
+8270;London Waterloo;london-waterloo;7055980;;51.501865;-0.111126;8267;f;GB;f;Europe/London;t;GBLWA;;f;;f;7001444;f;;f;;f;;f;;;;f;;f;;f;WAT;t;GBLWA;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8271;London Southern Railway;london-southern-railway;7010720;;;;8267;f;GB;f;Europe/London;f;GBLWB;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8272;Stratford International;stratford-international;7015410;;51.544306;-0.009882;;f;GB;f;Europe/London;t;GBSDI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;SFA;t;;f;f;;;;;;;;;;;;;;;;;;
 8273;London Fenchurch Street;london-fenchurch-street;7074900;;51.511234;-0.079039;8267;f;GB;f;Europe/London;t;GBMEH;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;FST;t;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
@@ -6779,7 +6779,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8434;Firenze Santa Maria Novella;firenze-santa-maria-novella;8306421;83064212;43.77681;11.247806;8433;f;IT;t;Europe/Rome;t;ITFNO;;f;;f;8300151;f;;f;;f;8306421;t;S06421;1325;SMN;t;;f;;f;;f;ITFNO;f;f;;Florenz;Florence;Florencia;Florence;;Florence;Florencie;;;フィレンツェ;피렌체;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 8435;Firenze Rifredi;firenze-rifredi;8306420;;43.800137;11.236408;8433;f;IT;f;Europe/Rome;t;ITFRI;;f;;f;8300497;f;;f;;f;8306420;t;S06420;;;f;;f;;f;;f;ITFRI;f;f;;Florenz;Florence;Florencia;Florence;;Florence;Florencie;;;フィレンツェ;피렌체;Firence;Florença;Флоренция;Florens;Floransa;佛罗伦萨
 8441;Montevarchi terranova;montevarchi-terranova;8306910;;43.52538;11.564201;;f;IT;f;Europe/Rome;t;ITFVT;;f;;f;;f;;f;;f;8306910;t;S06910;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8442;Genova Brignole;genova-brignole;8304702;;44.406999;8.947197;8450;f;IT;f;Europe/Rome;t;ITGBR;;f;;f;;f;;f;;f;8304702;t;S04702;;;f;;f;;f;;f;ITGBR;f;f;;Genua;Genoa;;Gênes;;Genua;Janov;;;ジェノヴァ;제노바;Genua;;Генуя;Genua;Cenova;
+8442;Genova Brignole;genova-brignole;8304702;;44.406999;8.947197;8450;f;IT;f;Europe/Rome;t;ITGBR;;f;;f;8300152;f;;f;;f;8304702;t;S04702;;;f;;f;;f;;f;ITGBR;f;f;;Genua;Genoa;;Gênes;;Genua;Janov;;;ジェノヴァ;제노바;Genua;;Генуя;Genua;Cenova;
 8450;Genova;genova;8304999;;44.41633306978571;8.918988704681395;;t;IT;f;Europe/Rome;t;ITGOA;;f;;f;8396002;f;spyke7;t;;f;8304999;t;;;;f;;f;;f;;f;;f;f;;Genua;Genoa;;Gênes;;Genua;Janov;;;ジェノヴァ;제노바;Genua;;Генуя;Genua;Cenova;
 8453;Genova Piazza Principe;genova-piazza-principe;8304700;;44.417507;8.922072;8450;f;IT;f;Europe/Rome;t;ITGPP;;f;;f;8300153;f;;f;;f;8304700;t;S04700;;;f;;f;;f;;f;ITGPP;f;f;;Genua;Genoa;;Gênes;;Genua;Janov;;;ジェノヴァ;제노바;Genua;;Генуя;Genua;Cenova;
 8455;Genova Quinto al Mare;genova-quinto-al-mare;8304705;;44.385;9.020556;8450;f;IT;f;Europe/Rome;t;ITAKC;;f;;f;;f;;f;;f;8304705;t;S04705;;;f;;f;;f;;f;;f;f;;Genua;Genoa;;Gênes;;Genua;Janov;;;ジェノヴァ;제노바;Genua;;Генуя;Genua;Cenova;
@@ -8616,7 +8616,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10484;Kutno;kutno;5100224;;;;;f;PL;f;Europe/Warsaw;f;PLKNO;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10485;Wörgl;worgl;8101170;;47.4918000000;12.0605840000;;f;AT;f;Europe/Vienna;t;ATWOR;;f;;f;8100099;t;;f;;f;;f;;;;f;;f;;f;;f;ATWOR;t;f;;;;;;;;;;;;;;;;;;
 10486;Kufstein;kufstein;8100463;;47.5830770000;12.1655510000;;f;AT;f;Europe/Vienna;t;ATKUF;;f;;f;8100001;t;;f;;f;;f;;;;f;;f;;f;;f;ATKUF;t;f;;;;;;;;;;;クーフシュタイン;쿠프슈타인;;;Куфштайн;;;库夫施泰因
-10487;Jenbach;jenbach;8101176;;47.3884510000;11.7784570000;;f;AT;f;Europe/Vienna;t;ATJEN;;f;;f;8100102;t;;f;;f;;f;;;;f;;f;;f;;f;ATJEN;t;f;;;;;;;;;;;;;;;;;;
+10487;Jenbach;jenbach;8101176;;47.3884510000;11.7784570000;;f;AT;f;Europe/Vienna;t;ATJEN;;f;;f;8100102;t;;f;;f;8101176;f;;;;f;;f;;f;;f;ATJEN;t;f;;;;;;;;;;;;;;;;;;
 10488;Smolensk;smolensk;2017010;;54.777369;32.027504;;f;RU;f;Europe/Moscow;f;RUSAA;;f;;f;2000004;f;;f;;f;;f;;;;f;;f;;f;;f;RUSMO;f;f;;;;;;;;;;;;;;;;;;
 10489;Minsk;minsk;2114020;;53.868712;27.651025;;f;BY;f;Europe/Minsk;f;BYMIP;;f;;f;2196004;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10490;Brest;brest-stancyja;2113000;;;;;f;BY;f;Europe/Minsk;f;BYBRC;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;BYBRC;f;f;;Weißrussland;Belarus;Bielorrusia;Biélorussie;Bielorussia;;;;;;;;;;;;
@@ -19753,7 +19753,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 21701;Napoli Piazza Cavour;napoli-piazza-cavour;8309108;;40.8553;14.255;22184;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309108;t;S09108;;;f;;f;;f;;f;;f;f;;Neapel;Naples;Nápoles;Naples;;Napels;Neapol;;Nápoly;ナポリ;나폴리;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 21702;Nicorvo;nicorvo;8300273;;45.2756;8.67129;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300273;t;S00273;;;f;;f;;f;;f;ITAYM;f;f;;;;;;;;;;;;;;;;;;
 21703;Noicattaro Citta’;noicattaro-citta;8341006;;41.028769282003026;16.9863224029541;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341006;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-21704;Napoli Piazza Garibaldi;napoli-piazza-garibaldi;8309109;;40.8526;14.2707;22184;;IT;f;Europe/Rome;t;ITQAA;;f;;f;;f;;f;;f;8309109;t;S09109;;;f;;f;;f;;f;ITQAA;f;f;;Neapel;Naples;Nápoles;Naples;;Napels;Neapol;;Nápoly;ナポリ;나폴리;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
+21704;Napoli Piazza Garibaldi;napoli-piazza-garibaldi;8309109;;40.8526;14.2707;22184;;IT;f;Europe/Rome;t;ITQAA;;f;;f;8300241;f;;f;;f;8309109;t;S09109;;;f;;f;;f;;f;ITQAA;f;f;;Neapel;Naples;Nápoles;Naples;;Napels;Neapol;;Nápoly;ナポリ;나폴리;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 21705;Nardò Centrale;nardo-centrale;8341088;;40.1617497;18.0492526;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341088;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21706;Racale-Alliste;racale-alliste;8341071;;39.965477436645436;18.087637424468994;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341071;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21707;Rapolla-Lavello;rapolla-lavello;8311301;;41.009166667;15.741388889;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311301;t;S11207;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -20429,7 +20429,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22383;Salve-Ruggiano;salve-ruggiano;8341062;;39.8706539;18.3113147;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8341062;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22384;San Lorenzo St.Lorenzen;san-lorenzo-st-lorenzen;8302016;;46.7815190242636;11.903160810470581;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8302016;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22385;San Gennaro;san-gennaro;8308736;;41.6746;12.7264;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8308736;t;S08737;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-22386;Milano Porta Garibaldi Passante;milano-porta-garibaldi-passante;8301662;;45.484166667;9.185000000;8483;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8301662;t;;;;f;;f;;f;;f;;f;f;;Mailand;Milan;Milán;Milan;;Milaan;Milán;;;ミラノ;밀라노;Mediolan;Milão;Милан;;;
+22386;Milano Porta Garibaldi Passante;milano-porta-garibaldi-passante;8301662;;45.484166667;9.185000000;8483;;IT;f;Europe/Rome;t;;;f;;f;8389075;f;;f;;f;8301662;t;;;;f;;f;;f;;f;;f;f;;Mailand;Milan;Milán;Milan;;Milaan;Milán;;;ミラノ;밀라노;Mediolan;Milão;Милан;;;
 22387;Napoli Molo Mergellina;napoli-molo-mergellina;8386708;;40.83158961661274;14.218626022338867;22184;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8386708;t;;;;f;;f;;f;;f;;f;f;;Neapel;Naples;Nápoles;Naples;;Napels;Neapol;;Nápoly;ナポリ;나폴리;Neapol;Nápoles;Неаполь;Neapel;;那不勒斯
 22388;Ladispoli-Cerveteri;ladispoli-cerveteri;8308021;;41.9534;12.0815;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8308021;t;S08021;;;f;;f;;f;;f;ITCRL;f;f;;;;;;;;;;;;;;;;;;
 22389;Sellia Marina;sellia-marina;8311831;;38.9039;16.7647;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8311831;t;S11831;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21300,7 +21300,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23267;Niederkorn;niederkorn;8200922;;49.53671265;5.89399576;;f;LU;f;Europe/Luxembourg;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUNDK;t;f;;;;;;;;;;;;;;;;;;
 23268;Noertzange;noertzange;8200191;;49.50805664;6.05079985;;f;LU;f;Europe/Luxembourg;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUNZE;t;f;;;;;;;;;;;;;;;;;;
 23269;Oberkorn;oberkorn;8200916;;49.509078;5.893597;;f;LU;f;Europe/Luxembourg;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUOBK;t;f;;;;;;;;;;;;;;;;;;
-23270;Oetrange;oetrange;8200312;;49.602622;6.258149;;f;LU;f;Europe/Luxembourg;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUOTE;t;f;;;;;;;;;;;;;;;;;;
+23270;Oetrange;oetrange;8200312;;49.602622;6.258149;;f;LU;f;Europe/Luxembourg;t;;;f;;f;8270830;f;;f;;f;;f;;;;f;;f;;f;;f;LUOTE;t;f;;;;;;;;;;;;;;;;;;
 23271;Roodt;roodt;8200316;;49.666581;6.303116;;f;LU;f;Europe/Luxembourg;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LURSE;t;f;;;;;;;;;;;;;;;;;;
 23272;Rumelange;rumelange;8200626;;49.46;6.0325;;f;LU;f;Europe/Luxembourg;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LURML;t;f;;;;;;;;;;;;;;;;;;
 23273;Sandweiler-Contern;sandweiler-contern;8200208;;49.60076523;6.20581198;;f;LU;f;Europe/Luxembourg;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUSWC;t;f;;;;;;;;;;;;;;;;;;
