@@ -8651,8 +8651,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10519;Barbâtre;barbatre;8746291;87462911;46.935871;-2.166274;;f;FR;f;Europe/Paris;t;FRKBC;;t;;f;8706481;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10520;La Guérinière;la-gueriniere;8746302;87463026;46.969878;-2.238655;;f;FR;f;Europe/Paris;t;FRKBD;;t;;f;8706482;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10521;;;8740564;;;;;f;FR;f;Europe/Paris;f;FRZAI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-10523;Villach Hbf;villach-hbf;8103654;;46.6186240000;13.8485380000;;f;AT;f;Europe/Vienna;t;ATVIC;;f;;f;8100147;t;;f;;f;8103654;f;;;;f;;f;;f;;f;ATVIC;t;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;フィラッハ;필라흐;;;Филлах;;;菲拉赫
-10524;;;8103656;;;;;f;AT;f;Europe/Vienna;f;ATAHD;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;ATAHD;t;f;;;;;;;;;;;;;;;;;;
+10523;Villach Hbf;villach-hbf;8103654;;46.6186240000;13.8485380000;;f;AT;t;Europe/Vienna;t;ATVIC;;f;;f;8100147;t;;f;;f;8103654;f;;;;f;;f;;f;;f;ATVIC;t;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;フィラッハ;필라흐;;;Филлах;;;菲拉赫
+10524;Villach Westbahnhof;villach-westbahnhof;8103656;;46.608095;13.840144;;f;AT;f;Europe/Vienna;t;ATAHD;;f;;f;8100148;t;;f;;f;;f;;;;f;;f;;f;;f;ATAHD;t;f;;;;;;;;;;;;;;;;;;
 10525;Zaragoza Delicias;zaragoza-delicias;7171000;;;;24575;f;ES;f;Europe/Madrid;f;ESZAZ;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;ESZAZ;f;f;;;;;Saragosse;Saragozza;;;;;;;;Saragoça;;;;
 10526;Cloyes Centre;cloyes-centre;8734315;;47.9975107867748;1.23014688491821;10708;f;FR;f;Europe/Paris;f;FREUU;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10527;St-Florent-sur-Cher Bus;st-florent-sur-cher-bus;8745359;;46.99205781250841;2.25244402885437;2518;f;FR;f;Europe/Paris;f;FREGM;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
