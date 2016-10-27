@@ -14883,7 +14883,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 16753;Jena;jena;8036672;;50.924008;11.582726;;f;DE;f;Europe/Berlin;t;;;f;;f;8096004;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;Iéna;;;;;;イェーナ;예나;;;Йена;;;耶拿
 16754;Plauen;plauen;8031734;;50.506755;12.12723;;f;DE;f;Europe/Berlin;t;;;f;;f;8096005;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;Plavno;;;プラウエン;플라우엔;;;Плауэн;;;普劳恩
 16755;Pößneck;possneck;8002758;;50.690441;11.588443;;f;DE;f;Europe/Berlin;t;;;f;;f;8096007;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Пёснек;;;珀斯内克
-16756;Leipzig;leipzig;;;51.346546;12.383333;;t;DE;f;Europe/Berlin;t;;;f;;f;8096008;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+16756;Leipzig;leipzig;;;51.346546;12.383333;;t;DE;f;Europe/Berlin;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16757;Elsterwerda;elsterwerda;;;51.459666;13.516827;;f;DE;f;Europe/Berlin;f;;;f;;f;8096010;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16758;Hiddensee;hiddensee;;;54.565178;13.103845;;f;DE;f;Europe/Berlin;t;;;f;;f;8096011;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16759;Hannover Messe;hannover-messe;8002760;;52.323161;9.798206;;f;DE;f;Europe/Berlin;t;;;f;;f;8096012;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
