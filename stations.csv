@@ -21674,7 +21674,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23641;A Pobra do Brollón;a-pobra-do-brollon;7120218;;42.533714;-7.399964;;f;ES;f;Europe/Madrid;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;20218;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 23642;Abejera;abejera;7131107;;41.809845;-6.142913;;f;ES;f;Europe/Madrid;t;;;f;;f;7131107;f;;f;;f;;f;;;;f;;f;31107;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 23643;Ablaña;ablana;7115205;;43.267616;-5.806411;;f;ES;f;Europe/Madrid;t;;;f;;f;7115205;f;;f;;f;;f;;;;f;;f;15205;t;;f;;f;f;;;;;;;;;;;;;;;;;;
-23644;Málaga Aeropuerto;malaga-aeropuerto;7154505;;36.675646;-4.487032;27186;f;ES;f;Europe/Madrid;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;54505;t;;f;;f;f;;;;;;;;;;;;;;;;;;
+23644;Málaga Aeropuerto;malaga-aeropuerto;7154505;;36.675646;-4.487032;27186;f;ES;f;Europe/Madrid;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;54505;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 23645;Ager;ager;7175110;;42.006034;0.849471;;f;ES;f;Europe/Madrid;t;;;f;;f;7175110;f;;f;;f;;f;;;;f;;f;75110;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 23646;Agoncillo;agoncillo;7181102;;42.443818;-2.29144;;f;ES;f;Europe/Madrid;t;;;f;;f;7181102;f;;f;;f;;f;;;;f;;f;81102;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 23647;Agres;agres;7169009;;38.797002;-0.521787;;f;ES;f;Europe/Madrid;t;;;f;;f;7169009;f;;f;;f;;f;;;;f;;f;69009;t;;f;;f;f;;;;;;;;;;;;;;;;;;
