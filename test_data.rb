@@ -90,9 +90,9 @@ HOMONYM_STATIONS = [
   "26735", # Enfield (England and Ireland)
   "26759", # Malling (France and England)
   "17741", # Essen (Belgium and Germany)
-  "27486", # Arce (Spain and Italy),
-  "27488", # Breda (Spain and Netherlands)
-  "27489", # Pau (Spain and France)
+  # "27486", # Arce (Spain and Italy),
+  # "27488", # Breda (Spain and Netherlands)
+  # "27489", # Pau (Spain and France)
 ]
 
 HOMONYM_SUFFIXES = {
