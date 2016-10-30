@@ -22616,7 +22616,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 24583;Parc Astérix;parc-asterix;;;49.136968;2.570626;;f;FR;f;Europe/Paris;t;;;f;;f;;f;u09zd3;t;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 24584;Guérande;guerande;;;47.3281;-2.4297;;t;FR;f;Europe/Paris;t;;;f;;f;;f;gbqm2b;t;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 24585;Le Barcarès;le-barcares;;;42.7947;3.0334;;t;FR;f;Europe/Paris;t;;;f;;f;;f;spd5mj;t;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-24586;Étretat;etretat;8769334;;49.707380;0.205638;;f;FR;f;Europe/Paris;t;FRKGI;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+24586;Étretat;etretat;8769334;;49.707380;0.205638;;f;FR;f;Europe/Paris;f;FRKGI;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 24587;Abbey Wood;abbey-wood;7051310;;51.490719;0.120343;;f;GB;f;Europe/London;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;ABW;t;;f;f;;;;;;;;;;;;;;;;;;
 24588;Aber;aber;7038130;;51.575363;-3.23089;;f;GB;f;Europe/London;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;ABE;t;;f;f;;;;;;;;;;;;;;;;;;
 24589;Abercynon;abercynon;7038010;;51.64262;-3.329549;;f;GB;f;Europe/London;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;ACY;t;;f;f;;;;;;;;;;;;;;;;;;
