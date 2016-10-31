@@ -21665,7 +21665,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23632;Karlsruhe Hbf Südausgang;karlsruhe-hbf-sudausgang;;;48.99148;8.40051;7665;;DE;f;Europe/Berlin;f;;;f;;f;421210;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23633;Montierchaume Place Couturier;montierchaume-place-couturier;8768965;;46.864279;1.771556;2819;;FR;f;Europe/Paris;f;FRJLU;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23634;Valencia;valencia;;;39.470036;-0.376279;;t;ES;f;Europe/Madrid;t;ESVSS;;f;;f;;f;ezp8x3;f;;f;;f;;;;f;;f;VALEN;t;;f;;f;f;;Spanien;Spain;;Espagne;Spagna;;;;;;;;;;;;
-23635;Annecy Gare Routière;annecy-gare-routiere;8760049;;45.90169;6.12009;4843;f;FR;f;Europe/Paris;t;FRRJD;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;アヌシー;안시;;;Анси;;;阿讷西
+23635;Annecy Gare Routière;annecy-gare-routiere;8760049;;45.90169;6.12009;4843;f;FR;f;Europe/Paris;f;FRRJD;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;アヌシー;안시;;;Анси;;;阿讷西
 23636;A Alberguería-Prado;a-albergueria-prado;7131209;;42.1257;-7.5126;;f;ES;f;Europe/Madrid;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;31209;t;;f;;f;f;;;;;;;;;;;;;;;;;;
 23637;A Escravitude;a-escravitude;7123012;;42.739;-8.65259;;f;ES;f;Europe/Madrid;t;;;f;;f;;f;;f;;f;;f;;;;f;;f;23012;t;;f;;f;f;;;;La Esclavitud;;;;;;;;;;;;;;
 23638;A Friela-Maside;a-friela-maside;7131303;;42.411637;-8.028661;;f;ES;f;Europe/Madrid;t;;;f;;f;7131303;f;;f;;f;;f;;;;f;;f;31303;t;;f;;f;f;;;;;;;;;;;;;;;;;;
