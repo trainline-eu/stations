@@ -15787,7 +15787,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17698;Windischgarsten;windischgarsten;8101629;;47.7153260000;14.3269260000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100517;t;;f;;f;;f;;;;f;;f;;f;;f;ATAJE;t;f;;;;;;;;;;;;;;;;;;
 17699;Pill-Vomperbach;pill-vomperbach;8101180;;47.3241960000;11.6773560000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100524;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17700;Werfen;werfen;8101132;;47.4725990000;13.1951840000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100539;t;;f;;f;;f;;;;f;;f;;f;;f;ATACW;t;f;;;;;;;;;;;;;;;;;;
-17701;Mayrhofen im Zillertal;mayrhofen-im-zillertal;8182217;;47.1695280000;11.8623900000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100541;t;;f;;f;;f;;;;f;;f;;f;;f;ATAFZ;t;f;;;;;;;;;;;;;;;;;;
+17701;Mayrhofen im Zillertal;mayrhofen-im-zillertal;8182217;;47.1695280000;11.8623900000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100541;t;;f;;f;;f;;;;f;;f;;f;;f;ATMYH;t;f;;;;;;;;;;;;;;;;;;
 17702;Wernstein;wernstein;8101741;;48.5042010000;13.4555480000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100544;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17703;Zell am Ziller;zell-am-ziller;8182213;;47.2313830000;11.8813660000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100547;t;;f;;f;;f;;;;f;;f;;f;;f;ATZEL;t;f;;;;;;;;;;;;;;;;;;
 17704;Lermoos;lermoos;8102245;;47.4067710000;10.8793740000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100552;t;;f;;f;;f;;;;f;;f;;f;;f;DELER;t;f;;;;;;;;;;;;;;;Лермос;;;
