@@ -19774,7 +19774,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 21722;Acquasparta;acquasparta;8335116;;42.6883;12.5498;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8335116;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21723;Gradisca-San Martino;gradisca-san-martino;8303306;;45.88225243384244;13.5099595785141;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8303306;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21724;Quistello;quistello;8332304;;45.0022;10.9821;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8332304;t;S05156;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-21725;Fiumicino;fiumicino;8308401;;41.7729;12.2356;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8308401;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;フィウミチーノ;;;;Фьюмичино;;;
+21725;Fiumicino;fiumicino;8308401;;41.7729;12.2356;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;8308401;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;フィウミチーノ;;;;Фьюмичино;;;
 21726;Fivizzano-Rometta-Soliera;fivizzano-rometta-soliera;8306222;;44.2017;10.0594;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8306222;t;S06222;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21727;Foiano Della Chiana;foiano-della-chiana;8334007;;43.24072445459833;11.797106266021729;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8334007;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21728;Fondente;fondente;8354246;;39.3370314;16.3816741;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8354246;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
