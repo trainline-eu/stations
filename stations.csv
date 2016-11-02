@@ -2723,7 +2723,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 3585;Les Granges—Ste-Marie;les-granges-ste-marie;8771523;87715235;46.784214;6.283729;;f;FR;f;Europe/Paris;t;FRGYT;;t;;f;8701192;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3586;St-Antoine;st-antoine;8771525;87715250;46.7833330000;6.3333330000;;f;FR;f;Europe/Paris;t;FRGYV;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3587;Métabief;metabief;8771526;87715268;46.7833330000;6.3500000000;;f;FR;f;Europe/Paris;t;FRGYW;;t;;f;8701478;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-3588;Champagnole Paul-Émile Victor;champagnole-paul-emile-victor;8735204;87352047;46.742483;5.9198128;;f;FR;f;Europe/Paris;t;FRGYX;PVT;t;;f;8705322;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+3588;Champagnole Paul-Émile Victor;champagnole-paul-emile-victor;8735204;87352047;46.742483;5.9198128;;f;FR;f;Europe/Paris;t;FRGYX;;t;;f;8705322;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3590;Champagnole;champagnole;8771532;87715326;46.7492981;5.9100314;;f;FR;f;Europe/Paris;t;FRGYZ;CPG;t;;f;8703028;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;尚帕尼奥勒
 3592;La Chaux-des-Crotenay;la-chaux-des-crotenay;8771538;87715383;46.6545926;5.9438595;;f;FR;f;Europe/Paris;t;FRGZC;LXR;t;;f;8703558;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3593;La Chaumusse Fort du Plasne;la-chaumusse-fort-du-plasne;8771539;87715391;46.6048753;5.9613342;;f;FR;f;Europe/Paris;t;FRGZD;WFP;t;;f;8703557;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -3593,7 +3593,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 4784;Motteville;motteville;8741128;87411280;49.6365717;0.8497988;;f;FR;f;Europe/Paris;t;FRMOT;MOT;t;;f;8704063;f;;f;;f;;f;;;;f;;f;8700836;f;;f;FRMOT;f;f;;;;;;;;;;;;;;;;;;
 4785;Aéroport Marseille-Provence Bus;aeroport-marseille-provence-bus;8733749;87337493;43.44129735202746;5.237088203430176;;f;FR;f;Europe/Paris;t;FRMPA;;t;;f;8705262;f;;f;;f;8733749;f;;;;f;;f;;f;;f;;f;f;;Flughafen;Airport;Aeropuerto;;Aeroporto;;;;;;;;;;;;
 4786;Montpellier St-Roch;montpellier-st-roch;8777300;87773002;43.604738;3.880674;22598;f;FR;f;Europe/Paris;t;FRMPL;MPL;t;MPL;t;8700097;f;;f;MPL;t;;f;;;;f;;f;8700173;t;;f;FRMPL;f;t;;;;;;;;;;;モンペリエ;몽펠리에;;;Монпелье;;;蒙彼利埃
-4787;Paris Montparnasse 3 Vaugirard;paris-gare-montparnasse-3-vaugirard;8739110;87391102;48.841172;2.320514;4916;f;FR;f;Europe/Paris;f;FRMPV;PVT;t;;f;8704045;f;;f;;f;;f;;;;f;;f;8700019;f;;f;FRMPV;f;t;;;;;;;;;;;;;;;;;;
+4787;Paris Montparnasse 3 Vaugirard;paris-gare-montparnasse-3-vaugirard;8739110;87391102;48.841172;2.320514;4916;f;FR;f;Europe/Paris;f;FRMPV;;t;;f;8704045;f;;f;;f;;f;;;;f;;f;8700019;f;;f;FRMPV;f;t;;;;;;;;;;;;;;;;;;
 4788;Morée Salle des Fêtes;moree-salle-des-fetes;8745339;87453399;47.9000000000;1.2333330000;;f;FR;f;Europe/Paris;t;FRMRD;;t;;f;8706412;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4789;Margut;margut;;;49.5833330000;5.2666670000;;t;FR;f;Europe/Paris;f;FRMRG;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 4790;Marseille;marseille;;;43.29640973957932;5.371000170707703;;t;FR;f;Europe/Paris;t;FRMRS;;t;;f;;f;spey63;t;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Marsella;;Marsiglia;;;;;マルセイユ;마르세유;Marsylia;Marselha;Марсель;;Marsilya;马赛
