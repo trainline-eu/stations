@@ -15757,7 +15757,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17668;Kirchdorf/Krems;kirchdorf-krems;8101618;;47.9064820000;14.1162730000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100170;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17669;Hinterstoder;hinterstoder;8101625;;47.7747000000;14.1790360000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100172;t;;f;;f;;f;;;;f;;f;;f;;f;ATAJD;t;f;;;;;;;;;;;;;;;;;;
 17670;Bruck/Leitha;bruck-leitha;8102974;;48.0190720000;16.7800820000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100198;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17671;Fügen-Hart im Zillertal;fugen-hart-im-zillertal;8182206;;47.3447460000;11.8531670000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100242;t;;f;;f;;f;;;;f;;f;;f;;f;ATFUE;t;f;;;;;;;;;;;;;;;;;;
+17671;Fügen-Hart im Zillertal;fugen-hart-im-zillertal;8182206;;47.3447460000;11.8531670000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100242;t;;f;;f;;f;;;;f;;f;;f;;f;ATFUG;t;f;;;;;;;;;;;;;;;;;;
 17672;Hermagor;hermagor;8103907;;46.6260850000;13.3806860000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100270;t;;f;;f;;f;;;;f;;f;;f;;f;ATAHH;t;f;;;;;;;;;;;;;;;;;;
 17673;Kaltenbach-Stumm im Zillertal;kaltenbach-stumm-im-zillertal;8182210;;47.2923390000;11.8759630000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100281;t;;f;;f;;f;;;;f;;f;;f;;f;ATKAL;t;f;;;;;;;;;;;;;;;;;;
 17674;Kirchbichl;kirchbichl;8102181;;47.5195230000;12.0938890000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100290;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
