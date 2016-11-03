@@ -7457,7 +7457,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 9324;Provins;provins;8711616;87116160;48.555770;3.302822;;f;FR;f;Europe/Paris;f;FRXPS;PRO;f;;f;8701803;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9325;Gazeran;gazeran;8739334;87393348;48.6259183;1.7718857;;f;FR;f;Europe/Paris;t;FRDIS;GZA;t;;f;8701176;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9326;Saleich;saleich;8761877;;43.0166670000;0.9666670000;;f;FR;f;Europe/Paris;f;FRFXM;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;FRFXM;f;f;;;;;;;;;;;;;;;;;;
-9327;Val-d’Isère;val-disere;8774257;;;;;f;FR;f;Europe/Paris;f;FRVAZ;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+9327;Val-d’Isère;val-disere;8774257;;45.4491;6.9798;;t;FR;f;Europe/Paris;t;FRVAZ;;f;;f;;f;u0hfrt;t;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9328;Mauvezin-de-Prat;mauvezin-de-prat;8761878;;43.0333330000;0.9833330000;;f;FR;f;Europe/Paris;f;FRFXN;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;FRFXN;f;f;;;;;;;;;;;;;;;;;;
 9329;Beynes;beynes;8739336;87393363;48.8593599;1.8755696;;f;FR;f;Europe/Paris;f;FRDIT;BYS;f;;f;8702832;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 9330;Fontenay-le-Fleury;fontenay-le-fleury;8739340;87393405;48.8074032;2.0404603;;f;FR;f;Europe/Paris;f;FRDIW;FAF;f;;f;8703332;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
