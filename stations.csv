@@ -6655,7 +6655,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8266;Kensington Olympia;kensington-olympia;7030920;;51.497753;-0.210189;8267;f;GB;f;Europe/London;t;GBLKO;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;KPA;t;GBLKO;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8267;London;london;9999984;;51.50469232881583;-0.0784599781036377;;t;GB;f;Europe/London;t;GBLON;;t;;f;7096001;t;gcpvj0;t;;f;;f;;;;f;;f;;f;182;t;GBLWB;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8268;London Marylebone;london-marylebone;7014750;;51.52248;-0.163605;8267;f;GB;f;Europe/London;t;GBMEI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;MYB;t;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
-8269;London Victoria;london-victoria;7054260;;51.4966;-0.1448;8267;f;GB;f;Europe/London;t;GBLVI;;f;;f;7000010;t;;f;;f;;f;;;;f;;f;;f;VIC;t;GBLVI;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
+8269;London Victoria;london-victoria;7054260;;51.4966;-0.1448;8267;f;GB;f;Europe/London;t;GBLVI;;f;;f;7000010;f;;f;;f;;f;;;;f;;f;;f;VIC;t;GBLVI;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8270;London Waterloo;london-waterloo;7055980;;51.501865;-0.111126;8267;f;GB;f;Europe/London;t;GBLWA;;f;;f;7001444;f;;f;;f;;f;;;;f;;f;;f;WAT;t;GBLWA;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 8271;London Southern Railway;london-southern-railway;7010720;;;;8267;f;GB;f;Europe/London;f;GBLWB;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 8272;Stratford International;stratford-international;7015410;;51.544306;-0.009882;;f;GB;f;Europe/London;t;GBSDI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;SFA;t;;f;f;;;;;;;;;;;;;;;;;;
@@ -20685,7 +20685,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22651;Gare fictive 1 CE;gare-fictive-1-ce;8718892;;;;;f;FR;f;Europe/Paris;f;FRSSS;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22652;Köln Arcaden;koln-arcaden;;;50.93940;6.99536;7558;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22653;Aachen Wilmerdorferstraße;aachen-wilmerdorferstrasse;;;50.78590;6.13759;6698;t;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Aquisgrán;Aix-la-Chapelle;Aquisgrana;;;;;;;;;;;;
-22654;London Victoria Coach Station;london-victoria-coach-station;;;51.492491;-0.148278;8267;f;GB;f;Europe/London;f;;;f;;f;7002842;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
+22654;London Victoria Coach Station;london-victoria-coach-station;;;51.492491;-0.148278;8267;f;GB;f;Europe/London;t;;;f;;f;7002842;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 22655;Sainte-Ménéhould Médiathèque;sainte-menehould-mediatheque;8763593;;49.1000000000;4.8666670000;;f;FR;f;Europe/Paris;t;FRZKT;;t;;f;8701999;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22656;Hamburg Hbf;hamburg-hbf;8001019;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7474;;;;;;;;;;;;;;;;;
 22657;Hamburg Hbf;hamburg-hbf;8001020;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7474;;;;;;;;;;;;;;;;;
