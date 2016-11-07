@@ -20685,7 +20685,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22651;Gare fictive 1 CE;gare-fictive-1-ce;8718892;;;;;f;FR;f;Europe/Paris;f;FRSSS;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22652;Köln Arcaden;koln-arcaden;;;50.93940;6.99536;7558;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22653;Aachen Wilmerdorferstraße;aachen-wilmerdorferstrasse;;;50.78590;6.13759;6698;t;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Aquisgrán;Aix-la-Chapelle;Aquisgrana;;;;;;;;;;;;
-22654;London Victoria Coach Station;london-victoria-coach-station;;;51.492491;-0.148278;8267;f;GB;f;Europe/London;f;;;f;;f;7002842;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
+22654;London Victoria Coach Station;london-victoria-coach-station;;;51.492491;-0.148278;8267;f;GB;f;Europe/London;t;;;f;;f;7002842;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Londres;Londres;Londra;Londen;Londýn;;;ロンドン;런던;Londyn;Londres;Лондон;;Londra;伦敦
 22655;Sainte-Ménéhould Médiathèque;sainte-menehould-mediatheque;8763593;;49.1000000000;4.8666670000;;f;FR;f;Europe/Paris;t;FRZKT;;t;;f;8701999;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22656;Hamburg Hbf;hamburg-hbf;8001019;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7474;;;;;;;;;;;;;;;;;
 22657;Hamburg Hbf;hamburg-hbf;8001020;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7474;;;;;;;;;;;;;;;;;
