@@ -17658,7 +17658,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 19580;Peri;peri;8302052;;45.658289;10.900409;;;IT;f;Europe/Rome;t;;;f;;f;8301885;f;;f;;f;8302052;t;S02052;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 19581;Perugia;perugia;8307004;;43.103797;12.375584;;;IT;f;Europe/Rome;t;ITANC;;f;;f;8300211;f;;f;;f;8307004;t;S07004;;;f;;f;;f;;f;ITANC;f;f;;;;;Pérouse;;;;;;ペルージャ;;;;Перуджа;;;
 19582;Pesaro;pesaro;8307104;;43.905967;12.904752;;f;IT;f;Europe/Rome;t;ITANF;;f;;f;8300216;f;;f;;f;8307104;t;S07104;2094;PY_;f;;f;;f;;f;ITANF;f;f;;;;;;;;;;;ペーザロ;;;;Пезаро;;;
-19583;Pescara Centrale;pescara-centrale;8307810;;42.468556;14.204035;;;IT;f;Europe/Rome;t;ITPSR;;f;;f;8300218;f;;f;;f;8307810;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;ペスカーラ;;;;Пескара;;;
+19583;Pescara Centrale;pescara-centrale;8307810;;42.468556;14.204035;;;IT;f;Europe/Rome;t;ITPSR;;f;;f;8300218;f;;f;;f;8307810;t;S07810;;;f;;f;;f;;f;;f;f;;;;;;;;;;;ペスカーラ;;;;Пескара;;;
 19584;Pescara Porta Nuova;pescara-porta-nuova;8307811;;42.457625;14.211846;;;IT;f;Europe/Rome;t;;;f;;f;8300512;f;;f;;f;8307811;t;S07811;;;f;;f;;f;;f;;f;f;;;;;;;;;;;ペスカーラ;;;;Пескара;;;
 19585;Oriolo;oriolo;8308313;;42.166447;12.138691;;;IT;f;Europe/Rome;t;;;f;;f;8301836;f;;f;;f;8308313;t;S08313;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 19586;Oristano;oristano;8312878;;39.901875;8.603989;;;IT;f;Europe/Rome;t;;;f;;f;8300038;f;;f;;f;8312878;t;S12878;;;f;;f;;f;;f;ITADE;f;f;;;;;;;;;;;オリスターノ;;;;Ористано;;;
@@ -18881,7 +18881,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 20822;Bianco;bianco;8311855;;38.088913;16.153354;;;IT;f;Europe/Rome;t;ITBNC;;f;;f;8300833;f;;f;;f;8311855;t;S11855;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 20823;Cassano Irpino;cassano-irpino;8309611;;40.866247;15.028759;;;IT;f;Europe/Rome;t;;;f;;f;8302505;f;;f;;f;8309611;t;S09611;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 20824;Ponte a Tressa;ponte-a-tressa;8306869;;43.250914;11.385494;;;IT;f;Europe/Rome;t;;;f;;f;8301857;f;;f;;f;8306869;t;S06869;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-20825;Roma Nomentana;roma-nomentana;8308224;;41.932844;12.523465;;;IT;f;Europe/Rome;t;;;f;;f;8302019;f;;f;;f;8308224;t;S08232;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+20825;Roma Nomentana;roma-nomentana;8308224;;41.932844;12.523465;;;IT;f;Europe/Rome;t;;;f;;f;8302019;f;;f;;f;8308224;t;S08236;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 20826;Messina Marittima;messina-marittima;8312300;;38.187515;15.563752;;;IT;f;Europe/Rome;t;ITMES;;f;;f;8300331;f;;f;;f;8312300;t;S12300;;;f;;f;;f;;f;;f;f;;;;;Messine;;;;;;メッシーナ;;Mesyna;;Мессина;;;墨西拿
 20827;Mercato San Severino;mercato-san-severino;8309706;;40.783124;14.759631;;;IT;f;Europe/Rome;t;;;f;;f;8302582;f;;f;;f;8309706;t;S09706;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 20828;Albano Laziale;albano-laziale;8308704;;41.726425;12.657899;;;IT;f;Europe/Rome;t;;;f;;f;8302449;f;;f;;f;8308704;t;S08704;;;f;;f;;f;;f;;f;f;;;;;;;;;;;アルバーノ・ラツィアーレ;;;;;;;
