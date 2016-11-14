@@ -5948,7 +5948,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7557;Cottbus;cottbus;8004019;;51.750952;14.324158;;f;DE;f;Europe/Berlin;t;DECBU;;f;;f;8010073;t;;f;;f;;f;;;;f;;f;;f;;f;DECOT;f;f;;;;;;;;Chotěbuz;;;コトブス;콧부스;Chociebuż;;Котбус;;;科特布斯
 7558;Köln;koln;;;50.941312;6.967206;;t;DE;f;Europe/Berlin;t;DECGN;;t;;f;8096022;t;u1hcy0;t;;f;;f;;;;f;;f;;f;;f;;f;f;;;Cologne;Colonia;Cologne;Colonia;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
 7559;Köln-Mülheim;koln-mulheim;8015541;;50.957987;7.013294;7558;f;DE;f;Europe/Berlin;t;DEKOM;;f;;f;8000209;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;Cologne;Colonia;Cologne;Colonia;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
-7560;Köln Messe/Deutz;koln-messe-deutz;8015561;;50.940871;6.975;7558;f;DE;f;Europe/Berlin;t;DEKOD;;f;;f;8003368;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;Cologne;Colonia;Cologne;Colonia;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
+7560;Köln Messe/Deutz;koln-messe-deutz;8015561;;50.940871;6.975;7558;f;DE;f;Europe/Berlin;t;DEKOD;;f;;f;8003368;t;;f;;f;;f;;;;f;;f;;f;;f;DEKOD;f;f;;;Cologne;Colonia;Cologne;Colonia;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
 7561;Köln Hbf;koln-hbf;8015458;80154583;50.943029;6.958729;7558;f;DE;t;Europe/Berlin;t;DEKOH;;t;;f;8000207;t;;f;;f;8015458;f;S02100;;;f;108015458;t;8050500;f;;f;DEKOH;f;f;;;Cologne Main station;Colonia Estación central;Cologne Gare centrale;Colonia Stazione centrale;Keulen;Kolín nad Rýnem;;;ケルン;쾰른;Kolonia;Colônia;Кёльн;;;科隆
 7562;Celle;celle;8013631;;52.621171;10.062704;;f;DE;f;Europe/Berlin;t;DECLL;;f;;f;8000064;t;;f;;f;;f;;;;f;;f;;f;;f;DECEL;f;f;;Deutschland;Germany;Alemania;Allemagne;Germania;;;;;ツェレ;첼레;;;Целле;;;策勒
 7563;Cochem (Mosel);cochem-mosel;8025107;;50.153093;7.166739;;f;DE;f;Europe/Berlin;t;DECMO;;f;;f;8001340;t;;f;;f;;f;;;;f;;f;;f;;f;DECMO;f;f;;;;;;;;;;;コッヘム;;;;Кохем;;;科赫姆
@@ -14347,7 +14347,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 16217;Pittenhart;pittenhart;8020161;;47.986764;12.376339;;f;DE;f;Europe/Berlin;t;;;f;;f;8072764;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16218;Niederbobritzsch Goldener Löwe;niederbobritzsch-goldener-lowe;;;50.898568;13.434028;;f;DE;f;Europe/Berlin;f;;;f;;f;8072865;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16219;Leipzig-Wahren Rathaus;leipzig-wahren-rathaus;;;51.380992;12.322889;;f;DE;f;Europe/Berlin;f;;;f;;f;8072971;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-16220;Köln Messe/Deutz Gl.11-12;koln-messe-deutz-gl-11-12;;;50.941716;6.974065;;f;DE;f;Europe/Berlin;f;;;f;;f;8073368;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+16220;Köln Messe/Deutz Gl.11-12;koln-messe-deutz-gl-11-12;;;50.941716;6.974065;7560;f;DE;f;Europe/Berlin;f;;;f;;f;8073368;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16221;Konstanz Hafen;konstanz-hafen;;;47.659863;9.179541;;f;DE;f;Europe/Berlin;f;;;f;;f;8073400;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16222;Zielitz Ort;zielitz-ort;8060886;;52.288202;11.676304;;f;DE;f;Europe/Berlin;t;;;f;;f;8073410;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16223;Kressbronn Hafen;kressbronn-hafen;;;47.587338;9.598124;;f;DE;f;Europe/Berlin;f;;;f;;f;8073432;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -14672,7 +14672,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 16542;Oberhof Platz des Friedens/Busbf.;oberhof-platz-des-friedens-busbf;;;50.706253;10.723654;;f;DE;f;Europe/Berlin;f;;;f;;f;8081751;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16543;Baddeckenstedt Bf;baddeckenstedt-bf;;;52.089405;10.22914;;f;DE;f;Europe/Berlin;t;;;f;;f;8082058;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16544;Hechingen Landesbahn;hechingen-landesbahn;8047011;;48.359053;8.968151;;f;DE;f;Europe/Berlin;t;;;f;;f;8082673;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-16545;Köln Messe/Deutz Gl. 9-10;koln-messe-deutz-gl-9-10;;;50.941303;6.97464;;f;DE;f;Europe/Berlin;f;;;f;;f;8083368;t;;f;;f;;f;;;;f;;f;;f;;f;DEKOD;f;f;;;;;;;;;;;;;;;;;;
+16545;Köln Messe/Deutz Gl. 9-10;koln-messe-deutz-gl-9-10;;;50.941303;6.97464;7560;f;DE;f;Europe/Berlin;f;;;f;;f;8083368;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16546;Kirchweidach;kirchweidach;8020031;;48.092999;12.648478;;f;DE;f;Europe/Berlin;t;;;f;;f;8084066;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16547;Maximiliansau West;maximiliansau-west;8032637;;49.038934;8.291793;;f;DE;f;Europe/Berlin;t;;;f;;f;8084067;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 16548;Maxau;maxau;8032638;;49.035913;8.307983;;f;DE;f;Europe/Berlin;t;;;f;;f;8084068;t;;f;;f;;f;;;;f;;f;;f;;f;DEMXU;f;f;;;;;;;;;;;;;;;;;;
