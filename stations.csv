@@ -92,7 +92,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 117;Forbach;forbach-gare;8719300;87193003;49.1892278;6.9013184;115;f;FR;t;Europe/Paris;t;FRBQT;FOB;t;;f;8700271;t;;f;;f;;f;;;;f;;f;;f;;f;FRBQT;f;t;;Frankreich;France;Francia;France;Francia;;;;;フォルバック;;;;Форбах;;;福尔巴克
 118;Sarreguemines;sarreguemines;;;49.1099500000;7.0674710000;;t;FR;f;Europe/Paris;f;FRADG;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 119;Sarreguemines Poste;sarreguemines-poste;8740690;;49.110155;7.054923;118;f;FR;f;Europe/Paris;t;FRZDB;;t;;f;8705509;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-121;Sarreguemines;sarreguemines;8719361;87193615;49.1073357;7.0686398;118;f;FR;t;Europe/Paris;t;FRSGS;SGS;t;;f;8700439;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;Saargemünd;;;;;;;;;サルグミーヌ;;;;Саргемин;;;萨尔格米纳
+121;Sarreguemines;sarreguemines;8719361;87193615;49.1073357;7.0686398;118;f;FR;t;Europe/Paris;t;FRSGS;SGS;t;;f;8700439;f;;f;;f;;f;;;;f;;f;;f;;f;FRSGS;f;f;;Saargemünd;;;;;;;;;サルグミーヌ;;;;Саргемин;;;萨尔格米纳
 122;Dunkerque;dunkerque;8728100;87281006;51.030470;2.368961;;f;FR;f;Europe/Paris;t;FRADI;DKQ;t;;f;8700004;f;u11dmf;t;;f;;f;;;;f;;f;8700005;f;;f;FRADI;f;t;;Dünkirchen;Dunkirk;;;;Duinkerke;Dunkerk;;;ダンケルク;됭케르크;Dunkierka;Dunquerque;Дюнкерк;;;敦刻尔克
 123;Lille-Flandres;lille-flandres;8728600;87286005;50.636577;3.069870;4652;f;FR;f;Europe/Paris;t;FRADJ;LLF;t;;f;8700030;f;;f;ADJ;f;;f;;;;f;;f;;f;;f;FRADJ;t;t;;;;;;Lilla;Rijsel;;;;リール;릴;;;Лилль;;;里尔
 124;Haubourdin;haubourdin;8728609;87286096;50.6070495;2.990153;;f;FR;f;Europe/Paris;t;FRADK;HAU;t;;f;8701242;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -2465,7 +2465,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 3177;Maubourguet Centre;maubourguet-centre;8767165;87671651;43.462502;0.034221;;f;FR;f;Europe/Paris;t;FRGEI;;t;;f;8703942;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3178;Caussade (Hautes Pyrénées);caussade-hautes-pyrenees;8767166;87671669;43.5166670000;0.0333330000;;f;FR;f;Europe/Paris;t;FRGEJ;;t;;f;8702988;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3179;Hères;heres;8767167;87671677;43.5500000000;0.0000000000;;f;FR;f;Europe/Paris;t;FRGEK;;t;;f;8703465;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-3190;Genève Eaux-Vives;geneve-eaux-vives;8774592;87745927;46.2007119952184;6.166044473648071;5335;f;CH;f;Europe/Zurich;f;FRGEV;;t;;f;8500007;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;Genf;Geneva;Ginebra;;Ginevra;;Ženeva;;Genf;ジュネーヴ;제네바;Genewa;Genebra;Женева;;Cenevre;日内瓦
+3190;Genève Eaux-Vives;geneve-eaux-vives;8774592;87745927;46.2007119952184;6.166044473648071;5335;f;CH;f;Europe/Zurich;f;FRGEV;;t;;f;8500007;t;;f;;f;;f;;;;f;;f;;f;;f;FRGEV;f;f;;Genf;Geneva;Ginebra;;Ginevra;;Ženeva;;Genf;ジュネーヴ;제네바;Genewa;Genebra;Женева;;Cenevre;日内瓦
 3192;Gex Centre;gex-centre;8774527;87745273;46.33204691423479;6.058391332626343;4647;f;FR;t;Europe/Paris;t;FRGEX;;t;;f;8703392;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3193;Montaut—Bétharram;montaut-betharram;8767211;87672113;43.1269731;-0.1982813;;f;FR;f;Europe/Paris;t;FRGEZ;MHZ;t;;f;8701586;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 3195;Coarraze—Nay;coarraze-nay;8767213;87672139;43.1818351;-0.2416429;;f;FR;f;Europe/Paris;t;FRGFB;CZN;t;;f;8700919;f;;f;;f;;f;;;;f;;f;8700317;f;;f;FRGFB;f;f;;;;;;;;;;;;;;;;;;
@@ -4643,7 +4643,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6153;Gampel-Steg;gampel-steg;8501603;;46.306519;7.747577;;f;CH;f;Europe/Zurich;t;CHAFO;;f;;f;8501603;f;;f;;f;;f;;;;f;;f;;f;;f;CHAFO;t;f;;;;;;;;;;;;;;;;;;
 6154;St-Gallen—St-Fiden;st-gallen-st-fiden;8506303;;;;6358;f;CH;f;Europe/Zurich;f;CHAFP;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6155;Ardon;ardon;8501505;;46.209318;7.271626;;f;CH;f;Europe/Zurich;t;CHAFQ;;f;;f;8501505;f;;f;;f;;f;;;;f;;f;;f;;f;CHAFQ;t;f;;;;;;;;;;;;;;;;;;
-6156;St-Margrethen;st-margrethen;8506314;;47.45315;9.63819;;f;CH;f;Europe/Zurich;t;CHAFR;;f;;f;8506314;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+6156;St-Margrethen;st-margrethen;8506314;;47.45315;9.63819;;f;CH;f;Europe/Zurich;t;CHAFR;;f;;f;8506314;t;;f;;f;;f;;;;f;;f;;f;;f;CHSMA;t;f;;;;;;;;;;;;;;;;;;
 6157;Les Marécottes;les-marecottes;8501563;;;;6370;f;CH;f;Europe/Zurich;f;CHAFS;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;CHAFS;t;f;;;;;;;;;;;;;;;;;;
 6159;Les Verrières Ville;les-verrieres-ville;;;;;;t;CH;f;Europe/Zurich;f;CHAFU;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6162;Effretikon;effretikon;8503305;;47.4257390000;8.6869500000;;f;CH;f;Europe/Zurich;t;CHAFX;;f;;f;8503305;t;;f;;f;;f;;;;f;;f;;f;;f;CHAFX;t;f;;;;;;;;;;;;;;;;;;
@@ -4796,7 +4796,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6388;Spiez;spiez;8507483;;46.6863940000;7.6800950000;;f;CH;f;Europe/Zurich;t;CHZID;;f;;f;8507483;t;;f;;f;8507483;t;S07483;;;f;;f;;f;;f;CHZID;t;f;;;;;;;;;;;;;;;Шпиц;;;施皮茨
 6389;Les Diablerets;les-diablerets;8501479;;46.351159;7.155017;;f;CH;f;Europe/Zurich;t;CHZJF;;f;;f;8501479;f;;f;;f;;f;;;;f;;f;;f;;f;CHZJF;t;f;;;;;;;;;;;;;;;;;;
 6391;Martigny;martigny;;;;;;t;CH;f;Europe/Zurich;f;CHZJM;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-6392;Montreux;montreux;8501300;85013003;46.4358640000;6.9104300000;;f;CH;f;Europe/Zurich;t;CHZJP;;t;;f;8501300;t;;f;;f;8501300;t;S01235;;;f;;f;8500116;f;;f;;f;f;;;;;;;;;;;モントルー;몽트뢰;;;Монтрё;;Montrö;蒙特勒
+6392;Montreux;montreux;8501300;85013003;46.4358640000;6.9104300000;;f;CH;f;Europe/Zurich;t;CHZJP;;t;;f;8501300;t;;f;;f;8501300;t;S01235;;;f;;f;8500116;f;;f;CHZJP;t;f;;;;;;;;;;;モントルー;몽트뢰;;;Монтрё;;Montrö;蒙特勒
 6393;Olten;olten;8500218;;47.3520090000;7.9076210000;;f;CH;f;Europe/Zurich;t;CHZJU;;t;;f;8500218;t;;f;;f;8500218;t;S01150;;;f;;f;;f;;f;CHZJU;t;f;;;;;;;;;;;オルテン;올텐;;;Ольтен;;;奧爾滕
 6395;Schaffhausen;schaffhausen;8503424;;47.6982830000;8.6327360000;;f;CH;f;Europe/Zurich;t;CHZKJ;;f;;f;8503424;t;;f;;f;;f;;;;f;;f;;f;;f;DESCN;t;f;;;;;Schaffhouse;Sciaffusa;;;;;シャフハウゼン;샤프하우젠;Szafuza;Sciaffusa;Шаффхаузен;;;沙夫豪森
 6396;Sierre;sierre;8585242;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -5279,7 +5279,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 6881;Bitburg-Erdorf;bitburg-erdorf;8025160;;49.998685;6.570961;7530;f;DE;f;Europe/Berlin;t;DEAHG;;f;;f;8001828;t;;f;;f;;f;;;;f;;f;;f;;f;DEAHG;f;f;;;;;;;;;;;;;;;;;;
 6882;Erkrath;erkrath;8008085;;51.220454;6.902412;;f;DE;f;Europe/Berlin;t;DEAHH;;f;;f;8001841;t;;f;;f;;f;;;;f;;f;;f;;f;DEAHH;f;f;;;;;;;;;;;;;;;Эркрат;;;埃尔克拉特
 6883;Erlangen;erlangen;8022163;;49.595896;11.001906;;f;DE;f;Europe/Berlin;t;DEAHI;;f;;f;8001844;t;;f;;f;;f;;;;f;;f;;f;;f;DEAHI;f;f;;;;;;;;;;;エアランゲン;에를랑겐;;;Эрланген;;;埃尔朗根
-6884;Erzingen (Baden);erzingen-baden;8014481;;47.659539;8.430119;;f;DE;f;Europe/Berlin;t;DEAHJ;;f;;f;8001865;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+6884;Erzingen (Baden);erzingen-baden;8014481;;47.659539;8.430119;;f;DE;f;Europe/Berlin;t;DEAHJ;;f;;f;8001865;t;;f;;f;;f;;;;f;;f;;f;;f;DEAHJ;f;f;;;;;;;;;;;;;;;;;;
 6885;Eschweiler Hbf;eschweiler-hbf;8015336;;50.81353;6.251934;;f;DE;f;Europe/Berlin;t;DEAHK;;f;;f;8001886;t;;f;;f;;f;;;;f;;f;;f;;f;DEAHK;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;エシュヴァイラー;에슈바일러;;;Эшвайлер;;;埃施韦勒
 6886;Esens (Ostfriesl);esens-ostfriesl;8021445;;53.636215;7.616209;;f;DE;f;Europe/Berlin;t;DEAHL;;f;;f;8001890;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 6887;Essen-Altenessen;essen-altenessen;8010158;;51.484305;7.007199;;f;DE;f;Europe/Berlin;t;DEAHM;;f;;f;8001900;t;;f;;f;;f;;;;f;;f;;f;;f;DEESA;f;f;;;;;;;;;;;;;;;;;;
@@ -5681,7 +5681,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7289;Schwäbisch Hall;schwabisch-hall;8029676;;49.108214;9.733357;;f;DE;f;Europe/Berlin;t;DEAWZ;;f;;f;8005449;t;;f;;f;;f;;;;f;;f;;f;;f;DEAWZ;f;f;;;;;;;;;;;シュヴェービッシュ・ハル;;;;;;;
 7290;Siegburg/Bonn;siegburg-bonn;8015588;;50.793916;7.203029;;f;DE;f;Europe/Berlin;t;DEAXA;;f;;f;8005556;t;;f;;f;;f;;;;f;;f;;f;;f;DEAXA;f;f;;;;;;;;;;;;;;;;;;
 7291;Siegen;siegen;8008246;;50.876086;8.016661;;f;DE;f;Europe/Berlin;t;DEAXB;;f;;f;8000046;t;;f;;f;;f;;;;f;;f;;f;;f;DEAXB;f;f;;;;;;;;;;;ジーゲン;;;;Зиген;;;
-7292;Singen (Hohentwiel);singen-hohentwiel;8000494;;47.758438;8.840378;;f;DE;f;Europe/Berlin;t;DEAXC;;f;;f;8000073;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+7292;Singen (Hohentwiel);singen-hohentwiel;8000494;;47.758438;8.840378;;f;DE;f;Europe/Berlin;t;DEAXC;;f;;f;8000073;t;;f;;f;;f;;;;f;;f;;f;;f;DESIN;f;f;;;;;;;;;;;;;;;;;;
 7293;Bad Sobernheim;bad-sobernheim;8025269;;49.782845;7.64982;;f;DE;f;Europe/Berlin;t;DEAXD;;f;;f;8005583;t;;f;;f;;f;;;;f;;f;;f;;f;DEBSM;f;f;;;;;;;;;;;;;;;;;;
 7294;Solingen ohligs;solingen-ohligs;;;;;7711;f;DE;f;Europe/Berlin;f;DEAXE;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7295;Soest;soest;8010373;;51.578422;8.104593;;f;DE;f;Europe/Berlin;t;DEAXF;;f;;f;8000076;t;;f;;f;;f;;;;f;;f;;f;;f;DESOS;f;f;;Deutschland;Germany;Alemania;Allemagne;Germania;;;;;ゾースト;;;;Зост;;;索斯特
@@ -5870,7 +5870,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7479;Mannheim Hbf;mannheim-hbf;8014008;;49.479295999056305;8.469530940055847;7478;f;DE;t;Europe/Berlin;t;DEMHG;;t;;f;8000244;t;;f;;f;8014008;f;;;;f;;f;8068585;f;;f;DEMHG;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;マンハイム;만하임;;;Мангейм;;;曼海姆
 7480;München Hbf;munchen-hbf;8020347;;48.140228;11.558338;7686;f;DE;t;Europe/Berlin;t;DEBEG;;t;;f;8000261;t;;f;;f;8020347;f;;;;f;;f;8080600;f;;f;DEBEG;f;f;;;Munich Main station;Múnich;Munich Gare centrale;Monaco di Baviera Stazione centrale;;Mnichov;;;ミュンヘン;뮌헨;Monachium;Munique;Мюнхен;;Münih;慕尼黑
 7481;Neustadt;neustadt;;;49.34961;8.140379;;t;DE;f;Europe/Berlin;t;DEBEH;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7482;Neustadt (Weinstr) Hbf;neustadt-weinstr-hbf;8019403;;49.34961;8.140379;7481;f;DE;t;Europe/Berlin;t;DEQNL;;f;;f;8000275;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ノイシュタット・バイ・コーブルク;;;;Нойштадт-ам-Ренштайг;;;伦斯泰希地区诺伊斯塔特
+7482;Neustadt (Weinstr) Hbf;neustadt-weinstr-hbf;8019403;;49.34961;8.140379;7481;f;DE;t;Europe/Berlin;t;DEQNL;;f;;f;8000275;t;;f;;f;;f;;;;f;;f;;f;;f;DENEW;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ノイシュタット・バイ・コーブルク;;;;Нойштадт-ам-Ренштайг;;;伦斯泰希地区诺伊斯塔特
 7483;Wuppertal;wuppertal;;;51.254334;7.149381;;t;DE;f;Europe/Berlin;t;DEBEI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7484;Wuppertal Hbf;wuppertal-hbf;8008143;;51.254334;7.149381;7483;f;DE;t;Europe/Berlin;t;DEUWP;;f;;f;8000266;t;;f;;f;;f;;;;f;;f;;f;;f;DEUWP;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ヴッパータール;부퍼탈;;;Вупперталь;;;伍珀塔尔
 7485;Buebingen;buebingen;8025413;;;;;f;DE;f;Europe/Berlin;f;DEBEJ;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -6814,7 +6814,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 8576;Venezia Carpenedo;venezia-carpenedo;8302672;;45.506676;12.247595;8573;f;IT;f;Europe/Rome;t;ITAID;;f;;f;8300968;f;;f;;f;8302672;t;S02672;;;f;;f;;f;;f;ITAID;f;f;;Venedig;Venice;Venecia;Venise;;Venetië;Benátky;Venedig;Velence;ヴェネツィア;베네치아;Wenecja;Veneza;Венеция;Venedig;Venedik;威尼斯
 8578;Ventimiglia;ventimiglia;8304501;;43.792586;7.609953;9604;f;IT;f;Europe/Rome;t;ITVEF;;t;;f;8300146;f;;f;;f;8304501;t;S04501;;;f;;f;;f;;f;;f;f;;;;;Vintimille;;;;;;ヴェンティミーリア;;;;Вентимилья;;;文蒂米利亚
 8580;Verone;verone;;;;;;t;IT;f;Europe/Rome;f;ITVER;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-8581;Verona Porta Nuova;verona-porta-nuova;8302430;83024307;45.4286590000;10.9827410000;8580;f;IT;t;Europe/Rome;t;ITVRN;;f;;f;8300120;t;;f;;f;8302430;t;S02430;3025;VPN;t;;f;;f;;f;;f;f;;;;;Vérone;;;;;;ヴェローナ;;Werona;;Верона;;;
+8581;Verona Porta Nuova;verona-porta-nuova;8302430;83024307;45.4286590000;10.9827410000;8580;f;IT;t;Europe/Rome;t;ITVRN;;f;;f;8300120;t;;f;;f;8302430;t;S02430;3025;VPN;t;;f;;f;;f;ITVRN;f;f;;;;;Vérone;;;;;;ヴェローナ;;Werona;;Верона;;;
 8583;Verona ca di david;verona-ca-di-david;8302061;;;;8580;f;IT;f;Europe/Rome;f;ITAIE;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;ITAIE;f;f;;;;;;;;;;;;;;;;;;
 8585;Ventimiglia;ventimiglia;8300340;;43.792458;7.6098994;9604;f;IT;f;Europe/Rome;f;ITAJS;;f;;f;;f;;f;;f;8300340;f;;;;f;;f;;f;;f;ITAJS;f;f;;;;;Vintimille;;;;;;ヴェンティミーリア;;;;Вентимилья;;;文蒂米利亚
 8589;Mersch;mersch;8200110;;49.748893;6.106111;;f;LU;f;Europe/Luxembourg;t;LUAAA;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;LUMER;t;f;;;;;;;;;;;;;;;;;;
@@ -15688,7 +15688,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17599;Melk;melk;8101041;;48.2240890000;15.3313000000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100005;t;;f;;f;;f;;;;f;;f;;f;;f;ATAAE;t;f;;;;;;;;;;;メルク;멜크;;;Мельк;;;梅爾克
 17600;Lambach;lambach;8101086;;48.0940870000;13.8883420000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100015;t;;f;;f;;f;;;;f;;f;;f;;f;ATAAR;t;f;;;;;;;;;;;;;;;;;;
 17601;Attnang-Puchheim;attnang-puchheim;8101091;;48.0127970000;13.7207210000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100017;t;;f;;f;;f;;;;f;;f;;f;;f;ATAPU;t;f;;;;;;;;;;;;;;;;;;
-17602;Steindorf bei Straßwalchen;steindorf-bei-strasswalchen;8101105;;47.9667270000;13.2390250000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100020;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+17602;Steindorf bei Straßwalchen;steindorf-bei-strasswalchen;8101105;;47.9667270000;13.2390250000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100020;t;;f;;f;;f;;;;f;;f;;f;;f;ATABC;t;f;;;;;;;;;;;;;;;;;;
 17603;Grieskirchen-Gallspach;grieskirchen-gallspach;8101726;;48.2310460000;13.8389110000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100022;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17604;Neumarkt-Kallham;neumarkt-kallham;8101729;;48.2715430000;13.7250440000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100023;t;;f;;f;;f;;;;f;;f;;f;;f;ATABF;t;f;;;;;;;;;;;;;;;;;;
 17605;Schärding;scharding;8101740;;48.4632380000;13.4427200000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100024;t;;f;;f;;f;;;;f;;f;;f;;f;ATABH;t;f;;;;;;;;;;;;;;;;;;
@@ -15713,7 +15713,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17624;St. Anton am Arlberg;st-anton-am-arlberg;8101222;;47.1275660000;10.2669930000;;f;AT;f;Europe/Vienna;t;ATANT;;f;;f;8100064;t;;f;;f;;f;;;;f;;f;;f;;f;ATANT;t;f;;;;;;;;;;;サンクト・アントン・アム・アールベルク;;;;Санкт-Антон-ам-Арльберг;;;阿尔山麓圣安东
 17625;Langen am Arlberg;langen-am-arlberg;8101223;;47.1317190000;10.1203700000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100065;t;;f;;f;;f;;;;f;;f;;f;;f;ATADM;t;f;;;;;;;;;;;;;;;;;;
 17626;Bludenz;bludenz;8101230;;47.1547230000;9.8145660000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100067;t;;f;;f;;f;;;;f;;f;;f;;f;ATBLU;t;f;;;;;;;;;;;;;;;Блуденц;;;布盧登茨
-17627;St.Michael in Obersteiermark;st-michael-in-obersteiermark;8101650;;47.3466250000;15.0091890000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100071;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+17627;St.Michael in Obersteiermark;st-michael-in-obersteiermark;8101650;;47.3466250000;15.0091890000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100071;t;;f;;f;;f;;;;f;;f;;f;;f;ATADQ;t;f;;;;;;;;;;;;;;;;;;
 17628;St.Veit/Glan;st-veit-glan;8103633;;46.7705870000;14.3671890000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100078;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17629;Krumpendorf/Wörthersee;krumpendorf-worthersee;8103646;;46.6263370000;14.2215100000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100079;t;;f;;f;;f;;;;f;;f;;f;;f;ATKPD;t;f;;;;;;;;;;;;;;;;;;
 17630;Pörtschach am Wörther See;portschach-am-worther-see;8103648;;46.6361980000;14.1462340000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100080;t;;f;;f;;f;;;;f;;f;;f;;f;ATADZ;t;f;;;;;;;;;;;;;;;;;;
@@ -20639,7 +20639,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22605;Alteckendorf Mairie;alteckendorf-mairie;8763994;;48.7916550000;7.5970460000;;f;FR;f;Europe/Paris;t;FRTMR;;t;;f;8706846;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;阿尔泰康多尔
 22606;Minversheim Rue Principale;minversheim-rue-principale;8763992;;48.7833330000;7.6166670000;;f;FR;f;Europe/Paris;t;FRTMT;;t;;f;8706848;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22607;Kastrup Lufthavn st;kastrup-lufthavn-st;8603327;;55.629609;12.649377;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601242;t;;f;;f;;f;;;;f;;f;;f;;f;DKVPT;f;f;;;;;;;;;;;;;;;;;;
-22608;Zürich Hardbrücke;zurich-hardbrucke;8503020;;47.385215;8.517099;6401;f;CH;f;Europe/Zurich;t;;;f;;f;8503020;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+22608;Zürich Hardbrücke;zurich-hardbrucke;8503020;;47.385215;8.517099;6401;f;CH;f;Europe/Zurich;t;;;f;;f;8503020;t;;f;;f;;f;;;;f;;f;;f;;f;CHZUH;t;f;;;;;;;;;;;;;;;;;;
 22609;Wien Westbahnhof (U6);wien-westbahnhof-u6;;;48.196806;16.339197;17561;f;AT;f;Europe/Vienna;f;;;f;;f;8102005;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22610;Karlsruhe Hbf Südausgang;karlsruhe-hbf-sudausgang;;;48.99219;8.401543;7665;f;DE;f;Europe/Berlin;f;;;f;;f;8089390;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22611;Düsserldorf Hbf ZOB;dusseldorf-hbf-zob;;;51.22289;6.79536;7578;f;DE;f;Europe/Berlin;f;;;f;;f;8089323;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21489,7 +21489,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23456;Fraünberg an der Enns;fraunberg-an-der-enns;8101456;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100800;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23457;Freistadt;freistadt;8101583;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100239;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23458;Friedberg;friedberg;8103319;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100185;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23459;Friesach;friesach;8103625;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100076;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23459;Friesach;friesach;8103625;;46.953699;14.410285;;f;AT;f;Europe/Vienna;t;;;f;;f;8100076;f;;f;;f;;f;;;;f;;f;;f;;f;ATFSC;t;f;;;;;;;;;;;;;;;;;;
 23460;Frohnleiten;frohnleiten;8103164;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100033;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23461;Fürstenfeld;furstenfeld;8103338;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100177;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23462;Gänserndorf;ganserndorf;8102816;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100245;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21550,7 +21550,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23517;Mödling;modling;8103113;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8101230;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23518;Möllbrücke-Sachsbg;mollbrucke-sachsbg;8103862;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100419;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23519;Mühldorf-Möllbrücke;muhldorf-mollbrucke;8102126;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100087;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23520;Mürzzuschlag;murzzuschlag;8103144;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100029;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23520;Mürzzuschlag;murzzuschlag;8103144;;47.607611;15.677128;;f;AT;f;Europe/Vienna;t;;;f;;f;8100029;f;;f;;f;;f;;;;f;;f;;f;;f;ATACA;t;f;;;;;;;;;;;;;;;;;;
 23521;Nenzing;nenzing;8101233;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100068;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23522;Nettingsdorf;nettingsdorf;8101604;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8101265;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23523;Neumarkt-Köstendorf;neumarkt-kostendorf;8101107;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100134;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21586,7 +21586,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23553;Silz;silz;8101202;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100586;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23554;Söchau;sochau;8103340;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100429;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23555;Spielfeld-Strasz;spielfeld-strasz;8103185;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100082;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23556;Spital am Pyhrn;spital-am-pyhrn;8101630;;47.674335;14.352572;;f;AT;f;Europe/Vienna;f;;;f;;f;8100306;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23556;Spital am Pyhrn;spital-am-pyhrn;8101630;;47.674335;14.352572;;f;AT;f;Europe/Vienna;t;;;f;;f;8100306;f;;f;;f;;f;;;;f;;f;;f;;f;ATAJF;t;f;;;;;;;;;;;;;;;;;;
 23557;Spital am Semmering;spital-am-semmering;8103143;;47.616283;15.756022;;f;AT;f;Europe/Vienna;f;;;f;;f;8101596;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23558;St. Anton im Montafon;st-anton-im-montafon;8122303;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100497;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23559;Stadt Rottenmann;stadt-rottenmann;8101634;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100309;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21609,7 +21609,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23576;Trieben;trieben;8101637;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100128;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23577;Tulln;tulln;8102419;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100203;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23578;Ulmerfeld-Hausmening;ulmerfeld-hausmening;8101431;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8101695;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23579;Unzmarkt;unzmarkt;8103618;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100074;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23579;Unzmarkt;unzmarkt;8103618;;47.200795;14.442307;;f;AT;f;Europe/Vienna;t;;;f;;f;8100074;f;;f;;f;;f;;;;f;;f;;f;;f;ATADT;t;f;;;;;;;;;;;;;;;;;;
 23580;Völs;vols;8101191;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8101728;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23581;Waidhofen an der Ybbs;waidhofen-an-der-ybbs;8101437;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100445;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23582;Wald am Schoberpasz;wald-am-schoberpasz;8101641;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100127;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -21621,7 +21621,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23588;Wien Mitte;wien-mitte;8102842;;;;26862;f;AT;f;Europe/Vienna;f;ATAAB;;f;;f;8100449;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;Vienna;Viena;Vienne;Vienna;Wenen;;;;;;;;;;;
 23589;Wien Nord;wien-nord;8102801;;48.218264;16.393546;26862;f;AT;f;Europe/Vienna;f;;;f;;f;8100349;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;Vienna;Viena;Vienne;Vienna;Wenen;;;;;;;;;;;
 23590;Wien Südbahnhof;wien-sudbahnhof;8102851;;48.187494;16.382382;26862;f;AT;f;Europe/Vienna;f;ATWIS;;f;;f;8101473;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;Vienna;Viena;Vienne;Vienna;Wenen;;;;;;;;;;;
-23591;Wiener Neustadt;wiener-neustadt;8103126;;;;;f;AT;f;Europe/Vienna;f;ATABR;;f;;f;8100516;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23591;Wiener Neustadt Hbf;wiener-neustadt-hbf;8103126;;47.811636;16.234312;;f;AT;f;Europe/Vienna;t;ATABR;;f;;f;8100516;f;;f;;f;;f;;;;f;;f;;f;;f;ATABR;t;f;;;;;;;;;;;;;;;;;;
 23592;Wörschach Schwefelb;worschach-schwefelb;8101460;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100425;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23593;Ybbs an der Donau;ybbs-an-der-donau;8101045;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100007;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23594;Zeltweg;zeltweg;8103614;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;8100518;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
