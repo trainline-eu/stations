@@ -15608,12 +15608,12 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17509;Praha hl.n.;praha-hl-n;5457076;;50.083058;14.436037;17587;f;CZ;f;Europe/Prague;t;CSANS;;f;;f;5400014;t;;f;;f;;f;;;;f;;f;;f;;f;CZPHN;f;f;;Prag;Prague;Praga;Prague;Praga;Praag;;Prag;Prága;プラハ;프라하;Praga;Praga;Прага;Prag;Prag;布拉格
 17510;Teplice v Čechách;teplice-v-cechach;5453289;;50.646762;13.828807;;f;CZ;f;Europe/Prague;t;CSARB;;f;;f;5400101;t;;f;;f;;f;;;;f;;f;;f;;f;CZARB;f;f;;;;;;;;;;;;;;;;;;
 17511;Ústi nad Labem hl.n.;usti-nad-labem-hl-n;5453179;;50.659563;14.044728;;f;CZ;f;Europe/Prague;t;CSARZ;;f;;f;5400019;t;;f;;f;;f;;;;f;;f;;f;;f;CZUNL;f;f;;;;;;;;;;;;;;;;;;
-17512;Aalborg St.;aalborg-st;8600020;;57.043127;9.916486;;f;DK;f;Europe/Copenhagen;t;DKAAH;;f;;f;8600004;t;;f;;f;;f;;;;f;;f;;f;;f;DKAPX;f;f;;;;;;;;;;;オールボー;올보르;;;Ольборг;Ålborg;;奥尔堡
-17513;Aarhus;aarhus;8600053;;56.150075;10.204995;;f;DK;f;Europe/Copenhagen;t;DKAAO;;f;;f;8600087;t;;f;;f;;f;;;;f;;f;;f;;f;DKBIC;f;f;;Århus;;Århus;Århus;Århus;Århus;Århus;Århus;;オーフス;;Århus;;Орхус;Århus;Århus;
-17514;Kolding St.;kolding-st;8600083;;55.490842;9.481525;;f;DK;f;Europe/Copenhagen;t;DKAAU;;f;;f;8601318;t;;f;;f;;f;;;;f;;f;;f;;f;DKBDX;f;f;;;;;;;;;;;コリング;콜링;;;Кольдинг;;;科靈
-17515;København;kobenhavn;8600626;;55.672721;12.564618;;f;DK;f;Europe/Copenhagen;t;DKCPH;;f;;f;8601309;t;;f;;f;;f;;;;f;;f;;f;;f;DKNOX;f;f;;Kopenhagen;Copenhagen;Copenhague;Copenhague;Copenhagen;Kopenhagen;Kodaň;;Koppenhága;コペンハーゲン;코펜하겐;Kopenhaga;Copenhaga;Копенгаген;Köpenhamn;Kopenhag;哥本哈根
-17516;Odense St.;odense-st;8600512;;55.401777;10.386001;;f;DK;f;Europe/Copenhagen;t;DKACT;;f;;f;8601770;t;;f;;f;;f;;;;f;;f;;f;;f;DKLGX;f;f;;;;;;;;;;;オーデンセ;오덴세;;;Оденсе;;;欧登塞
-17517;Roskilde St.;roskilde-st;8600617;;55.639012;12.088855;;f;DK;f;Europe/Copenhagen;t;DKADC;;f;;f;8602026;t;;f;;f;;f;;;;f;;f;;f;;f;DKNOE;f;f;;;;;;;;;;;ロスキレ;로스킬레;;;Роскилле;;;罗斯基勒
+17512;Aalborg St.;aalborg-st;8600020;;57.043127;9.916486;;f;DK;f;Europe/Copenhagen;t;DKAAH;;f;;f;8600004;t;;f;;f;;f;;;;f;;f;;f;;f;DKABX;f;f;;;;;;;;;;;オールボー;올보르;;;Ольборг;Ålborg;;奥尔堡
+17513;Aarhus;aarhus;8600053;;56.150075;10.204995;;f;DK;f;Europe/Copenhagen;t;DKAAO;;f;;f;8600087;t;;f;;f;;f;;;;f;;f;;f;;f;DKARX;f;f;;Århus;;Århus;Århus;Århus;Århus;Århus;Århus;;オーフス;;Århus;;Орхус;Århus;Århus;
+17514;Kolding St.;kolding-st;8600083;;55.490842;9.481525;;f;DK;f;Europe/Copenhagen;t;DKAAU;;f;;f;8601318;t;;f;;f;;f;;;;f;;f;;f;;f;DKKDX;f;f;;;;;;;;;;;コリング;콜링;;;Кольдинг;;;科靈
+17515;København;kobenhavn;8600626;;55.672721;12.564618;;f;DK;f;Europe/Copenhagen;t;DKCPH;;f;;f;8601309;t;;f;;f;;f;;;;f;;f;;f;;f;DKKHX;f;f;;Kopenhagen;Copenhagen;Copenhague;Copenhague;Copenhagen;Kopenhagen;Kodaň;;Koppenhága;コペンハーゲン;코펜하겐;Kopenhaga;Copenhaga;Копенгаген;Köpenhamn;Kopenhag;哥本哈根
+17516;Odense St.;odense-st;8600512;;55.401777;10.386001;;f;DK;f;Europe/Copenhagen;t;DKACT;;f;;f;8601770;t;;f;;f;;f;;;;f;;f;;f;;f;DKODX;f;f;;;;;;;;;;;オーデンセ;오덴세;;;Оденсе;;;欧登塞
+17517;Roskilde St.;roskilde-st;8600617;;55.639012;12.088855;;f;DK;f;Europe/Copenhagen;t;DKADC;;f;;f;8602026;t;;f;;f;;f;;;;f;;f;;f;;f;DKROX;f;f;;;;;;;;;;;ロスキレ;로스킬레;;;Роскилле;;;罗斯基勒
 17518;Gdańsk Główny;gdansk-glowny;5100750;;54.355523;18.643807;;f;PL;f;Europe/Warsaw;t;PLGAW;;f;;f;5100009;t;;f;;f;;f;;;;f;;f;;f;;f;PLGDA;f;f;;Danzig;Danzig;Danzig;Dantzig;Danzica;;Gdaňsk;;;グダニスク;그단스크;;Gdańsk;Гданьск;;;格但斯克
 17519;Lodź Kaliska;lodz-kaliska;5104670;;51.757416;19.430884;;f;PL;f;Europe/Warsaw;t;PLABQ;;f;;f;5100039;t;;f;;f;;f;;;;f;;f;;f;;f;PLABQ;f;f;;;;;;;;;;;;;;;;;;
 17520;Göteborg Central;goteborg-central;7401318;;57.709308;11.973424;;f;SE;f;Europe/Stockholm;t;SEGOT;;f;;f;7400003;t;;f;;f;;f;;;;f;;f;;f;;f;SEGOT;f;f;;;Gothenburg;Gotemburgo;;;Gotenburg;;;;ヨーテボリ;예테보리;;Gotemburgo;Гётеборг;;;哥德堡
@@ -15680,8 +15680,8 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17591;Leipzig Hbf (tief);leipzig-hbf-tief;;;51.3454454;12.3800875;16756;f;DE;f;Europe/Berlin;f;;;f;;f;8098205;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17592;Freiburg (Breisgau) ZOB;freiburg-breisgau-zob;;;47.9966790000;7.8412900000;7692;f;DE;f;Europe/Berlin;f;;;f;;f;8089362;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17593;Halle (Saale) Hbf E.-Kamieth-Str.;halle-saale-hbf-e-dot-kamieth-str;;;51.4761700000;11.9861890000;;f;DE;f;Europe/Berlin;f;;;f;;f;8070814;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17594;Fredericia St.;fredericia-st;8600079;;55.5680870000;9.7388140000;;f;DK;f;Europe/Copenhagen;t;DKAAT;;f;;f;8600623;t;;f;;f;;f;;;;f;;f;;f;;f;DKBMX;f;f;;;;;;;;;;;フレゼリシア;프레데리시아;;;Фредерисия;;;
-17595;Tinglev St.;tinglev-st;8600097;;54.9361720000;9.2582330000;;f;DK;f;Europe/Copenhagen;t;DKAAZ;;f;;f;8602553;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAZ;f;f;;;;;;;;;;;;;;;;;;
+17594;Fredericia St.;fredericia-st;8600079;;55.5680870000;9.7388140000;;f;DK;f;Europe/Copenhagen;t;DKAAT;;f;;f;8600623;t;;f;;f;;f;;;;f;;f;;f;;f;DKFAX;f;f;;;;;;;;;;;フレゼリシア;프레데리시아;;;Фредерисия;;;
+17595;Tinglev St.;tinglev-st;8600097;;54.9361720000;9.2582330000;;f;DK;f;Europe/Copenhagen;t;DKAAZ;;f;;f;8602553;t;;f;;f;;f;;;;f;;f;;f;;f;DKTEX;f;f;;;;;;;;;;;;;;;;;;
 17596;Rostock A.-Kossel-Platz;rostock-a-dot-kossel-platz;;;54.0774600000;12.1295580000;;f;DE;f;Europe/Berlin;f;;;f;;f;8070961;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17597;Stuttgart Hbf (tief) +;stuttgart-hbf-tief-plus;;;48.7830020000;9.1798110000;7710;f;DE;f;Europe/Berlin;f;;;f;;f;8050096;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17598;Ravensburg Bhf (SEV);ravensburg-bhf-sev;;;47.7843360000;9.6060700000;;f;DE;f;Europe/Berlin;f;;;f;;f;8089483;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -16677,208 +16677,208 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 18592;Praha Nádraží Holešovice (M);praha-nadrazi-holesovice-m;;;50.1102140000;14.4400100000;;f;CZ;f;Europe/Prague;f;;;f;;f;5480000;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18593;Praha Smíchovské nádraží (M);praha-smichovske-nadrazi-m;;;50.0607830000;14.4078110000;;f;CZ;f;Europe/Prague;f;;;f;;f;5480035;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18594;Praha Náměšti Republiky (M);praha-namesti-republiky-m;;;50.0883700000;14.4324510000;;f;CZ;f;Europe/Prague;f;;;f;;f;5480040;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18595;Alken St.;alken-st;8600260;;56.0525960000;9.8457680000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600042;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;;;;;;
+18595;Alken St.;alken-st;8600260;;56.0525960000;9.8457680000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600042;t;;f;;f;;f;;;;f;;f;;f;;f;DKAKX;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;;;;;;
 18596;Ålsgårde St.;alsgarde-st;8601633;;56.0750600000;12.5377040000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600057;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18597;Arden St.;arden-st;8600029;;56.7692520000;9.8598270000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600083;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAJ;f;f;;;;;;;;;;;;;;;;;;
-18598;Aulum St.;aulum-st;8600300;;56.2641310000;8.7874500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600146;t;;f;;f;;f;;;;f;;f;;f;;f;DKAVL;f;f;;;;;;;;;;;;;;;;;;
-18599;Bedsted Thy St.;bedsted-thy-st;8600398;;56.8060360000;8.4070260000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600183;t;;f;;f;;f;;;;f;;f;;f;;f;DKACP;f;f;;;;;;;;;;;;;;;;;;
-18600;Bjerringbro St.;bjerringbro-st;8600172;;56.3742480000;9.6581180000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600221;t;;f;;f;;f;;;;f;;f;;f;;f;DKABD;f;f;;;;;;;;;;;;;;;;;;
-18601;Bording St.;bording-st;8600271;;56.1467400000;9.2782250000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600263;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18602;Børkop St.;borkop-st;8600077;;55.6420680000;9.6523290000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600268;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18603;Borris St.;borris-st;8600280;;55.9581920000;8.6440360000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600272;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18604;Borup St.;borup-st;8600614;;55.4948970000;11.9729300000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600276;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18605;Bramming St.;bramming-st;8600219;;55.4645130000;8.7067800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600297;t;;f;;f;;f;;;;f;;f;;f;;f;DKHDX;f;f;;;;;;;;;;;;;Gmina Bramming;;;;;
-18606;Brande St.;brande-st;8600291;;55.9396290000;9.1238800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600300;t;;f;;f;;f;;;;f;;f;;f;;f;DKACI;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;Gmina Brande;;;;;
-18607;Bred St.;bred-st;8600507;;55.3732910000;10.1057720000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600310;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18608;Bredebro St.;bredebro-st;8600430;;55.0568970000;8.8230650000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600313;t;;f;;f;;f;;;;f;;f;;f;;f;DKBRE;f;f;;;;;;;;;;;;;Gmina Bredebro;;;;;
-18609;Brejning St.;brejning-st;8600076;;55.6666710000;9.6591870000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600330;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18610;Brønderslev St.;bronderslev-st;8600015;;57.2703560000;9.9425180000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600336;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAG;f;f;;;;;;;;;;;;;;;;;;
-18611;Brøns St.;brons-st;8600426;;55.1946930000;8.7407510000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600345;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18612;Brørup St.;brorup-st;8600222;;55.4826800000;9.0155960000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600346;t;;f;;f;;f;;;;f;;f;;f;;f;DKACC;f;f;;;;;;;;;;;;;;;;;;
-18613;Bur St.;bur-st;8600195;;56.3677760000;8.4261010000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600361;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18614;Døstrup (Sønderjylland) St.;dostrup-sonderjylland-st;8600428;;55.1174850000;8.8078640000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600416;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18597;Arden St.;arden-st;8600029;;56.7692520000;9.8598270000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600083;t;;f;;f;;f;;;;f;;f;;f;;f;DKADX;f;f;;;;;;;;;;;;;;;;;;
+18598;Aulum St.;aulum-st;8600300;;56.2641310000;8.7874500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600146;t;;f;;f;;f;;;;f;;f;;f;;f;DKUUX;f;f;;;;;;;;;;;;;;;;;;
+18599;Bedsted Thy St.;bedsted-thy-st;8600398;;56.8060360000;8.4070260000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600183;t;;f;;f;;f;;;;f;;f;;f;;f;DKBNX;f;f;;;;;;;;;;;;;;;;;;
+18600;Bjerringbro St.;bjerringbro-st;8600172;;56.3742480000;9.6581180000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600221;t;;f;;f;;f;;;;f;;f;;f;;f;DKBJX;f;f;;;;;;;;;;;;;;;;;;
+18601;Bording St.;bording-st;8600271;;56.1467400000;9.2782250000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600263;t;;f;;f;;f;;;;f;;f;;f;;f;DKBGX;f;f;;;;;;;;;;;;;;;;;;
+18602;Børkop St.;borkop-st;8600077;;55.6420680000;9.6523290000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600268;t;;f;;f;;f;;;;f;;f;;f;;f;DKBKX;f;f;;;;;;;;;;;;;;;;;;
+18603;Borris St.;borris-st;8600280;;55.9581920000;8.6440360000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600272;t;;f;;f;;f;;;;f;;f;;f;;f;DKBSX;f;f;;;;;;;;;;;;;;;;;;
+18604;Borup St.;borup-st;8600614;;55.4948970000;11.9729300000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600276;t;;f;;f;;f;;;;f;;f;;f;;f;DKBOX;f;f;;;;;;;;;;;;;;;;;;
+18605;Bramming St.;bramming-st;8600219;;55.4645130000;8.7067800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600297;t;;f;;f;;f;;;;f;;f;;f;;f;DKBMX;f;f;;;;;;;;;;;;;Gmina Bramming;;;;;
+18606;Brande St.;brande-st;8600291;;55.9396290000;9.1238800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600300;t;;f;;f;;f;;;;f;;f;;f;;f;DKBBX;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;Gmina Brande;;;;;
+18607;Bred St.;bred-st;8600507;;55.3732910000;10.1057720000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600310;t;;f;;f;;f;;;;f;;f;;f;;f;DKBDX;f;f;;;;;;;;;;;;;;;;;;
+18608;Bredebro St.;bredebro-st;8600430;;55.0568970000;8.8230650000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600313;t;;f;;f;;f;;;;f;;f;;f;;f;DKBWX;f;f;;;;;;;;;;;;;Gmina Bredebro;;;;;
+18609;Brejning St.;brejning-st;8600076;;55.6666710000;9.6591870000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600330;t;;f;;f;;f;;;;f;;f;;f;;f;DKBET;f;f;;;;;;;;;;;;;;;;;;
+18610;Brønderslev St.;bronderslev-st;8600015;;57.2703560000;9.9425180000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600336;t;;f;;f;;f;;;;f;;f;;f;;f;DKBLX;f;f;;;;;;;;;;;;;;;;;;
+18611;Brøns St.;brons-st;8600426;;55.1946930000;8.7407510000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600345;t;;f;;f;;f;;;;f;;f;;f;;f;DKBRR;f;f;;;;;;;;;;;;;;;;;;
+18612;Brørup St.;brorup-st;8600222;;55.4826800000;9.0155960000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600346;t;;f;;f;;f;;;;f;;f;;f;;f;DKBPX;f;f;;;;;;;;;;;;;;;;;;
+18613;Bur St.;bur-st;8600195;;56.3677760000;8.4261010000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600361;t;;f;;f;;f;;;;f;;f;;f;;f;DKBUX;f;f;;;;;;;;;;;;;;;;;;
+18614;Døstrup (Sønderjylland) St.;dostrup-sonderjylland-st;8600428;;55.1174850000;8.8078640000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600416;t;;f;;f;;f;;;;f;;f;;f;;f;DKDSX;f;f;;;;;;;;;;;;;;;;;;
 18615;Dronningmølle St.;dronningmolle-st;8601601;;56.0976770000;12.3875750000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600424;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18616;Ejby St.;ejby-st;8600504;;55.4287450000;9.9298890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600464;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18617;Engesvang St.;engesvang-st;8600270;;56.1677300000;9.3516660000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600494;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18616;Ejby St.;ejby-st;8600504;;55.4287450000;9.9298890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600464;t;;f;;f;;f;;;;f;;f;;f;;f;DKEBX;f;f;;;;;;;;;;;;;;;;;;
+18617;Engesvang St.;engesvang-st;8600270;;56.1677300000;9.3516660000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600494;t;;f;;f;;f;;;;f;;f;;f;;f;DKEVX;f;f;;;;;;;;;;;;;;;;;;
 18618;Firhøj Station (Gilleleje);firhoj-station-gilleleje;8601603;;56.0983250000;12.3557270000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600576;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18619;Fjellenstrup St.;fjellenstrup-st;8601402;;56.1164380000;12.2982230000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600582;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18620;Frederikshavn St.;frederikshavn-st;8600001;;57.4426790000;10.5406700000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600629;t;;f;;f;;f;;;;f;;f;;f;;f;DKAEL;f;f;;;;;;;;;;;;;;;;;;
-18621;Fruens Bøge St.;fruens-boge-st;8600533;;55.3696230000;10.3775240000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600644;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18622;Gadstrup St.;gadstrup-st;8600800;;55.5729860000;12.0994260000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600658;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18623;Gaarde St.;gaarde-st;8600209;;55.7638810000;8.6112880000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600669;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;;;;;;
-18624;Gelsted St.;gelsted-st;8600505;;55.3962130000;9.9743940000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600681;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18625;Give St.;give-st;8600289;;55.8427610000;9.2367570000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600702;t;;f;;f;;f;;;;f;;f;;f;;f;DKACG;f;f;;;;;;;;;;;;;;;;;;
-18626;Glumsø St.;glumso-st;8600773;;55.3533340000;11.6958290000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600746;t;;f;;f;;f;;;;f;;f;;f;;f;DKADO;f;f;;;;;;;;;;;;;;;;;;
-18627;Gørding St.;gording-st;8600220;;55.4696010000;8.8009780000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600751;t;;f;;f;;f;;;;f;;f;;f;;f;DKACA;f;f;;;;;;;;;;;;;;;;;;
+18620;Frederikshavn St.;frederikshavn-st;8600001;;57.4426790000;10.5406700000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600629;t;;f;;f;;f;;;;f;;f;;f;;f;DKFHX;f;f;;;;;;;;;;;;;;;;;;
+18621;Fruens Bøge St.;fruens-boge-st;8600533;;55.3696230000;10.3775240000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600644;t;;f;;f;;f;;;;f;;f;;f;;f;DKFRS;f;f;;;;;;;;;;;;;;;;;;
+18622;Gadstrup St.;gadstrup-st;8600800;;55.5729860000;12.0994260000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600658;t;;f;;f;;f;;;;f;;f;;f;;f;DKGTX;f;f;;;;;;;;;;;;;;;;;;
+18623;Gaarde St.;gaarde-st;8600209;;55.7638810000;8.6112880000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600669;t;;f;;f;;f;;;;f;;f;;f;;f;DKGAA;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;;;;;;
+18624;Gelsted St.;gelsted-st;8600505;;55.3962130000;9.9743940000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600681;t;;f;;f;;f;;;;f;;f;;f;;f;DKGDX;f;f;;;;;;;;;;;;;;;;;;
+18625;Give St.;give-st;8600289;;55.8427610000;9.2367570000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600702;t;;f;;f;;f;;;;f;;f;;f;;f;DKGWX;f;f;;;;;;;;;;;;;;;;;;
+18626;Glumsø St.;glumso-st;8600773;;55.3533340000;11.6958290000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600746;t;;f;;f;;f;;;;f;;f;;f;;f;DKGZX;f;f;;;;;;;;;;;;;;;;;;
+18627;Gørding St.;gording-st;8600220;;55.4696010000;8.8009780000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600751;t;;f;;f;;f;;;;f;;f;;f;;f;DKGOE;f;f;;;;;;;;;;;;;;;;;;
 18628;Græsted St.;graested-st;8601409;;56.0730470000;12.2865190000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600760;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18629;Græsted syd St.;graested-syd-st;8601428;;56.0635090000;12.2952560000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600761;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18630;Gråsten St.;grasten-st;8600322;;54.9187060000;9.5939260000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600767;t;;f;;f;;f;;;;f;;f;;f;;f;DKACL;f;f;;;;;;;;;;;;;;;;;;
-18631;Gredstedbro St.;gredstedbro-st;8600421;;55.3974270000;8.7410650000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600771;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18632;Grenaa St.;grenaa-st;8600165;;56.4124890000;10.8799950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600774;t;;f;;f;;f;;;;f;;f;;f;;f;DKGAE;f;f;;;Grenå;;Grenå;;;;;;;;;;;Grenå;;
+18630;Gråsten St.;grasten-st;8600322;;54.9187060000;9.5939260000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600767;t;;f;;f;;f;;;;f;;f;;f;;f;DKGST;f;f;;;;;;;;;;;;;;;;;;
+18631;Gredstedbro St.;gredstedbro-st;8600421;;55.3974270000;8.7410650000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600771;t;;f;;f;;f;;;;f;;f;;f;;f;DKGSX;f;f;;;;;;;;;;;;;;;;;;
+18632;Grenaa St.;grenaa-st;8600165;;56.4124890000;10.8799950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600774;t;;f;;f;;f;;;;f;;f;;f;;f;DKGRX;f;f;;;Grenå;;Grenå;;;;;;;;;;;Grenå;;
 18633;Grønnehave Station (Helsingør);gronnehave-station-helsingor;8601606;;56.0402270000;12.6110020000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600793;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18634;Guldager St.;guldager-st;8600214;;55.5359590000;8.4403220000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600809;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18635;Hadsten St.;hadsten-st;8600047;;56.3274420000;10.0471890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600842;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAN;f;f;;;;;;;;;;;;;;;;;;
-18636;Hammerum St.;hammerum-st;8600274;;56.1318180000;9.0632300000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600876;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18637;Haslev St.;haslev-st;8600807;;55.3295220000;11.9608660000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600904;t;;f;;f;;f;;;;f;;f;;f;;f;DKHAS;f;f;;;;;;;;;;;;;;;;;;
-18638;Havdrup St.;havdrup-st;8600801;;55.5435460000;12.1171170000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600916;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18639;Hee St.;hee-st;8600199;;56.1440710000;8.2866610000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600932;t;;f;;f;;f;;;;f;;f;;f;;f;DKABP;f;f;;;;;;;;;;;;;;;;;;
+18634;Guldager St.;guldager-st;8600214;;55.5359590000;8.4403220000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600809;t;;f;;f;;f;;;;f;;f;;f;;f;DKGUX;f;f;;;;;;;;;;;;;;;;;;
+18635;Hadsten St.;hadsten-st;8600047;;56.3274420000;10.0471890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600842;t;;f;;f;;f;;;;f;;f;;f;;f;DKHAX;f;f;;;;;;;;;;;;;;;;;;
+18636;Hammerum St.;hammerum-st;8600274;;56.1318180000;9.0632300000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600876;t;;f;;f;;f;;;;f;;f;;f;;f;DKHUX;f;f;;;;;;;;;;;;;;;;;;
+18637;Haslev St.;haslev-st;8600807;;55.3295220000;11.9608660000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600904;t;;f;;f;;f;;;;f;;f;;f;;f;DKHZX;f;f;;;;;;;;;;;;;;;;;;
+18638;Havdrup St.;havdrup-st;8600801;;55.5435460000;12.1171170000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600916;t;;f;;f;;f;;;;f;;f;;f;;f;DKHDX;f;f;;;;;;;;;;;;;;;;;;
+18639;Hee St.;hee-st;8600199;;56.1440710000;8.2866610000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600932;t;;f;;f;;f;;;;f;;f;;f;;f;DKHEX;f;f;;;;;;;;;;;;;;;;;;
 18640;Hellebæk St.;hellebaek-st;8601607;;56.0666730000;12.5536870000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600941;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18641;Herfølge St.;herfolge-st;8600805;;55.4178410000;12.1371090000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600963;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18642;Hinnerup St.;hinnerup-st;8600048;;56.2630880000;10.0594860000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600992;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;Gmina Hinnerup;;Хиннеруп;;;
-18643;Hjallese St.;hjallese-st;8600559;;55.3582250000;10.3926080000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600997;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18644;Hjerm St.;hjerm-st;8600191;;56.4395370000;8.6390560000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601004;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18645;Hjørring St.;hjorring-st;8600009;;57.4563970000;9.9874560000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601010;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;Hjörring;;
-18646;Hobro St.;hobro-st;8600032;;56.6433760000;9.7822500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601020;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAK;f;f;;;;;;;;;;;;;;;Хобро;;;
-18647;Højby Fyn St.;hojby-fyn-st;8603525;;55.3302140000;10.4339590000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601027;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18648;Højslev St.;hojslev-st;8600182;;56.5494300000;9.1102790000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601040;t;;f;;f;;f;;;;f;;f;;f;;f;DKABH;f;f;;;;;;;;;;;;;;;;;;
+18641;Herfølge St.;herfolge-st;8600805;;55.4178410000;12.1371090000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600963;t;;f;;f;;f;;;;f;;f;;f;;f;DKHFX;f;f;;;;;;;;;;;;;;;;;;
+18642;Hinnerup St.;hinnerup-st;8600048;;56.2630880000;10.0594860000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600992;t;;f;;f;;f;;;;f;;f;;f;;f;DKHNX;f;f;;;;;;;;;;;;;Gmina Hinnerup;;Хиннеруп;;;
+18643;Hjallese St.;hjallese-st;8600559;;55.3582250000;10.3926080000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600997;t;;f;;f;;f;;;;f;;f;;f;;f;DKHJS;f;f;;;;;;;;;;;;;;;;;;
+18644;Hjerm St.;hjerm-st;8600191;;56.4395370000;8.6390560000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601004;t;;f;;f;;f;;;;f;;f;;f;;f;DKHMX;f;f;;;;;;;;;;;;;;;;;;
+18645;Hjørring St.;hjorring-st;8600009;;57.4563970000;9.9874560000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601010;t;;f;;f;;f;;;;f;;f;;f;;f;DKHJX;f;f;;;;;;;;;;;;;;;;Hjörring;;
+18646;Hobro St.;hobro-st;8600032;;56.6433760000;9.7822500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601020;t;;f;;f;;f;;;;f;;f;;f;;f;DKHBX;f;f;;;;;;;;;;;;;;;Хобро;;;
+18647;Højby Fyn St.;hojby-fyn-st;8603525;;55.3302140000;10.4339590000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601027;t;;f;;f;;f;;;;f;;f;;f;;f;DKHOS;f;f;;;;;;;;;;;;;;;;;;
+18648;Højslev St.;hojslev-st;8600182;;56.5494300000;9.1102790000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601040;t;;f;;f;;f;;;;f;;f;;f;;f;DKHOE;f;f;;;;;;;;;;;;;;;;;;
 18649;Højstrup St.;hojstrup-st;8601617;;56.0471040000;12.5941120000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601041;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18650;Holbæk St.;holbaek-st;8600719;;55.7154830000;11.7083680000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601043;t;;f;;f;;f;;;;f;;f;;f;;f;DKADI;f;f;;;;;;;;;;;;;;;;;;
-18651;Holme-Olstrup St.;holme-olstrup-st;8600809;;55.2610240000;11.8486360000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601051;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18652;Holmstrup St.;holmstrup-st;8600511;;55.3620090000;10.2719550000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601052;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18653;Holsted St.;holsted-st;8600221;;55.4848290000;8.9137120000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601056;t;;f;;f;;f;;;;f;;f;;f;;f;DKACB;f;f;;;;;;;;;;;;;;;;;;
-18654;Hørdum St.;hordum-st;8600400;;56.8506860000;8.4901760000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601071;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18650;Holbæk St.;holbaek-st;8600719;;55.7154830000;11.7083680000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601043;t;;f;;f;;f;;;;f;;f;;f;;f;DKHKX;f;f;;;;;;;;;;;;;;;;;;
+18651;Holme-Olstrup St.;holme-olstrup-st;8600809;;55.2610240000;11.8486360000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601051;t;;f;;f;;f;;;;f;;f;;f;;f;DKOLX;f;f;;;;;;;;;;;;;;;;;;
+18652;Holmstrup St.;holmstrup-st;8600511;;55.3620090000;10.2719550000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601052;t;;f;;f;;f;;;;f;;f;;f;;f;DKHPX;f;f;;;;;;;;;;;;;;;;;;
+18653;Holsted St.;holsted-st;8600221;;55.4848290000;8.9137120000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601056;t;;f;;f;;f;;;;f;;f;;f;;f;DKHQX;f;f;;;;;;;;;;;;;;;;;;
+18654;Hørdum St.;hordum-st;8600400;;56.8506860000;8.4901760000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601071;t;;f;;f;;f;;;;f;;f;;f;;f;DKHAE;f;f;;;;;;;;;;;;;;;;;;
 18655;Hornbæk St.;hornbaek-st;8601613;;56.0891650000;12.4594620000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601073;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18656;Horneby Sand St.;horneby-sand-st;8601615;;56.0899650000;12.4352630000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601079;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18657;Humlebæk St.;humlebaek-st;8600666;;55.9638100000;12.5329310000;;f;DK;f;Europe/Copenhagen;t;DKAEF;;f;;f;8601119;t;;f;;f;;f;;;;f;;f;;f;;f;DKHUM;f;f;;;;;;;;;;;;;;;;;;
 18658;Humlum St.;humlum-st;8600390;;56.5404500000;8.5524000000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601120;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18659;Hurup Thy St.;hurup-thy-st;8600397;;56.7515890000;8.4182090000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601129;t;;f;;f;;f;;;;f;;f;;f;;f;DKACO;f;f;;;;;;;;;;;;;;;;;;
-18660;Hvalsø St.;hvalso-st;8600716;;55.5953060000;11.8596480000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601134;t;;f;;f;;f;;;;f;;f;;f;;f;DKADG;f;f;;;;;;;;;;;;;;;;;;
-18661;Hvidbjerg St.;hvidbjerg-st;8600394;;56.6503340000;8.5261690000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601140;t;;f;;f;;f;;;;f;;f;;f;;f;DKACN;f;f;;;;;;;;;;;;;;;;;;
-18662;Hviding St.;hviding-st;8600424;;55.2744630000;8.7301520000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601144;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18663;Ikast St.;ikast-st;8600273;;56.1449160000;9.1551800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601166;t;;f;;f;;f;;;;f;;f;;f;;f;DKIKA;f;f;;;;;;;;;;;;;;;;;;
-18664;Jelling St.;jelling-st;8600285;;55.7538940000;9.4220610000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601185;t;;f;;f;;f;;;;f;;f;;f;;f;DKACF;f;f;;;;;;;;;;;;;;;Еллинг;Gravhögarna;;
-18665;Jyderup St.;jyderup-st;8600723;;55.6603070000;11.3979800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601204;t;;f;;f;;f;;;;f;;f;;f;;f;DKADK;f;f;;;;;;;;;;;;;;;;;;
+18659;Hurup Thy St.;hurup-thy-st;8600397;;56.7515890000;8.4182090000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601129;t;;f;;f;;f;;;;f;;f;;f;;f;DKURX;f;f;;;;;;;;;;;;;;;;;;
+18660;Hvalsø St.;hvalso-st;8600716;;55.5953060000;11.8596480000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601134;t;;f;;f;;f;;;;f;;f;;f;;f;DKHVX;f;f;;;;;;;;;;;;;;;;;;
+18661;Hvidbjerg St.;hvidbjerg-st;8600394;;56.6503340000;8.5261690000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601140;t;;f;;f;;f;;;;f;;f;;f;;f;DKHWX;f;f;;;;;;;;;;;;;;;;;;
+18662;Hviding St.;hviding-st;8600424;;55.2744630000;8.7301520000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601144;t;;f;;f;;f;;;;f;;f;;f;;f;DKVDX;f;f;;;;;;;;;;;;;;;;;;
+18663;Ikast St.;ikast-st;8600273;;56.1449160000;9.1551800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601166;t;;f;;f;;f;;;;f;;f;;f;;f;DKIKX;f;f;;;;;;;;;;;;;;;;;;
+18664;Jelling St.;jelling-st;8600285;;55.7538940000;9.4220610000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601185;t;;f;;f;;f;;;;f;;f;;f;;f;DKJLX;f;f;;;;;;;;;;;;;;;Еллинг;Gravhögarna;;
+18665;Jyderup St.;jyderup-st;8600723;;55.6603070000;11.3979800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601204;t;;f;;f;;f;;;;f;;f;;f;;f;DKJYX;f;f;;;;;;;;;;;;;;;;;;
 18666;Kagerup Station (Hillerød);kagerup-station-hillerod;8601421;;55.9972590000;12.2861860000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601216;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18667;Kalundborg St.;kalundborg-st;8600727;;55.6777460000;11.0900810000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601220;t;;f;;f;;f;;;;f;;f;;f;;f;DKADL;f;f;;;;;;;;;;;;;;;;;;
+18667;Kalundborg St.;kalundborg-st;8600727;;55.6777460000;11.0900810000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601220;t;;f;;f;;f;;;;f;;f;;f;;f;DKKBX;f;f;;;;;;;;;;;;;;;;;;
 18668;Karinebæk St.;karinebaek-st;8601620;;56.0831690000;12.4682090000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601227;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18669;Kauslunde St.;kauslunde-st;8600502;;55.4759560000;9.8105300000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601246;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18670;Kibæk St.;kibaek-st;8600278;;56.0321280000;8.8515160000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601256;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18669;Kauslunde St.;kauslunde-st;8600502;;55.4759560000;9.8105300000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601246;t;;f;;f;;f;;;;f;;f;;f;;f;DKKAX;f;f;;;;;;;;;;;;;;;;;;
+18670;Kibæk St.;kibaek-st;8600278;;56.0321280000;8.8515160000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601256;t;;f;;f;;f;;;;f;;f;;f;;f;DKKAE;f;f;;;;;;;;;;;;;;;;;;
 18671;Kildekrog St.;kildekrog-st;8601621;;56.0926160000;12.4234420000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601259;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18672;Klampenborg St.;klampenborg-st;8600659;;55.7772030000;12.5883050000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601278;t;;f;;f;;f;;;;f;;f;;f;;f;DKKLA;f;f;;;;;;;;;;;;;;;;;;
-18673;Kliplev St.;kliplev-st;8600318;;54.9353630000;9.3967740000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601288;t;;f;;f;;f;;;;f;;f;;f;;f;DKACK;f;f;;;;;;;;;;;;;;;;;;
-18674;Knabstrup St.;knabstrup-st;8600721;;55.6648110000;11.5536640000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601298;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18675;Korsør St.;korsor-st;8600601;;55.3572000000;11.1351260000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601343;t;;f;;f;;f;;;;f;;f;;f;;f;DKACY;f;f;;;;;;;;;;;;;;;;;;
-18676;Kværndrup St.;kvaerndrup-st;8600565;;55.1777930000;10.5190870000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601379;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18677;Kvissel St.;kvissel-st;8600005;;57.4720290000;10.4123490000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601380;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAB;f;f;;;;;;;;;;;;;;;;;;
+18672;Klampenborg St.;klampenborg-st;8600659;;55.7772030000;12.5883050000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601278;t;;f;;f;;f;;;;f;;f;;f;;f;DKKLX;f;f;;;;;;;;;;;;;;;;;;
+18673;Kliplev St.;kliplev-st;8600318;;54.9353630000;9.3967740000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601288;t;;f;;f;;f;;;;f;;f;;f;;f;DKKWX;f;f;;;;;;;;;;;;;;;;;;
+18674;Knabstrup St.;knabstrup-st;8600721;;55.6648110000;11.5536640000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601298;t;;f;;f;;f;;;;f;;f;;f;;f;DKKSX;f;f;;;;;;;;;;;;;;;;;;
+18675;Korsør St.;korsor-st;8600601;;55.3572000000;11.1351260000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601343;t;;f;;f;;f;;;;f;;f;;f;;f;DKKOE;f;f;;;;;;;;;;;;;;;;;;
+18676;Kværndrup St.;kvaerndrup-st;8600565;;55.1777930000;10.5190870000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601379;t;;f;;f;;f;;;;f;;f;;f;;f;DKKVS;f;f;;;;;;;;;;;;;;;;;;
+18677;Kvissel St.;kvissel-st;8600005;;57.4720290000;10.4123490000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601380;t;;f;;f;;f;;;;f;;f;;f;;f;DKKVX;f;f;;;;;;;;;;;;;;;;;;
 18678;Kvistgaard St.;kvistgaard-st;8600686;;55.9903910000;12.5024850000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601381;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18679;Langerød St.;langerod-st;8600778;;55.9813480000;12.4516860000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601403;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18680;Laven St.;laven-st;8600263;;56.1248250000;9.7175450000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601417;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18681;Lejre St.;lejre-st;8600715;;55.6047090000;11.9723280000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601423;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18682;Lem St.;lem-st;8600203;;56.0249820000;8.3860360000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601426;t;;f;;f;;f;;;;f;;f;;f;;f;DKABR;f;f;;;;;;;;;;;;;;;;;;
-18683;Lille Skensved St.;lille-skensved-st;8600802;;55.5115090000;12.1402820000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601443;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18684;Lundby St.;lundby-st;8600814;;55.1102930000;11.8694910000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601505;t;;f;;f;;f;;;;f;;f;;f;;f;DKADQ;f;f;;;;;;;;;;;;;;;;;;
-18685;Lyngs St.;lyngs-st;8600395;;56.6646810000;8.4513700000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601532;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18686;Ørestad St.;orestad-st;8600856;;55.6284400000;12.5786500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601560;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18680;Laven St.;laven-st;8600263;;56.1248250000;9.7175450000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601417;t;;f;;f;;f;;;;f;;f;;f;;f;DKLAX;f;f;;;;;;;;;;;;;;;;;;
+18681;Lejre St.;lejre-st;8600715;;55.6047090000;11.9723280000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601423;t;;f;;f;;f;;;;f;;f;;f;;f;DKLJX;f;f;;;;;;;;;;;;;;;;;;
+18682;Lem St.;lem-st;8600203;;56.0249820000;8.3860360000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601426;t;;f;;f;;f;;;;f;;f;;f;;f;DKLMX;f;f;;;;;;;;;;;;;;;;;;
+18683;Lille Skensved St.;lille-skensved-st;8600802;;55.5115090000;12.1402820000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601443;t;;f;;f;;f;;;;f;;f;;f;;f;DKLWX;f;f;;;;;;;;;;;;;;;;;;
+18684;Lundby St.;lundby-st;8600814;;55.1102930000;11.8694910000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601505;t;;f;;f;;f;;;;f;;f;;f;;f;DKLUX;f;f;;;;;;;;;;;;;;;;;;
+18685;Lyngs St.;lyngs-st;8600395;;56.6646810000;8.4513700000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601532;t;;f;;f;;f;;;;f;;f;;f;;f;DKLNX;f;f;;;;;;;;;;;;;;;;;;
+18686;Ørestad St.;orestad-st;8600856;;55.6284400000;12.5786500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601560;t;;f;;f;;f;;;;f;;f;;f;;f;DKOER;f;f;;;;;;;;;;;;;;;;;;
 18687;Marienlyst St.;marienlyst-st;8601623;;56.0433110000;12.6019770000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601563;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18688;Mårum (Græsted-Gilleleje) St.;marum-graested-gilleleje-st;8601427;;56.0308690000;12.3168570000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601572;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18689;Mørdrup St.;mordrup-st;8600779;;56.0021940000;12.5326520000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601613;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18690;Mørkøv St.;morkov-st;8600722;;55.6545180000;11.5018320000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601616;t;;f;;f;;f;;;;f;;f;;f;;f;DKADJ;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;;;;;;
-18691;Nivå St.;niva-st;8600665;;55.9340830000;12.5068980000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601666;t;;f;;f;;f;;;;f;;f;;f;;f;DKNIV;f;f;;;;;;;;;;;;;;;;;;
-18692;Nørre Alslev St.;norre-alslev-st;8600821;;54.8967540000;11.8857350000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601683;t;;f;;f;;f;;;;f;;f;;f;;f;DKADS;f;f;;;;;;;;;;;;;;;;;;
-18693;Nyborg St.;nyborg-st;8600518;;55.3140700000;10.8029210000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601739;t;;f;;f;;f;;;;f;;f;;f;;f;DKVAT;f;f;;;;;;;;;;;;;;;Нюборг;;;尼堡自治市
-18694;Oddesund nord St.;oddesund-nord-st;8600392;;56.5826720000;8.5474110000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601768;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18695;Ølby St.;olby-st;8600792;;55.4800550000;12.1754570000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601784;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18696;Ølgod St.;olgod-st;8600208;;55.8109840000;8.6227670000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601786;t;;f;;f;;f;;;;f;;f;;f;;f;DKABU;f;f;;;;;;;;;;;;;;;;Ölgod;;
+18690;Mørkøv St.;morkov-st;8600722;;55.6545180000;11.5018320000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601616;t;;f;;f;;f;;;;f;;f;;f;;f;DKMOE;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;;;;;;
+18691;Nivå St.;niva-st;8600665;;55.9340830000;12.5068980000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601666;t;;f;;f;;f;;;;f;;f;;f;;f;DKNIX;f;f;;;;;;;;;;;;;;;;;;
+18692;Nørre Alslev St.;norre-alslev-st;8600821;;54.8967540000;11.8857350000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601683;t;;f;;f;;f;;;;f;;f;;f;;f;DKNVX;f;f;;;;;;;;;;;;;;;;;;
+18693;Nyborg St.;nyborg-st;8600518;;55.3140700000;10.8029210000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601739;t;;f;;f;;f;;;;f;;f;;f;;f;DKNGX;f;f;;;;;;;;;;;;;;;Нюборг;;;尼堡自治市
+18694;Oddesund nord St.;oddesund-nord-st;8600392;;56.5826720000;8.5474110000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601768;t;;f;;f;;f;;;;f;;f;;f;;f;DKNOX;f;f;;;;;;;;;;;;;;;;;;
+18695;Ølby St.;olby-st;8600792;;55.4800550000;12.1754570000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601784;t;;f;;f;;f;;;;f;;f;;f;;f;DKOEL;f;f;;;;;;;;;;;;;;;;;;
+18696;Ølgod St.;olgod-st;8600208;;55.8109840000;8.6227670000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601786;t;;f;;f;;f;;;;f;;f;;f;;f;DKOEG;f;f;;;;;;;;;;;;;;;;Ölgod;;
 18697;Paarup St.;paarup-st;8601429;;56.1008680000;12.3013060000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601904;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18698;Pederstrup St.;pederstrup-st;8600562;;55.2831920000;10.4857820000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601908;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18699;Randers St.;randers-st;8600040;;56.4616600000;10.0213000000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601941;t;;f;;f;;f;;;;f;;f;;f;;f;DKBAV;f;f;;;;;;;;;;;ラナース;라네르스;;;Раннерс;;;蘭訥斯
-18700;Regstrup St.;regstrup-st;8600720;;55.6776740000;11.6126600000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601961;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18701;Rejsby St.;rejsby-st;8600425;;55.2300020000;8.7321750000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601964;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18702;Ribe St.;ribe-st;8600423;;55.3276340000;8.7703070000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601971;t;;f;;f;;f;;;;f;;f;;f;;f;DKRIB;f;f;;;;;;;;;;;リーベ;리베;;;Рибе;;;里伯
-18703;Ribe Nørremark St.;ribe-norremark-st;8600436;;55.3399050000;8.7758350000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601972;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18704;Ringe St.;ringe-st;8600563;;55.2393330000;10.4817810000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601977;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18705;Ringkøbing St.;ringkobing-st;8600200;;56.0928410000;8.2503350000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601978;t;;f;;f;;f;;;;f;;f;;f;;f;DKABQ;f;f;;;;;;;;;;;;;;;;;;
-18706;Rødby;rodby;;;54.6557180000;11.3574660000;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8601988;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18707;Rødby Færge;rodby-faerge;8600840;;54.6552320000;11.3548410000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601989;t;;f;;f;;f;;;;f;;f;;f;;f;DKVJS;f;f;;;;;;;;;;;;;;;;;;
-18708;Rødekro St.;rodekro-st;8600094;;55.0696890000;9.3327530000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601996;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAY;f;f;;;;;;;;;;;;;;;;;;
-18709;Rødkærsbro St.;rodkaersbro-st;8600174;;56.3528450000;9.5000330000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601999;t;;f;;f;;f;;;;f;;f;;f;;f;DKABE;f;f;;;;;;;;;;;;;;;;;;
-18710;Rudme St.;rudme-st;8600564;;55.1989000000;10.4868960000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602042;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18711;Rungsted Kyst St.;rungsted-kyst-st;8600663;;55.8823500000;12.5315470000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602045;t;;f;;f;;f;;;;f;;f;;f;;f;DKRUN;f;f;;;;;;;;;;;;;;;;;;
+18698;Pederstrup St.;pederstrup-st;8600562;;55.2831920000;10.4857820000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601908;t;;f;;f;;f;;;;f;;f;;f;;f;DKPDS;f;f;;;;;;;;;;;;;;;;;;
+18699;Randers St.;randers-st;8600040;;56.4616600000;10.0213000000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601941;t;;f;;f;;f;;;;f;;f;;f;;f;DKRDX;f;f;;;;;;;;;;;ラナース;라네르스;;;Раннерс;;;蘭訥斯
+18700;Regstrup St.;regstrup-st;8600720;;55.6776740000;11.6126600000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601961;t;;f;;f;;f;;;;f;;f;;f;;f;DKRTX;f;f;;;;;;;;;;;;;;;;;;
+18701;Rejsby St.;rejsby-st;8600425;;55.2300020000;8.7321750000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601964;t;;f;;f;;f;;;;f;;f;;f;;f;DKREJ;f;f;;;;;;;;;;;;;;;;;;
+18702;Ribe St.;ribe-st;8600423;;55.3276340000;8.7703070000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601971;t;;f;;f;;f;;;;f;;f;;f;;f;DKRBX;f;f;;;;;;;;;;;リーベ;리베;;;Рибе;;;里伯
+18703;Ribe Nørremark St.;ribe-norremark-st;8600436;;55.3399050000;8.7758350000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601972;t;;f;;f;;f;;;;f;;f;;f;;f;DKRBN;f;f;;;;;;;;;;;;;;;;;;
+18704;Ringe St.;ringe-st;8600563;;55.2393330000;10.4817810000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601977;t;;f;;f;;f;;;;f;;f;;f;;f;DKREX;f;f;;;;;;;;;;;;;;;;;;
+18705;Ringkøbing St.;ringkobing-st;8600200;;56.0928410000;8.2503350000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601978;t;;f;;f;;f;;;;f;;f;;f;;f;DKRJX;f;f;;;;;;;;;;;;;;;;;;
+18706;Rødby;rodby;;;54.6557180000;11.3574660000;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8601988;t;;f;;f;;f;;;;f;;f;;f;;f;DKRFX;f;f;;;;;;;;;;;;;;;;;;
+18707;Rødby Færge;rodby-faerge;8600840;;54.6552320000;11.3548410000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601989;t;;f;;f;;f;;;;f;;f;;f;;f;DKRFX;f;f;;;;;;;;;;;;;;;;;;
+18708;Rødekro St.;rodekro-st;8600094;;55.0696890000;9.3327530000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601996;t;;f;;f;;f;;;;f;;f;;f;;f;DKRQX;f;f;;;;;;;;;;;;;;;;;;
+18709;Rødkærsbro St.;rodkaersbro-st;8600174;;56.3528450000;9.5000330000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601999;t;;f;;f;;f;;;;f;;f;;f;;f;DKRKX;f;f;;;;;;;;;;;;;;;;;;
+18710;Rudme St.;rudme-st;8600564;;55.1989000000;10.4868960000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602042;t;;f;;f;;f;;;;f;;f;;f;;f;DKRUS;f;f;;;;;;;;;;;;;;;;;;
+18711;Rungsted Kyst St.;rungsted-kyst-st;8600663;;55.8823500000;12.5315470000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602045;t;;f;;f;;f;;;;f;;f;;f;;f;DKRUX;f;f;;;;;;;;;;;;;;;;;;
 18712;Saltrup St.;saltrup-st;8601431;;56.0544300000;12.3217020000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602076;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18713;Saunte St.;saunte-st;8601625;;56.0770020000;12.4845780000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602096;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18714;Sejstrup St.;sejstrup-st;8600420;;55.4353160000;8.7333340000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602117;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18715;Sig St.;sig-st;8600211;;55.6655300000;8.5774620000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602127;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;;;;;;
-18716;Silkeborg St.;silkeborg-st;8600266;;56.1641700000;9.5440270000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602130;t;;f;;f;;f;;;;f;;f;;f;;f;DKSKB;f;f;;;;;;;;;;;シルケボー;실케보르;;;Силькеборг;;;锡尔克堡
-18717;Sindal St.;sindal-st;8600007;;57.4692780000;10.1989450000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602137;t;;f;;f;;f;;;;f;;f;;f;;f;DKALH;f;f;;;;;;;;;;;;;Gmina Sindal;;;;;
-18718;Sjørring St.;sjorring-st;8600403;;56.9518320000;8.5877360000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602151;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18719;Skærbæk St.;skaerbaek-st;8600427;;55.1587630000;8.7714940000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602156;t;;f;;f;;f;;;;f;;f;;f;;f;DKSKA;f;f;;;;;;;;;;;;;;;;;;
-18720;Skalbjerg St.;skalbjerg-st;8600508;;55.3660540000;10.1411890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602165;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18714;Sejstrup St.;sejstrup-st;8600420;;55.4353160000;8.7333340000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602117;t;;f;;f;;f;;;;f;;f;;f;;f;DKSEJ;f;f;;;;;;;;;;;;;;;;;;
+18715;Sig St.;sig-st;8600211;;55.6655300000;8.5774620000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602127;t;;f;;f;;f;;;;f;;f;;f;;f;DKISX;f;f;;Dänemark;Denmark;Dinamarca;Danemark;Danimarca;;;;;;;;;;;;
+18716;Silkeborg St.;silkeborg-st;8600266;;56.1641700000;9.5440270000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602130;t;;f;;f;;f;;;;f;;f;;f;;f;DKSLX;f;f;;;;;;;;;;;シルケボー;실케보르;;;Силькеборг;;;锡尔克堡
+18717;Sindal St.;sindal-st;8600007;;57.4692780000;10.1989450000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602137;t;;f;;f;;f;;;;f;;f;;f;;f;DKSAX;f;f;;;;;;;;;;;;;Gmina Sindal;;;;;
+18718;Sjørring St.;sjorring-st;8600403;;56.9518320000;8.5877360000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602151;t;;f;;f;;f;;;;f;;f;;f;;f;DKRIX;f;f;;;;;;;;;;;;;;;;;;
+18719;Skærbæk St.;skaerbaek-st;8600427;;55.1587630000;8.7714940000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602156;t;;f;;f;;f;;;;f;;f;;f;;f;DKAEK;f;f;;;;;;;;;;;;;;;;;;
+18720;Skalbjerg St.;skalbjerg-st;8600508;;55.3660540000;10.1411890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602165;t;;f;;f;;f;;;;f;;f;;f;;f;DKSCX;f;f;;;;;;;;;;;;;;;;;;
 18721;Skibstrup St.;skibstrup-st;8601627;;56.0781710000;12.5126420000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602202;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18722;Skive St.;skive-st;8600183;;56.5609630000;9.0274800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602207;t;;f;;f;;f;;;;f;;f;;f;;f;DKABI;f;f;;;;;;;;;;;;;;;Скиве;;;
-18723;Skodsborg St.;skodsborg-st;8600661;;55.8233530000;12.5716480000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602219;t;;f;;f;;f;;;;f;;f;;f;;f;DKADD;f;f;;;;;;;;;;;;;;;;;;
-18724;Skørping St.;skorping-st;8600027;;56.8359610000;9.8872980000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602225;t;;f;;f;;f;;;;f;;f;;f;;f;DKSKO;f;f;;;;;;;;;;;;;;;;Skörping;;
-18725;Slagelse St.;slagelse-st;8600605;;55.4075480000;11.3480540000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602254;t;;f;;f;;f;;;;f;;f;;f;;f;DKACZ;f;f;;;;;;;;;;;;;;;Слагельсе;;;斯拉厄爾瑟自治市
+18722;Skive St.;skive-st;8600183;;56.5609630000;9.0274800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602207;t;;f;;f;;f;;;;f;;f;;f;;f;DKSKX;f;f;;;;;;;;;;;;;;;Скиве;;;
+18723;Skodsborg St.;skodsborg-st;8600661;;55.8233530000;12.5716480000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602219;t;;f;;f;;f;;;;f;;f;;f;;f;DKSAE;f;f;;;;;;;;;;;;;;;;;;
+18724;Skørping St.;skorping-st;8600027;;56.8359610000;9.8872980000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602225;t;;f;;f;;f;;;;f;;f;;f;;f;DKSOE;f;f;;;;;;;;;;;;;;;;Skörping;;
+18725;Slagelse St.;slagelse-st;8600605;;55.4075480000;11.3480540000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602254;t;;f;;f;;f;;;;f;;f;;f;;f;DKSGX;f;f;;;;;;;;;;;;;;;Слагельсе;;;斯拉厄爾瑟自治市
 18726;Slotspavillonen St.;slotspavillonen-st;8601433;;55.9425950000;12.3110950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602262;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18727;Snedsted St.;snedsted-st;8600401;;56.8921530000;8.5269060000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602278;t;;f;;f;;f;;;;f;;f;;f;;f;DKACQ;f;f;;;;;;;;;;;;;;;;;;
+18727;Snedsted St.;snedsted-st;8600401;;56.8921530000;8.5269060000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602278;t;;f;;f;;f;;;;f;;f;;f;;f;DKSNE;f;f;;;;;;;;;;;;;;;;;;
 18728;Søborg Station (Gilleleje);soborg-station-gilleleje;8601631;;56.1005900000;12.3338110000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602292;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18729;Sønderborg St.;sonderborg-st;8600327;;54.9126740000;9.7785730000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602332;t;;f;;f;;f;;;;f;;f;;f;;f;DKACM;f;f;;;;;;;;;;;;;;;;;;
-18730;Sorø St.;soro-st;8600608;;55.4190190000;11.5687930000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602350;t;;f;;f;;f;;;;f;;f;;f;;f;DKNAE;f;f;;;;;;;;;;;;;;;;;;
+18729;Sønderborg St.;sonderborg-st;8600327;;54.9126740000;9.7785730000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602332;t;;f;;f;;f;;;;f;;f;;f;;f;DKSDB;f;f;;;;;;;;;;;;;;;;;;
+18730;Sorø St.;soro-st;8600608;;55.4190190000;11.5687930000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602350;t;;f;;f;;f;;;;f;;f;;f;;f;DKSOX;f;f;;;;;;;;;;;;;;;;;;
 18731;Stæremosen St.;staeremosen-st;8601630;;56.1121410000;12.3186820000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602390;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18732;Stenstrup St.;stenstrup-st;8600566;;55.1311210000;10.5094230000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602422;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18733;Stenstrup Syd St.;stenstrup-syd-st;8600567;;55.1204960000;10.5150320000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602423;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18734;Stoholm St.;stoholm-st;8600180;;56.4874860000;9.1498950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602438;t;;f;;f;;f;;;;f;;f;;f;;f;DKABG;f;f;;;;;;;;;;;;;;;;;;
-18735;Studsgaard St.;studsgaard-st;8600277;;56.0915200000;8.9101970000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602472;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18736;Svebølle St.;svebolle-st;8600724;;55.6523700000;11.2917450000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602485;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18737;Svejbæk St.;svejbaek-st;8600264;;56.1330680000;9.6357890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602486;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18738;Svendborg St.;svendborg-st;8600551;;55.0597830000;10.6123500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602487;t;;f;;f;;f;;;;f;;f;;f;;f;DKLMX;f;f;;;;;;;;;;;;;;;Свеннборге;;;
-18739;Tarm St.;tarm-st;8600206;;55.9097940000;8.5206770000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602517;t;;f;;f;;f;;;;f;;f;;f;;f;DKABT;f;f;;;;;;;;;;;;;;;;;;
-18740;Taulov St.;taulov-st;8600081;;55.5450110000;9.6157070000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602526;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18741;Thisted St.;thisted-st;8600404;;56.9527490000;8.6878940000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602538;t;;f;;f;;f;;;;f;;f;;f;;f;DKJLX;f;f;;;;;;;;;;;;;;;;;;
-18742;Thyregod St.;thyregod-st;8600290;;55.9071060000;9.2496930000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602546;t;;f;;f;;f;;;;f;;f;;f;;f;DKACH;f;f;;;;;;;;;;;;;;;;;;
-18743;Tim St.;tim-st;8600198;;56.1954800000;8.3058700000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602549;t;;f;;f;;f;;;;f;;f;;f;;f;DKABO;f;f;;;;;;;;;;;;;;;;;;
-18744;Tistrup St.;tistrup-st;8600210;;55.7162740000;8.5985770000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602561;t;;f;;f;;f;;;;f;;f;;f;;f;DKABV;f;f;;;;;;;;;;;;;;;;;;
-18745;Tjæreborg St.;tjaereborg-st;8600218;;55.4666620000;8.5791430000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602563;t;;f;;f;;f;;;;f;;f;;f;;f;DKABY;f;f;;;;;;;;;;;;;;;;;;
-18746;Tølløse St.;tollose-st;8600717;;55.6119990000;11.7732710000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602581;t;;f;;f;;f;;;;f;;f;;f;;f;DKADH;f;f;;;;;;;;;;;;;;;;;;
-18747;Tolne St.;tolne-st;8600006;;57.4859350000;10.3135030000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602584;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAC;f;f;;;;;;;;;;;;;;;;;;
-18748;Tommerup St.;tommerup-st;8600509;;55.3497480000;10.1826020000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602588;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18732;Stenstrup St.;stenstrup-st;8600566;;55.1311210000;10.5094230000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602422;t;;f;;f;;f;;;;f;;f;;f;;f;DKSTS;f;f;;;;;;;;;;;;;;;;;;
+18733;Stenstrup Syd St.;stenstrup-syd-st;8600567;;55.1204960000;10.5150320000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602423;t;;f;;f;;f;;;;f;;f;;f;;f;DKSIS;f;f;;;;;;;;;;;;;;;;;;
+18734;Stoholm St.;stoholm-st;8600180;;56.4874860000;9.1498950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602438;t;;f;;f;;f;;;;f;;f;;f;;f;DKSMX;f;f;;;;;;;;;;;;;;;;;;
+18735;Studsgaard St.;studsgaard-st;8600277;;56.0915200000;8.9101970000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602472;t;;f;;f;;f;;;;f;;f;;f;;f;DKSTU;f;f;;;;;;;;;;;;;;;;;;
+18736;Svebølle St.;svebolle-st;8600724;;55.6523700000;11.2917450000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602485;t;;f;;f;;f;;;;f;;f;;f;;f;DKSEX;f;f;;;;;;;;;;;;;;;;;;
+18737;Svejbæk St.;svejbaek-st;8600264;;56.1330680000;9.6357890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602486;t;;f;;f;;f;;;;f;;f;;f;;f;DKSVX;f;f;;;;;;;;;;;;;;;;;;
+18738;Svendborg St.;svendborg-st;8600551;;55.0597830000;10.6123500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602487;t;;f;;f;;f;;;;f;;f;;f;;f;DKSVG;f;f;;;;;;;;;;;;;;;Свеннборге;;;
+18739;Tarm St.;tarm-st;8600206;;55.9097940000;8.5206770000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602517;t;;f;;f;;f;;;;f;;f;;f;;f;DKTAX;f;f;;;;;;;;;;;;;;;;;;
+18740;Taulov St.;taulov-st;8600081;;55.5450110000;9.6157070000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602526;t;;f;;f;;f;;;;f;;f;;f;;f;DKTLX;f;f;;;;;;;;;;;;;;;;;;
+18741;Thisted St.;thisted-st;8600404;;56.9527490000;8.6878940000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602538;t;;f;;f;;f;;;;f;;f;;f;;f;DKTIX;f;f;;;;;;;;;;;;;;;;;;
+18742;Thyregod St.;thyregod-st;8600290;;55.9071060000;9.2496930000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602546;t;;f;;f;;f;;;;f;;f;;f;;f;DKTYX;f;f;;;;;;;;;;;;;;;;;;
+18743;Tim St.;tim-st;8600198;;56.1954800000;8.3058700000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602549;t;;f;;f;;f;;;;f;;f;;f;;f;DKTMX;f;f;;;;;;;;;;;;;;;;;;
+18744;Tistrup St.;tistrup-st;8600210;;55.7162740000;8.5985770000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602561;t;;f;;f;;f;;;;f;;f;;f;;f;DKTRX;f;f;;;;;;;;;;;;;;;;;;
+18745;Tjæreborg St.;tjaereborg-st;8600218;;55.4666620000;8.5791430000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602563;t;;f;;f;;f;;;;f;;f;;f;;f;DKTBX;f;f;;;;;;;;;;;;;;;;;;
+18746;Tølløse St.;tollose-st;8600717;;55.6119990000;11.7732710000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602581;t;;f;;f;;f;;;;f;;f;;f;;f;DKTOE;f;f;;;;;;;;;;;;;;;;;;
+18747;Tolne St.;tolne-st;8600006;;57.4859350000;10.3135030000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602584;t;;f;;f;;f;;;;f;;f;;f;;f;DKTOX;f;f;;;;;;;;;;;;;;;;;;
+18748;Tommerup St.;tommerup-st;8600509;;55.3497480000;10.1826020000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602588;t;;f;;f;;f;;;;f;;f;;f;;f;DKTPX;f;f;;;;;;;;;;;;;;;;;;
 18749;Tønder St.;tonder-st;8600432;;54.9333940000;8.8603970000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602589;t;;f;;f;;f;;;;f;;f;;f;;f;DKTDR;f;f;;;;;;;;;;;;;;;;;;
-18750;Troldhede St.;troldhede-st;8600279;;55.9914160000;8.7470250000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602628;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18751;Tureby St.;tureby-st;8600806;;55.3735150000;12.0762070000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602638;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18752;Uglev St.;uglev-st;8600393;;56.6122830000;8.5413070000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602674;t;;f;;f;;f;;;;f;;f;;f;;f;DKUGL;f;f;;;;;;;;;;;;;;;;;;
-18753;Ulfborg St.;ulfborg-st;8600197;;56.2717170000;8.3252780000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602678;t;;f;;f;;f;;;;f;;f;;f;;f;DKABN;f;f;;;;;;;;;;;;;;;;;;
-18754;Ulstrup St.;ulstrup-st;8600171;;56.3953370000;9.7944300000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602691;t;;f;;f;;f;;;;f;;f;;f;;f;DKABC;f;f;;;;;;;;;;;;;;;;;;
-18755;Vamdrup St.;vamdrup-st;8600087;;55.4280890000;9.2864500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602722;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAW;f;f;;;;;;;;;;;;;;;;;;
-18756;Varde St.;varde-st;8600212;;55.6159720000;8.4843780000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602729;t;;f;;f;;f;;;;f;;f;;f;;f;DKABW;f;f;;;;;;;;;;;;;;;Варде;;;
-18757;Vedbæk St.;vedbaek-st;8600662;;55.8527210000;12.5623800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602735;t;;f;;f;;f;;;;f;;f;;f;;f;DKADE;f;f;;;;;;;;;;;;;;;;;;
-18758;Vejen St.;vejen-st;8600223;;55.4755880000;9.1364740000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602750;t;;f;;f;;f;;;;f;;f;;f;;f;DKACD;f;f;;;;;;;;;;;;;;;;;;
-18759;Vemb St.;vemb-st;8600196;;56.3439370000;8.3457470000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602775;t;;f;;f;;f;;;;f;;f;;f;;f;DKABM;f;f;;;;;;;;;;;;;;;;;;
-18760;Viborg St.;viborg-st;8600176;;56.4475550000;9.3968730000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602823;t;;f;;f;;f;;;;f;;f;;f;;f;DKABF;f;f;;;;;;;;;;;ヴィボー;비보르;;;Виборг;;;維堡
-18761;Viby Sjælland St.;viby-sjaelland-st;8600615;;55.5448500000;12.0275480000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602825;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18762;Vildbjerg St.;vildbjerg-st;8600298;;56.1980330000;8.7707120000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602835;t;;f;;f;;f;;;;f;;f;;f;;f;DKACJ;f;f;;;;;;;;;;;;;;;;;;
-18763;Vinderup St.;vinderup-st;8600187;;56.4828290000;8.7833680000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602851;t;;f;;f;;f;;;;f;;f;;f;;f;DKABJ;f;f;;;;;;;;;;;;;;;;;;
-18764;Visby St.;visby-st;8600431;;55.0098930000;8.8018950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602867;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18765;Vojens St.;vojens-st;8600091;;55.2484750000;9.3049140000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602887;t;;f;;f;;f;;;;f;;f;;f;;f;DKBSA;f;f;;;;;;;;;;;;;;;;;;
-18766;Vraa St.;vraa-st;8600013;;57.3546570000;9.9421140000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602906;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAF;f;f;;;;;;;;;;;;;;;;;;
-18767;Ydby St.;ydby-st;8600396;;56.7143460000;8.3986480000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602919;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18750;Troldhede St.;troldhede-st;8600279;;55.9914160000;8.7470250000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602628;t;;f;;f;;f;;;;f;;f;;f;;f;DKTDX;f;f;;;;;;;;;;;;;;;;;;
+18751;Tureby St.;tureby-st;8600806;;55.3735150000;12.0762070000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602638;t;;f;;f;;f;;;;f;;f;;f;;f;DKTHX;f;f;;;;;;;;;;;;;;;;;;
+18752;Uglev St.;uglev-st;8600393;;56.6122830000;8.5413070000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602674;t;;f;;f;;f;;;;f;;f;;f;;f;DKULX;f;f;;;;;;;;;;;;;;;;;;
+18753;Ulfborg St.;ulfborg-st;8600197;;56.2717170000;8.3252780000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602678;t;;f;;f;;f;;;;f;;f;;f;;f;DKUFX;f;f;;;;;;;;;;;;;;;;;;
+18754;Ulstrup St.;ulstrup-st;8600171;;56.3953370000;9.7944300000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602691;t;;f;;f;;f;;;;f;;f;;f;;f;DKUPX;f;f;;;;;;;;;;;;;;;;;;
+18755;Vamdrup St.;vamdrup-st;8600087;;55.4280890000;9.2864500000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602722;t;;f;;f;;f;;;;f;;f;;f;;f;DKVMX;f;f;;;;;;;;;;;;;;;;;;
+18756;Varde St.;varde-st;8600212;;55.6159720000;8.4843780000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602729;t;;f;;f;;f;;;;f;;f;;f;;f;DKVAX;f;f;;;;;;;;;;;;;;;Варде;;;
+18757;Vedbæk St.;vedbaek-st;8600662;;55.8527210000;12.5623800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602735;t;;f;;f;;f;;;;f;;f;;f;;f;DKVBX;f;f;;;;;;;;;;;;;;;;;;
+18758;Vejen St.;vejen-st;8600223;;55.4755880000;9.1364740000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602750;t;;f;;f;;f;;;;f;;f;;f;;f;DKVNX;f;f;;;;;;;;;;;;;;;;;;
+18759;Vemb St.;vemb-st;8600196;;56.3439370000;8.3457470000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602775;t;;f;;f;;f;;;;f;;f;;f;;f;DKVEM;f;f;;;;;;;;;;;;;;;;;;
+18760;Viborg St.;viborg-st;8600176;;56.4475550000;9.3968730000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602823;t;;f;;f;;f;;;;f;;f;;f;;f;DKVGX;f;f;;;;;;;;;;;ヴィボー;비보르;;;Виборг;;;維堡
+18761;Viby Sjælland St.;viby-sjaelland-st;8600615;;55.5448500000;12.0275480000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602825;t;;f;;f;;f;;;;f;;f;;f;;f;DKVYX;f;f;;;;;;;;;;;;;;;;;;
+18762;Vildbjerg St.;vildbjerg-st;8600298;;56.1980330000;8.7707120000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602835;t;;f;;f;;f;;;;f;;f;;f;;f;DKIDX;f;f;;;;;;;;;;;;;;;;;;
+18763;Vinderup St.;vinderup-st;8600187;;56.4828290000;8.7833680000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602851;t;;f;;f;;f;;;;f;;f;;f;;f;DKVPX;f;f;;;;;;;;;;;;;;;;;;
+18764;Visby St.;visby-st;8600431;;55.0098930000;8.8018950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602867;t;;f;;f;;f;;;;f;;f;;f;;f;DKVIS;f;f;;;;;;;;;;;;;;;;;;
+18765;Vojens St.;vojens-st;8600091;;55.2484750000;9.3049140000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602887;t;;f;;f;;f;;;;f;;f;;f;;f;DKOJX;f;f;;;;;;;;;;;;;;;;;;
+18766;Vraa St.;vraa-st;8600013;;57.3546570000;9.9421140000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602906;t;;f;;f;;f;;;;f;;f;;f;;f;DKVRX;f;f;;;;;;;;;;;;;;;;;;
+18767;Ydby St.;ydby-st;8600396;;56.7143460000;8.3986480000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602919;t;;f;;f;;f;;;;f;;f;;f;;f;DKYDX;f;f;;;;;;;;;;;;;;;;;;
 18768;Nykøbing F. Rtb. (Bus);nykobing-f-rtb-bus;;;54.7668960000;11.8770420000;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8602942;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18769;Gilleleje Øst St.;gilleleje-ost-st;8601604;;56.1227390000;12.3089650000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602972;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18770;Birk Centerpark St.;birk-centerpark-st;8600269;;56.1254630000;9.0295290000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602985;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18771;Tårnby St.;tarnby-st;8600857;;55.6298250000;12.6019950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602997;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18770;Birk Centerpark St.;birk-centerpark-st;8600269;;56.1254630000;9.0295290000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602985;t;;f;;f;;f;;;;f;;f;;f;;f;DKBIC;f;f;;;;;;;;;;;;;;;;;;
+18771;Tårnby St.;tarnby-st;8600857;;55.6298250000;12.6019950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602997;t;;f;;f;;f;;;;f;;f;;f;;f;DKTAT;f;f;;;;;;;;;;;;;;;;;;
 18772;Ørestad st (Metro);orestad-st-metro;8603315;;55.6288090000;12.5792340000;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8613472;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18773;Herning Messecenter St.;herning-messecenter-st;8600276;;56.1235390000;8.9441590000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8613695;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18774;Esbjerg St.;esbjerg-st;8600215;;55.4677940000;8.4586510000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600508;t;;f;;f;;f;;;;f;;f;;f;;f;DKHAR;f;f;;;;;;;;;;;エスビャウ;에스비에르;;;Эсбьерг;;;埃斯比约
+18773;Herning Messecenter St.;herning-messecenter-st;8600276;;56.1235390000;8.9441590000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8613695;t;;f;;f;;f;;;;f;;f;;f;;f;DKHRM;f;f;;;;;;;;;;;;;;;;;;
+18774;Esbjerg St.;esbjerg-st;8600215;;55.4677940000;8.4586510000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600508;t;;f;;f;;f;;;;f;;f;;f;;f;DKESX;f;f;;;;;;;;;;;エスビャウ;에스비에르;;;Эсбьерг;;;埃斯比约
 18775;Fredensborg St.;fredensborg-st;8600685;;55.9771140000;12.4070280000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600622;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18776;Gilleleje St.;gilleleje-st;8601403;;56.1238540000;12.3030590000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600694;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18777;Herning St.;herning-st;8600275;;56.1323940000;8.9792340000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600966;t;;f;;f;;f;;;;f;;f;;f;;f;DKACE;f;f;;;;;;;;;;;ヘアニング;;;;Хернинг;;;海宁
-18778;Høje Taastrup St.;hoje-taastrup-st;8600798;;55.6486210000;12.2688010000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601031;t;;f;;f;;f;;;;f;;f;;f;;f;DKULX;f;f;;;;;;;;;;;;;;;;;;
-18779;Holstebro St.;holstebro-st;8600192;;56.3654210000;8.6204570000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601055;t;;f;;f;;f;;;;f;;f;;f;;f;DKABL;f;f;;;;;;;;;;;;;;;Хольстебро;;;霍爾斯特布羅
-18780;Horsens St.;horsens-st;8600066;;55.8627890000;9.8355020000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601089;t;;f;;f;;f;;;;f;;f;;f;;f;DKBJX;f;f;;;;;;;;;;;ホーセンス;호르센스;;;Хорсенс;;;霍尔森斯
-18781;Langå St.;langa-st;8600044;;56.3862670000;9.8968710000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601399;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18782;Middelfart St.;middelfart-st;8600501;;55.5016210000;9.7346610000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601593;t;;f;;f;;f;;;;f;;f;;f;;f;DKACS;f;f;;;;;;;;;;;;;;;;;;
-18783;Næstved St.;naestved-st;8600810;;55.2318720000;11.7669240000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601645;t;;f;;f;;f;;;;f;;f;;f;;f;DKVAX;f;f;;;;;;;;;;;ネストヴェズ;네스트베드;;;Нествед;;;奈斯特韦兹
-18784;Nørre Aaby St.;norre-aaby-st;8600503;;55.4602160000;9.8706680000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601686;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18785;Nykøbing F St.;nykobing-f-st;8600824;;54.7668330000;11.8777700000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601745;t;;f;;f;;f;;;;f;;f;;f;;f;DJVJX;f;f;;;;;;;;;;;;;;;;;;
-18786;Padborg St.;padborg-st;8600100;;54.8242470000;9.3588040000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601899;t;;f;;f;;f;;;;f;;f;;f;;f;DKBRR;f;f;;;;;;;;;;;;;;;;;;
+18777;Herning St.;herning-st;8600275;;56.1323940000;8.9792340000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600966;t;;f;;f;;f;;;;f;;f;;f;;f;DKHRX;f;f;;;;;;;;;;;ヘアニング;;;;Хернинг;;;海宁
+18778;Høje Taastrup St.;hoje-taastrup-st;8600798;;55.6486210000;12.2688010000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601031;t;;f;;f;;f;;;;f;;f;;f;;f;DKHTA;f;f;;;;;;;;;;;;;;;;;;
+18779;Holstebro St.;holstebro-st;8600192;;56.3654210000;8.6204570000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601055;t;;f;;f;;f;;;;f;;f;;f;;f;DKHOX;f;f;;;;;;;;;;;;;;;Хольстебро;;;霍爾斯特布羅
+18780;Horsens St.;horsens-st;8600066;;55.8627890000;9.8355020000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601089;t;;f;;f;;f;;;;f;;f;;f;;f;DKHSX;f;f;;;;;;;;;;;ホーセンス;호르센스;;;Хорсенс;;;霍尔森斯
+18781;Langå St.;langa-st;8600044;;56.3862670000;9.8968710000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601399;t;;f;;f;;f;;;;f;;f;;f;;f;DKLGX;f;f;;;;;;;;;;;;;;;;;;
+18782;Middelfart St.;middelfart-st;8600501;;55.5016210000;9.7346610000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601593;t;;f;;f;;f;;;;f;;f;;f;;f;DKMDX;f;f;;;;;;;;;;;;;;;;;;
+18783;Næstved St.;naestved-st;8600810;;55.2318720000;11.7669240000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601645;t;;f;;f;;f;;;;f;;f;;f;;f;DKNAE;f;f;;;;;;;;;;;ネストヴェズ;네스트베드;;;Нествед;;;奈斯特韦兹
+18784;Nørre Aaby St.;norre-aaby-st;8600503;;55.4602160000;9.8706680000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601686;t;;f;;f;;f;;;;f;;f;;f;;f;DKNAX;f;f;;;;;;;;;;;;;;;;;;
+18785;Nykøbing F St.;nykobing-f-st;8600824;;54.7668330000;11.8777700000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601745;t;;f;;f;;f;;;;f;;f;;f;;f;DKNFX;f;f;;;;;;;;;;;;;;;;;;
+18786;Padborg St.;padborg-st;8600100;;54.8242470000;9.3588040000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601899;t;;f;;f;;f;;;;f;;f;;f;;f;DKPAX;f;f;;;;;;;;;;;;;;;;;;
 18787;Ry St.;ry-st;8600261;;56.0911690000;9.7586800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602047;t;;f;;f;;f;;;;f;;f;;f;;f;DKRYX;f;f;;;;;;;;;;;;;;;;;;
-18788;Skjern St.;skjern-st;8600205;;55.9475480000;8.4922890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602211;t;;f;;f;;f;;;;f;;f;;f;;f;DKABS;f;f;;;;;;;;;;;;;Gmina Skjern;;;;;
-18789;S’t’r St.;str-st;;;56.4908830000;8.6016690000;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8602466;t;;f;;f;;f;;;;f;;f;;f;;f;DKABK;f;f;;;;;;;;;;;;;;;;;;
-18790;Vordingborg St.;vordingborg-st;8600816;;55.0125170000;11.8994160000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602903;t;;f;;f;;f;;;;f;;f;;f;;f;DKADR;f;f;;;;;;;;;;;;;;;;;;
-18791;Helsingør St.;helsingor-st;8600669;;56.0331350000;12.6137800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600952;t;;f;;f;;f;;;;f;;f;;f;;f;DKHEL;f;f;;;;;;;;;;;;;;;;Helsingör;;
-18792;Lunderskov St.;lunderskov-st;8600086;;55.4801180000;9.3037900000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601512;t;;f;;f;;f;;;;f;;f;;f;;f;DKAAV;f;f;;;;;;;;;;;;;;;;;;
-18793;Ringsted St.;ringsted-st;8600611;;55.4380400000;11.7861520000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601979;t;;f;;f;;f;;;;f;;f;;f;;f;DKNIX;f;f;;;;;;;;;;;;;;;Рингстед;;;灵斯泰兹
-18794;Skanderborg St.;skanderborg-st;8600061;;56.0435620000;9.9244950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602175;t;;f;;f;;f;;;;f;;f;;f;;f;DKBIT;f;f;;;;;;;;;;;;;;;;;;
-18795;Vejle St.;vejle-st;8600073;;55.7063590000;9.5368710000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602756;t;;f;;f;;f;;;;f;;f;;f;;f;DKBGX;f;f;;;;;;;;;;;ヴァイレ;바일레;;;Вайле;;;瓦埃勒
-18796;Østerport St.;osterport-st;8600650;;55.6927040000;12.5876120000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601878;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18788;Skjern St.;skjern-st;8600205;;55.9475480000;8.4922890000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602211;t;;f;;f;;f;;;;f;;f;;f;;f;DKSJX;f;f;;;;;;;;;;;;;Gmina Skjern;;;;;
+18789;S’t’r St.;str-st;;;56.4908830000;8.6016690000;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8602466;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+18790;Vordingborg St.;vordingborg-st;8600816;;55.0125170000;11.8994160000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602903;t;;f;;f;;f;;;;f;;f;;f;;f;DKVOX;f;f;;;;;;;;;;;;;;;;;;
+18791;Helsingør St.;helsingor-st;8600669;;56.0331350000;12.6137800000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8600952;t;;f;;f;;f;;;;f;;f;;f;;f;DKHGX;f;f;;;;;;;;;;;;;;;;Helsingör;;
+18792;Lunderskov St.;lunderskov-st;8600086;;55.4801180000;9.3037900000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601512;t;;f;;f;;f;;;;f;;f;;f;;f;DKLKX;f;f;;;;;;;;;;;;;;;;;;
+18793;Ringsted St.;ringsted-st;8600611;;55.4380400000;11.7861520000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601979;t;;f;;f;;f;;;;f;;f;;f;;f;DKRGX;f;f;;;;;;;;;;;;;;;Рингстед;;;灵斯泰兹
+18794;Skanderborg St.;skanderborg-st;8600061;;56.0435620000;9.9244950000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602175;t;;f;;f;;f;;;;f;;f;;f;;f;DKSDX;f;f;;;;;;;;;;;;;;;;;;
+18795;Vejle St.;vejle-st;8600073;;55.7063590000;9.5368710000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8602756;t;;f;;f;;f;;;;f;;f;;f;;f;DKVJX;f;f;;;;;;;;;;;ヴァイレ;바일레;;;Вайле;;;瓦埃勒
+18796;Østerport St.;osterport-st;8600650;;55.6927040000;12.5876120000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601878;t;;f;;f;;f;;;;f;;f;;f;;f;DKKKX;f;f;;;;;;;;;;;;;;;;;;
 18797;Budapest-Déli;budapest-deli;5501016;;47.4985330000;19.0252910000;18819;f;HU;f;Europe/Budapest;t;;;f;;f;5500007;t;;f;;f;;f;;;;f;;f;;f;;f;HUAAC;f;f;;;;;;;Boedapest;;;;ブダペスト;부다페스트;Budapeszt;Budapeste;Будапешт;;Budapeşte;布达佩斯
 18798;Miskolc Tiszai pu;miskolc-tiszai-pu;5511387;;48.0984280000;20.8099290000;;f;HU;f;Europe/Budapest;t;;;f;;f;5500018;t;;f;;f;;f;;;;f;;f;;f;;f;HUAAW;f;f;;;;;;;;;;;;;;;;;;
 18799;Szekesfehervar;szekesfehervar;5503269;;47.1833270000;18.4259440000;;f;HU;f;Europe/Budapest;t;;;f;;f;5500035;t;;f;;f;;f;;;;f;;f;;f;;f;HUAAN;f;f;;;;;;;;;;;;;;;;;;
@@ -20638,7 +20638,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22604;Alteckendorf Eckendorf;alteckendorf-eckendorf;8763993;;48.7916550000;7.5970460000;;f;FR;f;Europe/Paris;t;FRTMQ;;t;;f;8706845;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22605;Alteckendorf Mairie;alteckendorf-mairie;8763994;;48.7916550000;7.5970460000;;f;FR;f;Europe/Paris;t;FRTMR;;t;;f;8706846;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;阿尔泰康多尔
 22606;Minversheim Rue Principale;minversheim-rue-principale;8763992;;48.7833330000;7.6166670000;;f;FR;f;Europe/Paris;t;FRTMT;;t;;f;8706848;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-22607;Kastrup Lufthavn st;kastrup-lufthavn-st;8603327;;55.629609;12.649377;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601242;t;;f;;f;;f;;;;f;;f;;f;;f;DKVPT;f;f;;;;;;;;;;;;;;;;;;
+22607;Kastrup Lufthavn st;kastrup-lufthavn-st;8603327;;55.629609;12.649377;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601242;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22608;Zürich Hardbrücke;zurich-hardbrucke;8503020;;47.385215;8.517099;6401;f;CH;f;Europe/Zurich;t;;;f;;f;8503020;t;;f;;f;;f;;;;f;;f;;f;;f;CHZUH;t;f;;;;;;;;;;;;;;;;;;
 22609;Wien Westbahnhof (U6);wien-westbahnhof-u6;;;48.196806;16.339197;17561;f;AT;f;Europe/Vienna;f;;;f;;f;8102005;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22610;Karlsruhe Hbf Südausgang;karlsruhe-hbf-sudausgang;;;48.99219;8.401543;7665;f;DE;f;Europe/Berlin;f;;;f;;f;8089390;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
