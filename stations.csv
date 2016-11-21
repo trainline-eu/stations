@@ -16788,7 +16788,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 18703;Ribe Nørremark St.;ribe-norremark-st;8600436;;55.3399050000;8.7758350000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601972;t;;f;;f;;f;;;;f;;f;;f;;f;DKRBN;f;f;;;;;;;;;;;;;;;;;;
 18704;Ringe St.;ringe-st;8600563;;55.2393330000;10.4817810000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601977;t;;f;;f;;f;;;;f;;f;;f;;f;DKREX;f;f;;;;;;;;;;;;;;;;;;
 18705;Ringkøbing St.;ringkobing-st;8600200;;56.0928410000;8.2503350000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601978;t;;f;;f;;f;;;;f;;f;;f;;f;DKRJX;f;f;;;;;;;;;;;;;;;;;;
-18706;Rødby;rodby;;;54.6557180000;11.3574660000;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8601988;t;;f;;f;;f;;;;f;;f;;f;;f;DKRFX;f;f;;;;;;;;;;;;;;;;;;
+18706;Rødby;rodby;;;54.6557180000;11.3574660000;;f;DK;f;Europe/Copenhagen;f;;;f;;f;8601988;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 18707;Rødby Færge;rodby-faerge;8600840;;54.6552320000;11.3548410000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601989;t;;f;;f;;f;;;;f;;f;;f;;f;DKRFX;f;f;;;;;;;;;;;;;;;;;;
 18708;Rødekro St.;rodekro-st;8600094;;55.0696890000;9.3327530000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601996;t;;f;;f;;f;;;;f;;f;;f;;f;DKRQX;f;f;;;;;;;;;;;;;;;;;;
 18709;Rødkærsbro St.;rodkaersbro-st;8600174;;56.3528450000;9.5000330000;;f;DK;f;Europe/Copenhagen;t;;;f;;f;8601999;t;;f;;f;;f;;;;f;;f;;f;;f;DKRKX;f;f;;;;;;;;;;;;;;;;;;
