@@ -25750,3 +25750,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 27845;Nakskov St.;nakskov-st;;;54.833243;11.138204;;f;DK;f;Europe/Copenhagen;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;DKNSK;f;f;;;;;;;;;;;;;;;;;;
 27846;Sakskøbing St.;sakskobing-st;;;54.796609;11.634594;;f;DK;f;Europe/Copenhagen;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;DKSXX;f;f;;;;;;;;;;;;;;;;;;
 27847;Søllested St.;sollested-st;;;54.810953;11.270193;;f;DK;f;Europe/Copenhagen;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;DKSLL;f;f;;;;;;;;;;;;;;;;;;
+27848;Venezia Piazzale Roma;venezia-piazzale-roma;;;45.43795;12.31877;8573;f;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;Venise (Gare de Bus);;;;;;;;;;;;;
