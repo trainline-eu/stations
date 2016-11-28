@@ -25763,3 +25763,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 27858;Ruse;ruse;5249000;;43.833381;25.955587;;f;BG;f;Europe/Sofia;f;;;f;;f;5200024;f;;f;;f;;f;;;;f;;f;;f;;f;BGRUS;f;f;;;;;;;;;;;;;;;;;;
 27859;Sofia;sofia;5221544;;42.712022;23.320727;;f;BG;f;Europe/Sofia;f;;;f;;f;5200004;f;;f;;f;;f;;;;f;;f;;f;;f;BGSOF;f;f;;;;;;;;;;;;;;;;;;
 27860;Varna;varna;5229030;;43.198411;27.912297;;f;BG;f;Europe/Sofia;f;;;f;;f;5200016;f;;f;;f;;f;;;;f;;f;;f;;f;BGVAR;f;f;;;;;;;;;;;;;;;;;;
+27861;Minsk-Passajirskii;minsk-passajirskii;2114021;;53.890769;27.550652;;f;BY;f;Europe/Minsk;f;;;f;;f;2114021;f;;f;;f;;f;;;;f;;f;;f;;f;BYMPJ;f;f;;;;;;;;;;;;;;;;;;
