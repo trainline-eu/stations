@@ -21635,7 +21635,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 23602;Hamburg Hbf ZOB;hamburg-hbf-zob;8076116;;53.552079;10.011473;7474;f;DE;f;Europe/Berlin;f;;;f;;f;8076116;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;Hamburgo;Hambourg;Amburgo;;Hamburk;Hamborg;;ハンブルク;함부르크;;Hamburgo;Гамбург;;;汉堡市
 23603;Thayngen Bf (Bus);thayngen-bf-bus;;;47.745782;8.704267;;f;CH;f;Europe/Zurich;f;;;f;;f;502488;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 23604;Singen Bf (Bus);singen-bf-bus;;;47.759087;8.840383;7292;f;DE;f;Europe/Berlin;f;;;f;;f;501507;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-23605;Hegyeshalom;hegyeshalom;5500017;;47.913335;17.146591;;f;HU;f;Europe/Budapest;f;;;f;;f;5500017;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+23605;Hegyeshalom;hegyeshalom;5500017;;47.913335;17.146591;;f;HU;f;Europe/Budapest;f;;;f;;f;5500017;t;;f;;f;;f;;;;f;;f;;f;;f;HUHEG;f;f;;;;;;;;;;;;;;;;;;
 23606;Wien Westbahnhof (Schleife Süd);wien-westbahnhof-schleife-sud;8149094;;48.196496;16.339237;17561;f;AT;f;Europe/Vienna;f;;;f;;f;8149094;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;Vienna;Viena;Vienne;Vienna;Wenen;;;;;;;;;;;
 23607;Nürnberg Hbf (Nelson-Mandela-Platz/Südausgang);nurnberg-hbf-nelson-mandela-platz-sudausgang;8070977;;49.444039;11.082204;7691;f;DE;f;Europe/Berlin;f;;;f;;f;8070977;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;Nuremberg;Núremberg;Nuremberg;Norimberga;Neurenberg;Norimberk;;;ニュルンベルク;뉘른베르크;Norymberga;Nuremberga;Нюрнберг;;Nuremberg;纽伦堡
 23608;Jena Paradies (Knebe);jena-paradies-knebe;8089170;;50.924956;11.587501;16753;f;DE;f;Europe/Berlin;f;;;f;;f;8089170;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
