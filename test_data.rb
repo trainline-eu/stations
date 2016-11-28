@@ -120,6 +120,7 @@ COUNTRIES = {
   "ES" => "Europe/Madrid",
   "FR" => "Europe/Paris",
   "GB" => "Europe/London",
+  "GR" => "Europe/Athens",
   "HR" => "Europe/Zagreb",
   "HU" => "Europe/Budapest",
   "IE" => "Europe/Dublin",
