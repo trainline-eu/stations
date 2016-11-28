@@ -111,6 +111,7 @@ COUNTRIES = {
   "AD" => "Europe/Paris",
   "AT" => "Europe/Vienna",
   "BE" => "Europe/Brussels",
+  "BG" => "Europe/Sofia",
   "BY" => "Europe/Minsk",
   "CH" => "Europe/Zurich",
   "CZ" => "Europe/Prague",
