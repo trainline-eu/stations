@@ -8623,7 +8623,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10491;Warszawa;warszawa;9900001;;52.232855;20.9211119;;t;PL;f;Europe/Warsaw;f;PLWAG;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10492;Warszawa-Wschodnia;warszawa-wschodnia;5103865;;52.251544;21.052332;10491;f;PL;f;Europe/Warsaw;t;PLWWW;;f;;f;5100066;t;;f;;f;;f;;;;f;;f;;f;;f;PLWAW;f;f;;Warschau;Warsaw;;Varsovie;Varsavia;;;;;;;;;;;;
 10493;Warszawa-Centralna;warszawa-centralna;5118788;;52.228864;21.003233;10491;f;PL;f;Europe/Warsaw;t;PLWCE;;f;;f;5100065;t;;f;;f;;f;;;;f;;f;;f;;f;PLWAC;f;f;;Warschau;Warsaw;;Varsovie;Varsavia;;;;;;;;;;;;
-10494;Moskva-Belorusskaya;moskva-belorusskaya;2018828;;;;;f;RU;f;Europe/Moscow;f;RUDME;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;RUDME;f;f;;;;;;;;;;;;;;;;;;
+10494;Moskva-Belorusskaya;moskva-belorusskaya;2018828;;55.777223;37.581826;;f;RU;f;Europe/Moscow;f;RUDME;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;RUDME;f;f;;;;;;;;;;;;;;;;;;
 10495;Saarbrücken;saarbrucken;;;49.24115221039208;6.990984678268433;;t;DE;f;Europe/Berlin;t;DESAK;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10496;Belfort—Montbéliard TGV;belfort-montbeliard-tgv;8730082;87300822;47.585937;6.897687;10610;f;FR;f;Europe/Paris;t;FRTJA;BFB;t;;f;8730082;t;;f;;f;;f;;;;f;;f;;f;;f;FRTJA;f;t;;;;;;;;;;;;;;;;;;
 10497;La Voulte Cité;la-voulte-cite;8733870;;44.81457;4.793147;5667;f;FR;f;Europe/Paris;t;FRVTE;;t;;f;8705299;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -8632,7 +8632,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10500;Louviers Porte de l’eau;louviers-porte-de-leau;8740191;87401919;49.215736460009175;1.1718195676803587;;f;FR;f;Europe/Paris;t;FRLPL;;t;;f;8705490;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10501;Montauban Prax;mountauban-prax;8744244;;;;;f;FR;f;Europe/Paris;f;FRUFZ;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10502;Budapest-Keleti;budapest-keleti;5510017;;47.500385;19.085069;18819;f;HU;f;Europe/Budapest;t;HUABU;;f;;f;5500003;t;;f;;f;;f;;;;f;;f;;f;;f;HUABU;f;f;;;;;;;Boedapest;;;;ブダペスト;부다페스트;Budapeszt;Budapeste;Будапешт;;Budapeşte;布达佩斯
-10503;;;2019810;;;;;f;RU;f;Europe/Moscow;f;RUMAA;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;RUMVK;f;f;;;;;;;;;;;;;;;;;;
+10503;Moskva Kievskaia;moskva-kievskaia;2019810;;55.742963;37.566774;;f;RU;f;Europe/Moscow;f;RUMAA;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;RUMVK;f;f;;;;;;;;;;;;;;;;;;
 10504;Vieille-Brioude;vieille-brioude;8740948;;45.265891;3.401500;;f;FR;f;Europe/Paris;t;FRVUE;;t;;f;8705693;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10505;Toulouse Argoulets;toulouse-argoulets;8755194;;43.624821;1.477026;5306;f;FR;f;Europe/Paris;t;FRTKA;;t;;f;8706544;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;Tolosa;;;;;トゥールーズ;툴루즈;Tuluza;;Тулуза;;;圖盧茲
 10506;Châtel-Guyon Office de Tourisme;chatel-guyon-office-de-tourisme;8756686;87566869;45.896206;3.058561;9496;f;FR;f;Europe/Paris;f;FREIK;;t;;f;8706564;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
