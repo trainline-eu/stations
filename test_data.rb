@@ -135,6 +135,7 @@ COUNTRIES = {
   "NO" => "Europe/Oslo",
   "PL" => "Europe/Warsaw",
   "PT" => "Europe/Lisbon",
+  "RO" => "Europe/Bucarest",
   "RU" => "Europe/Moscow",
   "SE" => "Europe/Stockholm",
   "SI" => "Europe/Ljubljana",
