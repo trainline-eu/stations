@@ -20655,7 +20655,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22621;Bad Rappenau Busbf R;bad-rappenau-busbf-r;;;49.237721;9.101308;;f;DE;f;Europe/Berlin;f;;;f;;f;8070924;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22622;Neckarsulm Bhf West;neckarsulm-bhf-west;;;49.188973;9.220064;;f;DE;f;Europe/Berlin;f;;;f;;f;8070923;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22623;Hahn Flughafen Terminal 2;hahn-flughafen-terminal-2;8013370;;49.946853;7.270996;;f;DE;f;Europe/Berlin;t;;;f;;f;8002518;t;;f;;f;;f;;;;f;;f;;f;;f;DEHHN;f;f;;;Airport;Aeropuerto;Aéroport;Aeroporto;;;;;;;;;;;;
-22624;Ljubljana Avtobusna Postaja;ljubljana-avtobus-po;;;46.05777;14.50960;19094;f;SI;f;Europe/Ljubljana;f;;;f;;f;7989003;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
+22624;Ljubljana Avtobusna Postaja;ljubljana-avtobusna-postaja;;;46.05777;14.50960;19094;f;SI;f;Europe/Ljubljana;f;;;f;;f;7989003;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22625;Zagreb Autobusni Kolodvor;zagreb-autobusni-kolodvor;;;45.803778;15.993229;17496;f;HR;t;Europe/Zagreb;f;;;f;;f;7889051;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 22626;Budapest-Kelenföld;budapest-kelenfold;5501024;;47.464356;19.020455;;f;HU;t;Europe/Budapest;t;HUAAE;;f;;f;5500008;t;;f;;f;;f;;;;f;;f;;f;;f;HUAAE;f;f;;;;;;;;;;;;;;;;;;
 22627;Klatovy;klatovy;5473745;;49.401487;13.27411;;f;CZ;f;Europe/Prague;t;;;f;;f;5400213;t;;f;;f;;f;;;;f;;f;;f;;f;CZAHF;f;f;;;;;;;;;;;;;;;;;;
