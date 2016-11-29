@@ -104,6 +104,7 @@ HOMONYM_SUFFIXES = {
   "GB" => ["station"],
   "IT" => ["stazione"],
   "NL" => ["station"],
+  "NO" => ["stasjon"],
   "PT" => ["estacao"],
 }
 
@@ -131,8 +132,10 @@ COUNTRIES = {
   "MA" => "Africa/Casablanca",
   "MZ" => "Europe/Skopje",
   "NL" => "Europe/Amsterdam",
+  "NO" => "Europe/Oslo",
   "PL" => "Europe/Warsaw",
   "PT" => "Europe/Lisbon",
+  "RO" => "Europe/Bucarest",
   "RU" => "Europe/Moscow",
   "SE" => "Europe/Stockholm",
   "SI" => "Europe/Ljubljana",
@@ -312,9 +315,9 @@ class StationsTest < Minitest::Test
         # Very rough bounding box of Europe
         # Mostly tests if lon and lat are not switched
         assert_operator lon, :>, -10, "Coordinates of station #{row["id"]} not within the bounding box"
-        assert_operator lon, :<, 39, "Coordinates of station #{row["id"]} not within the bounding box"
+        assert_operator lon, :<, 41, "Coordinates of station #{row["id"]} not within the bounding box"
         assert_operator lat, :>, 35, "Coordinates of station #{row["id"]} not within the bounding box"
-        assert_operator lat, :<, 68, "Coordinates of station #{row["id"]} not within the bounding box"
+        assert_operator lat, :<, 69, "Coordinates of station #{row["id"]} not within the bounding box"
       end
     end
   end
