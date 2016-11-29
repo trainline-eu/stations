@@ -26531,7 +26531,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 28626;Sankt-Peterburg Vitebskii;sankt-peterburg-vitebskii;2003306;;59.919648;30.329847;28630;f;RU;f;Europe/Moscow;f;;;f;;f;2000016;f;;f;;f;;f;;;;f;;f;;f;;f;RULED;f;f;;;;;;;;;;;;;;;;;;
 28627;Sankt-Peterburg Finlya;sankt-peterburg-finlya;2003820;;59.93199;30.441376;28630;f;RU;f;Europe/Moscow;f;;;f;;f;2005931;f;;f;;f;;f;;;;f;;f;;f;;f;RULEF;f;f;;;;;;;;;;;;;;;;;;
 28629;Moskva Oktiabrskaia;moskva-oktiabrskaia;2006007;;55.777401;37.654248;;f;RU;f;Europe/Moscow;f;;;f;;f;2000027;f;;f;;f;;f;;;;f;;f;;f;;f;RUMOO;f;f;;;;;;;;;;;;;;;;;;
-28630;Sankt-Peterburg;sankt-peterburg;2003602;;59.937082;30.306411;28630;f;RU;f;Europe/Moscow;f;;;f;;f;2003602;f;;f;;f;;f;;;;f;;f;;f;;f;RUPET;f;f;;;;;;;;;;;;;;;;;;
+28630;Sankt-Peterburg;sankt-peterburg;2003602;;59.937082;30.306411;;f;RU;f;Europe/Moscow;f;;;f;;f;2003602;f;;f;;f;;f;;;;f;;f;;f;;f;RUPET;f;f;;;;;;;;;;;;;;;;;;
 28631;Sankt-Peterburg Glavnii;sankt-peterburg-glavnii;2003603;;59.928682;30.362711;28630;f;RU;f;Europe/Moscow;f;;;f;;f;2000054;f;;f;;f;;f;;;;f;;f;;f;;f;RUSPG;f;f;;;;;;;;;;;;;;;;;;
 28632;Pragersko;pragersko;7943300;;46.394874;15.662714;;f;SI;f;Europe/Ljubljana;f;;;f;;f;7900007;f;;f;;f;;f;;;;f;;f;;f;;f;SIABR;f;f;;;;;;;;;;;;;;;;;;
 28633;Murska Sobota;murska-sobota;7943704;;46.659588;16.171962;;f;SI;f;Europe/Ljubljana;f;;;f;;f;7900033;f;;f;;f;;f;;;;f;;f;;f;;f;SIABU;f;f;;;;;;;;;;;;;;;;;;
