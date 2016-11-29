@@ -139,7 +139,9 @@ COUNTRIES = {
   "RU" => "Europe/Moscow",
   "SE" => "Europe/Stockholm",
   "SI" => "Europe/Ljubljana",
-  "SK" => "Europe/Bratislava"
+  "SK" => "Europe/Bratislava",
+  "TR" => "Europe/Istanbul",
+  "UA" => "Europe/Kiev"
 }
 
 STATIONS = CSV.read("stations.csv", parameters)
