@@ -315,7 +315,7 @@ class StationsTest < Minitest::Test
         # Very rough bounding box of Europe
         # Mostly tests if lon and lat are not switched
         assert_operator lon, :>, -10, "Coordinates of station #{row["id"]} not within the bounding box"
-        assert_operator lon, :<, 39, "Coordinates of station #{row["id"]} not within the bounding box"
+        assert_operator lon, :<, 41, "Coordinates of station #{row["id"]} not within the bounding box"
         assert_operator lat, :>, 35, "Coordinates of station #{row["id"]} not within the bounding box"
         assert_operator lat, :<, 69, "Coordinates of station #{row["id"]} not within the bounding box"
       end
