@@ -91,6 +91,8 @@ module Constants
     # "27489", # Pau (Spain and France)
   ]
 
+  UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
+
   HOMONYM_SUFFIXES = {
     "BE" => ["station", "gare"],
     "CH" => ["bahnhof", "gare", "stazione"],
