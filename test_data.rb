@@ -2,152 +2,9 @@ require "csv"
 require "minitest/autorun"
 require "set"
 require "stringex"
+require_relative "lib/constants"
 
-parameters = {
-  :headers   => true,
-  :col_sep   => ';',
-  :encoding => 'UTF-8'
-}
-
-LOCALES = [
-  "fr",
-  "en",
-  "da",
-  "de",
-  "it",
-  "cs",
-  "es",
-  "hu",
-  "ja",
-  "ko",
-  "nl",
-  "pl",
-  "pt",
-  "ru",
-  "sv",
-  "tr",
-  "zh"
-]
-
-SUGGESTABLE_LOCALES = [
-  "fr",
-  "en",
-  "de",
-  "it",
-  "es"
-]
-
-VIRTUAL_STATIONS = [
-  "811",   # Basel SBB
-  "972",   # Kehl Grenze
-  "1354",  # Quevy Frontière
-  "3600",  # Vallorbe Frontière
-  "4089",  # Genève Voyageurs
-  "4185",  # Limone Confine
-  "4551",  # Le Châtelard Frontière
-  "4930",  # Port-Bou
-  "5671",  # Ventimiglia Frontière
-  "9045",  # Les Verrières Frontière
-  "9209",  # Bettembourg Frontière
-  "9232",  # Jeumont Frontière
-  "9282",  # Apach Frontière
-  "9367",  # Blandain Frontière
-  "9370",  # Tourcoing Frontière
-  "9414",  # Modane Frontière
-  "9619",  # Wannehain Frontière
-  "10220", # Hendaye Frontière
-  "10431", # Forbach Frontière
-  "10433", # Hanweiler Grenze
-  "10439"  # Rodange Frontière
-]
-
-HOMONYM_STATIONS = [
-  "117",   # Forbach (France)
-  "780",   # Ch[eè]vremont (France & the Netherlands)
-  "5914",  # Statte (Belgium and Italy)
-  "6661",  # Lugo (Spain and Italy)
-  "8015",  # Hove (Belgium and England)
-  "8210",  # Derby (Italy and England)
-  "8720",  # Guarda (Portugal and Italy)
-  "17958", # Comines (Belgium)
-  "17989", # Lens (Belgium)
-  "18164", # Melle (Belgium)
-  "18006", # Leval (Belgium)
-  "18024", # Herne (Belgium)
-  "18894", # Borne (Netherlands)
-  "18937", # Haren (Netherlands)
-  "19016", # Soest (Netherlands)
-  "19053", # Zwijndrecht (Netherlands)
-  "11343", # Burgdorf (Germany)
-  "21261", # Lison (Italy)
-  "23189", # Neufchâteau (Belgium & France)
-  "23759", # Bellavista (Spain and Italy)
-  "24394", # Santa Lucia (Spain and Italy)
-  "24424", # Silla (Spain and Italy)
-  "24457", # Torralba (Spain and Italy)
-  "25153", # Dormans (England and France)
-  "25481", # Hever (Belgium and England)
-  "26735", # Enfield (England and Ireland)
-  "26759", # Malling (France and England)
-  "17741", # Essen (Belgium and Germany)
-  # "27486", # Arce (Spain and Italy),
-  # "27488", # Breda (Spain and Netherlands)
-  # "27489", # Pau (Spain and France)
-]
-
-HOMONYM_SUFFIXES = {
-  "BE" => ["station", "gare"],
-  "CH" => ["bahnhof", "gare", "stazione"],
-  "DE" => ["bahnhof"],
-  "ES" => ["estacion", "ciudad"],
-  "FR" => ["gare"],
-  "GB" => ["station"],
-  "IT" => ["stazione"],
-  "NL" => ["station"],
-  "NO" => ["stasjon"],
-  "PT" => ["estacao"],
-}
-
-COUNTRIES = {
-  "AD" => "Europe/Paris",
-  "AT" => "Europe/Vienna",
-  "BA" => "Europe/Sarajevo",
-  "BE" => "Europe/Brussels",
-  "BG" => "Europe/Sofia",
-  "BY" => "Europe/Minsk",
-  "CH" => "Europe/Zurich",
-  "CZ" => "Europe/Prague",
-  "DE" => "Europe/Berlin",
-  "DK" => "Europe/Copenhagen",
-  "ES" => "Europe/Madrid",
-  "FR" => "Europe/Paris",
-  "GB" => "Europe/London",
-  "GR" => "Europe/Athens",
-  "HR" => "Europe/Zagreb",
-  "HU" => "Europe/Budapest",
-  "IE" => "Europe/Dublin",
-  "IT" => "Europe/Rome",
-  "LT" => "Europe/Vilnius",
-  "LU" => "Europe/Luxembourg",
-  "LV" => "Europe/Riga",
-  "MA" => "Africa/Casablanca",
-  "ME" => "Europe/Podgorica",
-  "MZ" => "Europe/Skopje",
-  "NL" => "Europe/Amsterdam",
-  "NO" => "Europe/Oslo",
-  "PL" => "Europe/Warsaw",
-  "PT" => "Europe/Lisbon",
-  "RO" => "Europe/Bucarest",
-  "RS" => "Europe/Belgrade",
-  "RU" => "Europe/Moscow",
-  "SE" => "Europe/Stockholm",
-  "SI" => "Europe/Ljubljana",
-  "SK" => "Europe/Bratislava",
-  "TR" => "Europe/Istanbul",
-  "UA" => "Europe/Kiev"
-}
-
-STATIONS = CSV.read("stations.csv", parameters)
+STATIONS = CSV.read("stations.csv", Constants::CSV_PARAMETERS)
 STATIONS_BY_ID = STATIONS.inject({}) { |hash, station| hash[station["id"]] = station; hash }
 STATIONS_UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
 
@@ -346,15 +203,15 @@ class StationsTest < Minitest::Test
   end
 
   def test_country
-    countries = COUNTRIES.keys
+    country_codes = Constants::COUNTRIES.keys
     STATIONS.each do |row|
-      assert countries.include?(row["country"]), "Invalid value for country for station #{row["id"]}"
+      assert country_codes.include?(row["country"]), "Invalid value for country for station #{row["id"]}"
     end
   end
 
   def test_time_zone
     STATIONS.each do |row|
-      timezone = COUNTRIES[row["country"]]
+      timezone = Constants::COUNTRIES[row["country"]]
       assert_equal timezone, row["time_zone"], "Invalid timezone for station #{row["id"]}"
     end
   end
@@ -371,7 +228,7 @@ class StationsTest < Minitest::Test
     names = Set.new
 
     STATIONS.each do |row|
-      if row["is_suggestable"] == "t" && !HOMONYM_STATIONS.include?(row["id"])
+      if row["is_suggestable"] == "t" && !Constants::HOMONYM_STATIONS.include?(row["id"])
         assert !names.include?(row["name"]), "Duplicate name '#{row["name"]}'"
 
         names << row["name"]
@@ -380,16 +237,16 @@ class StationsTest < Minitest::Test
   end
 
   def test_homonym_suggestable
-    HOMONYM_STATIONS.each do |homonym_id|
+    Constants::HOMONYM_STATIONS.each do |homonym_id|
       homonym_station = STATIONS_BY_ID[homonym_id]
       assert_equal homonym_station["is_suggestable"], "t", "Homonym station #{homonym_station["name"]} (#{homonym_station["id"]}) is not suggestable"
     end
   end
 
   def test_homonym_information
-    HOMONYM_STATIONS.each do |homonym_id|
+    Constants::HOMONYM_STATIONS.each do |homonym_id|
       homonym_station = STATIONS_BY_ID[homonym_id]
-      SUGGESTABLE_LOCALES.each do |locale|
+      Constants::SUGGESTABLE_LOCALES.each do |locale|
         assert !homonym_station["info:#{locale}"].nil?, "Homonym station #{homonym_station["name"]} (#{homonym_station["id"]}) must have an info in “#{locale}”"
       end
     end
@@ -404,7 +261,7 @@ class StationsTest < Minitest::Test
       }
     end
 
-    HOMONYM_STATIONS.each do |homonym_id|
+    Constants::HOMONYM_STATIONS.each do |homonym_id|
       homonym_station = STATIONS_BY_ID[homonym_id]
       folded_homonym_name = fold(homonym_station["name"] || "")
       has_homonym = stations.any? do |station|
@@ -420,7 +277,7 @@ class StationsTest < Minitest::Test
   def test_info_different_than_name
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
-        LOCALES.each do |locale|
+        Constants::LOCALES.each do |locale|
           if !row["info:#{locale}"].nil?
             refute_equal row["name"], row["info:#{locale}"], "Name and “#{locale}” information should be different: '#{row["name"]}'"
 
@@ -449,7 +306,7 @@ class StationsTest < Minitest::Test
         parent = STATIONS_BY_ID[parent_id]
         assert !parent.nil?, "Station #{row["id"]} references a not existing parent station (#{parent_id})"
         assert !parent["name"].nil?, "The station #{parent_id} has no name (parent of station #{row["id"]})"
-        LOCALES.each do |locale|
+        Constants::LOCALES.each do |locale|
           if !parent["info:#{locale}"].nil?
             assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent (#{parent["name"]}) has"
           end
@@ -476,10 +333,10 @@ class StationsTest < Minitest::Test
   def test_correct_slugs
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
-        if !HOMONYM_STATIONS.include?(row["id"])
+        if !Constants::HOMONYM_STATIONS.include?(row["id"])
           assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} (#{row["name"]}) has an incorrect slug"
         else
-          suffixes = HOMONYM_SUFFIXES[row["country"]].join("|")
+          suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
           assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["id"]} has an incorrect slug")
         end
       end
@@ -535,7 +392,7 @@ class StationsTest < Minitest::Test
   end
 
   def test_sncf_virtual_station
-    VIRTUAL_STATIONS.each do |id|
+    Constants::VIRTUAL_STATIONS.each do |id|
       station = STATIONS_BY_ID[id]
       assert_equal "t", station["sncf_is_enabled"], "Virtual station #{station["name"]} (#{station["id"]}) should be enabled for SNCF"
     end
