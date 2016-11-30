@@ -265,6 +265,7 @@ class StationsTest < Minitest::Test
         parent = STATIONS_BY_ID[parent_id]
         assert !parent.nil?, "Station #{row["id"]} references a not existing parent station (#{parent_id})"
         assert !parent["name"].nil?, "The station #{parent_id} has no name (parent of station #{row["id"]})"
+        refute_equal parent_id, row["id"], "Station #{row["id"]} references itself as a parent station"
         Constants::LOCALES.each do |locale|
           if !parent["info:#{locale}"].nil?
             assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent (#{parent["name"]}) has"
