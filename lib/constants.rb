@@ -118,6 +118,7 @@ module Constants
     "DE" => "Europe/Berlin",
     "DK" => "Europe/Copenhagen",
     "ES" => "Europe/Madrid",
+    "FI" => "Europe/Helsinki",
     "FR" => "Europe/Paris",
     "GB" => "Europe/London",
     "GR" => "Europe/Athens",
