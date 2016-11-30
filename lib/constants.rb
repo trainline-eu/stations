@@ -142,4 +142,18 @@ module Constants
     "TR" => "Europe/Istanbul",
     "UA" => "Europe/Kiev"
   }
+
+  CARRIER_IDS = {
+    "atoc"          => [1, 2, 3],
+    "benerail"      => 5,
+    "busbud"        => 6,
+    "db"            => [6, 7],
+    "hkx"           => 9,
+    "idtgv"         => 3,
+    "ntv"           => 3,
+    "ouigo"         => 3,
+    "renfe"         => [5, 7],
+    "sncf"          => 5,
+    "trenitalia"    => 7,
+  }
 end

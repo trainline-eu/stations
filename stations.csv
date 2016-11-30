@@ -15814,7 +15814,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17725;Bischofshofen;bischofshofen;8101134;;47.4173610000;13.2200840000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100042;t;;f;;f;;f;;;;f;;f;;f;;f;ATBIS;t;f;;;;;;;;;;;ビショフスホーフェン;비쇼프쇼펜;;;Бишофсхофен;;;比紹夫斯霍芬
 17726;Landeck-Zams;landeck-zams;8101212;;47.1482420000;10.5783880000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100063;t;;f;;f;;f;;;;f;;f;;f;;f;ATLAN;t;f;;;;;;;;;;;;;;;;;;
 17727;Spittal-Millstättersee;spittal-millstattersee;8102128;;46.7957030000;13.4874150000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100092;t;;f;;f;;f;;;;f;;f;;f;;f;ATAEL;t;f;;;;;;;;;;;;;;;;;;
-17728;Reutte in Tirol;reutte-in-tirol;8102251;;47.4929870000;10.7215060000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100115;t;;f;;f;;f;;;;f;;f;;f;;f;DERET;f;f;;;;;;;;;;;;;;;Ройтте;;;
+17728;Reutte in Tirol;reutte-in-tirol;8102251;;47.4929870000;10.7215060000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100115;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;Ройтте;;;
 17729;Stainach-Irdning;stainach-irdning;8101461;;47.5291950000;14.1067530000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100132;t;;f;;f;;f;;;;f;;f;;f;;f;ATAGJ;t;f;;;;;;;;;;;;;;;;;;
 17730;Schladming;schladming;8101473;;47.3938270000;13.6781480000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100137;t;;f;;f;;f;;;;f;;f;;f;;f;ATAGN;t;f;;;;;;;;;;;;;;;;;;
 17731;Selzthal;selzthal;8101457;;47.5503560000;14.3127680000;;f;AT;f;Europe/Vienna;t;;;f;;f;8100150;t;;f;;f;;f;;;;f;;f;;f;;f;ATAHJ;t;f;;;;;;;;;;;;;;;;;;
