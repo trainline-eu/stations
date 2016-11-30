@@ -333,6 +333,21 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_same_as_carrier_ids
+    STATIONS.each do |row|
+      if row["same_as"]
+        actual_station = STATIONS_BY_ID[row["same_as"]]
+        carrier_ids = Constants::CARRIER_IDS.keys.map { |carrier| "#{carrier}_id" }
+        carrier_ids += ["uic", "uic8_sncf", "sncf_tvs_id", "trenitalia_rtvt_id"]
+        carrier_ids.each do |carrier_id|
+          if row[carrier_id]
+            assert !actual_station[carrier_id].nil?, "Actual station #{actual_station["name"]} (#{actual_station["id"]}) has not a #{carrier_id} while its alias #{row["id"]} has one"
+          end
+        end
+      end
+    end
+  end
+
   def test_sncf_self_service_machine
     STATIONS.each do |row|
       parent_id = row["parent_station_id"]
