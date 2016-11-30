@@ -167,7 +167,7 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_time_zone
+  def test_timezone
     STATIONS.each do |row|
       timezone = Constants::COUNTRIES[row["country"]]
       assert_equal timezone, row["time_zone"], "Invalid timezone for station #{row["id"]}"
