@@ -55,31 +55,30 @@ class StationsTest < Minitest::Test
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Wrong number of columns #{row["size"]} for station #{row["id"]}" }
   end
 
-  def validate_enabled_and_id_columns(carrier, id_column_size = nil)
-    enabled_column = "#{carrier}_is_enabled"
-    id_column      = "#{carrier}_id"
-    unique_set     = Set.new
+  def test_enabled_and_id_columns
+    Constants::CARRIER_IDS.each do |carrier, id_column_size|
+      enabled_column = "#{carrier}_is_enabled"
+      id_column      = "#{carrier}_id"
+      unique_set     = Set.new
 
-    STATIONS.each do |row|
-      assert ["t", "f"].include?(row[enabled_column])
+      STATIONS.each do |row|
+        assert ["t", "f"].include?(row[enabled_column])
 
-      id = row[id_column]
-      if row[enabled_column] == "t"
-        assert !id.nil?, "Missing #{id_column} for station #{row["id"]}"
-      end
+        id = row[id_column]
+        if row[enabled_column] == "t"
+          assert !id.nil?, "Missing #{id_column} for station #{row["id"]}"
+        end
 
-      if !id.nil?
-        if id_column_size
+        if !id.nil?
           if id_column_size.is_a?(Array)
-
             assert id_column_size.include?(row[id_column].size), "Invalid #{id_column}: #{row[id_column]} for station #{row["id"]}"
           else
             assert_equal id_column_size, row[id_column].size, "Invalid #{id_column}: #{row[id_column]} for station #{row["id"]}"
           end
-        end
 
-        assert !unique_set.include?(row[id_column]), "Duplicated #{id_column} #{row[id_column]} for station #{row["id"]}"
-        unique_set << row[id_column]
+          assert !unique_set.include?(row[id_column]), "Duplicated #{id_column} #{row[id_column]} for station #{row["id"]}"
+          unique_set << row[id_column]
+        end
       end
     end
   end
@@ -94,46 +93,6 @@ class StationsTest < Minitest::Test
 
     bad_counts = counts.select { |_, count| count != 1 }
     assert_equal 0, bad_counts.length, "#{column_name} duplicated: #{bad_counts.map(&:first).join(', ')}"
-  end
-
-  def test_db_enabled_and_id_columns
-    validate_enabled_and_id_columns("db")
-  end
-
-  def test_hkx_enabled_and_id_columns
-    validate_enabled_and_id_columns("hkx")
-  end
-
-  def test_busbud_enabled_and_id_columns
-    validate_enabled_and_id_columns("busbud", 6)
-  end
-
-  def test_idtgv_enabled_and_id_columns
-    validate_enabled_and_id_columns("idtgv", 3)
-  end
-
-  def test_ntv_enabled_and_id_columns
-    validate_enabled_and_id_columns("ntv", 3)
-  end
-
-  def test_ouigo_enabled_and_id_columns
-    validate_enabled_and_id_columns("ouigo", 3)
-  end
-
-  def test_sncf_enabled_and_id_columns
-    validate_enabled_and_id_columns("sncf", 5)
-  end
-
-  def test_trenitalia_enabled_and_id_columns
-    validate_enabled_and_id_columns("trenitalia", 7)
-  end
-
-  def test_ntv_enabled_and_id_columns
-    validate_enabled_and_id_columns("ntv", 3)
-  end
-
-  def test_renfe_enabled_an_id_columns
-    validate_enabled_and_id_columns("renfe", [5, 7])
   end
 
   def test_id_unicity
