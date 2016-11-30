@@ -5783,7 +5783,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7392;Wetter (Ruhr);wetter-ruhr;8008067;;51.386458;7.385968;;f;DE;f;Europe/Berlin;t;DEBAY;;f;;f;8006386;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 7393;Welschingen-Neuhausen;welschingen-neuhausen;8014555;;47.834029;8.769219;;f;DE;f;Europe/Berlin;t;DEBAZ;;f;;f;8006321;t;;f;;f;;f;;;;f;;f;;f;;f;DEWXH;f;f;;;;;;;;;;;;;;;;;;
 7394;Wiesau (Oberpf);wiesau-oberpf;8026094;;49.911013;12.191287;;f;DE;f;Europe/Berlin;t;DEBBA;;f;;f;8006403;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-7395;Basel Badischer Bahnhof;basel-badischer-bahnhof;8000491;;47.567292;7.607804;5877;f;CH;f;Europe/Zurich;t;DEBBB;;f;;f;8000026;t;;f;;f;;f;;;;f;;f;;f;;f;DEBBB;t;f;;;;Basilea;Bâle;Basilea;Bazel;Basilej;;Bázel;バーゼル;바젤;Bazylea;Basileia;Базель;;;巴塞尔
+7395;Basel Badischer Bahnhof;basel-badischer-bahnhof;8000491;;47.567292;7.607804;5877;f;CH;f;Europe/Zurich;t;DEBBB;;f;;f;8000026;t;;f;;f;8014431;f;;;;f;;f;;f;;f;DEBBB;t;f;;;;Basilea;Bâle;Basilea;Bazel;Basilej;;Bázel;バーゼル;바젤;Bazylea;Basileia;Базель;;;巴塞尔
 7396;Bad Wildbad Bf;bad-wildbad-bf;8029456;;48.75572;8.551087;;f;DE;f;Europe/Berlin;t;DEBBC;;f;;f;8006431;t;;f;;f;;f;;;;f;;f;;f;;f;DEBBC;f;f;;;;;;;;;;;;;;;;;;
 7397;Wilhelmshaven Hbf;wilhelmshaven-hbf;8021222;;53.518717;8.115641;;f;DE;f;Europe/Berlin;t;DEBBD;;f;;f;8006445;t;;f;;f;;f;;;;f;;f;;f;;f;DEBBD;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ヴィルヘルムスハーフェン;빌헬름스하펜;;;Вильгельмсхафен;;;威廉港
 7398;Bonn-Beuel;bonn-beuel;8015577;;50.738479;7.127654;;f;DE;f;Europe/Berlin;t;DEBBE;;f;;f;8001083;t;;f;;f;;f;;;;f;;f;;f;;f;DEBON;f;f;;;;;;;;;;;;;;;;;;
@@ -5998,7 +5998,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 7608;Gießen;giessen;8011033;;50.579056;8.661466;;f;DE;f;Europe/Berlin;t;DEGIE;;f;;f;8000124;t;;f;;f;;f;;;;f;;f;;f;;f;DEGIE;f;f;;;;;;;;;;;ギーセン;기센;;;Гиссен;;;吉森
 7609;Geilenkirchen;geilenkirchen;8015188;;50.961097;6.124368;;f;DE;f;Europe/Berlin;t;DEGLK;;f;;f;8002206;t;;f;;f;;f;;;;f;;f;;f;;f;DEGLK;f;f;;;;;;;;;;;;;;;;;;
 7610;Gelnhausen;gelnhausen;8011044;;50.19634;9.189276;;f;DE;f;Europe/Berlin;t;DEGLN;;f;;f;8000117;t;;f;;f;;f;;;;f;;f;;f;;f;DEGLN;f;f;;;;;;;;;;;;;;;;;;
-7611;Gelsenkirchen Hbf;gelsenkirchen-hbf;8010143;;51.505016;7.102583;;f;DE;f;Europe/Berlin;t;DEGLS;;f;;f;8000118;t;;f;;f;;f;;;;f;;f;;f;;f;DEGEL;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ゲルゼンキルヒェン;겔젠키르헨;;;Гельзенкирхен;;;盖尔森基兴
+7611;Gelsenkirchen Hbf;gelsenkirchen-hbf;8010143;;51.505016;7.102583;;f;DE;f;Europe/Berlin;t;DEGLS;;f;;f;8000118;t;;f;;f;;f;;;;f;108010144;t;;f;;f;DEGEL;f;f;;;Main station;Estación central;Gare centrale;Stazione centrale;;;;;ゲルゼンキルヒェン;겔젠키르헨;;;Гельзенкирхен;;;盖尔森基兴
 7612;Gemünden (Main);gemunden-main;8022549;;50.050013;9.699891;;f;DE;f;Europe/Berlin;t;DEGMM;;f;;f;8000120;t;;f;;f;;f;;;;f;;f;;f;;f;DEGMM;f;f;;;;;;;;;;;;;;;;;;
 7613;Göttingen;gottingen;8013050;;51.536614;9.925682;;f;DE;f;Europe/Berlin;t;DEGOE;;f;;f;8000128;t;;f;;f;;f;;;;f;;f;;f;;f;DEGGN;f;f;;;;Gotinga;Gœttingue;Gottinga;;;;;ゲッティンゲン;괴팅겐;Getynga;Gotinga;Гёттинген;;;哥廷根
 7614;Göppingen;goppingen;8029065;;48.700022;9.651969;;f;DE;f;Europe/Berlin;t;DEGPG;;f;;f;8000127;t;;f;;f;;f;;;;f;;f;;f;;f;DEGOE;f;f;;;;;;;;;;;;;;;Гёппинген;;;格平根
@@ -8611,9 +8611,9 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 10479;Les Huichards;les-huichards;8753648;;46.5825508386991;5.27094841003418;;f;FR;f;Europe/Paris;t;FRJFZ;;t;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10480;La Chapelle-Glain;la-chapelle-glain;8753705;87537050;47.625865;-1.180175;;f;FR;f;Europe/Paris;t;FRPGC;;t;;f;8706519;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 10481;Figueres—Vilafant;figueres-vilafant;7104307;71043075;42.26478;2.943023;10465;f;ES;f;Europe/Madrid;t;ESFIR;;t;;f;7104307;f;;f;;f;;f;;;;f;;f;04307;t;;f;ESFIR;f;f;;;;Figueras;;;;;;;;;;;;;;
-10482;Rzepin;rzepin;5130955;;52.350139;14.815171;;f;PL;f;Europe/Warsaw;f;PLAAA;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;19082;;;;;;;;;;;;;;;;;
+10482;Rzepin;rzepin;5130955;;52.350139;14.815171;;f;PL;f;Europe/Warsaw;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;19082;;;;;;;;;;;;;;;;;
 10483;Poznań;poznan;5103060;;52.401996;16.910866;;f;PL;f;Europe/Warsaw;t;PLPOZ;;f;;f;5100081;t;;f;;f;;f;;;;f;;f;;f;;f;PLPOZ;f;f;;;;;;;;;;;;;;;;;;
-10484;Kutno;kutno;5100224;;52.227437;19.348436;;f;PL;f;Europe/Warsaw;f;PLKNO;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;19074;;;;;;;;;;;;;;;;;
+10484;Kutno;kutno;5100224;;52.227437;19.348436;;f;PL;f;Europe/Warsaw;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;19074;;;;;;;;;;;;;;;;;
 10485;Wörgl;worgl;8101170;;47.4918000000;12.0605840000;;f;AT;f;Europe/Vienna;t;ATWOR;;f;;f;8100099;t;;f;;f;;f;;;;f;;f;;f;;f;ATWOR;t;f;;;;;;;;;;;;;;;;;;
 10486;Kufstein;kufstein;8100463;;47.5830770000;12.1655510000;;f;AT;f;Europe/Vienna;t;ATKUF;;f;;f;8100001;t;;f;;f;;f;;;;f;;f;;f;;f;ATKUF;t;f;;;;;;;;;;;クーフシュタイン;쿠프슈타인;;;Куфштайн;;;库夫施泰因
 10487;Jenbach;jenbach;8101176;;47.3884510000;11.7784570000;;f;AT;f;Europe/Vienna;t;ATJEN;;f;;f;8100102;t;;f;;f;8101176;f;;;;f;;f;;f;;f;ATJEN;t;f;;;;;;;;;;;;;;;;;;
@@ -15671,7 +15671,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 17581;Dronten;dronten;8400198;;52.5342540000;5.7216430000;;f;NL;f;Europe/Amsterdam;t;NLDAI;;f;;f;8400198;t;;f;;f;;f;;;;f;;f;;f;;f;NLDRT;t;f;;;;;;;;;;;ドロンテン;;;;Дронтен;;;
 17582;St. Valentin;st-valentin;8101061;;48.1791430000;14.5218480000;;f;AT;f;Europe/Vienna;t;ATAAK;;f;;f;8100009;t;;f;;f;;f;;;;f;;f;;f;;f;ATSTV;t;f;;;;;;;;;;;;;;;;;;
 17583;Berlin Hbf (Europaplatz);berlin-hbf-europaplatz;;;52.5261550000;13.3690810000;7527;f;DE;f;Europe/Berlin;f;;;f;;f;8070952;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-17584;Kraków Główny;krakow-glowny;;;50.0671920000;19.9474230000;;f;PL;t;Europe/Warsaw;t;PLKRK;;f;;f;5100028;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;Krakau;Krakow;Cracovia;Cracovie;Cracovia;;Krakov;;Krakkó;クラクフ;크라쿠프;;Cracóvia;Краков;;;克拉科夫
+17584;Kraków Główny;krakow-glowny;5108031;;50.0671920000;19.9474230000;;f;PL;t;Europe/Warsaw;t;PLKRK;;f;;f;5100028;t;;f;;f;;f;;;;f;;f;;f;;f;PLKRK;f;f;;Krakau;Krakow;Cracovia;Cracovie;Cracovia;;Krakov;;Krakkó;クラクフ;크라쿠프;;Cracóvia;Краков;;;克拉科夫
 17585;Kraków Główny (Bus);krakow-glowny-bus;;;50.0679020000;19.9495800000;;f;PL;f;Europe/Warsaw;f;;;f;;f;5104621;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17587;Praha;praha;;;50.0819250000;14.4514810000;;t;CZ;f;Europe/Prague;f;CSPRG;;f;;f;5496001;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 17588;Praha hl.n. Wilsonova;praha-hl-n-wilsonova;;;50.0833720000;14.4346170000;17587;f;CZ;f;Europe/Prague;f;;;f;;f;5471014;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;17509;;;;;;;;;;;;;;;;;
@@ -16377,7 +16377,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 18288;Sedrun;sedrun;8505176;;46.6820970000;8.7694080000;;f;CH;f;Europe/Zurich;t;CHABI;;f;;f;8505176;t;;f;;f;;f;;;;f;;f;;f;;f;CHABI;t;f;;;;;;;;;;;;;;;;;;
 18291;Bellinzona;bellinzona;8505213;;46.1954300000;9.0295290000;;f;CH;f;Europe/Zurich;t;CHZDI;;f;;f;8505213;t;;f;;f;8505213;t;S00300;;;f;;f;;f;;f;CHZDI;t;f;;;;;Bellinzone;;;;;;ベッリンツォーナ;;;;Беллинцона;;;
 18292;Taverne-Torricella;taverne-torricella;8505218;;46.0566370000;8.9303240000;;f;CH;f;Europe/Zurich;t;;;f;;f;8505218;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-18294;Chiasso;chiasso;8505307;;45.8321670000;9.0314260000;;f;CH;f;Europe/Zurich;t;;;f;;f;8505307;t;;f;;f;8301301;t;S01301;;;f;;f;;f;;f;CHZDS;t;f;;;;;;;;;;;;;;;;;;
+18294;Chiasso;chiasso;8505307;;45.8321670000;9.0314260000;;f;CH;f;Europe/Zurich;t;ITBEI;;f;;f;8505307;t;;f;;f;8301301;t;S01301;;;f;;f;;f;;f;CHZDS;t;f;;;;;;;;;;;;;;;;;;
 18295;Locarno;locarno;8505400;;46.1724180000;8.8013560000;;f;CH;f;Europe/Zurich;t;CHZJI;;f;;f;8505400;t;;f;;f;;f;;;;f;;f;;f;;f;CHZJI;t;f;;;;;;;;;;;ロカルノ;로카르노;;;Локарно;;;洛迦诺
 18296;Cadenazzo;cadenazzo;8505404;;46.1526050000;8.9416510000;;f;CH;f;Europe/Zurich;t;CHAFY;;f;;f;8505404;t;;f;;f;8505404;f;;;;f;;f;;f;;f;CHAFY;t;f;;;;;;;;;;;;;;;;;;
 18297;Locarno NLM;locarno-nlm;;;46.1701430000;8.8011670000;18295;f;CH;f;Europe/Zurich;f;;;f;;f;8505469;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -17154,7 +17154,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 19071;Inowrocław;inowroclaw;5101870;;52.8014050000;18.2391840000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100015;t;;f;;f;;f;;;;f;;f;;f;;f;PLINO;f;f;;;;;;;;;;;;;;;;;;
 19072;Katowice;katowice;5107331;;50.2575110000;19.0171650000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100020;t;;f;;f;;f;;;;f;;f;;f;;f;PLKAW;f;f;;Kattowitz;;;;;;Katovice;;;カトヴィツェ;카토비체;;;Катовице;;;卡托维兹
 19073;Konin;konin;5103310;;52.2313990000;18.2533330000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100026;t;;f;;f;;f;;;;f;;f;;f;;f;PLKON;f;f;;;;;;;;;;;;;;;Конин;;;
-19074;Kutno;kutno;5103220;;52.2269580000;19.3486150000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100032;t;;f;;f;;f;;;;f;;f;;f;;f;PLKUT;f;f;;;;;;;;;;;;;;;Кутно;;;库特娜
+19074;Kutno;kutno;5103220;;52.2269580000;19.3486150000;;f;PL;f;Europe/Warsaw;t;PLKNO;;f;;f;5100032;t;;f;;f;;f;;;;f;;f;;f;;f;PLKUT;f;f;;;;;;;;;;;;;;;Кутно;;;库特娜
 19075;Legnica;legnica;5105300;;51.2138470000;16.1689240000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100035;t;;f;;f;;f;;;;f;;f;;f;;f;PLLEG;f;f;;;;;;;;;;;;;;;;;;
 19076;Sopot;sopot;5100594;;54.4401650000;18.5623200000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100056;t;;f;;f;;f;;;;f;;f;;f;;f;PLACM;f;f;;Zoppot;;;;;;Sopoty;;;ソポト;소포트;;;Сопот;;;索波特
 19077;Szczecin Główny;szczecin-glowny;5100027;;53.4187840000;14.5503170000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100057;t;;f;;f;;f;;;;f;;f;;f;;f;PLSZC;f;f;;Stettin;Stettin;;Stettin;Stettino;;Štětín;Stettin;;シュチェチン;슈체친;;Estetino;Щецин;Stettin;;什切青
@@ -17162,7 +17162,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 19079;Warszawa Zachodnia;warszawa-zachodnia;5103350;;52.2199740000;20.9652440000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100067;t;;f;;f;;f;;;;f;;f;;f;;f;PLWAZ;f;f;;Warschau;Warsaw;;Varsovie;Varsavia;;;;;;;;;;;;
 19080;Wrocław Główny;wroclaw-glowny;5106010;;51.0980750000;17.0370840000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100069;t;;f;;f;;f;;;;f;;f;;f;;f;PLWRY;f;f;;Breslau;;;;Breslavia;;Vratislav;;;ヴロツワフ;브로츠와프;;;Врослав;;;弗罗茨瓦夫
 19081;Zbąszynek;zbaszynek;5102610;;52.2425090000;15.8180930000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100071;t;;f;;f;;f;;;;f;;f;;f;;f;PLZBA;f;f;;;;;;;;;;;;;;;;;;
-19082;Rzepin;rzepin;5102580;;52.3502180000;14.8150760000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100082;t;;f;;f;;f;;;;f;;f;;f;;f;PLRZE;f;f;;;;;;;;;;;;;;;;;;
+19082;Rzepin;rzepin;5102580;;52.3502180000;14.8150760000;;f;PL;f;Europe/Warsaw;t;PLAAA;;f;;f;5100082;t;;f;;f;;f;;;;f;;f;;f;;f;PLRZE;f;f;;;;;;;;;;;;;;;;;;
 19083;Kostrzyn;kostrzyn;5101300;;52.5915970000;14.6446950000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100214;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;Küstrin;;;;;;;;;コストシン・ナド・オドロン;;;;Костшин;;;科斯琴
 19084;Żary;zary;5104155;;51.6347490000;15.1369620000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100243;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 19085;Krzewina Zgorzelecka;krzewina-zgorzelecka;5105285;;51.0153560000;14.9393610000;;f;PL;f;Europe/Warsaw;t;;;f;;f;5100244;t;;f;;f;;f;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -19348,7 +19348,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 21292;Pettoranello;pettoranello;8309051;;41.5874;14.2766;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8309051;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21293;Chatillon-Saint Vincent;chatillon-saint-vincent;8300142;;45.743055556;7.619166667;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300142;t;S00142;;;f;;f;;f;;f;ITAAN;f;f;;;;;;;;;;;;;;;;;;
 21294;Cherasco;cherasco;8300733;;44.652500000;7.866944444;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8300733;t;S00733;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
-21295;Chiasso;chiasso;8301301;;45.832222222;9.033888889;;;IT;f;Europe/Rome;f;ITBEI;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;ITCHO;f;f;18294;;;;;;;;;;;;;;;;;
+21295;Chiasso;chiasso;8301301;;45.832222222;9.033888889;;;IT;f;Europe/Rome;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;ITCHO;f;f;18294;;;;;;;;;;;;;;;;;
 21296;Donori;donori;8342112;;39.42810517092945;9.119768142700195;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8342112;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21297;Ferrara Porta Reno;ferrara-porta-reno;8333001;;44.825;11.6056;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8333001;t;S05168;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
 21298;Fulgatore;fulgatore;8312155;;37.954166667;12.686388889;;;IT;f;Europe/Rome;t;;;f;;f;;f;;f;;f;8312155;t;;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;
@@ -20722,14 +20722,14 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 22688;Celle;celle;8013632;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7562;;;;;;;;;;;;;;;;;
 22689;Bremen Hbf;bremen-hbf;8013751;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7548;;;;;;;;;;;;;;;;;
 22690;Warszawa-Centralna;warszawa-centralna;5103360;;52.228744;21.003318;;f;PL;f;Europe/Warsaw;f;PLAKX;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;10493;;;;;;;;;;;;;;;;;
-22691;Basel Badischer Bahnhof;basel-badischer-bahnhof;8014431;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;8014431;f;;;;f;;f;;f;;f;;f;f;7395;;;;;;;;;;;;;;;;;
+22691;Basel Badischer Bahnhof;basel-badischer-bahnhof;8014431;;;;;f;CH;f;Europe/Zurich;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7395;;;;;;;;;;;;;;;;;
 22692;Göttingen;gottingen;8013051;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7613;;;;;;;;;;;;;;;;;
 22693;Pforzheim Hbf;pforzheim-hbf;8029501;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7198;;;;;;;;;;;;;;;;;
 22694;Ingolstadt Hbf;ingolstadt-hbf;8020422;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;6989;;;;;;;;;;;;;;;;;
 22695;Hildesheim Hbf;hildesheim-hbf;8013414;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;6962;;;;;;;;;;;;;;;;;
 22696;Bayreuth Hbf;bayreuth-hbf;8022249;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7554;;;;;;;;;;;;;;;;;
 22697;Kufstein;kufstein;8102184;;;;;f;AT;f;Europe/Vienna;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;10486;;;;;;;;;;;;;;;;;
-22698;Gelsenkirchen Hbf;gelsenkirchen-hbf;8010144;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;108010144;t;;f;;f;;f;f;7611;;;;;;;;;;;;;;;;;
+22698;Gelsenkirchen Hbf;gelsenkirchen-hbf;8010144;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7611;;;;;;;;;;;;;;;;;
 22699;Northeim (Han);northeim-han;8013056;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7157;;;;;;;;;;;;;;;;;
 22700;Lippstadt;lippstadt;8010367;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7062;;;;;;;;;;;;;;;;;
 22701;Rheine;rheine;8021067;;;;;f;DE;f;Europe/Berlin;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;7225;;;;;;;;;;;;;;;;;
@@ -26430,7 +26430,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;is_city;country;
 28525;Kłodzko Główne;klodzko-glowne;5105730;;50.450941;16.656705;;f;PL;f;Europe/Warsaw;f;;;f;;f;5101564;f;;f;;f;;f;;;;f;;f;;f;;f;PLKLO;f;f;;;;;;;;;;;;;;;;;;
 28526;Koluszki;koluszki;5104725;;51.744606;19.818994;;f;PL;f;Europe/Warsaw;f;;;f;;f;5100024;f;;f;;f;;f;;;;f;;f;;f;;f;PLKOL;f;f;;;;;;;;;;;;;;;;;;
 28527;Koszalin;koszalin;5100440;;54.191254;16.169931;;f;PL;f;Europe/Warsaw;f;;;f;;f;5100027;f;;f;;f;;f;;;;f;;f;;f;;f;PLKOS;f;f;;;;;;;;;;;;;;;;;;
-28528;Krąków Główny Osobowy;krakow-glowny-osobowy;5108031;;50.067192;19.947423;;f;PL;f;Europe/Warsaw;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;PLKRK;f;f;17584;;;;;;;;;;;;;;;;;
+28528;Krąków Główny Osobowy;krakow-glowny-osobowy;;;50.067192;19.947423;;f;PL;f;Europe/Warsaw;f;;;f;;f;;f;;f;;f;;f;;;;f;;f;;f;;f;;f;f;17584;;;;;;;;;;;;;;;;;
 28529;Krynica;krynica;5108248;;49.410476;20.957361;;f;PL;f;Europe/Warsaw;f;;;f;;f;5100029;f;;f;;f;;f;;;;f;;f;;f;;f;PLKRY;f;f;;;;;;;;;;;;;;;;;;
 28530;Kudowa Zdrój;kudowa-zdroj;5105755;;50.427417;16.246447;;f;PL;f;Europe/Warsaw;f;;;f;;f;5100031;f;;f;;f;;f;;;;f;;f;;f;;f;PLKUD;f;f;;;;;;;;;;;;;;;;;;
 28531;Kunowice;kunowice;5102592;;52.341661;14.638816;;f;PL;f;Europe/Warsaw;f;;;f;;f;5100083;f;;f;;f;;f;;;;f;;f;;f;;f;PLKUN;f;f;;;;;;;;;;;;;;;;;;
