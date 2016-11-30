@@ -6,7 +6,6 @@ require_relative "lib/constants"
 
 STATIONS = CSV.read("stations.csv", Constants::CSV_PARAMETERS)
 STATIONS_BY_ID = STATIONS.inject({}) { |hash, station| hash[station["id"]] = station; hash }
-STATIONS_UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
 
 CHILDREN = {}
 CHILDREN_COUNT = Hash.new(0)
@@ -316,7 +315,7 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       uic8_sncf = row["uic8_sncf"]
       uic = row["uic"]
-      if !uic8_sncf.nil? && !STATIONS_UIC8_WHITELIST_IDS.include?(row["id"])
+      if !uic8_sncf.nil? && !Constants::UIC8_WHITELIST_IDS.include?(row["id"])
         assert uic == uic8_sncf[0...-1], "Station #{row["id"]} have an incoherent uic8_sncf code"
       end
     end
