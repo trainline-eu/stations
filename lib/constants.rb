@@ -131,7 +131,7 @@ module Constants
     "LV" => "Europe/Riga",
     "MA" => "Africa/Casablanca",
     "ME" => "Europe/Podgorica",
-    "MZ" => "Europe/Skopje",
+    "MK" => "Europe/Skopje",
     "NL" => "Europe/Amsterdam",
     "NO" => "Europe/Oslo",
     "PL" => "Europe/Warsaw",
