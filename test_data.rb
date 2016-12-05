@@ -356,6 +356,7 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       if row["same_as"]
         assert_equal "f", row["is_suggestable"], "Station #{row["id"]} is an alias, yet it is suggestable"
+        refute_equal row["same_as"], row["id"], "Station #{row["id"]} references itself as an alias station"
 
         actual_station = STATIONS_BY_ID[row["same_as"]]
         assert row["slug"].start_with?(actual_station["slug"]), "Station #{row["id"]} is an alias of a station with a different name"
