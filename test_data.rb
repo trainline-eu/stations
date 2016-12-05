@@ -306,7 +306,7 @@ class StationsTest < Minitest::Test
 
   def test_correct_slugs
     STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
+      if row["name"]
         if !Constants::HOMONYM_STATIONS.include?(row["id"])
           assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} (#{row["name"]}) has an incorrect slug"
         else
