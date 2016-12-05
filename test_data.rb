@@ -7,9 +7,13 @@ require_relative "lib/constants"
 STATIONS = CSV.read("stations.csv", Constants::CSV_PARAMETERS)
 STATIONS_BY_ID = STATIONS.inject({}) { |hash, station| hash[station["id"]] = station; hash }
 
+ALIASES = {}
 CHILDREN = {}
+SLUG_COUNT = {}
 CHILDREN_COUNT = Hash.new(0)
+STATIONS.each { |row| ALIASES[row["id"]] = []}
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
+STATIONS.each { |row| SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] = 0 }
 
 def has_enabled_carrier(row)
   row["atoc_is_enabled"]         == "t" ||
@@ -40,11 +44,19 @@ def has_carrier_id(row)
 end
 
 STATIONS.each do |row|
+  if row["same_as"]
+    ALIASES[row["same_as"]] << row
+  end
+
   if row["parent_station_id"]
     CHILDREN[row["parent_station_id"]] << row
     if has_enabled_carrier(row) == "t"
       CHILDREN_COUNT[row["parent_station_id"]] += 1
     end
+  end
+
+  if row["slug"]
+    SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] += 1
   end
 end
 
@@ -348,6 +360,22 @@ class StationsTest < Minitest::Test
       uic = row["uic"]
       if !uic8_sncf.nil? && !Constants::UIC8_WHITELIST_IDS.include?(row["id"])
         assert uic == uic8_sncf[0...-1], "Station #{row["id"]} have an incoherent uic8_sncf code"
+      end
+    end
+  end
+
+
+  def test_station_should_be_same_as
+    STATIONS.each do |row|
+      if row["is_suggestable"] == "f" &&
+        CHILDREN[row["id"]].empty? &&
+        row["parent_station_id"].nil? &&
+        ALIASES[row["id"]].empty? &&
+        row["same_as"].nil? &&
+        row["slug"]
+
+        assert_equal 1, SLUG_COUNT["#{row["slug"]}_#{row["country"]}"],
+          "Station #{row["name"]} (#{row["id"]}) can be an alias of a station with the same name"
       end
     end
   end
