@@ -274,6 +274,15 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_parent_have_multiple_children
+    CHILDREN_COUNT.each do |id, children_count|
+      station = STATIONS_BY_ID[id]
+      if station["is_suggestable"] == "t"
+        assert children_count >= 2, "The parent station #{id} is suggestable and has only #{children_count} child"
+      end
+    end
+  end
+
   def test_slugify
     assert_equal slugify("Figueras/Figueres Vilafant Esp."), "figueras-figueres-vilafant-esp"
   end
@@ -298,15 +307,6 @@ class StationsTest < Minitest::Test
           suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
           assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["id"]} has an incorrect slug")
         end
-      end
-    end
-  end
-
-  def test_metastation_have_multiple_children
-    CHILDREN_COUNT.each do |id, children_count|
-      station = STATIONS_BY_ID[id]
-      if station["is_suggestable"] == "t"
-        assert children_count >= 2, "The meta station #{id} is suggestable and has only #{children_count} child"
       end
     end
   end
