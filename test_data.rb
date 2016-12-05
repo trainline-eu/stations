@@ -154,6 +154,12 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_is_city
+    STATIONS.each do |row|
+      assert ["t", "f"].include?(row["is_city"]), "Invalid value for is_city for station #{row["id"]}"
+    end
+  end
+
   def test_is_main_station
     STATIONS.each do |row|
       assert ["t", "f"].include?(row["is_main_station"]), "Invalid value for is_main_station for station #{row["id"]}"
