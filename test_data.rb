@@ -11,7 +11,7 @@ CHILDREN = {}
 CHILDREN_COUNT = Hash.new(0)
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 
-def valid_carrier(row)
+def has_enabled_carrier(row)
   row["atoc_is_enabled"]         == "t" ||
     row["benerail_is_enabled"]   == "t" ||
     row["busbud_is_enabled"]     == "t" ||
@@ -25,10 +25,24 @@ def valid_carrier(row)
     row["trenitalia_is_enabled"] == "t"
 end
 
+def has_carrier_id(row)
+  !row["atoc_id"].nil?          ||
+    !row["benerail_id"].nil?    ||
+    !row["busbud_id"].nil?      ||
+    !row["db_id"].nil?          ||
+    !row["hkx_id"].nil?         ||
+    !row["idtgv_id"].nil?       ||
+    !row["ntv_id"].nil?         ||
+    !row["ouigo_id"].nil?       ||
+    !row["renfe_id"].nil?       ||
+    !row["sncf_id"].nil?        ||
+    !row["trenitalia_id"].nil?
+end
+
 STATIONS.each do |row|
   if row["parent_station_id"]
     CHILDREN[row["parent_station_id"]] << row
-    if valid_carrier(row) == "t"
+    if has_enabled_carrier(row) == "t"
       CHILDREN_COUNT[row["parent_station_id"]] += 1
     end
   end
@@ -257,7 +271,7 @@ class StationsTest < Minitest::Test
   def test_suggestable_has_carrier
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
-        assert valid_carrier(row) || CHILDREN[row["id"]].any? { |r| valid_carrier(r) },
+        assert has_enabled_carrier(row) || CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
                "Station #{row["id"]} is suggestable but has no enabled system"
       end
     end
@@ -285,6 +299,17 @@ class StationsTest < Minitest::Test
       station = STATIONS_BY_ID[id]
       if station["is_suggestable"] == "t"
         assert children_count >= 2, "The parent station #{id} is suggestable and has only #{children_count} child"
+      end
+    end
+  end
+
+  def test_parent_should_be_city
+    CHILDREN_COUNT.each do |parent_id, children_count|
+      if children_count >= 1
+        parent_station = STATIONS_BY_ID[parent_id]
+        if !has_carrier_id(parent_station)
+          refute_equal parent_station["is_city"], "f", "The parent station #{parent_station["name"]} (#{parent_station["id"]}) has no valid carrier and should be flagged as city"
+        end
       end
     end
   end
