@@ -43,6 +43,14 @@ def has_carrier_id(row)
     !row["trenitalia_id"].nil?
 end
 
+def has_any_id(row)
+  has_carrier_id(row)       ||
+  !row["uic"].nil?          ||
+  !row["uic8_sncf"].nil?    ||
+  !row["sncf_tvs_id"].nil?  ||
+  !row["trenitalia_rtvt_id"].nil?
+end
+
 STATIONS.each do |row|
   if row["same_as"]
     ALIASES[row["same_as"]] << row
@@ -73,6 +81,14 @@ def fold(name)
 end
 
 class StationsTest < Minitest::Test
+
+  def test_is_station_useful
+    STATIONS.each do |row|
+      if CHILDREN[row["id"]].empty?
+        assert has_any_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
+      end
+    end
+  end
 
   def test_number_columns
     nb_columns = 57
