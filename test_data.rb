@@ -332,13 +332,24 @@ class StationsTest < Minitest::Test
   end
 
   def test_parent_should_be_city
-    CHILDREN_COUNT.each do |parent_id, children_count|
-      if children_count >= 1
+    CHILDREN.each do |parent_id, children_list|
+      parent_station = STATIONS_BY_ID[parent_id]
+
+      if children_list.size >= 1
         parent_station = STATIONS_BY_ID[parent_id]
         if !has_carrier_id(parent_station)
-          refute_equal parent_station["is_city"], "f", "The parent station #{parent_station["name"]} (#{parent_station["id"]}) has no valid carrier and should be flagged as city"
+          refute_equal parent_station["is_city"], "f", "The parent station #{parent_station["name"]} (#{parent_station["id"]}) has no carrier id and should be flagged as city"
         end
       end
+
+      if children_list.size >= 2 &&
+        parent_station["slug"] &&
+        parent_station["parent_station_id"].nil? &&
+        children_list.all? { |child| child["slug"] && child["slug"].start_with?(parent_station["slug"]) && child["slug"] != parent_station["slug"] }
+          refute_equal parent_station["is_city"], "f", "The parent station #{parent_station["name"]} (#{parent_station["id"]}) should be a city"
+      end
+    end
+  end
     end
   end
 
