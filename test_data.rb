@@ -9,8 +9,8 @@ STATIONS_BY_ID = STATIONS.inject({}) { |hash, station| hash[station["id"]] = sta
 
 ALIASES = {}
 CHILDREN = {}
+CHILDREN_ENABLED_COUNT = Hash.new(0)
 SLUG_COUNT = {}
-CHILDREN_COUNT = Hash.new(0)
 STATIONS.each { |row| ALIASES[row["id"]] = []}
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 STATIONS.each { |row| SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] = 0 }
@@ -59,7 +59,7 @@ STATIONS.each do |row|
   if row["parent_station_id"]
     CHILDREN[row["parent_station_id"]] << row
     if has_enabled_carrier(row) == "t"
-      CHILDREN_COUNT[row["parent_station_id"]] += 1
+      CHILDREN_ENABLED_COUNT[row["parent_station_id"]] += 1
     end
   end
 
@@ -323,10 +323,10 @@ class StationsTest < Minitest::Test
   end
 
   def test_parent_have_multiple_children
-    CHILDREN_COUNT.each do |id, children_count|
-      station = STATIONS_BY_ID[id]
-      if station["is_suggestable"] == "t"
-        assert children_count >= 2, "The parent station #{id} is suggestable and has only #{children_count} child"
+    CHILDREN_ENABLED_COUNT.each do |parent_id, count|
+      parent_station = STATIONS_BY_ID[parent_id]
+      if parent_station["is_suggestable"] == "t"
+        assert count >= 2, "The parent station #{parent_station["name"]} (#{parent_station["id"]}) is suggestable and has only #{count} child"
       end
     end
   end
