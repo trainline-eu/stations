@@ -372,6 +372,13 @@ class StationsTest < Minitest::Test
       end
     end
   end
+
+  def test_main_station_must_be_parent_or_child
+    STATIONS.each do |row|
+      if row["is_main_station"] == "t"
+        is_parent_or_child = CHILDREN[row["id"]].size > 0 || row["parent_station_id"]
+        assert is_parent_or_child, "The station #{row["name"]} (#{row["id"]}) cannot be main station as it is not a parent or child station"
+      end
     end
   end
 
