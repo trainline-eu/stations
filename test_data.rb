@@ -350,6 +350,14 @@ class StationsTest < Minitest::Test
       end
     end
   end
+
+  def test_city_is_not_main_station
+    STATIONS.each do |row|
+      if row["is_city"] == "t"
+        assert_equal "f", row["is_main_station"], "The city #{row["name"]} (#{row["id"]}) cannot be a main station at the same time"
+      end
+    end
+  end
     end
   end
 
