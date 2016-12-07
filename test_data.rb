@@ -358,6 +358,20 @@ class StationsTest < Minitest::Test
       end
     end
   end
+
+  def test_parent_has_main_sation
+    CHILDREN.each do |parent_id, children_list|
+      parent_station = STATIONS_BY_ID[parent_id]
+      if children_list.size >= 2 &&
+        parent_station["is_suggestable"] == "t" &&
+        parent_station["is_main_station"] == "f" &&
+        parent_station["parent_station_id"].nil?
+
+          main_station_count = children_list.select { |child| child["is_main_station"] == "t" }.size
+          assert_equal 1, main_station_count, "The parent station #{parent_station["name"]} (#{parent_station["id"]}) should have one and only one main station"
+      end
+    end
+  end
     end
   end
 
