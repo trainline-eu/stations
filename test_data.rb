@@ -63,9 +63,7 @@ STATIONS.each do |row|
     end
   end
 
-  if row["slug"]
-    SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] += 1
-  end
+  SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] += 1
 end
 
 def slugify(name)
@@ -94,6 +92,12 @@ class StationsTest < Minitest::Test
     nb_columns = 57
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Wrong number of columns #{row["size"]} for station #{row["id"]}" }
+  end
+
+  def test_station_has_name
+    STATIONS.each do |row|
+      assert row["name"], "Station #{row["name"]} (#{row["id"]}) does not have a name"
+    end
   end
 
   def test_enabled_and_id_columns
@@ -222,14 +226,6 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_suggestable_has_name
-    STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
-        assert !row["name"].nil?, "Station #{row["id"]} is suggestable but has empty name"
-      end
-    end
-  end
-
   def test_unique_suggestable_name
     names = Set.new
 
@@ -311,7 +307,6 @@ class StationsTest < Minitest::Test
       if parent_id && row["is_suggestable"] == "t"
         parent = STATIONS_BY_ID[parent_id]
         assert !parent.nil?, "Station #{row["id"]} references a not existing parent station (#{parent_id})"
-        assert !parent["name"].nil?, "The station #{parent_id} has no name (parent of station #{row["id"]})"
         refute_equal parent_id, row["id"], "Station #{row["id"]} references itself as a parent station"
         Constants::LOCALES.each do |locale|
           if !parent["info:#{locale}"].nil?
@@ -343,9 +338,8 @@ class StationsTest < Minitest::Test
       end
 
       if children_list.size >= 2 &&
-        parent_station["slug"] &&
         parent_station["parent_station_id"].nil? &&
-        children_list.all? { |child| child["slug"] && child["slug"].start_with?(parent_station["slug"]) && child["slug"] != parent_station["slug"] }
+        children_list.all? { |child| child["slug"].start_with?(parent_station["slug"]) && child["slug"] != parent_station["slug"] }
           refute_equal parent_station["is_city"], "f", "The parent station #{parent_station["name"]} (#{parent_station["id"]}) should be a city"
       end
     end
@@ -399,13 +393,11 @@ class StationsTest < Minitest::Test
 
   def test_correct_slugs
     STATIONS.each do |row|
-      if row["name"]
-        if !Constants::HOMONYM_STATIONS.include?(row["id"])
-          assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} (#{row["name"]}) has an incorrect slug"
-        else
-          suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
-          assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["id"]} has an incorrect slug")
-        end
+      if !Constants::HOMONYM_STATIONS.include?(row["id"])
+        assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} (#{row["name"]}) has an incorrect slug"
+      else
+        suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
+        assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["id"]} has an incorrect slug")
       end
     end
   end
@@ -427,8 +419,7 @@ class StationsTest < Minitest::Test
         CHILDREN[row["id"]].empty? &&
         row["parent_station_id"].nil? &&
         ALIASES[row["id"]].empty? &&
-        row["same_as"].nil? &&
-        row["slug"]
+        row["same_as"].nil?
 
         assert_equal 1, SLUG_COUNT["#{row["slug"]}_#{row["country"]}"],
           "Station #{row["name"]} (#{row["id"]}) can be an alias of a station with the same name"
