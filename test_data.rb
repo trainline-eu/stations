@@ -7,11 +7,15 @@ require_relative "lib/constants"
 STATIONS = CSV.read("stations.csv", Constants::CSV_PARAMETERS)
 STATIONS_BY_ID = STATIONS.inject({}) { |hash, station| hash[station["id"]] = station; hash }
 
+ALIASES = {}
 CHILDREN = {}
-CHILDREN_COUNT = Hash.new(0)
+CHILDREN_ENABLED_COUNT = Hash.new(0)
+SLUG_COUNT = {}
+STATIONS.each { |row| ALIASES[row["id"]] = []}
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
+STATIONS.each { |row| SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] = 0 }
 
-def valid_carrier(row)
+def has_enabled_carrier(row)
   row["atoc_is_enabled"]         == "t" ||
     row["benerail_is_enabled"]   == "t" ||
     row["busbud_is_enabled"]     == "t" ||
@@ -25,13 +29,41 @@ def valid_carrier(row)
     row["trenitalia_is_enabled"] == "t"
 end
 
+def has_carrier_id(row)
+  !row["atoc_id"].nil?          ||
+    !row["benerail_id"].nil?    ||
+    !row["busbud_id"].nil?      ||
+    !row["db_id"].nil?          ||
+    !row["hkx_id"].nil?         ||
+    !row["idtgv_id"].nil?       ||
+    !row["ntv_id"].nil?         ||
+    !row["ouigo_id"].nil?       ||
+    !row["renfe_id"].nil?       ||
+    !row["sncf_id"].nil?        ||
+    !row["trenitalia_id"].nil?
+end
+
+def has_any_id(row)
+  has_carrier_id(row)       ||
+  !row["uic"].nil?          ||
+  !row["uic8_sncf"].nil?    ||
+  !row["sncf_tvs_id"].nil?  ||
+  !row["trenitalia_rtvt_id"].nil?
+end
+
 STATIONS.each do |row|
+  if row["same_as"]
+    ALIASES[row["same_as"]] << row
+  end
+
   if row["parent_station_id"]
     CHILDREN[row["parent_station_id"]] << row
-    if valid_carrier(row) == "t"
-      CHILDREN_COUNT[row["parent_station_id"]] += 1
+    if has_enabled_carrier(row) == "t"
+      CHILDREN_ENABLED_COUNT[row["parent_station_id"]] += 1
     end
   end
+
+  SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] += 1
 end
 
 def slugify(name)
@@ -48,10 +80,24 @@ end
 
 class StationsTest < Minitest::Test
 
+  def test_is_station_useful
+    STATIONS.each do |row|
+      if CHILDREN[row["id"]].empty?
+        assert has_any_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
+      end
+    end
+  end
+
   def test_number_columns
     nb_columns = 57
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Wrong number of columns #{row["size"]} for station #{row["id"]}" }
+  end
+
+  def test_station_has_name
+    STATIONS.each do |row|
+      assert row["name"], "Station #{row["name"]} (#{row["id"]}) does not have a name"
+    end
   end
 
   def test_enabled_and_id_columns
@@ -154,6 +200,12 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_is_city
+    STATIONS.each do |row|
+      assert ["t", "f"].include?(row["is_city"]), "Invalid value for is_city for station #{row["id"]}"
+    end
+  end
+
   def test_is_main_station
     STATIONS.each do |row|
       assert ["t", "f"].include?(row["is_main_station"]), "Invalid value for is_main_station for station #{row["id"]}"
@@ -171,14 +223,6 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       timezone = Constants::COUNTRIES[row["country"]]
       assert_equal timezone, row["time_zone"], "Invalid timezone for station #{row["id"]}"
-    end
-  end
-
-  def test_suggestable_has_name
-    STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
-        assert !row["name"].nil?, "Station #{row["id"]} is suggestable but has empty name"
-      end
     end
   end
 
@@ -251,7 +295,7 @@ class StationsTest < Minitest::Test
   def test_suggestable_has_carrier
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
-        assert valid_carrier(row) || CHILDREN[row["id"]].any? { |r| valid_carrier(r) },
+        assert has_enabled_carrier(row) || CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
                "Station #{row["id"]} is suggestable but has no enabled system"
       end
     end
@@ -263,13 +307,71 @@ class StationsTest < Minitest::Test
       if parent_id && row["is_suggestable"] == "t"
         parent = STATIONS_BY_ID[parent_id]
         assert !parent.nil?, "Station #{row["id"]} references a not existing parent station (#{parent_id})"
-        assert !parent["name"].nil?, "The station #{parent_id} has no name (parent of station #{row["id"]})"
         refute_equal parent_id, row["id"], "Station #{row["id"]} references itself as a parent station"
         Constants::LOCALES.each do |locale|
           if !parent["info:#{locale}"].nil?
             assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent (#{parent["name"]}) has"
           end
         end
+      end
+    end
+  end
+
+  def test_parent_have_multiple_children
+    CHILDREN_ENABLED_COUNT.each do |parent_id, count|
+      parent_station = STATIONS_BY_ID[parent_id]
+      if parent_station["is_suggestable"] == "t"
+        assert count >= 2, "The parent station #{parent_station["name"]} (#{parent_station["id"]}) is suggestable and has only #{count} child"
+      end
+    end
+  end
+
+  def test_parent_should_be_city
+    CHILDREN.each do |parent_id, children_list|
+      parent_station = STATIONS_BY_ID[parent_id]
+
+      if children_list.size >= 1
+        parent_station = STATIONS_BY_ID[parent_id]
+        if !has_carrier_id(parent_station)
+          refute_equal parent_station["is_city"], "f", "The parent station #{parent_station["name"]} (#{parent_station["id"]}) has no carrier id and should be flagged as city"
+        end
+      end
+
+      if children_list.size >= 2 &&
+        parent_station["parent_station_id"].nil? &&
+        children_list.all? { |child| child["slug"].start_with?(parent_station["slug"]) && child["slug"] != parent_station["slug"] }
+          refute_equal parent_station["is_city"], "f", "The parent station #{parent_station["name"]} (#{parent_station["id"]}) should be a city"
+      end
+    end
+  end
+
+  def test_city_is_not_main_station
+    STATIONS.each do |row|
+      if row["is_city"] == "t"
+        assert_equal "f", row["is_main_station"], "The city #{row["name"]} (#{row["id"]}) cannot be a main station at the same time"
+      end
+    end
+  end
+
+  def test_parent_has_main_sation
+    CHILDREN.each do |parent_id, children_list|
+      parent_station = STATIONS_BY_ID[parent_id]
+      if children_list.size >= 2 &&
+        parent_station["is_suggestable"] == "t" &&
+        parent_station["is_main_station"] == "f" &&
+        parent_station["parent_station_id"].nil?
+
+          main_station_count = children_list.select { |child| child["is_main_station"] == "t" }.size
+          assert_equal 1, main_station_count, "The parent station #{parent_station["name"]} (#{parent_station["id"]}) should have one and only one main station"
+      end
+    end
+  end
+
+  def test_main_station_must_be_parent_or_child
+    STATIONS.each do |row|
+      if row["is_main_station"] == "t"
+        is_parent_or_child = CHILDREN[row["id"]].size > 0 || row["parent_station_id"]
+        assert is_parent_or_child, "The station #{row["name"]} (#{row["id"]}) cannot be main station as it is not a parent or child station"
       end
     end
   end
@@ -291,22 +393,11 @@ class StationsTest < Minitest::Test
 
   def test_correct_slugs
     STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
-        if !Constants::HOMONYM_STATIONS.include?(row["id"])
-          assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} (#{row["name"]}) has an incorrect slug"
-        else
-          suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
-          assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["id"]} has an incorrect slug")
-        end
-      end
-    end
-  end
-
-  def test_metastation_have_multiple_children
-    CHILDREN_COUNT.each do |id, children_count|
-      station = STATIONS_BY_ID[id]
-      if station["is_suggestable"] == "t"
-        assert children_count >= 2, "The meta station #{id} is suggestable and has only #{children_count} child"
+      if !Constants::HOMONYM_STATIONS.include?(row["id"])
+        assert_equal slugify(row["name"]), row["slug"], "Station #{row["id"]} (#{row["name"]}) has an incorrect slug"
+      else
+        suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
+        assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["id"]} has an incorrect slug")
       end
     end
   end
@@ -321,10 +412,26 @@ class StationsTest < Minitest::Test
     end
   end
 
+
+  def test_station_should_be_same_as
+    STATIONS.each do |row|
+      if row["is_suggestable"] == "f" &&
+        CHILDREN[row["id"]].empty? &&
+        row["parent_station_id"].nil? &&
+        ALIASES[row["id"]].empty? &&
+        row["same_as"].nil?
+
+        assert_equal 1, SLUG_COUNT["#{row["slug"]}_#{row["country"]}"],
+          "Station #{row["name"]} (#{row["id"]}) can be an alias of a station with the same name"
+      end
+    end
+  end
+
   def test_same_as_is_valid
     STATIONS.each do |row|
       if row["same_as"]
         assert_equal "f", row["is_suggestable"], "Station #{row["id"]} is an alias, yet it is suggestable"
+        refute_equal row["same_as"], row["id"], "Station #{row["id"]} references itself as an alias station"
 
         actual_station = STATIONS_BY_ID[row["same_as"]]
         assert row["slug"].start_with?(actual_station["slug"]), "Station #{row["id"]} is an alias of a station with a different name"
