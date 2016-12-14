@@ -16,39 +16,15 @@ STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 STATIONS.each { |row| SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] = 0 }
 
 def has_enabled_carrier(row)
-  row["atoc_is_enabled"]         == "t" ||
-    row["benerail_is_enabled"]   == "t" ||
-    row["busbud_is_enabled"]     == "t" ||
-    row["db_is_enabled"]         == "t" ||
-    row["hkx_is_enabled"]        == "t" ||
-    row["idtgv_is_enabled"]      == "t" ||
-    row["ntv_is_enabled"]        == "t" ||
-    row["ouigo_is_enabled"]      == "t" ||
-    row["renfe_is_enabled"]      == "t" ||
-    row["sncf_is_enabled"]       == "t" ||
-    row["trenitalia_is_enabled"] == "t"
+  Constants::CARRIERS.any? { |carrier| row["#{carrier}_is_enabled"] == "t" }
 end
 
 def has_carrier_id(row)
-  !row["atoc_id"].nil?          ||
-    !row["benerail_id"].nil?    ||
-    !row["busbud_id"].nil?      ||
-    !row["db_id"].nil?          ||
-    !row["hkx_id"].nil?         ||
-    !row["idtgv_id"].nil?       ||
-    !row["ntv_id"].nil?         ||
-    !row["ouigo_id"].nil?       ||
-    !row["renfe_id"].nil?       ||
-    !row["sncf_id"].nil?        ||
-    !row["trenitalia_id"].nil?
+  Constants::CARRIERS.any? { |carrier| !row["#{carrier}_id"].nil? }
 end
 
-def has_any_id(row)
-  has_carrier_id(row)       ||
-  !row["uic"].nil?          ||
-  !row["uic8_sncf"].nil?    ||
-  !row["sncf_tvs_id"].nil?  ||
-  !row["trenitalia_rtvt_id"].nil?
+def has_rail_id(row)
+  Constants::RAIL_IDS.keys.any? { |rail_id| !row[rail_id].nil? }
 end
 
 STATIONS.each do |row|
@@ -83,7 +59,7 @@ class StationsTest < Minitest::Test
   def test_is_station_useful
     STATIONS.each do |row|
       if CHILDREN[row["id"]].empty?
-        assert has_any_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
+        assert has_rail_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
       end
     end
   end
@@ -100,62 +76,50 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_enabled_and_id_columns
-    Constants::CARRIER_IDS.each do |carrier, id_column_size|
-      enabled_column = "#{carrier}_is_enabled"
-      id_column      = "#{carrier}_id"
-      unique_set     = Set.new
 
-      STATIONS.each do |row|
-        assert ["t", "f"].include?(row[enabled_column])
-
-        id = row[id_column]
-        if row[enabled_column] == "t"
-          assert !id.nil?, "Missing #{id_column} for station #{row["id"]}"
-        end
-
-        if !id.nil?
-          if id_column_size.is_a?(Array)
-            assert id_column_size.include?(row[id_column].size), "Invalid #{id_column}: #{row[id_column]} for station #{row["id"]}"
-          else
-            assert_equal id_column_size, row[id_column].size, "Invalid #{id_column}: #{row[id_column]} for station #{row["id"]}"
-          end
-
-          assert !unique_set.include?(row[id_column]), "Duplicated #{id_column} #{row[id_column]} for station #{row["id"]}"
-          unique_set << row[id_column]
-        end
-      end
-    end
-  end
-
-  def validate_id_unicity(column_name)
-    counts = {}
+  def test_rail_ids
     STATIONS.each do |row|
-      if row[column_name]
-        counts[row[column_name]] = (counts[row[column_name]] || 0) + 1
+      Constants::RAIL_IDS.each do |rail_id, expression|
+        if row[rail_id]
+          assert_match(/^#{expression}$/, row[rail_id], "Station #{row["name"]} (#{row["id"]}) has not a correct #{rail_id}")
+        end
       end
     end
-
-    bad_counts = counts.select { |_, count| count != 1 }
-    assert_equal 0, bad_counts.length, "#{column_name} duplicated: #{bad_counts.map(&:first).join(', ')}"
   end
 
-  def test_id_unicity
-    uniq_size = STATIONS.map { |row| row["id"] }.uniq.size
-
-    assert_equal STATIONS.size, uniq_size
+  def test_enabled_carrier_id
+    STATIONS.each do |row|
+      Constants::CARRIERS.each do |carrier|
+        enabled_column = "#{carrier}_is_enabled"
+        id_column      = "#{carrier}_id"
+        if row[enabled_column] == "t"
+          assert !row[id_column].nil?, "Station #{row["name"]} (#{row["id"]}) is enabled for #{carrier} but has no carrier id"
+        end
+      end
+    end
   end
 
-  def test_uic_unicity
-    validate_id_unicity("uic")
+  def test_unique_ids
+    id_columns = ["id"] + Constants::RAIL_IDS.keys
+    id_columns.each do |id_column|
+      counts = {}
+      STATIONS.each do |row|
+        if row[id_column]
+          counts[row[id_column]] = (counts[row[id_column]] || 0) + 1
+        end
+      end
+
+      bad_counts = counts.select { |_, count| count != 1 }
+      assert_equal 0, bad_counts.length, "#{id_column} duplicated: #{bad_counts.map(&:first).join(', ')}"
+    end
   end
 
-  def test_sncf_tvs_id_unicity
-    validate_id_unicity("sncf_tvs_id")
-  end
-
-  def test_trenitalia_rtvt_id_unicity
-    validate_id_unicity("trenitalia_rtvt_id")
+  def test_boolean_columns
+    STATIONS.each do |row|
+      Constants::BOOLEAN_COLUMNS.each do |column|
+        assert ["t", "f"].include?(row[column]), "Station #{row["name"]} (#{row["id"]}] has an invalid value for #{column}"
+      end
+    end
   end
 
   def test_coordinates
@@ -191,25 +155,6 @@ class StationsTest < Minitest::Test
   def test_sorted_by_id
     ids = STATIONS.map { |row| row["id"].to_i }
 
-    assert ids == ids.sort, "The data is not sorted by the id column"
-  end
-
-  def test_is_suggestable
-    STATIONS.each do |row|
-      assert ["t", "f"].include?(row["is_suggestable"]), "Invalid value for is_suggestable for station #{row["id"]}"
-    end
-  end
-
-  def test_is_city
-    STATIONS.each do |row|
-      assert ["t", "f"].include?(row["is_city"]), "Invalid value for is_city for station #{row["id"]}"
-    end
-  end
-
-  def test_is_main_station
-    STATIONS.each do |row|
-      assert ["t", "f"].include?(row["is_main_station"]), "Invalid value for is_main_station for station #{row["id"]}"
-    end
     assert ids == ids.sort, "Data is not sorted by the id column"
   end
 
@@ -400,7 +345,7 @@ class StationsTest < Minitest::Test
         assert_equal slugify(row["name"]), row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug"
       else
         suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
-        assert_match(/\A#{slugify(row["name"])}-(#{suffixes})+\z/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
+        assert_match(/^#{slugify(row["name"])}-(#{suffixes})+$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
       end
     end
   end
@@ -443,15 +388,13 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_same_as_carrier_ids
+  def test_same_as_rail_ids
     STATIONS.each do |row|
       if row["same_as"]
         actual_station = STATIONS_BY_ID[row["same_as"]]
-        carrier_ids = Constants::CARRIER_IDS.keys.map { |carrier| "#{carrier}_id" }
-        carrier_ids += ["uic", "uic8_sncf", "sncf_tvs_id", "trenitalia_rtvt_id"]
-        carrier_ids.each do |carrier_id|
-          if row[carrier_id]
-            assert !actual_station[carrier_id].nil?, "Actual station #{actual_station["name"]} (#{actual_station["id"]}) has not a #{carrier_id} while its alias #{row["id"]} has one"
+        Constants::RAIL_IDS.keys.each do |rail_id|
+          if row[rail_id]
+            assert !actual_station[rail_id].nil?, "Actual station #{actual_station["name"]} (#{actual_station["id"]}) has not a #{rail_id} while its alias #{row["id"]} has one"
           end
         end
       end
