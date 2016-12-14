@@ -146,17 +146,44 @@ module Constants
     "UA" => "Europe/Kiev"
   }
 
-  CARRIER_IDS = {
-    "atoc"          => [1, 2, 3],
-    "benerail"      => 5,
-    "busbud"        => 6,
-    "db"            => [6, 7],
-    "hkx"           => 9,
-    "idtgv"         => 3,
-    "ntv"           => 3,
-    "ouigo"         => 3,
-    "renfe"         => [5, 7],
-    "sncf"          => 5,
-    "trenitalia"    => 7,
+  RAIL_IDS = {
+    "atoc_id"              => '([A-Z]{3}|[0-9]{1,3})',                  # ABC, 1, 12, 123
+    "benerail_id"          => '[A-Z]{5}',                               # ABCDE
+    "busbud_id"            => '[a-z0-9]{6}',                          # a1b2cd
+    "db_id"                => '[0-9]{6,7}',                             # 123456, 1234567
+    "hkx_id"               => '[0-9]{9}',                               # 123456789
+    "idtgv_id"             => '[A-Z]{2}[A-Z1]',                         # ABC, AB1
+    "ntv_id"               => '[A-Z][A-Z_0]{2}',                        # A__, AB_, AB0, ABC
+    "ntv_rtiv_id"          => '[0-9]{3,4}',                             # 123, 1234
+    "ouigo_id"             => '[A-Z]{2}[A-Z1]',                         # ABC, AB1
+    "renfe_id"             => '([0-9]{5}[0-9]{2}?|[A-Z]{3}[A-Z -]{2})', # 12345, 1234567, ABCDE, ABC D, ABCD-
+    "sncf_id"              => '[A-Z]{5}',                               # AZERT
+    "sncf_tvs_id"          => '[A-Z]{3}(_TRANS|_PSL)?',                 # ABC, ABC_TRANS, ABC_PSL
+    "trenitalia_id"        => '[0-9]{7}',                               # 1234567
+    "trenitalia_rtvt_id"   => '[NS][0-9]{5}',                           # N12345, S12345
+    "uic"                  => '[0-9]{7}',                               # 1234567
+    "uic8_sncf"            => '[0-9]{8}',                               # 12345678
   }
+
+  CARRIERS = [
+    "atoc",
+    "benerail",
+    "busbud",
+    "db",
+    "hkx",
+    "idtgv",
+    "ntv",
+    "ouigo",
+    "renfe",
+    "sncf",
+    "trenitalia",
+  ]
+
+  BOOLEAN_COLUMNS = CARRIERS.map { |carrier| "#{carrier}_is_enabled" }
+  BOOLEAN_COLUMNS.push(
+    "is_city",
+    "is_main_station",
+    "is_suggestable",
+    "sncf_self_service_machine"
+  )
 end
