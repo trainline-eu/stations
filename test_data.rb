@@ -70,12 +70,19 @@ class StationsTest < Minitest::Test
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Station #{row["name"]} (#{row["id"]}) has a wrong number of columns: #{row["size"]}" }
   end
 
-  def test_station_has_name
+  def test_station_name
     STATIONS.each do |row|
-      assert row["name"], "Station #{row["name"]} (#{row["id"]}) does not have a name"
+      assert !row["name"].nil?, "Station #{row["name"]} (#{row["id"]}) does not have a name"
+
+      disallowed_characters = '(\"|\'|\S\(|\)\S|\,|:|;|\?|\!|_| {2}| $)'
+      refute_match(/#{disallowed_characters}/, row["name"], "Station #{row["name"]} (#{row["id"]}) has disallowed characters in its name")
+
+      disallowed_combinations = Constants::ALLOWED_COMBINATIONS_WITH_DOT.join("|")
+      if !(Constants::ALLOWED_STATIONS_WITH_DOT.include?(row["id"]) || row["name"] =~ /(#{disallowed_combinations})/)
+        refute_match(/\./, row["name"], "Station #{row["name"]} (#{row["id"]}) shouldn't have a dot in its name")
+      end
     end
   end
-
 
   def test_rail_ids
     STATIONS.each do |row|
@@ -345,7 +352,7 @@ class StationsTest < Minitest::Test
         assert_equal slugify(row["name"]), row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug"
       else
         suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
-        assert_match(/^#{slugify(row["name"])}-(#{suffixes})+$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
+        assert_match(/^#{slugify(row["name"])}-(#{suffixes})$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
       end
     end
   end

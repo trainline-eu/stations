@@ -149,7 +149,7 @@ module Constants
   RAIL_IDS = {
     "atoc_id"              => '([A-Z]{3}|[0-9]{1,3})',                  # ABC, 1, 12, 123
     "benerail_id"          => '[A-Z]{5}',                               # ABCDE
-    "busbud_id"            => '[a-z0-9]{6}',                          # a1b2cd
+    "busbud_id"            => '[a-z0-9]{6}',                            # a1b2cd
     "db_id"                => '[0-9]{6,7}',                             # 123456, 1234567
     "hkx_id"               => '[0-9]{9}',                               # 123456789
     "idtgv_id"             => '[A-Z]{2}[A-Z1]',                         # ABC, AB1
@@ -186,4 +186,20 @@ module Constants
     "is_suggestable",
     "sncf_self_service_machine"
   )
+
+  ALLOWED_COMBINATIONS_WITH_DOT = [
+    '(^| |-)St.(-| |$)',     # Acronym of "station" and "saint"
+    ' L.T.$',                # British stations
+    ' (hl.|sev.)?n.( |$)',   # Czech stations
+    ' hl.st.( |$)',          # Czech stations
+    ' F.C.$',                # Italian stations
+    ' A.L.$',                # Italian stations
+  ]
+
+  ALLOWED_STATIONS_WITH_DOT = [
+    "9964",         # Paris-S.URB.M.
+    "18768",        # Nykøbing Falster Rtb. (Bus)
+    "22579",        # Pisa San Rossore T.
+    "25543",        # I.B.M.
+  ]
 end
