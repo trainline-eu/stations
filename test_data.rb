@@ -199,7 +199,7 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_homonym_information
+  def test_homonym_localized_info
     Constants::HOMONYM_STATIONS.each do |homonym_id|
       homonym_station = STATIONS_BY_ID[homonym_id]
       Constants::SUGGESTABLE_LOCALES.each do |locale|
@@ -231,15 +231,32 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_info_different_than_name
+  def test_child_localized_info
+    STATIONS.each do |row|
+      parent = STATIONS_BY_ID[row["parent_station_id"]]     
+      if !parent.nil? && 
+        row["is_suggestable"] == "t" &&
+        parent["is_suggestable"] == "t"
+        Constants::LOCALES.each do |locale|
+          if !parent["info:#{locale}"].nil?
+            assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent #{parent["name"]} (#{parent["id"]}) has"
+          end
+        end
+      end
+    end
+  end
+
+
+  def test_localized_info_different_than_name
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
         Constants::LOCALES.each do |locale|
           if !row["info:#{locale}"].nil?
-            refute_equal row["name"], row["info:#{locale}"], "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info"
-
-            if !["ru", "ko", "zh", "ja"].include?(locale)
-              refute_equal fold(row["name"]), fold(row["info:#{locale}"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info"
+            if ["ru", "ko", "zh", "ja"].include?(locale)
+              refute_match(/[a-zA-Z]/, row["info:#{locale}"], "Station #{row["name"]} (#{row["id"]}) has not a valid “#{locale}” info")
+            else
+              refute_match(/(^|-)#{slugify(row["name"])}(-|$)/, slugify(row["info:#{locale}"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
+              refute_match(/(^|-)#{slugify(row["info:#{locale}"])}(-|$)/, slugify(row["name"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
             end
           end
         end
@@ -263,11 +280,6 @@ class StationsTest < Minitest::Test
         parent = STATIONS_BY_ID[parent_id]
         assert !parent.nil?, "Station #{row["name"]} (#{row["id"]}) references a nonexistent parent station (#{parent_id})"
         refute_equal parent_id, row["id"], "Station #{row["name"]} (#{row["id"]}) references itself as a parent station"
-        Constants::LOCALES.each do |locale|
-          if !parent["info:#{locale}"].nil?
-            assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent #{parent["name"]} (#{parent["id"]}) has"
-          end
-        end
       end
     end
   end
