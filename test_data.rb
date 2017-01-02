@@ -11,7 +11,7 @@ ALIASES = {}
 CHILDREN = {}
 CHILDREN_ENABLED_COUNT = Hash.new(0)
 SLUG_COUNT = {}
-STATIONS.each { |row| ALIASES[row["id"]] = []}
+STATIONS.each { |row| ALIASES[row["id"]] = [] }
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 STATIONS.each { |row| SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] = 0 }
 
