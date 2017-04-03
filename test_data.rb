@@ -146,6 +146,10 @@ class StationsTest < Minitest::Test
       end
 
       if lon && lat
+        # Test coordinates have a correct format (with a dot and not a comma)
+        refute lat.include?(','), "Station #{row["name"]} (#{row["id"]}) latitude has a bad format"
+        refute lon.include?(','), "Station #{row["name"]} (#{row["id"]}) longitude has a bad format"
+
         lon = lon.to_f
         lat = lat.to_f
 
@@ -233,8 +237,8 @@ class StationsTest < Minitest::Test
 
   def test_child_localized_info
     STATIONS.each do |row|
-      parent = STATIONS_BY_ID[row["parent_station_id"]]     
-      if !parent.nil? && 
+      parent = STATIONS_BY_ID[row["parent_station_id"]]
+      if !parent.nil? &&
         row["is_suggestable"] == "t" &&
         parent["is_suggestable"] == "t"
         Constants::LOCALES.each do |locale|
