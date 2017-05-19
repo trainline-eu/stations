@@ -151,6 +151,7 @@ module Constants
     "benerail_id"          => '[A-Z]{5}',                               # ABCDE
     "busbud_id"            => '[a-z0-9]{6}',                            # a1b2cd
     "db_id"                => '[0-9]{6,7}',                             # 123456, 1234567
+    "flixbus_id"           => '[0-9]{2,5}',                             # 1234
     "hkx_id"               => '[0-9]{9}',                               # 123456789
     "idtgv_id"             => '[A-Z]{2}[A-Z1]',                         # ABC, AB1
     "ntv_id"               => '[A-Z][A-Z_0]{2}',                        # A__, AB_, AB0, ABC
@@ -170,6 +171,7 @@ module Constants
     "benerail",
     "busbud",
     "db",
+    "flixbus",
     "hkx",
     "idtgv",
     "ntv",
