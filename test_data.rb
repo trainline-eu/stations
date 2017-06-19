@@ -250,7 +250,6 @@ class StationsTest < Minitest::Test
     end
   end
 
-
   def test_localized_info_different_than_name
     STATIONS.each do |row|
       if row["is_suggestable"] == "t"
@@ -448,4 +447,33 @@ class StationsTest < Minitest::Test
       assert_equal "t", station["sncf_is_enabled"], "Virtual station #{station["name"]} (#{station["id"]}) should be enabled for SNCF"
     end
   end
+
+  AIRPORT_TRANSLATIONS = {
+    :fr => 'aeroport',
+    :en => 'airport',
+    :de => 'flughafen',
+    :es => 'aeropuerto',
+    :it => 'aeroporto',
+    :nl => 'luchthaven',
+    :da => 'lufthavn',
+    :ru => 'аэропорт'
+  }
+
+  def test_airports_comments_and_children
+    STATIONS.select do |row|
+      row['is_airport'] == 't'
+    end.each do |row|
+      assert (AIRPORT_TRANSLATIONS.none? do |locale, translation|
+        comment = slugify(row["comments:#{locale}"] || '')
+        comment =~ /#{translation}/i
+      end), "One or more comments for #{row['name']} (#{row["id"]}) are mentionning an airport which is not needed as this stations is flagged as an airport"
+
+      CHILDREN[row['id']].each do |child_row|
+        if child_row['is_airport'] == 'f'
+          assert child_row['is_airport'] == 't', "#{child_row['name']} (#{child_row['id']}) should be an airport, as a child of airport station #{row['name']} (#{row['id']})"
+        end
+      end
+    end
+  end
+
 end
