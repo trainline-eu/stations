@@ -469,10 +469,22 @@ class StationsTest < Minitest::Test
       #   comment =~ /#{translation}/i
       # end), "One or more comments for #{row['name']} (#{row["id"]}) are mentionning an airport which is not needed as this stations is flagged as an airport"
 
+      # Check that all children are also airports
       CHILDREN[row['id']].each do |child_row|
-        if child_row['is_airport'] == 'f'
-          assert child_row['is_airport'] == 't', "#{child_row['name']} (#{child_row['id']}) should be an airport, as a child of airport station #{row['name']} (#{row['id']})"
-        end
+        assert child_row['is_airport'] == 't', "#{child_row['name']} (#{child_row['id']}) should be an airport, as a child of airport station #{row['name']} (#{row['id']})"
+      end
+    end
+  end
+
+  def test_country_hints_for_children
+    STATIONS.select do |row|
+      row['country_hint'] == 't'
+    end.each do |row|
+      # TODO once info are cleaned: check that the comment does not contain country information
+
+      # Check that all children are also hinted
+      CHILDREN[row['id']].each do |child_row|
+        assert child_row['country_hint'] == 't', "#{child_row['name']} (#{child_row['id']}) should have country hint enabled, as a child of country hinted station #{row['name']} (#{row['id']})"
       end
     end
   end
