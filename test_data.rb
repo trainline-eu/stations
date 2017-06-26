@@ -476,7 +476,7 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_country_hints_for_children
+  def test_country_hints_and_children
     STATIONS.select do |row|
       row['country_hint'] == 't'
     end.each do |row|
@@ -486,6 +486,14 @@ class StationsTest < Minitest::Test
       CHILDREN[row['id']].each do |child_row|
         assert child_row['country_hint'] == 't', "#{child_row['name']} (#{child_row['id']}) should have country hint enabled, as a child of country hinted station #{row['name']} (#{row['id']})"
       end
+    end
+  end
+
+  def main_station_hints
+    STATIONS.select do |row|
+      row['main_station_hint'] == 't'
+    end.each do |row|
+      # TODO once info are cleaned: check that the comment does not contain main station mention
     end
   end
 
