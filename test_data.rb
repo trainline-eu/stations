@@ -14,6 +14,7 @@ SLUG_COUNT = {}
 STATIONS.each { |row| ALIASES[row["id"]] = [] }
 STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 STATIONS.each { |row| SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] = 0 }
+SUGGESTABLE_STATIONS = STATIONS.select { |row| row['is_suggestable'] == 't' }
 
 def has_enabled_carrier(row)
   Constants::CARRIERS.any? { |carrier| row["#{carrier}_is_enabled"] == "t" }
@@ -186,8 +187,8 @@ class StationsTest < Minitest::Test
   def test_unique_suggestable_name
     names = Set.new
 
-    STATIONS.each do |row|
-      if row["is_suggestable"] == "t" && !Constants::HOMONYM_STATIONS.include?(row["id"])
+    SUGGESTABLE_STATIONS.each do |row|
+      if !Constants::HOMONYM_STATIONS.include?(row["id"])
         assert !names.include?(row["name"]), "Station #{row["name"]} (#{row["id"]}) has a name already used"
 
         names << row["name"]
@@ -207,7 +208,7 @@ class StationsTest < Minitest::Test
     Constants::HOMONYM_STATIONS.each do |homonym_id|
       homonym_station = STATIONS_BY_ID[homonym_id]
       Constants::SUGGESTABLE_LOCALES.each do |locale|
-        assert !homonym_station["info:#{locale}"].nil?,
+        assert (!homonym_station["info:#{locale}"].nil? || homonym_station["country_hint"] == 't'),
           "Homonym station #{homonym_station["name"]} (#{homonym_station["id"]}) must have an info in “#{locale}”"
       end
     end
@@ -251,16 +252,14 @@ class StationsTest < Minitest::Test
   end
 
   def test_localized_info_different_than_name
-    STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
-        Constants::LOCALES.each do |locale|
-          if !row["info:#{locale}"].nil?
-            if ["ru", "ko", "zh", "ja"].include?(locale)
-              refute_match(/[a-zA-Z]/, row["info:#{locale}"], "Station #{row["name"]} (#{row["id"]}) has not a valid “#{locale}” info")
-            else
-              refute_match(/(^|-)#{slugify(row["name"])}(-|$)/, slugify(row["info:#{locale}"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
-              refute_match(/(^|-)#{slugify(row["info:#{locale}"])}(-|$)/, slugify(row["name"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
-            end
+    SUGGESTABLE_STATIONS.each do |row|
+      Constants::LOCALES.each do |locale|
+        if !row["info:#{locale}"].nil?
+          if ["ru", "ko", "zh", "ja"].include?(locale)
+            refute_match(/[a-zA-Z]/, row["info:#{locale}"], "Station #{row["name"]} (#{row["id"]}) has not a valid “#{locale}” info")
+          else
+            refute_match(/(^|-)#{slugify(row["name"])}(-|$)/, slugify(row["info:#{locale}"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
+            refute_match(/(^|-)#{slugify(row["info:#{locale}"])}(-|$)/, slugify(row["name"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
           end
         end
       end
@@ -268,18 +267,16 @@ class StationsTest < Minitest::Test
   end
 
   def test_suggestable_has_carrier
-    STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
-        assert has_enabled_carrier(row) || CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
-               "Station #{row["name"]} (#{row["id"]}) is suggestable but has no enabled system"
-      end
+    SUGGESTABLE_STATIONS.each do |row|
+      assert has_enabled_carrier(row) || CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
+             "Station #{row["name"]} (#{row["id"]}) is suggestable but has no enabled system"
     end
   end
 
   def test_parent_station
-    STATIONS.each do |row|
+    SUGGESTABLE_STATIONS.each do |row|
       parent_id = row["parent_station_id"]
-      if parent_id && row["is_suggestable"] == "t"
+      if parent_id
         parent = STATIONS_BY_ID[parent_id]
         assert !parent.nil?, "Station #{row["name"]} (#{row["id"]}) references a nonexistent parent station (#{parent_id})"
         refute_equal parent_id, row["id"], "Station #{row["name"]} (#{row["id"]}) references itself as a parent station"
@@ -353,11 +350,9 @@ class StationsTest < Minitest::Test
   def test_unique_slugs
     unique_set = Set.new
 
-    STATIONS.each do |row|
-      if row["is_suggestable"] == "t"
-        assert !unique_set.include?(row["slug"]), "Station #{row["name"]} (#{row["id"]}) has a slug already used: #{row["slug"]}"
-        unique_set << row["slug"]
-      end
+    SUGGESTABLE_STATIONS.each do |row|
+      assert !unique_set.include?(row["slug"]), "Station #{row["name"]} (#{row["id"]}) has a slug already used: #{row["slug"]}"
+      unique_set << row["slug"]
     end
   end
 
@@ -448,6 +443,62 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_airports_comments_and_children
+    # Check that no airport station mention "airport" in the comments, and that all children are also airports
+    SUGGESTABLE_STATIONS.select do |row|
+      row['is_airport'] == 't'
+    end.each do |row|
+      refute has_localized_info?(row, AIRPORT_TRANSLATIONS),
+        "One or more comments for #{row['name']} (#{row["id"]}) are mentionning an airport which is not needed as this stations is flagged as an airport"
+
+      CHILDREN[row['id']].each do |child_row|
+        assert child_row['is_airport'] == 't',
+          "#{child_row['name']} (#{child_row['id']}) should be an airport, as a child of airport station #{row['name']} (#{row['id']})"
+      end
+    end
+
+    # Look for station including an airport translation in their name that should be flagged as airport
+    SUGGESTABLE_STATIONS.select { |row| row['is_airport'] == 'f' }.each do |row|
+      refute has_localized_info?(row, AIRPORT_TRANSLATIONS),
+        "Station #{row['name']} (#{row["id"]}) contains a mention to 'airport' in its name. This stations should be flagged as an airport instead"
+    end
+  end
+
+  def test_country_hints_and_children
+    SUGGESTABLE_STATIONS.select do |row|
+      row['country_hint'] == 't'
+    end.each do |row|
+      # Check that the comment does not contain country information
+
+      # Check that all children are also hinted
+      CHILDREN[row['id']].each do |child_row|
+        assert child_row['country_hint'] == 't',
+          "#{child_row['name']} (#{child_row['id']}) should have country hint enabled, as a child of country hinted station #{row['name']} (#{row['id']})"
+      end
+    end
+  end
+
+  def main_station_hints
+    # Check that no main station mentions "main station" in the comments
+    SUGGESTABLE_STATIONS.select do |row|
+      row['main_station_hint'] == 't'
+    end.each do |row|
+      refute has_localized_info?(row, MAIN_STATION_TRANSLATIONS),
+        "One or more comments for #{row['name']} (#{row["id"]}) are mentionning a main station which is not needed as this stations is flagged with main_station_hint"
+    end
+
+    # Look for station include "main station" in the comments that should be flagged with main_station_hint
+    SUGGESTABLE_STATIONS.reject do |row|
+      row['main_station_hint'] == 't' &&
+        MAIN_STATION_TRANSLATIONS.keys.all? { |locale| row["info:#{locale}"].nil? }
+    end.each do |row|
+      refute has_localized_info?(row, MAIN_STATION_TRANSLATIONS),
+        "One or more comment for #{row['name']} (#{row["id"]}) are mentionning a main station. This stations should be flagged with main_station_hint instead"
+    end
+  end
+
+  private
+
   AIRPORT_TRANSLATIONS = {
     :fr => 'aeroport',
     :en => 'airport',
@@ -456,44 +507,28 @@ class StationsTest < Minitest::Test
     :it => 'aeroporto',
     :nl => 'luchthaven',
     :da => 'lufthavn',
-    :ru => 'аэропорт'
+    :ru => 'аэропорт',
+    # to be completed with other languages
   }
 
-  def test_airports_comments_and_children
-    STATIONS.select do |row|
-      row['is_airport'] == 't'
-    end.each do |row|
-      # Disabled while info are not cleaned yet
-      # assert (AIRPORT_TRANSLATIONS.none? do |locale, translation|
-      #   comment = slugify(row["info:#{locale}"] || '')
-      #   comment =~ /#{translation}/i
-      # end), "One or more comments for #{row['name']} (#{row["id"]}) are mentionning an airport which is not needed as this stations is flagged as an airport"
+  MAIN_STATION_TRANSLATIONS = {
+    :de => "hauptbahnhof",
+    :en => "main station",
+    :es => "estación central",
+    :fr => "gare centrale",
+    :it => "stazione centrale",
+    # to be completed with other languages
+  }
 
-      # Check that all children are also airports
-      CHILDREN[row['id']].each do |child_row|
-        assert child_row['is_airport'] == 't', "#{child_row['name']} (#{child_row['id']}) should be an airport, as a child of airport station #{row['name']} (#{row['id']})"
-      end
+  def has_localized_info?(row, translations)
+    translations.any? do |locale, translation|
+      slugify(row["info:#{locale}"] || '') =~ /#{translation}/i
     end
   end
 
-  def test_country_hints_and_children
-    STATIONS.select do |row|
-      row['country_hint'] == 't'
-    end.each do |row|
-      # TODO once info are cleaned: check that the comment does not contain country information
-
-      # Check that all children are also hinted
-      CHILDREN[row['id']].each do |child_row|
-        assert child_row['country_hint'] == 't', "#{child_row['name']} (#{child_row['id']}) should have country hint enabled, as a child of country hinted station #{row['name']} (#{row['id']})"
-      end
-    end
-  end
-
-  def main_station_hints
-    STATIONS.select do |row|
-      row['main_station_hint'] == 't'
-    end.each do |row|
-      # TODO once info are cleaned: check that the comment does not contain main station mention
+  def has_localized_mention?(value, translations)
+    translations.any? do |locale, translation|
+      slugify(value || '') =~ /#{translation}/i
     end
   end
 
