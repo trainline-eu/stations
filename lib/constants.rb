@@ -16,6 +16,7 @@ module Constants
     "hu",
     "ja",
     "ko",
+    "nb",
     "nl",
     "pl",
     "pt",
