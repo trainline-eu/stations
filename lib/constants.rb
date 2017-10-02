@@ -175,6 +175,7 @@ module Constants
     "flixbus",
     "hkx",
     "idtgv",
+    "leoexpress",
     "ntv",
     "ouigo",
     "renfe",

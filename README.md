@@ -76,6 +76,8 @@ Column Name | Notes
 `busbud_is_enabled` |
 `flixbus_id` |
 `flixbus_is_enabled` |
+`leoexpress_id` |
+`leoexpress_is_enabled` |
 `ouigo_id` |
 `ouigo_is_enabled` |
 `trenitalia_id` |
