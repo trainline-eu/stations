@@ -478,7 +478,7 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def main_station_hints
+  def test_main_station_hints
     # Check that no main station mentions "main station" in the comments
     SUGGESTABLE_STATIONS.select do |row|
       row['main_station_hint'] == 't'
