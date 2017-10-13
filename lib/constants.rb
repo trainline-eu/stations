@@ -206,4 +206,17 @@ module Constants
     "22579",        # Pisa San Rossore T.
     "25543",        # I.B.M.
   ]
+
+  # System id defined in a private file
+  # Most of these ids should be there temporary
+  STATIONS_ENABLED_ELSEWHERE = [
+    "10045", # Orly Ouest
+    "10047", # Orly Sud
+    "29297", # Roissy T2 A-C
+    "29298", # Roissy T2 B-D
+    "29299", # Roissy T2 E-F
+    "29300", # Roissy T1
+    "23599", # Porte Maillot
+    "29301", # Etoile Champs Elysées
+  ]
 end
