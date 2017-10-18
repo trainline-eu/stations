@@ -60,7 +60,9 @@ class StationsTest < Minitest::Test
   def test_is_station_useful
     STATIONS.each do |row|
       if CHILDREN[row["id"]].empty?
-        assert has_rail_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
+        if !Constants::STATIONS_ENABLED_ELSEWHERE.include?(row["id"])
+          assert has_rail_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
+        end
       end
     end
   end
@@ -268,8 +270,11 @@ class StationsTest < Minitest::Test
 
   def test_suggestable_has_carrier
     SUGGESTABLE_STATIONS.each do |row|
-      assert has_enabled_carrier(row) || CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
-             "Station #{row["name"]} (#{row["id"]}) is suggestable but has no enabled system"
+      if !Constants::STATIONS_ENABLED_ELSEWHERE.include?(row["id"])
+        assert has_enabled_carrier(row) ||
+          CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
+          "Station #{row["name"]} (#{row["id"]}) is suggestable but has no enabled system"
+      end
     end
   end
 
