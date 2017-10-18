@@ -270,11 +270,9 @@ class StationsTest < Minitest::Test
 
   def test_suggestable_has_carrier
     SUGGESTABLE_STATIONS.each do |row|
-      if !Constants::STATIONS_ENABLED_ELSEWHERE.include?(row["id"])
-        assert has_enabled_carrier(row) ||
-          CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
-          "Station #{row["name"]} (#{row["id"]}) is suggestable but has no enabled system"
-      end
+      assert has_enabled_carrier(row) ||
+        CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
+        "Station #{row["name"]} (#{row["id"]}) is suggestable but has no enabled system"
     end
   end
 
