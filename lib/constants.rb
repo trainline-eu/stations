@@ -219,4 +219,8 @@ module Constants
     "23599", # Porte Maillot
     "29301", # Etoile Champs Elysées
   ]
+
+  # Not real technical limitation, but we have to ensure that there is no infinite loop
+  # And a tree too deep could reveal station organisation issues
+  PARENTHOOD_TREE_MAX_DEPTH = 8
 end

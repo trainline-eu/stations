@@ -289,6 +289,21 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_parent_max_depth
+    STATIONS.each do |row|
+      current = row
+      track = []
+      depth = 0
+
+      while !current["parent_station_id"].nil? do
+        track << current["id"]
+        depth += 1
+        assert depth < Constants::PARENTHOOD_TREE_MAX_DEPTH, "Parenthood tree too deep: #{track.join(' >> ')}"
+        current = STATIONS_BY_ID[current["parent_station_id"]]
+      end
+    end
+  end
+
   def test_parent_have_multiple_children
     CHILDREN_ENABLED_COUNT.each do |parent_id, count|
       parent_station = STATIONS_BY_ID[parent_id]
