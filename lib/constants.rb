@@ -208,7 +208,7 @@ module Constants
   ]
 
   # System id defined in a private file
-  # Most of these ids should be there temporary
+  # These ids should be there temporarly
   STATIONS_ENABLED_ELSEWHERE = [
     "10045", # Orly Ouest
     "10047", # Orly Sud
