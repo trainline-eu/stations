@@ -172,6 +172,7 @@ module Constants
     "benerail",
     "busbud",
     "db",
+    "distribusion",
     "flixbus",
     "hkx",
     "idtgv",
