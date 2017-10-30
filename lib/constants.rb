@@ -155,7 +155,7 @@ module Constants
     "flixbus_id"           => '[0-9]{2,5}',                             # 1234
     "hkx_id"               => '[0-9]{9}',                               # 123456789
     "idtgv_id"             => '[A-Z]{2}[A-Z1]',                         # ABC, AB1
-    "leoexpress_id"        => '[0-9]{7}',                               # 5615750
+    "leoexpress_id"        => '([0-9]{7}|[A-Z]+)',                      # 5615750, PRAHA, SOMETOWN
     "ntv_id"               => '[A-Z][A-Z_0]{2}',                        # A__, AB_, AB0, ABC
     "ntv_rtiv_id"          => '[0-9]{3,4}',                             # 123, 1234
     "ouigo_id"             => '[A-Z]{2}[A-Z1]',                         # ABC, AB1
