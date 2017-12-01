@@ -86,6 +86,7 @@ module Constants
     "25481", # Hever (Belgium and England)
     "26735", # Enfield (England and Ireland)
     "26759", # Malling (France and England)
+    "29401", # Munster
     "17741", # Essen (Belgium and Germany)
     # "27486", # Arce (Spain and Italy),
     # "27488", # Breda (Spain and Netherlands)
@@ -97,7 +98,7 @@ module Constants
   HOMONYM_SUFFIXES = {
     "BE" => ["station", "gare"],
     "CH" => ["bahnhof", "gare", "stazione"],
-    "DE" => ["bahnhof"],
+    "DE" => ["bahnhof", "stadt"],
     "ES" => ["estacion", "ciudad"],
     "FR" => ["gare"],
     "GB" => ["station"],
@@ -226,4 +227,25 @@ module Constants
   # Not real technical limitation, but we have to ensure that there is no infinite loop
   # And a tree too deep could reveal station organisation issues
   PARENTHOOD_TREE_MAX_DEPTH = 8
+
+  AIRPORT_TRANSLATIONS = {
+    :fr => 'aeroport',
+    :en => 'airport',
+    :de => 'flughafen',
+    :es => 'aeropuerto',
+    :it => 'aeroporto',
+    :nl => 'luchthaven',
+    :da => 'lufthavn',
+    :ru => 'аэропорт',
+    # to be completed with other languages
+  }
+
+  MAIN_STATION_TRANSLATIONS = {
+    :de => "hauptbahnhof",
+    :en => "main station",
+    :es => "estación central",
+    :fr => "gare centrale",
+    :it => "stazione centrale",
+    # to be completed with other languages
+  }
 end
