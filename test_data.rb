@@ -115,7 +115,8 @@ class StationsTest < Minitest::Test
       counts = {}
       STATIONS.each do |row|
         if row[id_column]
-          counts[row[id_column]] = (counts[row[id_column]] || 0) + 1
+          counts[row[id_column]] ||= 0
+          counts[row[id_column]] += 1
         end
       end
 
@@ -466,7 +467,7 @@ class StationsTest < Minitest::Test
     SUGGESTABLE_STATIONS.select do |row|
       row['is_airport'] == 't'
     end.each do |row|
-      refute has_localized_info?(row, AIRPORT_TRANSLATIONS),
+      refute has_localized_info?(row, Constants::AIRPORT_TRANSLATIONS),
         "One or more comments for #{row['name']} (#{row["id"]}) are mentionning an airport which is not needed as this stations is flagged as an airport"
 
       CHILDREN[row['id']].each do |child_row|
@@ -474,21 +475,12 @@ class StationsTest < Minitest::Test
           "#{child_row['name']} (#{child_row['id']}) should be an airport, as a child of airport station #{row['name']} (#{row['id']})"
       end
     end
-
-    # Look for station including an airport translation in their name that should be flagged as airport
-    SUGGESTABLE_STATIONS.select { |row| row['is_airport'] == 'f' }.each do |row|
-      refute has_localized_info?(row, AIRPORT_TRANSLATIONS),
-        "Station #{row['name']} (#{row["id"]}) contains a mention to 'airport' in its name. This stations should be flagged as an airport instead"
-    end
   end
 
   def test_country_hints_and_children
     SUGGESTABLE_STATIONS.select do |row|
       row['country_hint'] == 't'
     end.each do |row|
-      # Check that the comment does not contain country information
-
-      # Check that all children are also hinted
       CHILDREN[row['id']].each do |child_row|
         assert child_row['country_hint'] == 't',
           "#{child_row['name']} (#{child_row['id']}) should have country hint enabled, as a child of country hinted station #{row['name']} (#{row['id']})"
@@ -501,42 +493,12 @@ class StationsTest < Minitest::Test
     SUGGESTABLE_STATIONS.select do |row|
       row['main_station_hint'] == 't'
     end.each do |row|
-      refute has_localized_info?(row, MAIN_STATION_TRANSLATIONS),
+      refute has_localized_info?(row, Constants::MAIN_STATION_TRANSLATIONS),
         "One or more comments for #{row['name']} (#{row["id"]}) are mentionning a main station which is not needed as this stations is flagged with main_station_hint"
-    end
-
-    # Look for station include "main station" in the comments that should be flagged with main_station_hint
-    SUGGESTABLE_STATIONS.reject do |row|
-      row['main_station_hint'] == 't' &&
-        MAIN_STATION_TRANSLATIONS.keys.all? { |locale| row["info:#{locale}"].nil? }
-    end.each do |row|
-      refute has_localized_info?(row, MAIN_STATION_TRANSLATIONS),
-        "One or more comment for #{row['name']} (#{row["id"]}) are mentionning a main station. This stations should be flagged with main_station_hint instead"
     end
   end
 
   private
-
-  AIRPORT_TRANSLATIONS = {
-    :fr => 'aeroport',
-    :en => 'airport',
-    :de => 'flughafen',
-    :es => 'aeropuerto',
-    :it => 'aeroporto',
-    :nl => 'luchthaven',
-    :da => 'lufthavn',
-    :ru => 'аэропорт',
-    # to be completed with other languages
-  }
-
-  MAIN_STATION_TRANSLATIONS = {
-    :de => "hauptbahnhof",
-    :en => "main station",
-    :es => "estación central",
-    :fr => "gare centrale",
-    :it => "stazione centrale",
-    # to be completed with other languages
-  }
 
   def has_localized_info?(row, translations)
     translations.any? do |locale, translation|
