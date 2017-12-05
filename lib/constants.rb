@@ -64,7 +64,6 @@ module Constants
     "5914",  # Statte (Belgium and Italy)
     "6661",  # Lugo (Spain and Italy)
     "8015",  # Hove (Belgium and England)
-    "8210",  # Derby (Italy and England)
     "8720",  # Guarda (Portugal and Italy)
     "17958", # Comines (Belgium)
     "17989", # Lens (Belgium)
