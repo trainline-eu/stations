@@ -74,13 +74,14 @@ class StationsTest < Minitest::Test
   end
 
   def test_station_name
+    disallowed_characters = /(\"|\'|\S\(|\)\S|\,|:|;|\?|\!|_| {2}| $)/
+    disallowed_combinations = Constants::ALLOWED_COMBINATIONS_WITH_DOT.join("|")
+
     STATIONS.each do |row|
       assert !row["name"].nil?, "Station #{row["name"]} (#{row["id"]}) does not have a name"
 
-      disallowed_characters = '(\"|\'|\S\(|\)\S|\,|:|;|\?|\!|_| {2}| $)'
-      refute_match(/#{disallowed_characters}/, row["name"], "Station #{row["name"]} (#{row["id"]}) has disallowed characters in its name")
+      refute_match(disallowed_characters, row["name"], "Station #{row["name"]} (#{row["id"]}) has disallowed characters in its name")
 
-      disallowed_combinations = Constants::ALLOWED_COMBINATIONS_WITH_DOT.join("|")
       if !(Constants::ALLOWED_STATIONS_WITH_DOT.include?(row["id"]) || row["name"] =~ /(#{disallowed_combinations})/)
         refute_match(/\./, row["name"], "Station #{row["name"]} (#{row["id"]}) shouldn't have a dot in its name")
       end
@@ -261,8 +262,10 @@ class StationsTest < Minitest::Test
           if ["ru", "ko", "zh", "ja"].include?(locale)
             refute_match(/[a-zA-Z]/, row["info:#{locale}"], "Station #{row["name"]} (#{row["id"]}) has not a valid “#{locale}” info")
           else
-            refute_match(/(^|-)#{slugify(row["name"])}(-|$)/, slugify(row["info:#{locale}"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
-            refute_match(/(^|-)#{slugify(row["info:#{locale}"])}(-|$)/, slugify(row["name"]), "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
+            locale_slug = slugify(row["info:#{locale}"])
+            name_slug = slugify(row["name"])
+            refute_match(/(^|-)#{name_slug}(-|$)/, locale_slug, "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
+            refute_match(/(^|-)#{locale_slug}(-|$)/, name_slug, "Station #{row["name"]} (#{row["id"]}) should have a different name and “#{locale}” info")
           end
         end
       end
@@ -339,7 +342,7 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_parent_has_main_sation
+  def test_parent_has_main_station
     CHILDREN.each do |parent_id, children_list|
       parent_station = STATIONS_BY_ID[parent_id]
       if children_list.size >= 2 &&
@@ -376,12 +379,15 @@ class StationsTest < Minitest::Test
   end
 
   def test_correct_slugs
+    suffixes = {}
     STATIONS.each do |row|
       if !Constants::HOMONYM_STATIONS.include?(row["id"])
         assert_equal slugify(row["name"]), row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug"
       else
-        suffixes = Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
-        assert_match(/^#{slugify(row["name"])}-(#{suffixes})$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
+        suffixes[row["country"]] ||= Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
+        if suffixes.length > 0
+          assert_match(/^#{slugify(row["name"])}-(#{suffixes[row["country"]]})$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
+        end
       end
     end
   end
