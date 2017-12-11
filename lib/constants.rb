@@ -137,7 +137,7 @@ module Constants
     "NO" => "Europe/Oslo",
     "PL" => "Europe/Warsaw",
     "PT" => "Europe/Lisbon",
-    "RO" => "Europe/Bucarest",
+    "RO" => "Europe/Bucharest",
     "RS" => "Europe/Belgrade",
     "RU" => "Europe/Moscow",
     "SE" => "Europe/Stockholm",
