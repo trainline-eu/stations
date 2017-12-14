@@ -3,6 +3,9 @@ GEM
   specs:
     minitest (5.6.1)
     stringex (2.5.2)
+    thread_safe (0.3.6)
+    tzinfo (1.2.4)
+      thread_safe (~> 0.1)
 
 PLATFORMS
   ruby
@@ -10,6 +13,7 @@ PLATFORMS
 DEPENDENCIES
   minitest (~> 5.6.0)
   stringex (~> 2.5.2)
+  tzinfo (~> 1.2.4)
 
 BUNDLED WITH
-   1.14.3
+   1.16.0

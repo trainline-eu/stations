@@ -2,6 +2,7 @@ require "csv"
 require "minitest/autorun"
 require "set"
 require "stringex"
+require "tzinfo"
 require_relative "lib/constants"
 
 STATIONS = CSV.read("stations.csv", Constants::CSV_PARAMETERS)
@@ -64,6 +65,12 @@ class StationsTest < Minitest::Test
           assert has_rail_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
         end
       end
+    end
+  end
+
+  def test_valid_timezone
+    Constants::COUNTRIES.values.each do |timezone|
+      tz = TZInfo::Timezone.get(timezone)
     end
   end
 
