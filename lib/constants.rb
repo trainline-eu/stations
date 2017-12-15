@@ -184,6 +184,7 @@ module Constants
     "renfe",
     "sncf",
     "trenitalia",
+    "westbahn",
   ]
 
   BOOLEAN_COLUMNS = CARRIERS.map { |carrier| "#{carrier}_is_enabled" }
