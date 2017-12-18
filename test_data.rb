@@ -48,14 +48,6 @@ def slugify(name)
   name.gsub(/[\/\.]/,"-").to_ascii.to_url
 end
 
-def fold(name)
-  name.to_ascii
-      .downcase
-      .gsub(/[^a-z]/, " ")
-      .gsub(/\s+/, " ")
-      .strip
-end
-
 class StationsTest < Minitest::Test
 
   def test_is_station_useful
@@ -197,53 +189,16 @@ class StationsTest < Minitest::Test
 
   def test_unique_suggestable_name
     names = Set.new
+    local_names = Set.new
 
     SUGGESTABLE_STATIONS.each do |row|
-      if !Constants::HOMONYM_STATIONS.include?(row["id"])
-        assert !names.include?(row["name"]), "Station #{row["name"]} (#{row["id"]}) has a name already used"
-
+      name = row["name"]
+      if row["country_hint"] == "f"
+        refute names.include?(row["name"]), "Station #{name} (#{row["id"]}) has a name already used"
         names << row["name"]
       end
-    end
-  end
-
-  def test_homonym_suggestable
-    Constants::HOMONYM_STATIONS.each do |homonym_id|
-      homonym_station = STATIONS_BY_ID[homonym_id]
-      assert_equal homonym_station["is_suggestable"], "t",
-        "Homonym station #{homonym_station["name"]} (#{homonym_station["id"]}) is not suggestable"
-    end
-  end
-
-  def test_homonym_localized_info
-    Constants::HOMONYM_STATIONS.each do |homonym_id|
-      homonym_station = STATIONS_BY_ID[homonym_id]
-      Constants::SUGGESTABLE_LOCALES.each do |locale|
-        assert (!homonym_station["info:#{locale}"].nil? || homonym_station["country_hint"] == 't'),
-          "Homonym station #{homonym_station["name"]} (#{homonym_station["id"]}) must have an info in “#{locale}”"
-      end
-    end
-  end
-
-  def test_homonym_exists
-    stations = STATIONS.map do |station|
-      {
-        "id"           => station["id"],
-        "folded_name"  => fold(station["name"] || ""),
-        "suggestable?" => (station["is_suggestable"] == "t")
-      }
-    end
-
-    Constants::HOMONYM_STATIONS.each do |homonym_id|
-      homonym_station = STATIONS_BY_ID[homonym_id]
-      folded_homonym_name = fold(homonym_station["name"] || "")
-      has_homonym = stations.any? do |station|
-        station["id"] != homonym_station["id"] &&
-          station["folded_name"] == folded_homonym_name &&
-          station["suggestable?"]
-        end
-        assert has_homonym,
-          "Station #{homonym_station["name"]} (#{homonym_station["id"]}) does not have a suggestable homonym station"
+      refute local_names.include?("#{row['name']} (#{row['country']})"), "Station #{name} (#{row["id"]}) has a name already used in this country"
+      local_names << "#{row['name']} (#{row['country']})"
     end
   end
 
@@ -388,12 +343,12 @@ class StationsTest < Minitest::Test
   def test_correct_slugs
     suffixes = {}
     STATIONS.each do |row|
-      if !Constants::HOMONYM_STATIONS.include?(row["id"])
+      if Constants::HOMONYM_SUFFIXES[row["country"]].nil?
         assert_equal slugify(row["name"]), row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug"
       else
         suffixes[row["country"]] ||= Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
         if suffixes.length > 0
-          assert_match(/^#{slugify(row["name"])}-(#{suffixes[row["country"]]})$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
+          assert_match(/^#{slugify(row["name"])}-?(#{suffixes[row["country"]]})?$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
         end
       end
     end
