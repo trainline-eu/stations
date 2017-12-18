@@ -58,40 +58,6 @@ module Constants
     "10439"  # Rodange Frontière
   ]
 
-  HOMONYM_STATIONS = [
-    "117",   # Forbach (France)
-    "780",   # Ch[eè]vremont (France & the Netherlands)
-    "5914",  # Statte (Belgium and Italy)
-    "6661",  # Lugo (Spain and Italy)
-    "8015",  # Hove (Belgium and England)
-    "8720",  # Guarda (Portugal and Italy)
-    "17958", # Comines (Belgium)
-    "17989", # Lens (Belgium)
-    "18164", # Melle (Belgium)
-    "18006", # Leval (Belgium)
-    "18024", # Herne (Belgium)
-    "18894", # Borne (Netherlands)
-    "18937", # Haren (Netherlands)
-    "19016", # Soest (Netherlands)
-    "19053", # Zwijndrecht (Netherlands)
-    "11343", # Burgdorf (Germany)
-    "21261", # Lison (Italy)
-    "23189", # Neufchâteau (Belgium & France)
-    "23759", # Bellavista (Spain and Italy)
-    "24394", # Santa Lucia (Spain and Italy)
-    "24424", # Silla (Spain and Italy)
-    "24457", # Torralba (Spain and Italy)
-    "25153", # Dormans (England and France)
-    "25481", # Hever (Belgium and England)
-    "26735", # Enfield (England and Ireland)
-    "26759", # Malling (France and England)
-    "29401", # Munster
-    "17741", # Essen (Belgium and Germany)
-    "27486", # Arce (Spain and Italy),
-    "27488", # Breda (Spain and Netherlands)
-    "27489", # Pau (Spain and France)
-  ]
-
   UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
 
   HOMONYM_SUFFIXES = {
