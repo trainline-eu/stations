@@ -466,6 +466,14 @@ class StationsTest < Minitest::Test
     end
   end
 
+  # [TEMP] To be removed
+  def test_ids_reserved
+    STATIONS.each do |row|
+      id = row["id"].to_i
+      assert id < 32623 || id > 33295
+    end
+  end
+
   private
 
   def has_localized_info?(row, translations)
