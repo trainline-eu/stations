@@ -40,6 +40,7 @@ Column Name | Notes
 ----------- | -----
 `id` | Internal unique identifier.
 `name` | Name of the station as it is locally known; see `info_*` for translations.
+`language` | Language in which the station name is provided  
 `slug` | Guaranteed to be unique across all the _suggestable_ stations; see `is_suggestable`.
 `uic` | The UIC code of the station.
 `uic8_sncf` | SNCF sometimes uses an UIC code with 8 digits instead of 7. The last digit is a checksum.
@@ -97,7 +98,7 @@ Column Name | Notes
 
 #### Internationalisation
 
-Language specific `info` columns contain translations of the station name. The language used is suffixed as an [ISO 639-1:2002](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code.
+Language specific `info:xx` columns contain translations. The language used is suffixed as an [ISO 639-1:2002](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code.
 
 Column Name | Notes
 ----------- | -----
@@ -106,6 +107,7 @@ Column Name | Notes
 `info:en` |
 `info:de` |
 `info:it` |
+
 
 ## Productivity tools
 
