@@ -98,7 +98,7 @@ Column Name | Notes
 
 #### Internationalisation
 
-Language specific `info:xx` and `name:xx` columns contain translations. The language used is suffixed as an [ISO 639-1:2002](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code.
+Language specific `info:xx` columns contain translations. The language used is suffixed as an [ISO 639-1:2002](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code.
 
 Column Name | Notes
 ----------- | -----
@@ -107,10 +107,6 @@ Column Name | Notes
 `info:en` |
 `info:de` |
 `info:it` |
-`name:fr` | Translation of station name in the specific language.|
-`name:en` |
-`name:de` |
-`name:it` |
 
 
 ## Productivity tools
