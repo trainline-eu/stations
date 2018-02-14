@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+
+require 'csv'
+
+cities = {}
+
+CSV.open("stations.csv", :headers => true, :col_sep => ";", :encoding => "UTF-8").each do |station|
+  if station["is_city"] == "t"
+    cities[station["id"]] ||= {
+      :country => station["country"],
+      :bus => false,
+      :train => false
+    }
+    if station["sncf_is_enabled"] == "t" || station["renfe_is_enabled"] == "t" || station["trenitalia_is_enabled"] == "t"
+      cities[:train] = true
+    end
+    if station["flixbus_is_enabled"] == "t" || station["busbud_is_enabled"] == "t" || station["distribusion_is_enabled"] == "t"
+
+    end
+  end
+end
+
+require 'pp'; pp cities
