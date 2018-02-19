@@ -474,6 +474,20 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_coach_city_airport
+    invalid = []
+
+    STATIONS.each do |row|
+      if row['flixbus_is_enabled'] == 'f' && row['busbud_is_enabled'] == 'f' && row['distribusion_is_enabled']
+        next
+      end
+      if row['is_airport'] == 'f' && row['is_city'] == 'f' && row['parent_station_id']
+        invalid << row['id']
+      end
+    end
+    assert_equal [], invalid
+  end
+
   private
 
   def has_localized_info?(row, translations)
