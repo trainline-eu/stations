@@ -488,6 +488,21 @@ class StationsTest < Minitest::Test
     assert_equal [], invalid
   end
 
+  def test_distribusion_aiport
+    invalid = []
+
+    STATIONS.each do |row|
+      if row['distribusion_is_enabled'] == 't' &&
+          row['is_airport'] == 't'&&
+          row['distribusion_id'] !~ /^@FRPAR/ # For Paris we allow to map terminals
+        if row['distribusion_id'].length == 9
+          invalid << row['id']
+        end
+      end
+    end
+    assert_equal [], invalid, "Stations need to map to a distribusion area and not to stations"
+  end
+
   private
 
   def has_localized_info?(row, translations)
