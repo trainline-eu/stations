@@ -71,10 +71,12 @@ module Constants
     "NL" => ["station"],
     "NO" => ["stasjon"],
     "PT" => ["estacao"],
+    "HR" => ["stanica"],
   }
 
   COUNTRIES = {
     "AD" => "Europe/Paris",
+    "AL" => "Europe/Tirane",
     "AT" => "Europe/Vienna",
     "BA" => "Europe/Sarajevo",
     "BE" => "Europe/Brussels",
