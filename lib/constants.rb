@@ -72,6 +72,7 @@ module Constants
     "NO" => ["stasjon"],
     "PT" => ["estacao"],
     "HR" => ["stanica"],
+    "SI" => ["postaja"],
   }
 
   COUNTRIES = {
