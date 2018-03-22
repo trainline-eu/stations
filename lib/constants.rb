@@ -180,6 +180,7 @@ module Constants
     "18768",        # Nykøbing Falster Rtb. (Bus)
     "22579",        # Pisa San Rossore T.
     "25543",        # I.B.M.
+    "34294",        # P. Rocamora
   ]
 
   # System id defined in a private file
@@ -219,4 +220,21 @@ module Constants
     :it => "stazione centrale",
     # to be completed with other languages
   }
+
+  BUS_PRECISE_STATION = [
+    "840",   # Belfort-Ville
+    "4757",  # Marne-la-Vallée—Chessy
+    "4920",  # Paris Montparnasse
+    "4924",  # Paris Gare de Lyon
+    "6165",  # Martigny
+    "6247",  # Lausanne
+    "6349",  # Neuchâtel
+    "6352",  # St-Gallen
+    "8575",  # Venezia Mestre
+    "8604",  # Luxembourg
+    "19571", # Diano Marina
+    "22525", # Bellaria
+    "23599", # Paris Porte Maillot
+    "29301", # Paris Étoile - Champs Élysées
+  ]
 end
