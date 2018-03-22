@@ -52,7 +52,7 @@ class StationsTest < Minitest::Test
 
   def test_is_station_useful
     STATIONS.each do |row|
-      if CHILDREN[row["id"]].empty?
+      if CHILDREN[row["id"]].empty? && !row["parent_station_id"]
         if !Constants::STATIONS_ENABLED_ELSEWHERE.include?(row["id"])
           assert has_rail_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
         end
@@ -237,7 +237,8 @@ class StationsTest < Minitest::Test
   def test_suggestable_has_carrier
     SUGGESTABLE_STATIONS.each do |row|
       assert has_enabled_carrier(row) ||
-        CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) },
+        CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) } ||
+        (row["parent_station_id"] && has_enabled_carrier(STATIONS_BY_ID[row["parent_station_id"]])),
         "Station #{row["name"]} (#{row["id"]}) is suggestable but has no enabled system"
     end
   end
@@ -478,11 +479,13 @@ class StationsTest < Minitest::Test
     invalid = []
 
     STATIONS.each do |row|
-      # [TODO]: take Distribusion into account too (with exceptions however)
-      if row['flixbus_is_enabled'] == 'f' && row['busbud_is_enabled'] == 'f'
+      if row['flixbus_is_enabled'] == 'f' && row['busbud_is_enabled'] == 'f' && row['distribusion_is_enabled'] == 'f'
         next
       end
-      if row['is_airport'] == 'f' && row['is_city'] == 'f' && row['parent_station_id']
+      if row['is_airport'] == 'f' &&
+        row['is_city'] == 'f' &&
+        row['parent_station_id'] &&
+        !Constants::BUS_PRECISE_STATION.include?(row['id'])
         invalid << row['id']
       end
     end
