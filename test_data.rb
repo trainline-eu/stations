@@ -497,8 +497,9 @@ class StationsTest < Minitest::Test
 
     STATIONS.each do |row|
       if row['distribusion_is_enabled'] == 't' &&
-          row['is_airport'] == 't'&&
-          row['distribusion_id'] !~ /^@FRPAR/ # For Paris we allow to map terminals
+          row['is_airport'] == 't' &&
+          row['distribusion_id'] !~ /^@FRPAR/ && # For Paris we allow to map terminals
+          row['id'] != "8672" # Amsterdam Schiphol Airport
         if row['distribusion_id'].length == 9
           invalid << row['id']
         end
