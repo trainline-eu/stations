@@ -236,5 +236,10 @@ module Constants
     "22525", # Bellaria
     "23599", # Paris Porte Maillot
     "29301", # Paris Étoile - Champs Élysées
+    "8672",  # Amsterdam Schiphol Airport
+    "7681",  # Munich Airport
+    "16130", # Munich Airport
+    "34612", # Munich Airport
+    "34613", # Munich Airport
   ]
 end
