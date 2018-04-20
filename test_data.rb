@@ -51,10 +51,10 @@ end
 class StationsTest < Minitest::Test
 
   def test_is_station_useful
-    STATIONS.each do |row|
+    SUGGESTABLE_STATIONS.each do |row|
       if CHILDREN[row["id"]].empty? && !row["parent_station_id"]
         if !Constants::STATIONS_ENABLED_ELSEWHERE.include?(row["id"])
-          assert has_rail_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be removed"
+          assert has_rail_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be not suggestable"
         end
       end
     end
