@@ -447,8 +447,14 @@ class StationsTest < Minitest::Test
   end
 
   def test_country_hints_and_children
+    # Do not activate this test for Wien children stations.
+    # It has no sense to precise the country when user searches for Wien Speising. He knows what he is looking for.
+    exceptions = [
+      "26862", # Wien
+    ]
+
     SUGGESTABLE_STATIONS.select do |row|
-      row['country_hint'] == 't'
+      row['country_hint'] == 't' && !exceptions.include?(row['id'])
     end.each do |row|
       CHILDREN[row['id']].each do |child_row|
         assert child_row['country_hint'] == 't',
