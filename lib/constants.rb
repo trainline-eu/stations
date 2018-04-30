@@ -62,6 +62,7 @@ module Constants
 
   HOMONYM_SUFFIXES = {
     "BE" => ["station", "gare"],
+    "BG" => ["gara"],
     "CH" => ["bahnhof", "gare", "stazione"],
     "DE" => ["bahnhof", "stadt"],
     "ES" => ["estacion", "ciudad"],
