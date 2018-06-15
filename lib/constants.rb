@@ -103,6 +103,7 @@ module Constants
     "MA" => "Africa/Casablanca",
     "ME" => "Europe/Podgorica",
     "MK" => "Europe/Skopje",
+    "MT" => "Europe/Malta",
     "NL" => "Europe/Amsterdam",
     "NO" => "Europe/Oslo",
     "PL" => "Europe/Warsaw",
