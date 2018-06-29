@@ -74,6 +74,7 @@ module Constants
     "PT" => ["estacao"],
     "HR" => ["stanica"],
     "SI" => ["postaja"],
+    "RO" => ["autogara"],
   }
 
   COUNTRIES = {
@@ -101,6 +102,7 @@ module Constants
     "LU" => "Europe/Luxembourg",
     "LV" => "Europe/Riga",
     "MA" => "Africa/Casablanca",
+    "MD" => "Europe/Chisinau",
     "ME" => "Europe/Podgorica",
     "MK" => "Europe/Skopje",
     "MT" => "Europe/Malta",
@@ -114,6 +116,7 @@ module Constants
     "SE" => "Europe/Stockholm",
     "SI" => "Europe/Ljubljana",
     "SK" => "Europe/Bratislava",
+    "SR" => "Europe/Belgrade",
     "TR" => "Europe/Istanbul",
     "UA" => "Europe/Kiev"
   }
