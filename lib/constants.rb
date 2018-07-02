@@ -247,5 +247,6 @@ module Constants
     "34612", # Munich Airport
     "34613", # Munich Airport
     "34620", # Brindisi Airport
+    "35406", # Alghero Airport
   ]
 end
