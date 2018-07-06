@@ -291,7 +291,7 @@ class StationsTest < Minitest::Test
 
       if children_list.size >= 2 &&
         parent_station["parent_station_id"].nil? &&
-        children_list.all? { |child| child["is_suggestable"] == "t" && child["slug"].start_with?(parent_station["slug"]) && child["slug"] != parent_station["slug"] }
+        children_list.all? { |child| child["is_suggestable"] == "t" && child["slug"].start_with?(parent_station["slug"]) && child["slug"] != parent_station["slug"] && parent_station["is_airport"] == "f" }
           refute_equal parent_station["is_city"], "f", "Parent station #{parent_station["name"]} (#{parent_station["id"]}) should be a city"
       end
     end
