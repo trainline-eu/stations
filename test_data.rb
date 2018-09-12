@@ -305,6 +305,14 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_city_is_not_airport
+    STATIONS.each do |row|
+      if row["is_city"] == "t"
+        assert_equal "f", row["is_airport"], "The city #{row["name"]} (#{row["id"]}) cannot be an airport at the same time"
+      end
+    end
+  end
+
   def test_parent_has_main_station
     CHILDREN.each do |parent_id, children_list|
       parent_station = STATIONS_BY_ID[parent_id]
