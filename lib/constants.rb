@@ -134,7 +134,7 @@ module Constants
     "ntv_id"               => '[A-Z][A-Z_0]{2}',                        # A__, AB_, AB0, ABC
     "ntv_rtiv_id"          => '[0-9]{3,4}',                             # 123, 1234
     "obb_id"               => '[0-9]{6,7}',                             # 123456, 1234567
-    "ouigo_id"             => '[A-Z]{2}[A-Z1]',                         # ABC, AB1
+    "ouigo_id"             => '[A-Z]{2}[A-Z1]|[A-Z]{5}',                # ABC, AB1, FRABC
     "renfe_id"             => '([0-9]{5}[0-9]{2}?|[A-Z]{3}[A-Z -]{2})', # 12345, 1234567, ABCDE, ABC D, ABCD-
     "sncf_id"              => '[A-Z]{5}',                               # AZERT
     "sncf_tvs_id"          => '[A-Z]{3}(_TRANS|_PSL)?',                 # ABC, ABC_TRANS, ABC_PSL
