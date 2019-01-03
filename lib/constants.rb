@@ -127,6 +127,7 @@ module Constants
     "atoc_id"              => '([A-Z]{3}|[0-9]{1,3})',                  # ABC, 1, 12, 123
     "benerail_id"          => '[A-Z]{5}',                               # ABCDE
     "busbud_id"            => '[a-z0-9]{6}',                            # a1b2cd
+    "cff_id"               => '[0-9]{7}',                               # 1234567
     "db_id"                => '[0-9]{6,7}',                             # 123456, 1234567
     "distribusion_id"      => '@*[A-Z]{5,8}',                           # FRPAR, FRPARCDG, @FRPARCDGT1
     "flixbus_id"           => '[0-9]{2,5}',                             # 1234
@@ -150,6 +151,7 @@ module Constants
     "atoc",
     "benerail",
     "busbud",
+    "cff",
     "db",
     "distribusion",
     "flixbus",

@@ -6,7 +6,9 @@ require "tzinfo"
 require_relative "lib/constants"
 
 STATIONS = CSV.read("stations.csv", Constants::CSV_PARAMETERS)
-STATIONS_BY_ID = STATIONS.inject({}) { |hash, station| hash[station["id"]] = station; hash }
+STATIONS_BY_ID = STATIONS.each_with_object({}) do |station, hash|
+  hash[station["id"]] = station
+end
 
 ALIASES = {}
 CHILDREN = {}
