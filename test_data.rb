@@ -354,14 +354,13 @@ class StationsTest < Minitest::Test
   def test_correct_slugs
     suffixes = {}
     STATIONS.each do |row|
-      if Constants::HOMONYM_SUFFIXES[row["country"]].nil?
-        assert_equal slugify(row["name"]), row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug"
-      else
-        suffixes[row["country"]] ||= Constants::HOMONYM_SUFFIXES[row["country"]].join("|")
-        if suffixes.length > 0
-          assert_match(/^#{slugify(row["name"])}-?(#{suffixes[row["country"]]})?$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
-        end
+      country = row["country"]
+      if suffixes[country].nil?
+        country_suffixes = Constants::HOMONYM_SUFFIXES[country] || []
+        country_suffixes << country.downcase
+        suffixes[country] = country_suffixes.join("|")
       end
+      assert_match(/^#{slugify(row["name"])}-?(#{suffixes[country]})?$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
     end
   end
 
