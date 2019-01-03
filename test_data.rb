@@ -75,7 +75,7 @@ class StationsTest < Minitest::Test
   end
 
   def test_station_name
-    disallowed_characters = /(\"|\'|\S\(|\)\S|\,|:|;|\?|\!|_| {2}| $)/
+    disallowed_characters = /(\"|\'|\`|\S\(|\)\S|\,|:|;|\?|\!|_| {2}| $)/
     disallowed_combinations = Constants::ALLOWED_COMBINATIONS_WITH_DOT.join("|")
 
     STATIONS.each do |row|
