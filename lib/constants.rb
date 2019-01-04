@@ -77,6 +77,7 @@ module Constants
     "SI" => ["postaja"],
     "RO" => ["autogara"],
   }
+  DUPLICATE_STATION_SUFFIXES = ["bis"]
 
   COUNTRIES = {
     "AD" => "Europe/Paris",
@@ -182,6 +183,7 @@ module Constants
     ' hl.st.( |$)',          # Czech stations
     ' F.C.$',                # Italian stations
     ' A.L.$',                # Italian stations
+    ' i.E.',                 # Swiss stations
   ]
 
   ALLOWED_STATIONS_WITH_DOT = [
