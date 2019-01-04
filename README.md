@@ -106,10 +106,24 @@ Language specific `info` columns contain translations of the station name. The l
 Column Name | Notes
 ----------- | -----
 `info:`* | Extra information that is useful in the specific language.
-`info:fr` |
-`info:en` |
 `info:de` |
+`info:en` |
+`info:es` |
+`info:fr` |
 `info:it` |
+`info:nb` |
+`info:nl` |
+`info:cs` |
+`info:da` |
+`info:hu` |
+`info:ja` |
+`info:ko` |
+`info:pl` |
+`info:pt` |
+`info:ru` |
+`info:sv` |
+`info:tr` |
+`info:zh` |
 
 ## Productivity tools
 
