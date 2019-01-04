@@ -18,6 +18,8 @@ Data come from the following sources:
 - [SNCF OpenData](https://ressources.data.sncf.com/explore/dataset/referentiel-gares-voyageurs/)
 - [GeoNames](http://www.geonames.org/)
 - [Digitraffic.fi](http://rata.digitraffic.fi/api/v1/metadata/stations)
+- [OpenTransportData.swiss](https://opentransportdata.swiss/en/dataset/bhlist/resource/035c4d98-df6c-49b4-988a-3822823f0bf9)
+- [admin.ch](https://www.bav.admin.ch/bav/fr/home/themes-a-z/geoinformation/geodonnees-de-base/arrets-des-transports-publics.html)
 
 All these sources were released under ODbL or compatible licences.
 
@@ -78,6 +80,8 @@ Column Name | Notes
 `flixbus_is_enabled` |
 `leoexpress_id` |
 `leoexpress_is_enabled` |
+`cff_id` |
+`cff_is_enabled` |
 `ouigo_id` |
 `ouigo_is_enabled` |
 `trenitalia_id` |
