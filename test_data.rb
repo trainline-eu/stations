@@ -1,5 +1,6 @@
 require "csv"
 require "minitest/autorun"
+require "minitest/focus"
 require "set"
 require "stringex"
 require "tzinfo"
@@ -356,11 +357,20 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       country = row["country"]
       if suffixes[country].nil?
-        country_suffixes = Constants::HOMONYM_SUFFIXES[country] || []
+        country_suffixes = Constants::DUPLICATE_STATION_SUFFIXES
+        country_suffixes += Constants::HOMONYM_SUFFIXES[country] || []
         country_suffixes << country.downcase
         suffixes[country] = country_suffixes.join("|")
       end
       assert_match(/^#{slugify(row["name"])}-?(#{suffixes[country]})?$/, row["slug"], "Station #{row["name"]} (#{row["id"]}) has an incorrect slug")
+    end
+  end
+
+  def test_slugs_with_countries_have_country_hint
+    STATIONS.each do |row|
+      if row["slug"].end_with?("-#{row["country"]}")
+        assert_equal "t", row["country_hint"], "Station #{row["name"]} (#{row["id"]}) has its country in it slug but country_hint is not set."
+      end
     end
   end
 
@@ -373,7 +383,6 @@ class StationsTest < Minitest::Test
       end
     end
   end
-
 
   def test_station_should_be_same_as
     STATIONS.each do |row|
