@@ -70,7 +70,7 @@ class StationsTest < Minitest::Test
   end
 
   def test_number_columns
-    nb_columns = 39 + (Constants::CARRIERS.size * 2)
+    nb_columns = 40 + (Constants::CARRIERS.size * 2)
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Station #{row["name"]} (#{row["id"]}) has a wrong number of columns: #{row["size"]}" }
   end
@@ -488,6 +488,21 @@ class StationsTest < Minitest::Test
     end.each do |row|
       refute has_localized_info?(row, Constants::MAIN_STATION_TRANSLATIONS),
         "One or more comments for #{row['name']} (#{row["id"]}) are mentionning a main station which is not needed as this stations is flagged with main_station_hint"
+    end
+  end
+
+  def test_normalised_code
+    STATIONS.each do |row|
+      if (row["country"] != 'GB' )
+        assert !row["normalised_code"].nil?, "Station #{row["name"]} (#{row["id"]}) does not have a normalised_code"
+        expected_id = row["id"]
+        if (!row["same_as"].nil?)
+          expected_id = row["same_as"]
+        end
+        assert_equal("urn:trainline:public:nloc:eu#{expected_id}", row["normalised_code"])
+      else
+        assert row["normalised_code"].nil?
+      end
     end
   end
 
