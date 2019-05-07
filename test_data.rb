@@ -163,7 +163,7 @@ class StationsTest < Minitest::Test
         # Very rough bounding box of Europe
         # Mostly tests if lon and lat are not switched
         assert_operator lon, :>, -17, "Station #{row["name"]} (#{row["id"]}) has coordinates outside the bounding box"
-        assert_operator lon, :<, 41,  "Station #{row["name"]} (#{row["id"]}) has coordinates outside the bounding box"
+        assert_operator lon, :<, 45,  "Station #{row["name"]} (#{row["id"]}) has coordinates outside the bounding box"
         assert_operator lat, :>, 30,  "Station #{row["name"]} (#{row["id"]}) has coordinates outside the bounding box"
         assert_operator lat, :<, 69,  "Station #{row["name"]} (#{row["id"]}) has coordinates outside the bounding box"
       end
