@@ -499,7 +499,7 @@ class StationsTest < Minitest::Test
         if (!row["same_as"].nil?)
           expected_id = row["same_as"]
         end
-        assert_equal("urn:trainline:public:nloc:eu#{expected_id}", row["normalised_code"])
+        assert_equal("urn:trainline:public:nloc:csv#{expected_id}", row["normalised_code"])
       else
         assert row["normalised_code"].nil?
       end
