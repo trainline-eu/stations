@@ -495,10 +495,7 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       if row["country"] != 'GB'
         assert !row["normalised_code"].nil?, "Station #{row["name"]} (#{row["id"]}) does not have a normalised_code"
-        expected_id = row["id"]
-        if !row["same_as"].nil?
-          expected_id = row["same_as"]
-        end
+        expected_id = row["same_as"] || row["id"]
         assert_equal("urn:trainline:public:nloc:csv#{expected_id}", row["normalised_code"])
       else
         assert row["normalised_code"].nil?
