@@ -57,6 +57,7 @@ Column Name | Notes
 `country_hint` | Specify if the country should be displayed to disambiguate the station's name.
 `sncf_self_service_machine` | Presence of a SNCF self-service machine at the station.
 `same_as` | Some systems allow stations to be split in two, with two `id` values. If provided, the station identified by the given value should be considered as the actual station.
+`normalised_code` | an identifier, which can be used to identify if 2 locations across multiple synchronised sources represent the same location.
 
 #### Operator Specific
 
