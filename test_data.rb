@@ -319,7 +319,7 @@ class StationsTest < Minitest::Test
   def test_parent_has_main_station
     CHILDREN.each do |parent_id, children_list|
       parent_station = STATIONS_BY_ID[parent_id]
-      if children_list.size >= 2 &&
+      if (children_list.size >= 2 && CHILDREN_ENABLED_COUNT[parent_id] > 1) &&
         parent_station["is_suggestable"] == "t" &&
         parent_station["is_main_station"] == "f" &&
         parent_station["parent_station_id"].nil?
