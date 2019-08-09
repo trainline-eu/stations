@@ -492,15 +492,21 @@ class StationsTest < Minitest::Test
   end
 
   def test_normalised_code
+    gb_stations_without_normalised_codes = []
     STATIONS.each do |row|
       if row["country"] != 'GB'
         assert !row["normalised_code"].nil?, "Station #{row["name"]} (#{row["id"]}) does not have a normalised_code"
         expected_id = row["same_as"] || row["id"]
         assert_equal("urn:trainline:public:nloc:csv#{expected_id}", row["normalised_code"])
       else
-        assert row["normalised_code"].nil?
+        if row["normalised_code"].nil?
+          gb_stations_without_normalised_codes << "Station #{row["name"]} (#{row["id"]})"
+        else
+          assert_equal(true, row["normalised_code"].start_with?("urn:trainline:public:nloc:at"), "GB station normalised codes should be in correct format")
+        end
       end
     end
+    assert_equal(30, gb_stations_without_normalised_codes.length, "There should be 30 GB stations without a normalised code")
   end
 
   # [TEMP] To be removed
