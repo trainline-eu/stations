@@ -550,6 +550,16 @@ class StationsTest < Minitest::Test
     assert_equal [], invalid, "Stations need to map to a distribusion area and not to stations"
   end
 
+  def test_is_airport_enabled_when_station_name_contains_airport
+    invalid = []
+    STATIONS.each do |row|
+      if row['name'].downcase.include?("airport") && row['is_airport'] == 'f'
+        invalid << row['id']
+      end
+    end
+    assert_equal [], invalid, "Stations need to be airport"
+  end
+
   private
 
   def has_localized_info?(row, translations)
