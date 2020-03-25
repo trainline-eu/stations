@@ -70,7 +70,7 @@ class StationsTest < Minitest::Test
   end
 
   def test_number_columns
-    nb_columns = 40 + (Constants::CARRIERS.size * 2)
+    nb_columns = 41 + (Constants::CARRIERS.size * 2)
 
     STATIONS.each { |row| assert_equal nb_columns, row.size, "Station #{row["name"]} (#{row["id"]}) has a wrong number of columns: #{row["size"]}" }
   end
