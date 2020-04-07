@@ -10,7 +10,9 @@ If you want to contribute to this database, please read [CONTRIBUTING.md](https:
 
 ## Licence
 
-The file `stations.csv` is distributed under the Open Database License (ODbL) licence, see [LICENCE.txt](https://github.com/trainline-eu/stations/blob/master/LICENCE.txt). In short, any modification to this data source must be published.
+This repository except for the 'station.csv' file is licensed under the Apache License, Version 2.0. See [LICENCE.txt](https://github.com/trainline-eu/stations/blob/master/LICENCE.txt) for the full license text.
+
+The file `stations.csv` is distributed under the Open Database License (ODbL) licence, see [LICENCE.odbl.txt](https://github.com/trainline-eu/stations/blob/master/LICENCE.odbl.txt). In short, any modification to this data source must be published.
 
 Data come from the following sources:
 
