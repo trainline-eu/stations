@@ -1,9 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    geocoder (1.6.2)
+    kdtree (0.4)
     minitest (5.6.1)
     minitest-focus (1.1.2)
       minitest (>= 4, < 6)
+    offline_geocoder (0.1.0)
+      kdtree (~> 0.3)
     stringex (2.5.2)
     thread_safe (0.3.6)
     tzinfo (1.2.4)
@@ -13,10 +17,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  geocoder
   minitest (~> 5.6.0)
   minitest-focus
+  offline_geocoder
   stringex (~> 2.5.2)
   tzinfo (~> 1.2.4)
 
 BUNDLED WITH
-   1.17.2
+   1.17.3

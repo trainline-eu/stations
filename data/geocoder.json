@@ -1,0 +1,443 @@
+{
+  "Ventimiglia Frontière": [
+    "IT"
+  ],
+  "Rodange Frontière": [
+    "BE",
+    "FR"
+  ],
+  "Bad Bentheim (Gr)": [
+    "DE"
+  ],
+  "Apach (fr)": [
+    "FR",
+    "LU"
+  ],
+  "Beringen Bad Bf": [
+    "CH"
+  ],
+  "Besch": [
+    "DE",
+    "FR"
+  ],
+  "Emmerich (Gr)": [
+    "DE",
+    "US",
+    "BR",
+    "NL"
+  ],
+  "Forbach (fr)": [
+    "FR"
+  ],
+  "Hanweiler (Gr)": [
+    "FR",
+    "DE"
+  ],
+  "Herten (Baden)": [
+    "DE"
+  ],
+  "Venlo (Gr)": [
+    "NL",
+    "US"
+  ],
+  "Luisenthal (Saar)": [
+    "DE"
+  ],
+  "Nennig": [
+    "DE"
+  ],
+  "Neuhausen Bad Bf": [
+    "CH"
+  ],
+  "Neunkirch": [
+    "FR",
+    "CH",
+    "DE"
+  ],
+  "Oberbillig": [
+    "DE"
+  ],
+  "Praest": [
+    "DE",
+    "IT"
+  ],
+  "Riehen": [
+    "CH",
+    "DE"
+  ],
+  "Riehen Niederholz": [
+    "CH"
+  ],
+  "Trasadingen": [
+    "CH"
+  ],
+  "Wehr (Mosel)": [
+    "DE"
+  ],
+  "Wellen (Mosel)": [
+    "DE"
+  ],
+  "Wilchingen-Hallau": [
+    "CH"
+  ],
+  "Wincheringen": [
+    "DE"
+  ],
+  "Vejprty (Gr)": [
+    "CZ"
+  ],
+  "Kretscham-Rothensehma": [
+    "DE"
+  ],
+  "Niederschlag": [
+    "FR",
+    "DE"
+  ],
+  "Lausheim-Blumegg": [
+    "DE"
+  ],
+  "Hemmenhofen": [
+    "DE"
+  ],
+  "Ahlbeck Grenze": [
+    "DE"
+  ],
+  "Grenzach Grenzacher Horn": [
+    "DE"
+  ],
+  "Grenzach im Rippel": [
+    "DE"
+  ],
+  "Grenzach Hornrain": [
+    "DE"
+  ],
+  "Grenzach Bärenfelsstraße": [
+    "DE"
+  ],
+  "Grenzach Seidenweg": [
+    "DE"
+  ],
+  "Grenzach Sparkasse": [
+    "DE"
+  ],
+  "Grambow (Gr)": [
+    "DE",
+    "PL"
+  ],
+  "Frankfurt (Oder) (Gr)": [
+    "DE"
+  ],
+  "Schöna (Gr)": [
+    "DE"
+  ],
+  "Tantow (Gr)": [
+    "DE",
+    "PL"
+  ],
+  "Kreuzlingen Bahnhof": [
+    "CH"
+  ],
+  "Jestetten Bahnhof": [
+    "DE"
+  ],
+  "Nove Údolí": [
+    "CZ"
+  ],
+  "Krzewina Zgorzelecka": [
+    "PL"
+  ],
+  "Ottavia": [
+    "IT"
+  ],
+  "Gemelli": [
+    "IT",
+    "AT",
+    "NL"
+  ],
+  "Roma Balduina": [
+    "IT"
+  ],
+  "Ipogeo degli Ottavi": [
+    "IT"
+  ],
+  "Valle Aurelia": [
+    "IT"
+  ],
+  "Villa Bonelli": [
+    "IT"
+  ],
+  "Appiano Proba Petronia": [
+    "IT"
+  ],
+  "Quattro Venti": [
+    "IT"
+  ],
+  "Roma San Filippo Neri": [
+    "IT"
+  ],
+  "Gorizia Confine": [
+    "IT",
+    "SI"
+  ],
+  "Sant’Antonio": [
+    "IT",
+    "CH"
+  ],
+  "Modane Gare": [
+    "FR"
+  ],
+  "Athus": [
+    "BE"
+  ],
+  "As Neves": [
+    "ES"
+  ],
+  "Caldelas": [
+    "PT",
+    "ES"
+  ],
+  "Pousa-Crecente": [
+    "ES"
+  ],
+  "Tánger Med-Barco": [
+    "MA"
+  ],
+  "Kosovo Polje": [
+    "XK",
+    "RS",
+    "BA",
+    "ME",
+    "SI"
+  ],
+  "Kosovska Mitrovica": [
+    "XK",
+    "RS"
+  ],
+  "Prahovo Pristanište": [
+    "RS"
+  ],
+  "Prahovo Selo": [
+    "RS"
+  ],
+  "Licka Kaldrma": [
+    "HR"
+  ],
+  "Trimmelkam": [
+    "AT"
+  ],
+  "Prievidza": [
+    "SK"
+  ],
+  "Ravna Gora": [
+    "HR",
+    "RS",
+    "BG",
+    "ME"
+  ],
+  "Feces de Abaixo": [
+    "ES"
+  ],
+  "Ribelles": [
+    "ES"
+  ],
+  "Santiago": [
+    "CR",
+    "CL",
+    "DO",
+    "BR",
+    "CV",
+    "PT",
+    "ES"
+  ],
+  "Tor": [
+    "IT",
+    "FR",
+    "DE",
+    "NG",
+    "ES",
+    "AU",
+    "RU"
+  ],
+  "St. Johann i.T.": [
+    "DE",
+    "IT",
+    "AT"
+  ],
+  "Aldeia da Ponte": [
+    "PT"
+  ],
+  "Quintanilha": [
+    "PT",
+    "BR"
+  ],
+  "Velykyi Bychkiv": [
+    "UA"
+  ],
+  "Lichendorf bei Mureck Bahnhof": [
+    "AT"
+  ],
+  "Tarifpunkt 92 Wullowitz Staatsgrenze": [
+    "CZ"
+  ],
+  "Spielfeld Staatsgrenze (Tarifpunkt)": [
+    "AT"
+  ],
+  "Tarifpunkt 88 Spielfeld Staatsgrenze": [
+    "AT"
+  ],
+  "Purkla Bahnhof": [
+    "AT"
+  ],
+  "Weitersfeld/Mur Bahnhof": [
+    "AT"
+  ],
+  "Weitwörth-Nußdorf Bahnhof": [
+    "AT"
+  ],
+  "Neunagelberg Bahnhof": [
+    "AT"
+  ],
+  "Ostermiething Bahnhof": [
+    "AT"
+  ],
+  "Mining Bahnhof": [
+    "AT"
+  ],
+  "Muntigl Bahnhof": [
+    "DE",
+    "AT"
+  ],
+  "Eiferding Bahnhof": [
+    "AT"
+  ],
+  "Unterretzbach Bahnhof": [
+    "AT",
+    "CZ"
+  ],
+  "Diepoltsdorf Bahnhof": [
+    "AT",
+    "DE"
+  ],
+  "Bad Hindelang": [
+    "DE"
+  ],
+  "Mellingen": [
+    "DE",
+    "CH",
+    "NO"
+  ],
+  "Oberjoch": [
+    "DE",
+    "CH",
+    "AT"
+  ],
+  "Klettgau": [
+    "DE"
+  ],
+  "Trbuscina": [
+    "RS"
+  ],
+  "Kula": [
+    "TR",
+    "BG",
+    "RS",
+    "BA",
+    "IL",
+    "NP",
+    "HR"
+  ],
+  "Odzaci": [
+    "RS",
+    "BA",
+    "ME"
+  ],
+  "Funäsdalen": [
+    "SE"
+  ],
+  "Tännäs": [
+    "SE"
+  ],
+  "Vianen": [
+    "NL",
+    "ZA",
+    "DE"
+  ],
+  "Ruderbach": [
+    "FR",
+    "CH"
+  ],
+  "Gletsch": [
+    "CH"
+  ],
+  "Borgnone-Cadanza": [
+    "CH"
+  ],
+  "Schlatt": [
+    "AT",
+    "DE",
+    "RO",
+    "CH"
+  ],
+  "Palagnedra": [
+    "CH"
+  ],
+  "Ulrichen": [
+    "CH"
+  ],
+  "Rümikon AG": [
+    "CH"
+  ],
+  "Zweidlen": [
+    "CH"
+  ],
+  "Rheinfelden Augarten": [
+    "CH"
+  ],
+  "Mannenbach-Salenstein": [
+    "CH"
+  ],
+  "Ponte Tresa": [
+    "CH",
+    "IT"
+  ],
+  "Muttbach-Belvédère": [
+    "CH"
+  ],
+  "Camedo": [
+    "CH"
+  ],
+  "Mammern": [
+    "CH"
+  ],
+  "Obergesteln": [
+    "CH"
+  ],
+  "Bonfol": [
+    "CH"
+  ],
+  "Kaiserstuhl AG": [
+    "CH"
+  ],
+  "Ferizovik": [
+    "RS",
+    "XK"
+  ],
+  "Vareš": [
+    "IT",
+    "BA",
+    "FR",
+    "FI",
+    "LT"
+  ],
+  "Modric": [
+    "MK",
+    "HR",
+    "SI"
+  ],
+  "Schaan-Vaduz": [
+    "LI"
+  ],
+  "Nendeln Bahnhof": [
+    "LI"
+  ]
+}

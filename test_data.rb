@@ -5,6 +5,7 @@ require "set"
 require "stringex"
 require "tzinfo"
 require_relative "lib/constants"
+require_relative "lib/geocoder_service"
 
 STATIONS = CSV.read("stations.csv", Constants::CSV_PARAMETERS)
 STATIONS_BY_ID = STATIONS.each_with_object({}) do |station, hash|
@@ -168,6 +169,31 @@ class StationsTest < Minitest::Test
         assert_operator lat, :<, 69,  "Station #{row["name"]} (#{row["id"]}) has coordinates outside the bounding box"
       end
     end
+  end
+
+  def test_country_coordinates
+    geocoder = GeocoderService.new
+    mismatches = []
+
+    STATIONS.each do |row|
+      next if row['distribusion_id']&.start_with?(row['country'])
+      next if row['sncf_id']&.start_with?(row['country'])
+      next if row['benerail_id']&.start_with?(row['country'])
+      next if row['ouigo_id']&.start_with?(row['country'])
+      next if row['latitude'].nil? || row['longitude'].nil?
+
+      country = geocoder.offline_geocoder(row['latitude'], row['longitude'])
+      next if row['country'] == country
+
+      countries = geocoder.online_geocoder(row['latitude'], row['longitude'], row['name'])
+      next if countries.include? row['country']
+
+      mismatches << "Station #{row['name']} (#{row['id']}) should be in #{countries} instead of #{row['country']}"
+    end
+
+    geocoder.save_api_cache
+    puts mismatches unless mismatches.empty?
+    assert_equal 0, mismatches.length
   end
 
   def test_sorted_by_id
