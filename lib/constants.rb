@@ -103,6 +103,7 @@ module Constants
     "HU" => "Europe/Budapest",
     "IE" => "Europe/Dublin",
     "IT" => "Europe/Rome",
+    "LI" => "Europe/Vaduz",
     "LT" => "Europe/Vilnius",
     "LU" => "Europe/Luxembourg",
     "LV" => "Europe/Riga",
