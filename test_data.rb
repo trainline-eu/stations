@@ -560,6 +560,19 @@ class StationsTest < Minitest::Test
     assert_equal [], invalid, "Stations need to be airport"
   end
 
+  def test_valid_iata_airport_codes
+    iata_codes = []
+    STATIONS.each do |row|
+      if !row['iata_airport_code'].nil?
+        message = "IATA code must be unique: '#{row['iata_airport_code']}' appears more than once"
+        refute iata_codes.include?(row['iata_airport_code']), message
+        iata_codes << row['iata_airport_code']
+
+        assert row['iata_airport_code'] =~ /^[A-Z]{3}$/, "Invalid IATA code: '#{row['iata_airport_code']}'"
+      end
+    end
+  end
+
   private
 
   def has_localized_info?(row, translations)
