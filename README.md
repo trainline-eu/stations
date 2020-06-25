@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/trainline-eu/stations.svg?branch=master)](https://travis-ci.org/trainline-eu/stations)
+![Build Status](https://github.com/trainline-eu/stations/workflows/CI/badge.svg?branch=master)
 
 [Trainline EU](https://www.trainline.eu) sells tickets for numerous train operators across Europe.
 
