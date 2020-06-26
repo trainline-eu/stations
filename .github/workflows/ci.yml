@@ -23,6 +23,6 @@ jobs:
     name: Stations Human Diff
     runs-on: ubuntu-latest
     steps:
-    - uses: trainline-eu/stations-human-diff@master
+    - uses: ftuyama/stations-human-diff@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
