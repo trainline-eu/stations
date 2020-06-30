@@ -1,0 +1,15 @@
+name: Stations Human Diff
+
+on:
+  schedule:
+    # Github limit actually is */10 * * * *
+    - cron: '* * * * *'
+
+jobs:
+  stations_diff:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: trainline-eu/stations-human-diff@master
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
