@@ -1,4 +1,4 @@
-![Build Status](https://github.com/trainline-eu/stations/workflows/CI/badge.svg?branch=master)
+![Build Status](https://github.com/trainline-eu/stations/workflows/Tests/badge.svg?branch=master)
 
 [Trainline EU](https://www.trainline.eu) sells tickets for numerous train operators across Europe.
 

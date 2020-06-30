@@ -1,0 +1,14 @@
+name: Stations Human Diff
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'
+
+jobs:
+  stations_diff:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: ftuyama/stations-human-diff@master
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
