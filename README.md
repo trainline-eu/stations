@@ -1,8 +1,8 @@
-![Build Status](https://github.com/trainline-eu/stations/workflows/CI/badge.svg?branch=master)
+# Stations - A Database of European Train Stations
+
+![Build Status](https://github.com/trainline-eu/stations/workflows/Tests/badge.svg?branch=master)
 
 [Trainline EU](https://www.trainline.eu) sells tickets for numerous train operators across Europe.
-
-## Stations - A Database of European Train Stations
 
 This repository contains the information Trainline EU uses to identify stations across the diverse systems of the train operators.
 
