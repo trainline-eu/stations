@@ -8,7 +8,6 @@ on:
 jobs:
   stations_diff:
     runs-on: ubuntu-latest
-
     steps:
       - uses: trainline-eu/stations-human-diff@master
         env:
