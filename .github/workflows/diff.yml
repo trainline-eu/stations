@@ -11,4 +11,9 @@ jobs:
     steps:
       - uses: trainline-eu/stations-human-diff@master
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          STATIONS_GITHUB_APP_ID: ${{ secrets.STATIONS_GITHUB_APP_ID }}
+          STATIONS_GITHUB_APP_NAME: ${{ secrets.STATIONS_GITHUB_APP_NAME }}
+          STATIONS_GITHUB_APP_CLIENT_ID: ${{ secrets.STATIONS_GITHUB_APP_CLIENT_ID }}
+          STATIONS_GITHUB_APP_CLIENT_SECRET: ${{ secrets.STATIONS_GITHUB_APP_CLIENT_SECRET }}
+          STATIONS_GITHUB_APP_INSTALL_ID: ${{ secrets.STATIONS_GITHUB_APP_INSTALL_ID }}
+          STATIONS_GITHUB_APP_PRIVATE_KEY_PEM: ${{ secrets.STATIONS_GITHUB_APP_PRIVATE_KEY_PEM }}
