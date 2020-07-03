@@ -3,7 +3,8 @@ name: Stations Human Diff
 on:
   schedule:
     # Github limit actually is */10 * * * *
-    - cron: '* * * * *'
+    # Every minute on workdays from 6h to 20h
+    - cron: '* 6-20 * * 1-5'
 
 jobs:
   stations_diff:
