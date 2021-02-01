@@ -253,11 +253,15 @@ module Constants
     "8672",  # Amsterdam Schiphol Airport
     "7681",  # Munich Airport
     "16130", # Munich Airport
+    "32267", # Frankfurt Hahn
     "34612", # Munich Airport
     "34613", # Munich Airport
     "34620", # Brindisi Airport
     "35406", # Alghero Airport
     "35409", # Barcelona El Prat
     "35410", # Barcelona El Prat
+    "38698", # Vnukovo Airport Train Station
+    "38699", # Moscow Domodedovo Airport Train Station
+    "38700", # Moscow Sheremetyevo Airport Train Station
   ]
 end
