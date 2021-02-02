@@ -534,7 +534,7 @@ class StationsTest < Minitest::Test
     assert_equal [], invalid
   end
 
-  def test_distribusion_aiport
+  def test_distribusion_airport
     invalid = []
 
     STATIONS.each do |row|
@@ -542,7 +542,7 @@ class StationsTest < Minitest::Test
           row['is_airport'] == 't' &&
           row['distribusion_id'] !~ /^@FRPAR/ && # For Paris we allow to map terminals
           !Constants::BUS_PRECISE_STATION.include?(row['id'])
-        if row['distribusion_id'].length == 9
+        if row['distribusion_id'].length >= 8
           invalid << row['id']
         end
       end
