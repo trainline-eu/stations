@@ -246,6 +246,7 @@ module Constants
     "6352",  # St-Gallen
     "8575",  # Venezia Mestre
     "8604",  # Luxembourg
+    "9446",  # La Défense
     "19571", # Diano Marina
     "22525", # Bellaria
     "23599", # Paris Porte Maillot
