@@ -54,13 +54,15 @@ end
 class StationsTest < Minitest::Test
 
   def test_is_station_useful
+    useless_stations = []
     SUGGESTABLE_STATIONS.each do |row|
       if CHILDREN[row["id"]].empty? && !row["parent_station_id"]
         if !Constants::STATIONS_ENABLED_ELSEWHERE.include?(row["id"])
-          assert has_rail_id(row), "Station #{row["name"]} (#{row["id"]}) is useless and should be not suggestable"
+          useless_stations << row unless has_rail_id(row)
         end
       end
     end
+    assert_equal 0, useless_stations.length, "Stations #{useless_stations.map {|row| row['id'].to_i }  } are useless and should be not suggestable"
   end
 
   def test_valid_timezone
@@ -238,12 +240,15 @@ class StationsTest < Minitest::Test
   end
 
   def test_suggestable_has_carrier
+    useless_stations = []
     SUGGESTABLE_STATIONS.each do |row|
-      assert has_enabled_carrier(row) ||
+      unless has_enabled_carrier(row) ||
         CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) } ||
-        (row["parent_station_id"] && has_enabled_carrier(STATIONS_BY_ID[row["parent_station_id"]])),
-        "Station #{row["name"]} (#{row["id"]}) is suggestable but has no enabled system"
+        (row["parent_station_id"] && has_enabled_carrier(STATIONS_BY_ID[row["parent_station_id"]]))
+        useless_stations << row 
+      end
     end
+    assert_equal 0, useless_stations.length, "Stations #{useless_stations.map {|row| row['id'].to_i }  } are suggestable but has no enabled system"
   end
 
   def test_parent_station
@@ -515,7 +520,7 @@ class StationsTest < Minitest::Test
       id = row["id"].to_i
       assert id < 32623 || id > 33295
     end
-  end
+  end<
 
   def test_coach_city_airport
     invalid = []
