@@ -245,7 +245,7 @@ class StationsTest < Minitest::Test
       unless has_enabled_carrier(row) ||
         CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) } ||
         (row["parent_station_id"] && has_enabled_carrier(STATIONS_BY_ID[row["parent_station_id"]]))
-        useless_stations << row 
+        useless_stations << row
       end
     end
     assert_equal 0, useless_stations.length, "Stations #{useless_stations.map {|row| row['id'].to_i }  } are suggestable but has no enabled system"
@@ -511,7 +511,7 @@ class StationsTest < Minitest::Test
         end
       end
     end
-    assert_equal(30, gb_stations_without_normalised_codes.length, "There should be 30 GB stations without a normalised code")
+    assert_equal(29, gb_stations_without_normalised_codes.length, "There should be 29 GB stations without a normalised code")
   end
 
   # [TEMP] To be removed
