@@ -1,0 +1,5 @@
+.ruby-gemset
+.vscode/*
+.env*
+.byebug_history
+**/.DS_Store
