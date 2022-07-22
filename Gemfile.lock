@@ -6,7 +6,7 @@ GEM
       minitest (>= 4, < 6)
     stringex (2.5.2)
     thread_safe (0.3.6)
-    tzinfo (1.2.4)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
 
 PLATFORMS
@@ -16,7 +16,7 @@ DEPENDENCIES
   minitest (~> 5.6.0)
   minitest-focus
   stringex (~> 2.5.2)
-  tzinfo (~> 1.2.4)
+  tzinfo (~> 1.2.10)
 
 BUNDLED WITH
    1.17.2
