@@ -244,6 +244,7 @@ module Constants
     "6247",  # Lausanne
     "6349",  # Neuchâtel
     "6352",  # St-Gallen
+    "6943",  # Frankfurt (M) Flughafen
     "8575",  # Venezia Mestre
     "8604",  # Luxembourg
     "9446",  # La Défense
