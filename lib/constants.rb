@@ -149,6 +149,7 @@ module Constants
     "trenitalia_rtvt_id"   => '[NS][0-9]{5}',                           # N12345, S12345
     "uic"                  => '[0-9]{7}',                               # 1234567
     "uic8_sncf"            => '[0-9]{8}',                               # 12345678
+    "westbahn_id"          => '[0-9]{1,3}',                             # 12345
   }
 
   CARRIERS = [
