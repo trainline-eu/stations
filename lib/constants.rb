@@ -266,5 +266,10 @@ module Constants
     "38698", # Vnukovo Airport Train Station
     "38699", # Moscow Domodedovo Airport Train Station
     "38700", # Moscow Sheremetyevo Airport Train Station
+    "6992", # Passau Hbf
+    "7131", # Neuenburg (Baden)
+    "7366", # Pocking
+    "7667", # Kaiserslautern Hbf
+    "16631", # Berlin Nordbahnhof
   ]
 end
