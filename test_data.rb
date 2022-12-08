@@ -6,7 +6,7 @@ require "stringex"
 require "tzinfo"
 require_relative "lib/constants"
 
-STATIONS = CSV.read("stations.csv", Constants::CSV_PARAMETERS)
+STATIONS = CSV.read("stations.csv", **Constants::CSV_PARAMETERS)
 STATIONS_BY_ID = STATIONS.each_with_object({}) do |station, hash|
   hash[station["id"]] = station
 end
