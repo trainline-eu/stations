@@ -134,7 +134,7 @@ module Constants
     "cff_id"               => '[0-9]{7}',                               # 1234567
     "db_id"                => '[0-9]{6,7}',                             # 123456, 1234567
     "distribusion_id"      => '@*[A-Z]{5,8}',                           # FRPAR, FRPARCDG, @FRPARCDGT1
-    "flixbus_id"           => '[0-9]{2,5}',                             # 1234
+    "flixbus_id"           => '[0-9]{2,6}',                             # 1234
     "hkx_id"               => '[0-9]{9}',                               # 123456789
     "entur_id"             => 'NSR|[a-zA-Z]|[0-9]',                     # NSR|StopPlace|11267
     "leoexpress_id"        => '([0-9]+|[A-Z]+)',                        # 841, 5615750, PRAHA, SOMETOWN
