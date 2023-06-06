@@ -522,6 +522,7 @@ class StationsTest < Minitest::Test
     end
   end<
 
+  # buses must only be mapped to cities or airports, not to specific stations
   def test_coach_city_airport
     invalid = []
 
