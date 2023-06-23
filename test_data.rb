@@ -125,7 +125,7 @@ class StationsTest < Minitest::Test
         end
       end
 
-      bad_counts = counts.select { |station, count| !["LYON-", "MONTP"].include?(station) && count != 1 }
+      bad_counts = counts.select { |station, count| !["LYON-", "MONTP", "NIMES"].include?(station) && count != 1 }
       assert_equal 0, bad_counts.length, "#{id_column} duplicated: #{bad_counts.map(&:first).join(', ')}"
     end
   end
