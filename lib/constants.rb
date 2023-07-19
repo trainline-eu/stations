@@ -271,6 +271,7 @@ module Constants
     "7366", # Pocking
     "7667", # Kaiserslautern Hbf
     "16631", # Berlin Nordbahnhof
-    "18817", #Györ
+    "18817", # Györ
+    "22273", # Turin Airport
   ]
 end
