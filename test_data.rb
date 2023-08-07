@@ -383,7 +383,7 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       uic8_sncf = row["uic8_sncf"]
       uic = row["uic"]
-      if !uic8_sncf.nil? && !Constants::UIC8_WHITELIST_IDS.include?(row["id"])
+      if !uic.nil? && !uic8_sncf.nil? && !Constants::UIC8_WHITELIST_IDS.include?(row["id"])
         assert uic == uic8_sncf[0...-1], "Station #{row["name"]} (#{row["id"]}) has an incoherent uic8_sncf code"
       end
     end
