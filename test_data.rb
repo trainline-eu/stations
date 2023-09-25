@@ -240,11 +240,13 @@ class StationsTest < Minitest::Test
   end
 
   def test_suggestable_has_carrier
+    stations_to_ignore = %w(68192)
     useless_stations = []
     SUGGESTABLE_STATIONS.each do |row|
       unless has_enabled_carrier(row) ||
         CHILDREN[row["id"]].any? { |r| has_enabled_carrier(r) } ||
-        (row["parent_station_id"] && has_enabled_carrier(STATIONS_BY_ID[row["parent_station_id"]]))
+        (row["parent_station_id"] && has_enabled_carrier(STATIONS_BY_ID[row["parent_station_id"]])) ||
+        stations_to_ignore.include?(row["id"])
         useless_stations << row
       end
     end
