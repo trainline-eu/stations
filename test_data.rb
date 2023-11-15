@@ -78,6 +78,7 @@ class StationsTest < Minitest::Test
   end
 
   def test_station_name
+    # If your test is failing due to an apostrophe ('), it needs to be this character: ’
     disallowed_characters = /(\"|\'|\`|\S\(|\)\S|\,|:|;|\?|\!|_| {2}| $)/
     disallowed_combinations = Constants::ALLOWED_COMBINATIONS_WITH_DOT.join("|")
 
@@ -241,6 +242,7 @@ class StationsTest < Minitest::Test
 
   def test_suggestable_has_carrier
     cercanias_stations = ("68192".."68228").to_a  # Cercanias stations do not need a carrier
+    cercanias_stations += ("74454".."74507").to_a
     useless_stations = []
     SUGGESTABLE_STATIONS.each do |row|
       unless has_enabled_carrier(row) ||
