@@ -243,6 +243,7 @@ class StationsTest < Minitest::Test
   def test_suggestable_has_carrier
     cercanias_stations = ("68192".."68228").to_a  # Cercanias stations do not need a carrier
     cercanias_stations += ("74454".."74507").to_a
+    cercanias_stations += ["35841"]
     useless_stations = []
     SUGGESTABLE_STATIONS.each do |row|
       unless has_enabled_carrier(row) ||

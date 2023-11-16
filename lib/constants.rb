@@ -209,6 +209,7 @@ module Constants
     "29300", # Roissy T1
     "23599", # Porte Maillot
     "29301", # Etoile Champs Elysées
+    "35841" # Sant Pol de Mar
   ]
 
   # Not real technical limitation, but we have to ensure that there is no infinite loop
