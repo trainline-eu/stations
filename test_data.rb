@@ -20,6 +20,9 @@ STATIONS.each { |row| CHILDREN[row["id"]] = [] }
 STATIONS.each { |row| SLUG_COUNT["#{row["slug"]}_#{row["country"]}"] = 0 }
 SUGGESTABLE_STATIONS = STATIONS.select { |row| row['is_suggestable'] == 't' }
 
+MALFORMED_ALIASES = []
+MALFORMED_PARENTS = []
+
 def has_enabled_carrier(row)
   Constants::CARRIERS.any? { |carrier| row["#{carrier}_is_enabled"] == "t" }
 end
@@ -34,11 +37,17 @@ end
 
 STATIONS.each do |row|
   if row["same_as"]
-    ALIASES[row["same_as"]] << row
+    if ALIASES[row["same_as"]].nil?
+      MALFORMED_ALIASES << row
+    end
+    (ALIASES[row["same_as"]] || []) << row
   end
 
   if row["parent_station_id"]
-    CHILDREN[row["parent_station_id"]] << row
+    if CHILDREN[row["parent_station_id"]].nil?
+      MALFORMED_PARENTS << row
+    end
+    (CHILDREN[row["parent_station_id"]] || []) << row
     if has_enabled_carrier(row) == "t"
       CHILDREN_ENABLED_COUNT[row["parent_station_id"]] += 1
     end
@@ -256,6 +265,10 @@ class StationsTest < Minitest::Test
     assert_equal 0, useless_stations.length, "Stations #{useless_stations.map {|row| row['id'].to_i }  } are suggestable but has no enabled system"
   end
 
+  def test_malformed_parent
+    assert_empty(MALFORMED_PARENTS, "Stations have a bogus parent_station_id: #{MALFORMED_PARENTS.map { |s| "#{s["name"]} (#{s["id"]}) → #{s["parent_station_id"]}" }.join(", ")}")
+  end
+
   def test_parent_station
     SUGGESTABLE_STATIONS.each do |row|
       parent_id = row["parent_station_id"]
@@ -392,6 +405,10 @@ class StationsTest < Minitest::Test
         assert uic == uic8_sncf[0...-1], "Station #{row["name"]} (#{row["id"]}) has an incoherent uic8_sncf code"
       end
     end
+  end
+
+  def test_malformed_same_as
+    assert_empty(MALFORMED_ALIASES, "Stations have a bogus same_as: #{MALFORMED_ALIASES.map { |s| "#{s["name"]} (#{s["id"]}) → #{s["same_as"]}"}.join(", ")}")
   end
 
   def test_station_should_be_same_as
