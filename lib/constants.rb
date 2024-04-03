@@ -274,5 +274,16 @@ module Constants
     "16631", # Berlin Nordbahnhof
     "18817", # Györ
     "22273", # Turin Airport
+    "5893", # Bruxelles-Midi - Distribusion - European Sleeper (train)
+    "5894", # Amsterdam-Centraal - Distribusion - European Sleeper (train)
+    "5929", # Antwerpen-Centraal - Distribusion - European Sleeper (train)
+    "7519", # Dresden Hbf - Distribusion - European Sleeper (train)
+    "7540", # Berlin Ostbahnhof - Distribusion - European Sleeper (train)
+    "7630", # Berlin Hbf - Distribusion - European Sleeper (train)
+    "8644", # Den Haag HS - Distribusion - European Sleeper (train)
+    "8670", # Rotterdam Centraal - Distribusion - European Sleeper (train)
+    "17509", # Praha hl.n. - Distribusion - European Sleeper (train)
+    "17511", # Ústí nad Labem hl.n.Distribusion - European Sleeper (train)
+    "74653" # Amersfoort Central Train Station - Distribusion - European Sleeper (train)
   ]
 end
