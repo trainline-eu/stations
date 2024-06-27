@@ -4,7 +4,8 @@
 
 [Trainline EU](https://www.trainline.eu) sells tickets for numerous train operators across Europe.
 
-This repository contains the information Trainline EU uses to identify stations across the diverse systems of the train operators.
+This repository contains the information Trainline EU uses to identify stations
+across the diverse systems of the train operators.
 
 If you want to contribute to this database, please read [CONTRIBUTING.md](https://github.com/trainline-eu/stations/blob/master/CONTRIBUTING.md).
 
