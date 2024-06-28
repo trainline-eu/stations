@@ -1,4 +1,5 @@
 require "csv"
+require "luhnacy"
 require "minitest/autorun"
 require "minitest/focus"
 require "set"
@@ -58,6 +59,16 @@ end
 
 def slugify(name)
   name.gsub(/[\/\.]/,"-").to_ascii.to_url
+end
+
+#TAP TSI: ANNEX B.9
+#STANDARD NUMERICAL CODING OF LOCATIONS
+def get_check_digit(uic7)
+  -Luhnacy.calc_modulus("#{uic7[2..]}0") % 10
+end
+
+def uic8_valid?(uic8)
+  Luhnacy.valid?("#{uic8[2..]}")
 end
 
 class StationsTest < Minitest::Test
@@ -402,7 +413,8 @@ class StationsTest < Minitest::Test
       uic8_sncf = row["uic8_sncf"]
       uic = row["uic"]
       if !uic.nil? && !uic8_sncf.nil? && !Constants::UIC8_WHITELIST_IDS.include?(row["id"])
-        assert uic == uic8_sncf[0...-1], "Station #{row["name"]} (#{row["id"]}) has an incoherent uic8_sncf code"
+        assert uic == uic8_sncf[0...-1], "Station #{row["name"]} (#{row["id"]}) has its uic and uic8_sncf that do not match."
+        assert uic8_valid?(uic8_sncf), "Station #{row["name"]} (#{row["id"]}) has an incorrect uic8_sncf code. It should be \"#{uic}#{get_check_digit(uic)}\"."
       end
     end
   end
