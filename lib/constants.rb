@@ -127,6 +127,164 @@ module Constants
     "UA" => "Europe/Kiev"
   }
 
+  # UIC Leaflet 920-14
+  COUNTRIES_UIC_CODES = {
+    "FI" => ["10"],
+    "RU" => ["20"],
+    "BY" => ["21"],
+    "UA" => ["22"],
+    "MD" => ["23"],
+    "LT" => ["24"],
+    "LV" => ["25"],
+    "EE" => ["26"],
+    "KZ" => ["27"],
+    "GE" => ["28"],
+    "UZ" => ["29"],
+    "KP" => ["30"],
+    "MN" => ["31"],
+    "VN" => ["32"],
+    "CN" => ["33"],
+    "LA" => ["34"],
+    "CU" => ["40"],
+    "AL" => ["41"],
+    "JP" => ["42"],
+    "BA" => ["44", "49", "50"],
+    "PL" => ["51"],
+    "BG" => ["52"],
+    "RO" => ["53"],
+    "CZ" => ["54"],
+    "HU" => ["55"],
+    "SK" => ["56"],
+    "AZ" => ["57"],
+    "AM" => ["58"],
+    "KG" => ["59"],
+    "IE" => ["60"],
+    "KR" => ["61"],
+    "ME" => ["62"],
+    "MK" => ["65"],
+    "TJ" => ["66"],
+    "TM" => ["67"],
+    "AF" => ["68"],
+    "GB" => ["70"],
+    "ES" => ["71"],
+    "RS" => ["72"],
+    "GR" => ["73"],
+    "SE" => ["74"],
+    "TR" => ["75"],
+    "NO" => ["76"],
+    "HR" => ["78"],
+    "SI" => ["79"],
+    "DE" => ["80"],
+    "AT" => ["81"],
+    "LU" => ["82"],
+    "IT" => ["83"],
+    "NL" => ["84"],
+    "CH" => ["85"],
+    "DK" => ["86"],
+    "FR" => ["87"],
+    "BE" => ["88"],
+    "TZ" => ["89"],
+    "EG" => ["90"],
+    "TN" => ["91"],
+    "DZ" => ["92"],
+    "MA" => ["93"],
+    "PT" => ["94"],
+    "IL" => ["95"],
+    "IR" => ["96"],
+    "SY" => ["97"],
+    "LB" => ["98"],
+    "IQ" => ["99"],
+  }
+
+  UIC_KNOWN_DISCREPANCIES = [
+    "17", # Vievola 8300618 (FR)
+    "811", # Basel SBB 8718791 (CH)
+    "972", # Kehl Grenze 8721291 (DE)
+    "1121", # Tournai Frontière 8724164 (BE)
+    "1122", # Froyennes 8724175 (BE)
+    "1143", # Aéroport Paris Roissy Charles de Gaulle CDG 9903148 (FR)
+    "1313", # Mouscron 8728698 (BE)
+    "1354", # Quevy Frontière 8729592 (BE)
+    "1544", # Irún 8767791 (ES)
+    "2848", # Le Locle Col des Roches 8759821 (CH)
+    "3235", # Canfranc 8767290 (ES)
+    "3600", # Vallorbe Frontière 8771591 (CH)
+    "4041", # Le Trétien 8774663 (CH)
+    "4042", # Les Marécottes 8774664 (CH)
+    "4043", # Salvan 8774665 (CH)
+    "4044", # Vernayaz 8774666 (CH)
+    "4045", # Martigny 8774668 (CH)
+    "4089", # Genève Voyageurs 8774890 (CH)
+    "4091", # Lausanne 8774896 (CH)
+    "4621", # Le Châtelard 8501382 (FR)
+    "4656", # Le Locle 8705982 (CH)
+    "4831", # Finhaut Frontière 8774662 (CH)
+    "4930", # Port-Bou 8778590 (ES)
+    "5671", # Ventimiglia Frontière 8775690 (IT)
+    "6312", # Évian-les-Bains Port 8501074 (FR)
+    "6994", # Salzburg 8020060 (AT)
+    "7685", # Mittenwald 8103332 (DE)
+    "8234", # Glasgow 9900008 (GB)
+    "8267", # London 9900007 (GB)
+    "9209", # Bettembourg Frontière 8719197 (LU)
+    "9864", # Luxembourg 8713244 (LU)
+    "10029", # Le Locle 8759822 (CH)
+    "10433", # Hanweiler Grenze 8719392 (DE)
+    "10439", # Rodange Frontière 8719494 (LU)
+    "10491", # Warszawa 9900001 (PL)
+    "10994", # Apach (fr) 8025197 (FR)
+    "11147", # Beringen Bad Bf 8014484 (CH)
+    "11740", # Forbach (fr) 8025396 (FR)
+    "12098", # Herblingen 8014487 (CH)
+    "12281", # Venlo (Gr) 8015134 (NL)
+    "12859", # Neuhausen Bad Bf 8014485 (CH)
+    "13231", # Riehen Niederholz 8087021 (CH)
+    "13590", # Thayngen 8014490 (CH)
+    "13603", # Trasadingen 8014488 (CH)
+    "13833", # Wilchingen-Hallau 8014482 (CH)
+    "14563", # Vejprty (Gr) 8009874 (CZ)
+    "17098", # Portbou 8778595 (ES)
+    "18256", # Lottstetten 8503420 (DE)
+    "18257", # Jestetten 8503421 (DE)
+    "22022", # Modane Gare 8300253 (FR)
+    "22357", # San Martino 8354406 (CH)
+    "24439", # Tánger Med-Barco 7199124 (MA)
+    "24440", # Tánger Ville-Barco 7199125 (MA)
+    "28674", # Nikšić 7231101 (ME)
+    "28688", # Bijelo Polje 7231302 (ME)
+    "28689", # Mojkovac 7231305 (ME)
+    "28690", # Podgorica 7231001 (ME)
+    "28691", # Bar 7231080 (ME)
+    "28692", # Kolašin 7231307 (ME)
+    "28696", # Grobelno 7243200 (SI)
+    "28697", # Opatija-Matulji 7244911 (HR)
+    "28698", # Pula 7244417 (HR)
+    "28699", # Banja Luka 7253127 (BA)
+    "28700", # Bihać 7253408 (BA)
+    "28701", # Bos Krupa 7213093 (BA)
+    "28702", # Bosanski Novi 7253160 (BA)
+    "28703", # Čapljina 7251047 (BA)
+    "28704", # Doboj 7252060 (BA)
+    "28705", # Licka Kaldrma 7253423 (HR)
+    "28706", # Martin Brod 7253418 (BA)
+    "28707", # Ploče 7251080 (HR)
+    "28708", # Podlugovi 7252087 (BA)
+    "28710", # Prijedor 7253107 (BA)
+    "28711", # Tuzla 7213166 (BA)
+    "28712", # Zavidovići 7252029 (BA)
+    "28713", # Zenica 7252062 (BA)
+    "28714", # Bitola 7261822 (MK)
+    "28715", # Demir Kapija 7261711 (MK)
+    "28716", # Negotino Vardar 7261708 (MK)
+    "28717", # Prilep 7261815 (MK)
+    "28719", # Kićevo 7261519 (MK)
+    "28720", # Veles 7261601 (MK)
+    "28723", # Kumanovo 7261203 (MK)
+    "51453", # Mals/Malles Abzw Schleis 8583439 (IT)
+    "61115", # Stabio 8313709 (CH)
+    "61116", # Col-du-Pillon Glacier 3000 8313926 (CH)
+  ]
+
   RAIL_IDS = {
     "atoc_id"              => '([A-Z]{3}|[0-9]{1,3})',                  # ABC, 1, 12, 123
     "benerail_id"          => '[A-Z]{5}',                               # ABCDE
