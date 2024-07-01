@@ -442,6 +442,8 @@ module Constants
     "8670", # Rotterdam Centraal - Distribusion - European Sleeper (train)
     "17509", # Praha hl.n. - Distribusion - European Sleeper (train)
     "17511", # Ústí nad Labem hl.n.Distribusion - European Sleeper (train)
-    "74653" # Amersfoort Central Train Station - Distribusion - European Sleeper (train)
+    "74653", # Amersfoort Central Train Station - Distribusion - European Sleeper (train)
+    "74660", # Taranto Terminal Cimino
+    "74661", # Firenze Piazzale Montelungo
   ]
 end
