@@ -55,7 +55,6 @@ module Constants
     "10220", # Hendaye Frontière
     "10431", # Forbach Frontière
     "10433", # Hanweiler Grenze
-    "10439"  # Rodange Frontière
   ]
 
   UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
