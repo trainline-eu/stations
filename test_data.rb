@@ -419,7 +419,7 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       uic8_sncf = row["uic8_sncf"]
       uic = row["uic"]
-      if !uic.nil? && !uic8_sncf.nil? && !Constants::UIC8_WHITELIST_IDS.include?(row["id"])
+      if !uic.nil? && !uic8_sncf.nil?
         assert uic == uic8_sncf[0...-1], "Station #{row["name"]} (#{row["id"]}) has its uic and uic8_sncf that do not match."
         assert uic8_valid?(uic8_sncf), "Station #{row["name"]} (#{row["id"]}) has an incorrect uic8_sncf code. It should be \"#{uic[0..1]}#{Luhnacy.generate(6, :prefix => uic[2..7])}\"."
       end
