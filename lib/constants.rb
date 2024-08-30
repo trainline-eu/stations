@@ -42,7 +42,7 @@ module Constants
     "4089",  # Genève Voyageurs
     "4185",  # Limone Confine
     "4551",  # Le Châtelard Frontière
-    "4930",  # Port-Bou
+    "17098", # Port-Bou
     "5671",  # Ventimiglia Frontière
     "9045",  # Les Verrières Frontière
     "9209",  # Bettembourg Frontière
