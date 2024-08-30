@@ -417,7 +417,7 @@ class StationsTest < Minitest::Test
 
   def test_uic8_sncf
     STATIONS.each do |row|
-      uic8_sncf = row["uic8_sncf"]
+      uic8_sncf = row["uic8_sncf"] || "#{row["uic"]}x"
       uic = row["uic"]
       if !uic.nil? && !uic8_sncf.nil?
         assert uic == uic8_sncf[0...-1], "Station #{row["name"]} (#{row["id"]}) has its uic and uic8_sncf that do not match."
