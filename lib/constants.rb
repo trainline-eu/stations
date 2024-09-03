@@ -57,8 +57,6 @@ module Constants
     "10433", # Hanweiler Grenze
   ]
 
-  UIC8_WHITELIST_IDS = ["1144"] # Exception : CDG TGV UIC8 is CDG 2 RER.
-
   HOMONYM_SUFFIXES = {
     "BE" => ["station", "gare"],
     "BG" => ["gara"],
