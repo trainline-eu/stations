@@ -404,13 +404,25 @@ class StationsTest < Minitest::Test
     end
   end
 
-  def test_uic
+  def test_uic_country
     STATIONS.each do |row|
       if !Constants::UIC_KNOWN_DISCREPANCIES.include?(row["id"]) &&
         !row["uic"].nil? &&
         !Constants::COUNTRIES_UIC_CODES[row["country"]].nil?
 
         assert Constants::COUNTRIES_UIC_CODES[row["country"]].include?(row["uic"][0..1]), "Station #{row["name"]} (#{row["id"]}) has a mismatch between its UIC country code (#{row["uic"][0..1]}) and its country (#{row["country"]}: #{Constants::COUNTRIES_UIC_CODES[row["country"]].join(", ")})"
+      end
+    end
+  end
+
+  def test_uic_unique
+    uic_list = Set.new
+
+    STATIONS.each do |row|
+      if !row["uic"].nil? && row["same_as"].nil?
+        assert !uic_list.include?(row["uic"]), "Station #{row["name"]} (#{row["id"]}) has its UIC code (#{row["uic"]}) already in use."
+
+        uic_list << row["uic"]
       end
     end
   end
