@@ -83,7 +83,7 @@ class StationsTest < Minitest::Test
 
   def test_valid_timezone
     Constants::COUNTRIES.values.each do |timezone|
-      tz = TZInfo::Timezone.get(timezone)
+      assert TZInfo::Timezone.get(timezone)
     end
   end
 
