@@ -20,5 +20,13 @@ DEPENDENCIES
   stringex (~> 2.5.2)
   tzinfo (~> 1.2.10)
 
+CHECKSUMS
+  luhnacy (0.2.2) sha256=81d12741f96128c751790531ecec667422ac6bd80e6dd18b6330692f34359080
+  minitest (5.6.1) sha256=c293d497049aa663dc6332b940bdac9dd3052b62ccfe943c4fb5b130154f86b1
+  minitest-focus (1.1.2) sha256=a09a0f17d648c4e72696e2a53b8091a5bdea5b2ca9c8aa9165bf9d662ed5f2fd
+  stringex (2.5.2) sha256=27a8ee92a808a83284438e51ed391f3539ae6b39731b95cb4ad940974f6d0a94
+  thread_safe (0.3.6) sha256=9ed7072821b51c57e8d6b7011a8e282e25aeea3a4065eab326e43f66f063b05a
+  tzinfo (1.2.10) sha256=c6d3fa6e6de19744171536dc1bd1142442f3f265efabe8d9f28c03f9874f8867
+
 BUNDLED WITH
-   1.17.2
+   2.5.16
