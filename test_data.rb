@@ -155,6 +155,12 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def decimal_places(decimal)
+    decimal =~ /\A-?\d{1,3}(\.(\d+))?\z/
+
+    ($2 || "").length
+  end
+
   def test_coordinates
     STATIONS.each do |row|
       lon = row["longitude"]
@@ -175,6 +181,11 @@ class StationsTest < Minitest::Test
         # Test coordinates have a correct format (with a dot and not a comma)
         refute lat.include?(','), "Station #{row["name"]} (#{row["id"]}) latitude has a bad format"
         refute lon.include?(','), "Station #{row["name"]} (#{row["id"]}) longitude has a bad format"
+
+        #assert decimal_places(lat) >= 2, "Station #{row["name"]} (#{row["id"]}) latitude is too imprecise"
+        assert decimal_places(lat) <= 6, "Station #{row["name"]} (#{row["id"]}) latitude is too precise"
+        #assert decimal_places(lon) >= 2, "Station #{row["name"]} (#{row["id"]}) longitude is too imprecise"
+        assert decimal_places(lon) <= 6, "Station #{row["name"]} (#{row["id"]}) longitude is too precise"
 
         lon = lon.to_f
         lat = lat.to_f
