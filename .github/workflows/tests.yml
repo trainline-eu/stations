@@ -13,14 +13,11 @@ jobs:
     name: Tests
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.1
-    - name: Install dependencies
-      run: |
-        gem install bundler
-        bundle install
+        ruby-version: 3.3
+        bundler-cache: true
     - name: Run tests
       run: |
         bundle exec ruby test_data.rb
