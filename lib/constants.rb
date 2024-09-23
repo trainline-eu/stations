@@ -442,5 +442,6 @@ module Constants
     "74653", # Amersfoort Central Train Station - Distribusion - European Sleeper (train)
     "74660", # Taranto Terminal Cimino
     "74661", # Firenze Piazzale Montelungo
+    "8673", # Utrecht Centraal - Distribusion - European Sleeper (train)
   ]
 end
