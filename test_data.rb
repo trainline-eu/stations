@@ -575,7 +575,7 @@ class StationsTest < Minitest::Test
         end
       end
     end
-    assert_equal(29, gb_stations_without_normalised_codes.length, "There should be 29 GB stations without a normalised code")
+    assert_equal(26, gb_stations_without_normalised_codes.length, "There should be 26 GB stations without a normalised code")
   end
 
   # [TEMP] To be removed
