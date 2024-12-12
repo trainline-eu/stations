@@ -36,7 +36,6 @@ module Constants
 
   VIRTUAL_STATIONS = [
     "4089",  # Genève Voyageurs
-    "4185",  # Limone Confine
     "4551",  # Le Châtelard Frontière
     "17098", # Port-Bou
     "5671",  # Ventimiglia Frontière
