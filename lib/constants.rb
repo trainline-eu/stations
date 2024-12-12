@@ -38,7 +38,6 @@ module Constants
     "4089",  # Genève Voyageurs
     "17098", # Port-Bou
     "9209",  # Bettembourg Frontière
-    "9282",  # Apach Frontière
     "9367",  # Blandain Frontière
     "9370",  # Tourcoing Frontière
     "9414",  # Modane Frontière
