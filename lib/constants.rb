@@ -38,7 +38,6 @@ module Constants
     "4089",  # Genève Voyageurs
     "17098", # Port-Bou
     "9209",  # Bettembourg Frontière
-    "10433", # Hanweiler Grenze
   ]
 
   HOMONYM_SUFFIXES = {
