@@ -38,7 +38,6 @@ module Constants
     "4089",  # Genève Voyageurs
     "17098", # Port-Bou
     "9209",  # Bettembourg Frontière
-    "9619",  # Wannehain Frontière
     "10220", # Hendaye Frontière
     "10431", # Forbach Frontière
     "10433", # Hanweiler Grenze
