@@ -35,7 +35,6 @@ module Constants
   ]
 
   VIRTUAL_STATIONS = [
-    "972",   # Kehl Grenze
     "1354",  # Quevy Frontière
     "3600",  # Vallorbe Frontière
     "4089",  # Genève Voyageurs
