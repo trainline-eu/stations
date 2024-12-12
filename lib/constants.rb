@@ -36,8 +36,8 @@ module Constants
 
   VIRTUAL_STATIONS = [
     "4089",  # Genève Voyageurs
-    "17098", # Port-Bou
     "9209",  # Bettembourg Frontière
+    "17098", # Port-Bou
   ]
 
   HOMONYM_SUFFIXES = {
