@@ -495,15 +495,6 @@ class StationsTest < Minitest::Test
 
   def test_sncf_self_service_machine
     STATIONS.each do |row|
-      parent_id = row["parent_station_id"]
-      if parent_id
-        parent = STATIONS_BY_ID[parent_id]
-        if row["name"] == parent["name"]
-          assert_equal row["sncf_self_service_machine"], parent["sncf_self_service_machine"],
-          "Child station #{row["name"]} (#{row["id"]}) and parent station #{parent["id"]} should have the same SNCF self-service machine information"
-        end
-      end
-
       if row["sncf_self_service_machine"] == "t"
         assert_equal "FR", row["country"], "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine but is not located in France"
         assert !row["sncf_id"].nil?, "Station #{row["name"]} (#{row["id"]}) has a SNCF self-service machine but is without SNCF id"

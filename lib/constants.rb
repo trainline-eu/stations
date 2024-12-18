@@ -35,26 +35,9 @@ module Constants
   ]
 
   VIRTUAL_STATIONS = [
-    "811",   # Basel SBB
-    "972",   # Kehl Grenze
-    "1354",  # Quevy Frontière
-    "3600",  # Vallorbe Frontière
     "4089",  # Genève Voyageurs
-    "4185",  # Limone Confine
-    "4551",  # Le Châtelard Frontière
-    "17098", # Port-Bou
-    "5671",  # Ventimiglia Frontière
-    "9045",  # Les Verrières Frontière
     "9209",  # Bettembourg Frontière
-    "9232",  # Jeumont Frontière
-    "9282",  # Apach Frontière
-    "9367",  # Blandain Frontière
-    "9370",  # Tourcoing Frontière
-    "9414",  # Modane Frontière
-    "9619",  # Wannehain Frontière
-    "10220", # Hendaye Frontière
-    "10431", # Forbach Frontière
-    "10433", # Hanweiler Grenze
+    "17098", # Port-Bou
   ]
 
   HOMONYM_SUFFIXES = {
