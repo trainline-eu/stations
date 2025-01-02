@@ -582,7 +582,7 @@ class StationsTest < Minitest::Test
     invalid = []
 
     STATIONS.each do |row|
-      if row['flixbus_is_enabled'] == 'f' && row['busbud_is_enabled'] == 'f' && row['distribusion_is_enabled'] == 'f'
+      if row['flixbus_is_enabled'] == 'f' && row['busbud_is_enabled'] == 'f'
         next
       end
       if row['is_airport'] == 'f' &&
