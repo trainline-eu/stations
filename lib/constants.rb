@@ -312,9 +312,12 @@ module Constants
 
   BOOLEAN_COLUMNS = CARRIERS.map { |carrier| "#{carrier}_is_enabled" }
   BOOLEAN_COLUMNS.push(
+    "country_hint",
+    "is_airport",
     "is_city",
     "is_main_station",
     "is_suggestable",
+    "main_station_hint",
     "sncf_self_service_machine"
   )
 
