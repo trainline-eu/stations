@@ -41,7 +41,7 @@ The file `stations.csv` contains all our data representing train stations and ci
 Column Name | Notes
 ----------- | -----
 `id` | Internal unique identifier.
-`name` | Name of the station as it is locally known; see `info_*` for translations.
+`name` | Name of the station as it is locally known; see `info_*` for localizations.
 `slug` | Guaranteed to be unique across all the _suggestable_ stations; see `is_suggestable`.
 `uic` | The UIC code of the station.
 `uic8_sncf` | SNCF sometimes uses an UIC code with 8 digits instead of 7. The last digit is a checksum.
@@ -102,7 +102,10 @@ Column Name | Notes
 
 #### Internationalisation
 
-Language specific `info` columns contain translations of the station name. The language used is suffixed as an [ISO 639-1:2002](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code.
+Language specific `info` columns contain information (not translations)
+about the station name. For cities it is usually the commonly accepted name
+in the language. The language used is suffixed as an [ISO 639-1:2002](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+code.
 
 Column Name | Notes
 ----------- | -----
