@@ -113,7 +113,7 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       Constants::RAIL_IDS.each do |rail_id, expression|
         if row[rail_id]
-          assert_match(/^#{expression}$/, row[rail_id], "Station #{row["name"]} (#{row["id"]}) has not a correct #{rail_id}")
+          assert_match(/^#{expression}$/, row[rail_id], "Station #{row["name"]} (#{row["id"]}) doesn't have a correct #{rail_id}")
         end
       end
     end
@@ -150,7 +150,7 @@ class StationsTest < Minitest::Test
   def test_boolean_columns
     STATIONS.each do |row|
       Constants::BOOLEAN_COLUMNS.each do |column|
-        assert ["t", "f"].include?(row[column]), "Station #{row["name"]} (#{row["id"]}] has an invalid value for #{column}"
+        assert ["t", "f"].include?(row[column]), "Station #{row["name"]} (#{row["id"]}) has an invalid value for #{column}"
       end
     end
   end
