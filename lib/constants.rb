@@ -303,7 +303,6 @@ module Constants
     "leoexpress",
     "ntv",
     "obb",
-    "ouigo",
     "renfe",
     "sncf",
     "trenitalia",

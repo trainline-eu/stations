@@ -150,7 +150,7 @@ class StationsTest < Minitest::Test
   def test_boolean_columns
     STATIONS.each do |row|
       Constants::BOOLEAN_COLUMNS.each do |column|
-        assert ["t", "f"].include?(row[column]), "Station #{row["name"]} (#{row["id"]}] has an invalid value for #{column}"
+        assert ["t", "f"].include?(row[column]), "Station #{row["name"]} (#{row["id"]}) has an invalid value for #{column}"
       end
     end
   end
