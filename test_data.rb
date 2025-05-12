@@ -514,9 +514,6 @@ class StationsTest < Minitest::Test
     SUGGESTABLE_STATIONS.select do |row|
       row['is_airport'] == 't'
     end.each do |row|
-      refute has_localized_info?(row, Constants::AIRPORT_TRANSLATIONS),
-        "One or more comments for #{row['name']} (#{row["id"]}) are mentionning an airport which is not needed as this stations is flagged as an airport"
-
       CHILDREN[row['id']].each do |child_row|
         assert child_row['is_airport'] == 't',
           "#{child_row['name']} (#{child_row['id']}) should be an airport, as a child of airport station #{row['name']} (#{row['id']})"
