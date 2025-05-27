@@ -113,7 +113,7 @@ class StationsTest < Minitest::Test
     STATIONS.each do |row|
       Constants::RAIL_IDS.each do |rail_id, expression|
         if row[rail_id]
-          assert_match(/^#{expression}$/, row[rail_id], "Station #{row["name"]} (#{row["id"]}) has not a correct #{rail_id}")
+          assert_match(/^#{expression}$/, row[rail_id], "Station #{row["name"]} (#{row["id"]}) does not have a correct #{rail_id}")
         end
       end
     end
