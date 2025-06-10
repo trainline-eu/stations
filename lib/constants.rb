@@ -382,6 +382,7 @@ module Constants
     "4757",  # Marne-la-Vallée—Chessy
     "4920",  # Paris Montparnasse
     "4924",  # Paris Gare de Lyon
+    "5973",  # Brugge / Bruges
     "6165",  # Martigny
     "6247",  # Lausanne
     "6349",  # Neuchâtel
