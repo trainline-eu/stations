@@ -1,0 +1,33 @@
+name: Dispatch stations update
+on:
+  push:
+    branches: [master]
+    paths:
+      - stations.csv
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    environment: main
+    steps:
+      - name: Generate GitHub App token
+        id: generate-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.APP_STATION_SYNC_ID }}
+          private-key: ${{ secrets.APP_STATION_SYNC_PRIVATE_KEY }}
+          owner: trainline-private
+          repositories: |
+            stations
+
+      - name: Stations updated dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
+          repository: trainline-private/stations
+          event-type: stations-updated
+          client-payload: |-
+            {
+              "commit_message": ${{ toJson(github.event.head_commit.message) }},
+              "commit_url": "${{ github.event.head_commit.url }}"
+            }
