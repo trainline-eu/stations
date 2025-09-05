@@ -429,7 +429,6 @@ module Constants
     "74660", # Taranto Terminal Cimino
     "74661", # Firenze Piazzale Montelungo
     "8673", # Utrecht Centraal - Distribusion - European Sleeper (train)
-    "20530", # Malpensa Airport T1
     "28958", # Malpensa Airport T2
   ]
 end
