@@ -294,6 +294,7 @@ module Constants
     "atoc",
     "benerail",
     "busbud",
+    "cercanias",
     "cff",
     "db",
     "distribusion",
