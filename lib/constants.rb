@@ -273,9 +273,7 @@ module Constants
     "db_id"                => '[0-9]{6,7}',                             # 123456, 1234567
     "distribusion_id"      => '@*[A-Z]{5,8}',                           # FRPAR, FRPARCDG, @FRPARCDGT1
     "flixbus_id"           => '[0-9]{2,6}',                             # 1234
-    "hkx_id"               => '[0-9]{9}',                               # 123456789
     "entur_id"             => 'NSR|[a-zA-Z]|[0-9]',                     # NSR|StopPlace|11267
-    "leoexpress_id"        => '([0-9]+|[A-Z]+)',                        # 841, 5615750, PRAHA, SOMETOWN
     "ntv_id"               => '[A-Z][A-Z_0-9]{2}',                      # A__, AB_, AB0, ABC, AB2
     "ntv_rtiv_id"          => '[0-9]{3,4}',                             # 123, 1234
     "obb_id"               => '[0-9]{6,7}',                             # 123456, 1234567
@@ -300,8 +298,6 @@ module Constants
     "distribusion",
     "entur",
     "flixbus",
-    "hkx",
-    "leoexpress",
     "ntv",
     "obb",
     "renfe",
