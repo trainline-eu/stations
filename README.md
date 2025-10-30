@@ -68,37 +68,40 @@ Column Name | Notes
 *`_id` | id of the station as it is known by the carrier.
 *`_is_enabled` | Can a ticket be booked to/from the station through that carrier?
 `sncf_id` |
+`sncf_tvs_id` | The origin of this column has been lost and is not maintained anymore.
 `sncf_is_enabled` |
-`idtgv_id` |
-`idtgv_is_enabled` |
+`entur_id` |
+`entur_is_enabled` |
 `db_id` |
 `db_is_enabled` |
-`hkx_id` |
-`hkx_is_enabled` |
 `busbud_id` |
 `busbud_is_enabled` |
+`distribusion_id` |
+`distribusion_is_enabled` |
 `flixbus_id` |
 `flixbus_is_enabled` |
-`leoexpress_id` |
-`leoexpress_is_enabled` |
 `cff_id` |
 `cff_is_enabled` |
-`ouigo_id` |
-`ouigo_is_enabled` |
+`obb_id` |
+`obb_is_enabled` |
 `trenitalia_id` |
 `trenitalia_is_enabled` |
 `trenitalia_rtvt_id` |
+`trenord_id` |
 `ntv_id` |
 `ntv_is_enabled` |
 `ntv_rtiv_id` |
-`hkx_id` |
-`hkx_is_enabled` |
 `renfe_id` |
 `renfe_is_enabled` |
-`atoc_id` |
+`cercanias_id` | At the time of writing, is equal to Renfe IDs and are actually UIC codes. A separate column was introduced to separate both vendors.
+`cercanias_hub_id` |
+`cercanias_is_enabled` |
+`atoc_id` | These are CRS codes, other codes such as NLCs and TIPLOCs are not mapped here. This column is largely unmaintained.
 `atoc_is_enabled` |
 `benerail_id` |
 `benerail_is_enabled` |
+`westbahn_id` |
+`westbahn_is_enabled` |
 
 #### Internationalisation
 
