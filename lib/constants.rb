@@ -301,6 +301,7 @@ module Constants
     "ntv",
     "obb",
     "renfe",
+    "smt",
     "sncf",
     "trenitalia",
     "westbahn",
