@@ -24,6 +24,8 @@ SUGGESTABLE_STATIONS = STATIONS.select { |row| row['is_suggestable'] == 't' }
 MALFORMED_ALIASES = []
 MALFORMED_PARENTS = []
 
+LAT_LON_FORMAT = /\A-?\d{1,3}\.(\d+)?\z/
+
 def has_enabled_carrier(row)
   Constants::CARRIERS.any? { |carrier| row["#{carrier}_is_enabled"] == "t" }
 end
@@ -156,13 +158,12 @@ class StationsTest < Minitest::Test
   end
 
   def decimal_places(decimal)
-    decimal =~ /\A-?\d{1,3}(\.(\d+))?\z/
-
-    ($2 || "").length
+    decimal =~ LAT_LON_FORMAT
+    $1&.length || 0
   end
 
   def test_coordinates
-    STATIONS.each do |row|
+    STATIONS.reverse_each do |row|
       lon = row["longitude"]
       lat = row["latitude"]
 
@@ -179,12 +180,12 @@ class StationsTest < Minitest::Test
 
       if lon && lat
         # Test coordinates have a correct format (with a dot and not a comma)
-        refute lat.include?(','), "Station #{row["name"]} (#{row["id"]}) latitude has a bad format"
-        refute lon.include?(','), "Station #{row["name"]} (#{row["id"]}) longitude has a bad format"
+        assert LAT_LON_FORMAT.match?(lat), "Station #{row["name"]} (#{row["id"]}) latitude has a bad format"
+        assert LAT_LON_FORMAT.match?(lon), "Station #{row["name"]} (#{row["id"]}) longitude has a bad format"
 
-        #assert decimal_places(lat) >= 2, "Station #{row["name"]} (#{row["id"]}) latitude is too imprecise"
+        assert decimal_places(lat) >= 2, "Station #{row["name"]} (#{row["id"]}) latitude is too imprecise"
         assert decimal_places(lat) <= 6, "Station #{row["name"]} (#{row["id"]}) latitude is too precise"
-        #assert decimal_places(lon) >= 2, "Station #{row["name"]} (#{row["id"]}) longitude is too imprecise"
+        assert decimal_places(lon) >= 2, "Station #{row["name"]} (#{row["id"]}) longitude is too imprecise"
         assert decimal_places(lon) <= 6, "Station #{row["name"]} (#{row["id"]}) longitude is too precise"
 
         lon = lon.to_f
