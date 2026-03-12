@@ -263,6 +263,7 @@ module Constants
     "51453", # Mals/Malles Abzw Schleis 8583439 (IT)
     "61115", # Stabio 8313709 (CH)
     "61116", # Col-du-Pillon Glacier 3000 8313926 (CH)
+    "75066", # Basel St. Johann 8718793 (CH)
   ]
 
   RAIL_IDS = {
