@@ -560,7 +560,8 @@ class StationsTest < Minitest::Test
         if row["normalised_code"].nil?
           gb_stations_without_normalised_codes << "Station #{row["name"]} (#{row["id"]})"
         else
-          assert_equal(true, row["normalised_code"].start_with?("urn:trainline:public:nloc:at"), "GB station normalised codes should be in correct format starting with urn:trainline:public:nloc:at actual: #{row["normalised_code"]}")
+          start_with_uk_normalised_code_prefix = row["normalised_code"].start_with?("urn:trainline:public:nloc:at") || row["normalised_code"].start_with?("urn:trainline:public:nloc:uk")
+          assert_equal(true, start_with_uk_normalised_code_prefix, "GB station normalised codes should start with urn:trainline:public:nloc:at or urn:trainline:public:nloc:uk, actual: #{row["normalised_code"]}")
         end
       end
     end
