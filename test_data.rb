@@ -552,20 +552,15 @@ class StationsTest < Minitest::Test
   def test_normalised_code
     gb_stations_without_normalised_codes = []
     STATIONS.each do |row|
+      assert !row["normalised_code"].nil?, "Station #{row["name"]} (#{row["id"]}) does not have a normalised_code"
       if row["country"] != 'GB'
-        assert !row["normalised_code"].nil?, "Station #{row["name"]} (#{row["id"]}) does not have a normalised_code"
         expected_id = row["same_as"] || row["id"]
         assert_equal("urn:trainline:public:nloc:csv#{expected_id}", row["normalised_code"])
       else
-        if row["normalised_code"].nil?
-          gb_stations_without_normalised_codes << "Station #{row["name"]} (#{row["id"]})"
-        else
-          start_with_uk_normalised_code_prefix = row["normalised_code"].start_with?("urn:trainline:public:nloc:at") || row["normalised_code"].start_with?("urn:trainline:public:nloc:uk")
-          assert_equal(true, start_with_uk_normalised_code_prefix, "GB station normalised codes should start with urn:trainline:public:nloc:at or urn:trainline:public:nloc:uk, actual: #{row["normalised_code"]}")
-        end
+        start_with_uk_normalised_code_prefix = row["normalised_code"].start_with?("urn:trainline:public:nloc:at") || row["normalised_code"].start_with?("urn:trainline:public:nloc:uk")
+        assert_equal(true, start_with_uk_normalised_code_prefix, "GB station normalised codes should start with urn:trainline:public:nloc:at or urn:trainline:public:nloc:uk, actual: #{row["normalised_code"]}")
       end
     end
-    assert_equal(25, gb_stations_without_normalised_codes.length, "There should be 25 GB stations without a normalised code")
   end
 
   # [TEMP] To be removed
