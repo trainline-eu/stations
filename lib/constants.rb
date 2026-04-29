@@ -264,6 +264,7 @@ module Constants
     "61115", # Stabio 8313709 (CH)
     "61116", # Col-du-Pillon Glacier 3000 8313926 (CH)
     "75066", # Basel St. Johann 8718793 (CH)
+    "75101", # Cerbere 7179316 (FR)
   ]
 
   RAIL_IDS = {
