@@ -563,6 +563,24 @@ class StationsTest < Minitest::Test
     end
   end
 
+  def test_new_uk_stations
+    expected_stations = {
+      "75125" => { "name" => "Cambridge North", "atoc_id" => "CMB", "latitude" => "52.223333", "longitude" => "0.157778" },
+      "75126" => { "name" => "Canary Wharf", "atoc_id" => "CWX", "latitude" => "51.5061", "longitude" => "-0.01578" },
+      "75127" => { "name" => "Portway Park & Ride", "atoc_id" => "PRI", "latitude" => "51.488583", "longitude" => "-2.687972" },
+    }
+
+    expected_stations.each do |id, expected|
+      row = STATIONS_BY_ID[id]
+      refute_nil row, "Station #{id} should exist"
+      expected.each do |key, value|
+        assert_equal value, row[key], "Station #{id} has an unexpected #{key}"
+      end
+      assert_equal "GB", row["country"], "Station #{id} should be in GB"
+      assert_equal "t", row["atoc_is_enabled"], "Station #{id} should be enabled for ATOC"
+    end
+  end
+
   # [TEMP] To be removed
   def test_ids_reserved
     STATIONS.each do |row|
