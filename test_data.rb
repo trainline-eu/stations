@@ -243,7 +243,7 @@ class StationsTest < Minitest::Test
         row["is_suggestable"] == "t" &&
         parent["is_suggestable"] == "t"
         Constants::LOCALES.each do |locale|
-          if !parent["info:#{locale}"].nil?
+          if !parent["info:#{locale}"].nil? && row['country'] != 'GB' # UK stations can be related as parent/child because of distance only, so info localization consistency isn't necessary
             assert !row["info:#{locale}"].nil?, "Station #{row["name"]} (#{row["id"]}) has no \“#{locale}\” info while its parent #{parent["name"]} (#{parent["id"]}) has"
           end
         end
