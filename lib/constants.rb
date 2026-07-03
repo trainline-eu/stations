@@ -430,5 +430,6 @@ module Constants
     "74661", # Firenze Piazzale Montelungo
     "8673", # Utrecht Centraal - Distribusion - European Sleeper (train)
     "28958", # Malpensa Airport T2
+    "8182", #Bristol Temple Meads
   ]
 end
