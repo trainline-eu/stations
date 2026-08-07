@@ -71781,3 +71781,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;hub_id;country;t
 76002;Zvěřínek;zverinek;;;50.152750;15.028570;;;CZ;Europe/Prague;t;f;f;t;f;f;;;f;;f;;f;;f;CZZVE;t;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76002;
 76003;Zvoleněves;zvoleneves;;;50.224405;14.169820;;;CZ;Europe/Prague;t;f;f;t;f;f;;;f;;f;;f;;f;CZZVO;t;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76003;
 76004;Weststeiermark Banhof;weststeiermark-banhof;;;46.813816;15.296881;;;AT;Europe/Vienna;f;f;f;t;t;f;;;f;;f;8101345;f;;f;;f;;f;;f;8101345;t;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76004;
+76005;Albal;albal;7164210;71642108;39.391846;-0.402635;;;ES;Europe/Madrid;t;f;f;t;t;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;;;;;f;64210;t;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76005;
