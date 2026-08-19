@@ -8640,7 +8640,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;hub_id;country;t
 10558;Lycée Henri Sellier;lycee-henri-sellier;8798871;87988717;48.91646;2.51504;;;FR;Europe/Paris;f;f;f;f;f;f;FRLBF;LHS;f;;f;8705716;f;;f;;f;;f;;f;8705716;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv10558;
 10559;Luzy Ville;luzy-ville;8750008;87500082;46.796161;3.958759;;;FR;Europe/Paris;f;f;f;f;f;f;FRKAI;;f;;f;8706586;f;;f;;f;;f;;f;8706586;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;吕齐;urn:trainline:public:nloc:csv10559;
 10560;Luzy Premaude;luzy-premaude;8750007;87500074;;;;;FR;Europe/Paris;f;f;f;f;f;f;FRKAJ;;f;;f;;f;;f;;f;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv10560;
-10561;Lutterbach;lutterbach;8753434;87534347;47.758214;7.276994;;;FR;Europe/Paris;f;f;f;f;f;f;FRKBJ;;f;;f;8706528;f;;f;;f;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;4711;;;;;;;;;;;;;;;Люттербак;;;吕泰尔巴克;urn:trainline:public:nloc:csv4711;
+10561;Lutterbach Tram-Train;lutterbach;8753434;87534347;47.758214;7.276994;4711;;FR;Europe/Paris;f;f;f;f;f;f;FRKBJ;;f;;f;8706528;f;;f;;f;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;Люттербак;;;吕泰尔巴克;urn:trainline:public:nloc:csv10561;
 10562;Lunery;lunery;;;;;;;FR;Europe/Paris;t;f;f;f;f;f;FRLUL;;f;;f;;f;;f;;f;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;2519;;;;;;;;;;;;;;;Люнри;;;吕纳里;urn:trainline:public:nloc:csv2519;
 10563;Louviers;louviers;;;;;;;FR;Europe/Paris;t;f;f;f;f;f;FRLOI;;f;;f;;f;;f;;f;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;1948;;;;;;;;;;;;;;;Лувье;;;卢维埃;urn:trainline:public:nloc:csv1948;
 10564;Loures;loures;;;;;;;FR;Europe/Paris;t;f;f;f;f;f;FRLCK;;t;;f;;f;;f;;f;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv10564;
