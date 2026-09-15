@@ -62179,7 +62179,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;hub_id;country;t
 66391;Codemondo;codemondo;;;44.694061;10.548203;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8380305;t;S80305;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv66391;
 66392;Colli del Tronto;colli-del-tronto;8307024;83070243;42.867060;13.748419;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8307024;t;S07024;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv66392;
 66393;Corniano;corniano;;;44.652583;10.460561;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8380306;t;S05925;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv66393;
-66394;Dinazzano;dinazzano;;;44.574583;10.748848;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8380307;t;S80307;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv66394;
+66394;Dinazzano;dinazzano;;;44.574583;10.748848;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8380307;t;S05981;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv66394;
 66395;Dragoni Lecce;dragoni-lecce;;;40.294275;18.142813;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341244;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv66395;
 66396;Due Maestà;due-maesta;;;44.659760;10.650887;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8380318;t;S80318;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv66396;
 66397;Ferrara via Boschetto;ferrara-via-boschetto;;;44.819053;11.633020;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8305196;t;S05196;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv66397;
