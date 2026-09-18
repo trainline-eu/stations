@@ -70414,7 +70414,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;hub_id;country;t
 74634;Catania (Piazza Risorgimento);catania-piazza-risorgimento;;;37.501551;15.068982;22160;;IT;Europe/Rome;f;f;f;f;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv74634;
 74635;Monsampolo del T;monsampolo-del-t;;;42.881404;13.803619;19616;;IT;Europe/Rome;f;f;f;f;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;S07023;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv74635;
 74636;Bitritto;bitritto;;;41.044197;16.832739;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8311252;t;S11252;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv74636;
-74637;Bari Loseto;bari-loseto;;;41.043982;16.847273;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8311251;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv74637;
+74637;Bari Loseto;bari-loseto;;;41.043982;16.847273;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8311251;t;S11251;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv74637;
 74638;Bari Santa Rita;bari-santa-rita;;;41.073302;16.851540;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8311250;t;S11250;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv74638;
 74639;Lascari;lascari;;;38.011695;13.928291;19906;;IT;Europe/Rome;f;f;f;f;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;S12070;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv74639;
 74640;Torino Grosseto;torino-grosseto;;;45.105467;7.666751;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8300097;t;S00097;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv74640;
