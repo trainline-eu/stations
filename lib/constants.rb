@@ -431,5 +431,7 @@ module Constants
     "8673", # Utrecht Centraal - Distribusion - European Sleeper (train)
     "28958", # Malpensa Airport T2
     "8182", #Bristol Temple Meads
+    "76029", # Dublin Airport T1
+    "76030", # Dublin Airport T2
   ]
 end
