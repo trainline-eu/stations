@@ -32062,7 +32062,7 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;hub_id;country;t
 34968;Monopoli Contrada Assunta;monopoli-contrada-assunta;;;40.892889;17.327455;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341294;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv34968;
 34969;Montalbano Di Fasano;montalbano-di-fasano;;;40.775853;17.478931;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341295;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv34969;
 34970;Monteparano;monteparano;;;40.444416;17.415369;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341296;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv34970;
-34971;Monteroni Di Lecce;monteroni-di-lecce;;;40.31573;18.05467;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341141;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv34971;
+34971;Monteroni Di Lecce;monteroni-di-lecce;;;40.31573;18.05467;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341141;t;S13148;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv34971;
 34972;Morciano;morciano;;;39.850342;18.311795;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341297;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv34972;
 34973;Morigino;morigino;;;40.142156;18.310261;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341298;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv34973;
 34974;Mottola Bivio;mottola-bivio;;;40.638821;17.038368;33312;;IT;Europe/Rome;f;t;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8341300;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv34974;
