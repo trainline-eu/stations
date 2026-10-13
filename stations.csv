@@ -71816,3 +71816,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;hub_id;country;t
 76037;Malnisio (Bus);malnisio-bus;;;46.143168;12.636360;;;IT;Europe/Rome;f;f;f;t;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;8314686;t;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76037;
 76038;PM Galleria di Fossato;pm-galleria-di-fossato;;;43.299582;12.784168;;;IT;Europe/Rome;f;f;f;f;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;S07243;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76038;
 76039;Lercara Diramazione;lercara-diramazione;;;37.730360;13.668126;;;IT;Europe/Rome;f;f;f;f;f;f;;;f;;f;;f;;f;;f;;f;;f;;f;;f;S12068;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76039;
+76040;Méndez Álvaro PV;mendez-alvaro-p-v;7135701;71357016;40.39559;-3.678511;8483;madrid;ES;Europe/Madrid;f;f;f;f;f;f;;;f;;f;7135701;f;;f;;f;;f;;f;;f;;f;;;;;f;35701;t;35701;10;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76040;
