@@ -104,7 +104,7 @@ module Constants
     "SK" => "Europe/Bratislava",
     "SR" => "Europe/Belgrade",
     "TR" => "Europe/Istanbul",
-    "UA" => "Europe/Kiev"
+    "UA" => "Europe/Kyiv"
   }
 
   # UIC Leaflet 920-14
