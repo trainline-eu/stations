@@ -71856,3 +71856,4 @@ id;name;slug;uic;uic8_sncf;latitude;longitude;parent_station_id;hub_id;country;t
 76077;Carrara;carrara;;;44.079324;10.097677;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;ITOZW;t;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76077;
 76078;Viserbella;viserbella;;;44.095711;12.52351;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;ITVSB;t;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76078;
 76079;Forte dei Marmi;forte-dei-marmi;;;43.957962;10.167279;;;IT;Europe/Rome;t;f;f;t;f;f;;;f;;f;;f;;f;ITZUT;t;;f;;f;;f;;f;;;;;f;;f;;;f;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76079;
+76080;Méndez Álvaro PV;mendez-alvaro-pv;7135701;71357012;40.39559;-3.678511;24141;madrid;ES;Europe/Madrid;f;f;f;f;f;f;;;f;;f;7135701;f;;f;;f;;f;;f;;f;;f;;;;;f;35701;t;35701;10;t;;f;;f;;f;;f;f;;;;;;;;;;;;;;;;;;;;urn:trainline:public:nloc:csv76080;
